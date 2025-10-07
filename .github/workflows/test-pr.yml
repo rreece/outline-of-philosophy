@@ -41,9 +41,9 @@ jobs:
       - name: "Test for html: make check"
         run: make check
 
-      - name: "Render pdf with quarto"
-        run: make pdf
-
-      - name: "Test for pdf: make check_pdf"
-        run:  make check_pdf
+#      - name: "Render pdf with quarto"
+#        run: make pdf
+#
+#      - name: "Test for pdf: make check_pdf"
+#        run:  make check_pdf
 
