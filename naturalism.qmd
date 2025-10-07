@@ -889,7 +889,7 @@ Schopenhauer:
 
 -   Methodological naturalism
 -   Bunge, M. (1971). Is scientific metaphysics possible? [^Bunge1971]
--   Ladyman, J. & Ross, D. (2007). *Every Thing Must Go: Metaphysics Naturalised*. [^Ladyman2007c]
+-   Ladyman, J. & Ross, D. (2007). *Every Thing Must Go: Metaphysics Naturalised*. [^Ladyman2007d]
     -   Ney, A. (2012). [Neo-positivist metaphysics](https://link.springer.com/article/10.1007/s11098-012-9912-9). [^Ney2012b]
 -   Ross, D., Ladyman, J., & Kincaid, H. (2013). *Scientific Metaphysics*. [^Ross2013]
 -   Is there any unique project left for metaphysics?
@@ -904,7 +904,7 @@ See also:
 [^Bennett2015]: @Bennett_2015_There_is_no_special_problem_with_metaphysics\.
 [^Bunge1971]: @Bunge_1971_Is_scientific_metaphysics_possible\.
 [^Kant1783]: @Kant_1912_Prolegomena_to_Any_Future_Metaphysics\, p. 2--3.
-[^Ladyman2007c]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
+[^Ladyman2007d]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
 [^Ney2012b]: @Ney_2012_Neo_positivist_metaphysics\.
 [^Ross2013]: @Ross_2013_Scientific_Metaphysics\.
 
@@ -1054,7 +1054,7 @@ See also:
 ### Rebutals
 
 -   Defenses of naturalism:
-    -   Ladyman, J. & Ross, D. (2007). *Every Thing Must Go: Metaphysics Naturalised*. [^Ladyman2007d]
+    -   Ladyman, J. & Ross, D. (2007). *Every Thing Must Go: Metaphysics Naturalised*. [^Ladyman2007e]
     -   Rosenberg, A. [Why I am a naturalist](http://opinionator.blogs.nytimes.com/2011/09/17/why-i-am-a-naturalist/). *New York Times*. [^Rosenberg2011]
     -   Mallon, R. (2019). [Naturalistic approaches to social construction](https://plato.stanford.edu/entries/social-construction-naturalistic/). *SEP*.
 -   Criticisms of postmodernism:
@@ -1110,7 +1110,7 @@ See also:
 [^Gross1994]: @Gross_1994_Higher_Superstition_The_Academic_Left_and_Its\.
 [^Heer2017]: @Heer_2017_Americas_first_postmodern_president\.
 [^Hicks2011]: @Hicks_2011_Explaining_Postmodernism_Skepticism_and_socialism\.
-[^Ladyman2007d]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
+[^Ladyman2007e]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
 [^Leah2018b]: @Leah_2018_How_do_you_separate_fact_and_opinion_Rudy\.
 [^Pluckrose2016]: @Pluckrose_2016_Why_I_no_longer_identify_as_a_feminist\.
 [^Pluckrose2017]: @Pluckrose_2017_How_French_intellectuals_ruined_the_west\.
