@@ -1,0 +1,89 @@
+project:
+  type: manuscript
+  output-dir: _site
+
+manuscript:
+  article: article.qmd
+  notebooks: []
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: templates/mystyle.css
+    toc: true
+    toc-depth: 2
+    toc-title: "Contents"
+    toc-location: left
+#    toc-expand: 1
+    number-sections: true
+#    number-depth: 3
+#    fontsize: 1.1em
+    mainfont: Georgia, Palatino, serif
+    grid:
+      sidebar-width: 250px
+      body-width: 800px
+      margin-width: 300px
+      gutter-width: 1.5em
+    html-math-method: mathjax
+    code-fold: true
+    anchor-sections: true
+    smooth-scroll: true
+    citations-hover: true
+    footnotes-hover: true
+    crossrefs-hover: true
+    highlight-style: "github"
+    self-contained: false
+    embed-resources: false
+    self-contained-math: false
+    reference-location: margin
+    citation-location: document
+
+  pdf:
+    output-file: "quarto-example"
+    output-ext: "pdf"
+    pdf-engine: pdflatex
+    latex-tinytex: true
+    keep-tex: true
+    documentclass: article
+    classoption:
+      - "nonatbib"
+#      - "preprint"
+      - "final"
+    header-includes: |
+        \usepackage{templates/neurips_2024}
+        \usepackage[utf8]{inputenc} % allow utf-8 input
+        \usepackage[T1]{fontenc}    % use 8-bit T1 fonts
+        \usepackage{hyperref}       % hyperlinks
+        \usepackage{url}            % simple URL typesetting
+        \usepackage{booktabs}       % professional-quality tables
+        \usepackage{amsfonts}       % blackboard math symbols
+        \usepackage{nicefrac}       % compact symbols for 1/2, etc.
+        \usepackage{microtype}      % microtypography
+        \usepackage{xcolor}         % colors
+    toc: true
+    toc-depth: 2
+    toc-title: "Contents"
+    number-sections: true
+    number-depth: 3
+    colorlinks: true
+
+
+crossref:
+  fig-title: "Figure"
+  tbl-title: "Table"
+  eq-prefix: "eq."
+  title-delim: ":"
+
+
+bibliography: bibs/mybib.bib
+csl: templates/apa-no-doi-no-issue-with-notes.csl
+link-citations: true
+
+
+execute:
+  eval: false
+  echo: fenced
+  freeze: auto
+

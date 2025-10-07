@@ -1,0 +1,41 @@
+/*** Ryan's CSS style for markdown notes with quarto ***/
+
+
+/* code ------------------------------------------------------- */
+pre {
+    margin-top: 16px;
+    margin-bottom: 16px;
+    border-top: 2px solid black;
+    border-right: 2px solid #cccccc;
+    border-bottom: 2px solid #cccccc;
+    border-left: 2px solid black;
+    padding: 10px 10px;
+    max-width: auto;
+    white-space: pre-wrap;
+    background-color: #444444;
+}
+
+pre code {
+    color: white;
+    font-family: Consolas, Monaco, "Andale Mono", monospace;
+    font-size: 0.8em;
+    line-height: 1.25em;
+    text-align: left;
+}
+
+/* poetry (line-block) -------------------------------------------- */
+
+div.line-block {
+    margin-top: 1.0em;
+    margin-bottom: 1.0em;
+    line-height: 1.25em;
+}
+
+
+/* references ----------------------------------------------------- */
+
+div#refs
+{
+    font-size: 0.9em;
+}
+

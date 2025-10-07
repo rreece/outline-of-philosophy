@@ -1,0 +1,29 @@
+Armstrong, S., Sotala, K., & OhEigeartaigh, S. S. (2014). The errors, insights and lessons of famous AI predictions--and what they mean for the future. *Journal of Experimental & Theoretical Artificial Intelligence*, 26(3), 317--342. https://www.fhi.ox.ac.uk/wp-content/uploads/FAIC.pdf
+Aschenbrenner, L. (2024). Situational Awareness: The decade ahead. https://situational-awareness.ai/wp-content/uploads/2024/06/situationalawareness.pdf
+Baum, S.D. et al. (2019). Long-term trajectories of human civilization. *Foresight*, 21, 55--83.
+Bengio, Y. et al. (2025). International AI Safety Report. https://arxiv.org/abs/2501.17805
+Bostrom, N. (2002). *Anthropic Bias: Observation selection effects in science and philosophy*. Routledge.
+Bostrom, N. (2003). Are you living in a computer simulation? *Philosophical Quarterly*, 53, 243--255.
+Bostrom, N. (2005). The fable of the dragon-tyrant. *Journal of Medical Ethics*, 31, 273--277. https://www.nickbostrom.com/fable/dragon.html
+Bostrom, N. (2011). A patch for the simulation argument. *Analysis*, 71, 54--61*.
+Bostrom, N. (2013). Existential risk prevention as global priority. *Global Policy*, 4, 15--31. https://www.existential-risk.org/concept.pdf
+Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press.
+Bostrom, N. (2019). The vulnerable world hypothesis, *Global Policy*, 10, 455--476. https://nickbostrom.com/papers/vulnerable.pdf
+Feynman, R.P. (1959). There's plenty of room at the bottom. https://calteches.library.caltech.edu/1976/1/1960Bottom.pdf
+Gabriel, I. et al. (2024). The ethics of advanced AI assistants. https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/ethics-of-advanced-ai-assistants/the-ethics-of-advanced-ai-assistants-2024-i.pdf
+Good, I.J. (1965). Speculations concerning the first ultraintelligent machine. *Advances in Computers*, 6, 31--88. https://blog.biocomm.ai/wp-content/uploads/2023/05/IJ-Good.-Speculations-Concerning-the-First-Ultraintelligent-Machine.pdf
+Hanson, R., Martin, D., McCarter, C., & Paulson, J. (2021). If loud aliens explain human earliness, quiet aliens are also rare. *The Astrophysical Journal*, 922, 182. https://iopscience.iop.org/article/10.3847/1538-4357/ac2369
+Longpre, S. (2024). Consent in crisis: The rapid decline of the AI data commons. https://www.dataprovenance.org/Consent_in_Crisis.pdf
+Marcus, G. (2018). Deep learning: A critical appraisal. https://arxiv.org/abs/1801.00631
+Maslej, N. et al. (2023). The AI Index 2023 Annual Report. https://aiindex.stanford.edu/wp-content/uploads/2023/04/HAI_AI-Index-Report_2023.pdf
+Maslej, N. et al. (2024). The AI Index 2024 Annual Report. https://aiindex.stanford.edu/wp-content/uploads/2024/05/HAI_AI-Index-Report-2024.pdf
+O'Neill, G.K. (1974). The colonization of space. *Physics Today*, 27, 32--40. https://pubs.aip.org/physicstoday/article/27/9/32/429507/The-colonization-of-spaceCareful-engineering-and
+Perrault, R. et al. (2025). Artificial Intelligence Index Report 2025. Human-Centered Artificial Intelligence, Stanford University. https://hai-production.s3.amazonaws.com/files/hai_ai_index_report_2025.pdf
+Russell, S. & Norvig, P. (1995). *Artificial Intelligence: A modern approach* (3rd ed.). Pearson.
+Sandberg, A., Drexler, E., & Ord, T. (2018). Dissolving the Fermi paradox. https://arxiv.org/abs/1806.02404
+Urban, T. (2015). The AI Revolution: The Road to Superintelligence. https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html
+Vincent, J. (2019). OpenAI’s new multitalented AI writes, translates, and slanders: A step forward in AI text-generation that also spells trouble. https://www.theverge.com/2019/2/14/18224704/ai-machine-learning-language-models-read-write-openai-gpt2
+Vinge, V. (1993). The coming technological singularity. https://edoras.sdsu.edu/~vinge/misc/singularity.html
+Wong, M.L. & Bartlett, S. (2022). Asymptotic burnout and homeostatic awakening: A possible solution to the Fermi paradox? *Journal of the Royal Society Interface*, 19, 20220029. https://royalsocietypublishing.org/doi/full/10.1098/rsif.2022.0029
+Zhang, D. et al. (2021). The AI Index 2021 Annual Report. Human-Centered Artificial Intelligence, Stanford University. https://arxiv.org/abs/2103.06312
+Zhang, D. et al. (2022). The AI Index 2022 Annual Report. Human-Centered Artificial Intelligence, Stanford University. https://aiindex.stanford.edu/wp-content/uploads/2022/03/2022-AI-Index-Report_Master.pdf

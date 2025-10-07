@@ -1,0 +1,141 @@
+project:
+  type: book
+  output-dir: _site
+
+
+book:
+  title: "Quarto Example"
+  author: "Ryan Reece"
+  date: today
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - basics.qmd
+    - bibliographies.qmd
+    - math.qmd
+    - figs-tables.qmd
+    - jupyter.qmd
+    - conclusion.qmd
+    - references.qmd
+  appendices:
+    - actions.qmd
+
+  abstract: |
+    This is an example document discussing and demonstrating
+    how to use the quarto package to create quality html and pdf
+    documents from simple Markdown markup.
+    Ryan Reece develops quarto-example at
+    [github.com/rreece/quarto-example](https://github.com/rreece/quarto-example).
+
+  page-navigation: true
+  site-url: https://rreece.github.io/quarto-example
+  repo-url: https://github.com/rreece/quarto-example
+  favicon: img/markdown-favicon-196x196.png
+  cover-image: img/The-Scream-Munch1893.png
+#  image: "quarto-dark-bg.jpeg"
+#  google-analytics: "G-FV9Z7SDZ0M"
+
+  sidebar:
+    style: docked
+    search: true
+
+  page-footer:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+    center:
+      - text: "&copy; 2025 Ryan Reece"
+        href: license.qmd
+    right:
+      - text: "Made with quarto-example"
+        href: https://github.com/rreece/quarto-example
+
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: templates/mystyle.css
+    toc: true
+    toc-depth: 2
+    toc-title: "Contents"
+    toc-location: left
+#    toc-expand: 1
+    number-sections: true
+#    number-depth: 3
+#    fontsize: 1.1em
+    mainfont: Georgia, Palatino, serif
+    grid:
+      sidebar-width: 250px
+      body-width: 800px
+      margin-width: 300px
+      gutter-width: 1.5em
+    html-math-method: mathjax
+    code-fold: true
+    anchor-sections: true
+    smooth-scroll: true
+    citations-hover: true
+    footnotes-hover: true
+    crossrefs-hover: true
+    highlight-style: "github"
+    self-contained: false
+    embed-resources: false
+    self-contained-math: false
+    reference-location: margin
+    citation-location: document
+
+  pdf:
+    output-file: "quarto-example"
+    output-ext: "pdf"
+    pdf-engine: pdflatex
+    latex-tinytex: true
+    keep-tex: true
+#    documentclass: memoir
+    documentclass: report
+    classoption:
+      - "letterpaper"
+      - "openany"
+      - "twoside"
+      - "headings=big"
+#    papersize: letter
+    geometry: 
+      - "paperwidth=8.5in"
+      - "paperheight=11in"
+      - "top=1.25in"
+      - "bottom=1.25in"
+      - "left=1.5in"
+      - "right=1.5in"
+      - "headheight=14pt"
+      - "headsep=14pt"
+    toc: true
+    toc-depth: 2
+    toc-title: "Contents"
+    number-sections: true
+#    number-depth: 3
+    fontfamily: "mathpazo"
+#    fontfamily: "mathptmx"
+    colorlinks: true
+    reference-location: block
+    citation-location: document
+
+
+crossref:
+  fig-title: "Figure"
+  tbl-title: "Table"
+  eq-prefix: "eq."
+  title-delim: ":"
+
+
+bibliography: bibs/mybib.bib
+csl: templates/apa-no-doi-no-issue-with-notes.csl
+link-citations: true
+
+
+execute:
+  eval: false
+  echo: fenced
+  freeze: auto
+

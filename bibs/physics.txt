@@ -1,0 +1,439 @@
+Adlam, E., Hance, J.R., Hossenfelder, S., & Palmer, T.N. (2023). Taxonomy for physics beyond quantum mechanics. https://arxiv.org/abs/2309.12293
+Afriat, A. (2013). Weyl's gauge argument. *Foundations of Physics*, 43(5), 699--705. http://philsci-archive.pitt.edu/9597/
+Aharonov, Y. & Bohm, D. (1959). Significance of electromagnetic potentials in the quantum theory. *Physical Review*, 115, 485--491. https://journals.aps.org/pr/abstract/10.1103/PhysRev.115.485
+Ahmed, A., & Caulton, A. (2014). Causal decision theory and EPR correlations. *Synthese*, 191(18), 4315--4352. http://philsci-archive.pitt.edu/10992/
+Aim{\`e}, C. (2022). Muon collider physics summary. https://arxiv.org/abs/2203.07256
+Albert, D.Z. (1992). *Quantum Mechanics and Experience*. Harvard University Press.
+Albrecht, A. & Steinhardt, P.J. (1982). Cosmology for Grand Unified Theories with radiatively induced symmetry breaking. *Physics Review Letters*, 48, 1220--1223. https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.48.1220
+Allori, V., D{\"u}rr, D., Goldstein, S., & Zangh{\`i}, N. (2002). Seven steps towards the classical world. *Journal of Optics B: Quantum and Semiclassical Optics*, 4, 482. https://arxiv.org/abs/quant-ph/0112005
+Allori, V. (2022). What is it like to be a relativistic GRW theory? Or: Quantum mechanics and relativity, still in conflict after all these years. *Foundations of Physics*, 52, 79. https://doi.org/10.1007/s10701-022-00595-5
+Ananthaswamy, A. (2021). This simple experiment could challenge standard quantum theory. *Scientific American*. https://www.scientificamerican.com/article/this-simple-experiment-could-challenge-standard-quantum-theory/
+Anderson, P.W. (1972). More is different. *Science*, 177, 393--396. http://science.sciencemag.org/content/177/4047/393
+Anzivino, C., Vaibhav, V. & Zaccone, A. (2024). Random close packing of binary hard spheres predicts the stability of atomic nuclei. https://arxiv.org/abs/2405.11268
+Arbey, A. & Mahmoudi, F. (2021). Dark matter and the early Universe: a review. https://arxiv.org/abs/2104.11488
+Arkani-Hamed, N., Cachazo, F., & Kaplan, J. (2008). What is the simplest quantum field theory? https://arxiv.org/abs/0808.1446
+Arntzenius, F. (2012). *Space, Time, and Stuff*. Oxford University Press.
+Arute, F. et al. (2019). Quantum supremacy using a programmable superconducting processor. *Nature*, 574, 505--510. https://www.nature.com/articles/s41586-019-1666-5
+{ATLAS Collaboration}. (2008). The ATLAS Experiment at the CERN Large Hadron Collider. *Journal of Instrumentation*, 3, 08003. https://cds.cern.ch/record/1129811
+{ATLAS Collaboration}. (2012). Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC. *Physics Letters B*, 716, 1--29. https://arxiv.org/abs/1207.7214
+Auyang, S.Y. (1995). *How Is Quantum Field Theory Possible?* Oxford University Press.
+Auyang, S.Y. (2000). Mathematics and reality: Two notions of spacetime in the analytic and constructionist views of gauge field theories. *Philosophy of Science*, 67, S482--S494.
+Bacciagaluppi, G. & Valentini, A. (2009). *Quantum Theory at the Crossroads: Reconsidering the 1927 Solvay Conference*. Cambridge University Press. https://arxiv.org/abs/quant-ph/0609184
+Baez, J.C. (2011). Division algebras and quantum theory. *Foundations of Physics*, 42, 819--855. https://arxiv.org/abs/1101.5690
+Baez, J.C. (2016). Struggles with the continuum. https://arxiv.org/abs/1609.01421
+Baez, J.C. (2018). Getting to the bottom of Noether’s theorem. https://math.ucr.edu/home/baez/noether/noether_web.pdf [Talk given at The Philosophy and Physics of Noether’s Theorems, University of Notre Dame, October 6, 2018]
+Baez, J.C. (2020). The tenfold way. https://arxiv.org/abs/2011.14234
+Baez, J.C. & Huerta, J. (2009). Division algebras and supersymmetry I. https://arxiv.org/abs/0909.0551
+Baez, J.C. & Huerta, J. (2009). The algebra of grand unified theories. *Bulletin of the American Mathematical Society*, 47, 483--552. https://arxiv.org/abs/0904.1556
+Baez, J.C. & Huerta, J. (2010). Division algebras and supersymmetry II. https://arxiv.org/abs/1003.3436
+Baez, J.C. & Huerta, J. (2011). An invitation to higher gauge theory. *General Relativity and Gravitation*, 43, 2335--92. https://arxiv.org/abs/1003.4485
+Baez, J.C. & Muniain, J.P. (1994). *Gauge Fields, Knots and Gravity*. World Scientific.
+Baez, J.C. & Schreiber, U. (2005). Higher gauge theory. https://arxiv.org/abs/math/0511710
+Baez, J.C., Segal, I., & Zhou, Z. (1992). *Introduction to Algebraic and Constructive Quantum Field Theory*. Princeton University Press. https://math.ucr.edu/home/baez/bsz.html
+Baggott, J. (2013). *Farewell to Reality: How modern physics has betrayed the search for scientific truth*. Pegasus Books.
+Bahcall, N.A. (2015). Dark matter universe. *Proceedings of the National Academy of Sciences*, 112(40), 12243--5. https://www.pnas.org/doi/10.1073/pnas.1516944112
+Bahcall, N.A., Ostriker, J.P., Perlmutter, S., & Steinhardt, P.J. (1999). The cosmic triangle: Revealing the state of the universe. *Science*, 284, 1481--8. https://arxiv.org/abs/astro-ph/9906463
+Bain, J. (2000). Against particle/field duality: Asymptotic particle states and interpolating fields in interacting QFT, or Who's afraid of Haag's theorem? *Erkenntnis*, 53(3), 375--406. https://link.springer.com/content/pdf/10.1023/A:1026482100470.pdf
+Bain, J. (2013). Effective field theories. In Batterman, R. (Ed.), *The Oxford Handbook of Philosophy of Physics* (pp. 224--254). Oxford University Press.
+Bain, J. (2013). Emergence in effective field theories. *European Journal for Philosophy of Science*, 3(3), 257--273.
+Baker, D.J. (2009). Against field interpretations of quantum field theory. *British Journal for the Philosophy of Science*, 60, 585--609. http://philsci-archive.pitt.edu/4350/
+Barad, K. (2007). *Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning*. Duke University Press.
+Barbado, L.C. & Del Santo, F. (2023). On playing gods: The fallacy of the many-worlds interpretation. https://arxiv.org/abs/2311.03467
+Bargmann, V. & Wigner, E.P. (1948). Group theoretical discussion of relativistic wave equations. *Proceedings of the National Academy of Sciences*, 34, 211--223.
+Barrett, J.A. (2011). Everett's pure wave mechanics and the notion of worlds. *European Journal for Philosophy of Science*, 1(2), 277--302. https://link.springer.com/article/10.1007/s13194-011-0023-9
+Barrett, J.A. (2016). Quantum Worlds. *Principia: An International Journal of Epistemology*, 20(1), 45--60.
+Barrett, J.A. (2019). *The Conceptual Foundations of Quantum Mechanics*. Oxford University Press.
+Bassi, A. (2005). Collapse models: analysis of the free particle dynamics. *Journal of Physics A: Mathematical and General*, 38, 3173. https://arxiv.org/abs/quant-ph/0410222
+Batterman, R.W. (2003). Falling cats, parallel parking and polarized light. *Studies in History and Philosophy of Modern Physics*, 34, 527-557. http://philsci-archive.pitt.edu/794/
+Baumann, D. (2009). TASI lectures on inflation. https://arxiv.org/abs/0907.5424
+Becker, A. (2018). *What is Real? The unfinished quest for the meaning of quantum physics*. Basic Books.
+Bedau, M.A. (1997). Weak emergence. *Philosophical Perspectives*, 11, 375--399.
+Bell, J.S. (1955). Time reversal in field theory. *Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences*, 231, 479--495.
+Bell, J.S. (1984). Beables for quantum field theory. https://cds.cern.ch/record/190753/files/198411046.pdf [CERN-TH.4035/84] 
+Bell, J.S. (1964). On the Einstein Podolsky Rosen paradox. *Physics*, 1, 195--200. https://journals.aps.org/ppf/pdf/10.1103/PhysicsPhysiqueFizika.1.195
+Bell, J.S. (1966). On the problem of hidden variables in quantum mechanics. *Reviews of Modern Physics*, 38(3), 447. http://fy.chalmers.se/~delsing/QI/Bell-RMP-66.pdf
+Bell, J.S. (2004). *Speakable and Unspeakable in Quantum Mechanics* (2nd ed.). Cambridge University Press. [(Originally published in 1987)]
+Bell, J.S. (2004). Are there quantum jumps? In *Speakable and Unspeakable in Quantum Mechanics* (2nd ed., pp. 201--212). Cambridge University Press. [(Originally published in 1987)]
+Bertolini, M. (2022). Lectures on supersymmetry. https://www.sissa.it/tpp/phdsection/OnlineResources/6/susycourse.pdf
+Bohm, D. (1952). A suggested interpretation of the quantum theory in terms of 'hidden' variables, I and II. *Physical Review*, 85, 166--193.
+Bohm, D. (1953). Proof that probability density approaches $|\psi|^2$ in causal interpretation of quantum theory. *Physical Review*, 89, 458--466.
+Bohm, D. & Aharonov, Y. (1957). Discussion of experimental proof for the paradox of Einstein, Rosen, and Podolsky. *Physical Review*, 108, 1070.
+Bohm, D. & Hiley, B.J. (1993). *The Undivided Universe*. London: Routledge.
+Bokulich, P. (2011). Hempel's dilemma and domains of physics. *Analysis*, 71, 646--651.
+Bong, K.W. et al. (2020). A strong no-go theorem on the Wigner's friend paradox. *Nature Physics*, 16(12), 1199--1205. https://arxiv.org/abs/1907.05607
+Borcherds, R.E. & Barnard, A. (2002). Lectures on quantum field theory. https://arxiv.org/abs/math-ph/0204014
+Born, M. (1953). The interpretation of quantum mechanics. *The British Journal for the Philosophy of Science*, 4, 95--106. https://www.jstor.org/stable/685986
+Boughn, S. (2018). Making sense of the many worlds interpretation. https://arxiv.org/abs/1801.08587
+Brading, K.A. (2002). Which symmetry? Noether, Weyl, and conservation of electric charge. *Studies in History and Philosophy of Modern Physics*, 33, 3--22. https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.569.106&rep=rep1&type=pdf
+Brans , C.H. (1988). Bell's theorem does not eliminate fully causal hidden variables. *International Journal of Theoretical Physics*, 27, 219--226. https://link.springer.com/article/10.1007/BF00670750
+Broughton, M. et al. (2020). TensorFlow Quantum: A software framework for quantum machine learning. https://arxiv.org/abs/2003.02989
+Brown, M.R. & Hiley, B.J. (2004). Schr{\"o}dinger revisited: An algebraic approach. https://arxiv.org/abs/quant-ph/0005026
+Bub, J. (2019). 'Two Dogmas' redux. https://arxiv.org/abs/1907.06240
+Buchholz, D. (1998). Current trends in axiomatic quantum field theory. https://arxiv.org/abs/hep-th/9811233
+Buchholz, D. & Dybalski, W. (2005). Scattering in relativistic quantum field theory: basic concepts, tools, and results. https://arxiv.org/abs/math-ph/0509047v3
+Buckingham, E. (1914). On physically similar systems; Illustrations of the use of dimensional equations. *Physical Review*, 4(4), 345--376.
+Bunge, M. (1955). Strife about complementarity (I). *The British Journal for the Philosophy of Science*, 6, 1--12. https://www.jstor.org/stable/685570
+Bunge, M. (1955). Strife about complementarity (II). *The British Journal for the Philosophy of Science*, 6, 141--154. https://www.jstor.org/stable/685522
+Butterfield, J. (2014). Reduction, emergence, and renormalization. *The Journal of Philosophy*, 111(1), 5--49. https://arxiv.org/abs/1406.4354v1
+Butterfield, J. & Bouatta, N. (2015). Renormalization for philosophers. *Metaphysics in Contemporary Physics*, 104, 437--485. https://arxiv.org/abs/1406.4532
+Cabibbo, N. (1963). Unitary symmetry and leptonic decays. *Physical Review Letters*, 10, 531--533. https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.10.531
+Candelas, P., Horowitz, G.T., Strominger, A., & Witten, E. (1985). Vacuum configurations for superstrings. *Nuclear Physics B*, 258, 46--74.
+Cao, C., Hu, H., Li, J., & Schwarz, W.H.E. (2019). Physical origin of chemical periodicities in the system of elements. *Pure and Applied Chemistry*, 91, 1969--1999. https://www.degruyter.com/document/doi/10.1515/pac-2019-0901/html
+Cao, T.Y. (1999). *Conceptual Foundations of Quantum Field Theory*. Cambridge University Press.
+Cao, T.Y. (2003). Structural realism and the interpretation of quantum field theory. *Synthese*, 136, 3--24. https://www.jstor.org/stable/20117384
+Cao, T.Y. (2016). The Englert-Brout-Higgs mechanism: An unfinished project. *International Journal of Modern Physics A*, 31(35), 1630061. 
+Capdevilla, R., Curtin, D., Kahn, Y., & Krnjaic, G. (2021). A no-lose theorem for discovering the new physics of $(g-2)_\mu$ at muon colliders. https://arxiv.org/abs/2101.10334
+Carcassi, G., Maccone, L., & Aidala, C.A. (2020). The four postulates of quantum mechanics are three. https://arxiv.org/abs/2003.11007
+Carcassi, G., Calderon, F., & Aidala, C.A. (2023). The unphysicality of Hilbert spaces. https://arxiv.org/abs/2308.06669
+Carnap, R. (1966). *Philosophical Foundations of Physics*. Basic Books.
+Carroll, S.M. (2004). *Spacetime and Geometry*. Addison Wesley.
+Carroll, S.M. (2019). *Something Deeply Hidden*. Dutton.
+Carroll, S.M. & Singh, A. (2019). Mad-Dog Everettianism: Quantum mechanics at its most minimal. In *What is Fundamental?* (pp. 95--104). Springer. https://arxiv.org/abs/1801.08132
+Caulton, A. (2014). Physical entanglement in permutation-invariant quantum mechanics. https://arxiv.org/abs/1409.0246
+Caulton, A. (2015). The role of symmetry in the interpretation of physical theories. *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 52, 153--162. http://philsci-archive.pitt.edu/11571/
+Caulton, A. (2018). A persistent particle ontology for quantum field theory. *Metascience*, 27, 439--441. https://link.springer.com/article/10.1007/s11016-018-0323-1
+Caulton, A., & Butterfield, J. (2012). Symmetries and paraparticles as a motivation for structuralism. *British Journal for the Philosophy of Science*, 63, 233--285. https://arxiv.org/abs/1002.3730
+Caves, C.M., Fuchs, C.A., & Schack, R. (2001). Quantum probabilities as Bayesian probabilities. *Physical Review A*, 65, 022305. https://arxiv.org/abs/quant-ph/0106133
+{CDF Collaboration}. (2022). High-precision measurement of the $W$ boson mass with the CDF II detector. *Science*, 376(6589), 170--176. https://www.science.org/doi/10.1126/science.abk1781
+Chalmers, M. (2017). Model physicist. https://cerncourier.com/a/model-physicist/
+Chester, D., Marrani, A., & Rios, M. (2023). Beyond the Standard Model with six-dimensional spinors. Particles, 6, 144-172. https://arxiv.org/abs/2002.02391
+Chew, G. (1961). *S-Matrix Theory of Strong Interactions*. New York: Benjamin.
+Chew, G. (1964). Nuclear democracy and bootstrapping dynamics. In Jacob, M. & Chew, G. (Eds.) *Strong Interaction Physics: A Lecture Note Volume* (pp. 103--152). New York: Benjamin.
+Ciepielewski, G.S, Okon, E., & Sudarsky, D. (2020). On superdeterministic rejections of settings independence. https://arxiv.org/abs/2008.00631
+Clauser, J., Horne, M., Shimony, A., & Holt, R. (1969). Proposed experiment to test local hidden-variable theories. *Physical Review Letters*, 23, 880--884.
+Clowe, D. et al. (2006). A direct empirical proof of the existence of dark matter. *Astrophysical Journal Letters*, 648(2), 109. https://arxiv.org/abs/astro-ph/0608407
+{CMS Collaboration}. (2012). Observation of a new boson at a mass of 125 GeV with the CMS experiment at the LHC. *Physics Letters B*, 716, 30--61. https://arxiv.org/abs/1207.7235
+Coecke, B. & Kissinger, A. (2017). *Picturing Quantum Processes: A first course in quantum theory and diagrammatic reasoning*. Cambridge University Press.
+Cohen, M.L. (2015). Explaining and predicting the properties of materials using quantum theory. *MRS Bulletin*, 40, 516--525. https://www.cambridge.org/core/journals/mrs-bulletin/article/explaining-and-predicting-the-properties-of-materials-using-quantum-theory/0BAF1A2783D41470AAE666F6B916ECE5
+Coleman, S. (2020). Sidney Coleman's Dirac Lecture "Quantum Mechanics in Your Face". https://arxiv.org/abs/2011.12671
+Coleman, S. & Mandula, J. (1967). All possible symmetries of the $S$ matrix. *Physical Review*, 159(5), 1251--1256.
+Conway, J. & Kochen, S. (2006). The free will theorem. *Foundations of Physics*, 36, 1441--1473. https://arxiv.org/abs/quant-ph/0604079
+Cramer, J.G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58, 647.
+Cubitt, T., Perez-Garcia, D. & Wolf, M. (2015). Undecidability of the spectral gap. *Nature*, 528, 207--211.
+d'Espagnat, B. (1979). The quantum theory and reality. *Scientific American*, 241, 158--181. https://static.scientificamerican.com/sciam/assets/media/pdf/197911_0158.pdf
+d'Espagnat, B. (1999). *Conceptual Foundations of Quantum Mechanics*. Westview Press.
+Das, S. & D{\"u}rr, D. (2019). Arrival time distributions of spin-1/2 particles. *Scientific Reports*, 9, 2242. https://www.nature.com/articles/s41598-018-38261-4
+Debono, I. & Smoot, G.F. (2016). General relativity and cosmology: Unsolved questions and future directions. *Universe*, 2, 23. https://arxiv.org/abs/1609.09781
+Degorre, J., Laplante, S., & Roland, J. (2005). Simulating quantum correlations as a distributed sampling problem. https://arxiv.org/abs/quant-ph/0507120
+de la Madrid, R. (2005). The role of the rigged Hilbert space in quantum mechanics. https://arxiv.org/abs/quant-ph/0502053
+Del Santo, F., Schwarzhans, E. (2022). "Philosophysics" at the University of Vienna: The (Pre-)history of foundations of quantum physics in the Viennese cultural context. *Physics in Perspective*, 24, 125--153. https://link.springer.com/article/10.1007/s00016-022-00290-y
+Del Santo, F. & Krizek, G.K. (2023). Against the "nightmare of a mechanically determined universe": Why Bohm was never a Bohmian. https://arxiv.org/abs/2307.05611
+Deligne, P. (1999). Notes on spinors. In *Quantum Fields and Strings: A Course for Mathematicians, Vol. 1* (pp. 99--136). American Mathematical Society. https://publications.ias.edu/sites/default/files/79_NotesOnSpinors.pdf
+Deligne, P. (2002). Cat{\'e}gories Tensorielles. *Moscow Mathematical Journal*, 2, 227--248. https://www.math.ias.edu/files/deligne/Tensorielles.pdf
+de Queiroz, A., Lachieze-Rey, M., & Simon, S. (2014). Symmetry, physical theories and theory change. *Frontiers of Fundamental Physics*, 14, 210. https://ui.adsabs.harvard.edu/abs/2014ffp..confE.210D/abstract
+Deutsch, D. (1985). Quantum theory as a universal physical theory. *International Journal of Theoretical Physics*, 24, 1--41.
+Dewar, N. (2019). Sophistication about symmetries. *British Journal for the Philosophy of Science*, 70, 485--521.
+DeWitt, B.S. (1970). Quantum mechanics and reality. *Physics Today*, 23(9), 30--35. https://physicstoday.scitation.org/doi/10.1063/1.3022331
+DeWitt, B.S. & Graham, N. (1973). *The Many-Worlds Interpretation of Quantum Mechanics*. Princeton University Press.
+Dimopoulos, S. & Georgi, H. (1981). Softly broken supersymmetry and SU(5). *Nuclear Physics B*, 193, 150--162.
+Dine, M. & Kusenko, A. (2004). The origin of the matter-antimatter asymmetry. *Reviews of Modern Physics*, 76, 1--30. https://arxiv.org/abs/hep-ph/0303065
+Dirac, P.A.M. (1963). The evolution of the physicist's picture of nature. *Scientific American*, 208, 45--53. https://www.jstor.org/stable/24936146
+Donadi, S. & Hossenfelder, S. (2022). A toy model for local and deterministic wave-function collapse. *Physical Review A*, 106, 022212. https://arxiv.org/abs/2010.01327
+Drossel, B. (2015). On the relation between the second law of thermodynamics and classical and quantum mechanics. In Falkenburg, B. & Morrison, M. (Eds.) *Why More is Different: Philosophical issues in condensed matter physics and complex systems* (pp. 41--54). Springer.
+Duff, M.J., Okun, L.B., & Veneziano, G. (2001). Trialogue on the number of fundamental constants. https://arxiv.org/abs/physics/0110060
+Duncan, A. (2012). *Conceptual Framework of Quantum Field Theory*. Oxford University Press.
+D{\"u}rr, D., Goldstein, S., Tumulka, R., & Zangh{\`i}, N. (2004). Bohmian mechanics and quantum field theory. *Physical Review Letters*, 93, 090402. https://arxiv.org/abs/quant-ph/0303156
+D{\"u}rr, D., Goldstein, S., Tumulka, R., & Zangh{\`i}, N. (2005). Bell-type quantum field theories. *Journal of Physics A*, 38, R1. https://arxiv.org/abs/quant-ph/0407116
+D{\"u}rr, D., Goldstein, S., & Zangh{\`i}, N. (1995). Bohmian mechanics as the foundation of quantum mechanics. https://arxiv.org/abs/quant-ph/9511016
+D{\"u}rr, D., Goldstein, S., & Zangh{\`i}, N. (2013). *Quantum Physics Without Quantum Philosophy*. Springer.
+D{\"u}rr, D. & Lazarovici, D. (2020). *Understanding Quantum Mechanics: The World According to Modern Quantum Foundations*. Springer.
+D{\"u}rr, D., Goldstein, S., Norsen, T., Struyve, W., & Zangh{\`i}, N. (2014). Can Bohmian mechanics be made relativistic? *Proceedings of the Royal Society A*. 470(2162), 20130699. https://royalsocietypublishing.org/doi/full/10.1098/rspa.2013.0699
+Dutailly, J.C. (2014). Particles and Fields. https://hal.archives-ouvertes.fr/hal-00933043
+Dyson, F.J. (1949). The $S$ matrix in quantum electrodynamics. *Physical Review*, 75(11), 1736.
+Dyson, F.J. (1952). Divergence of perturbation theory in quantum electrodynamics. *Physical Review*, 85(4), 631.
+Earman, J. & Fraser, D. (2006). Haag's theorem and its implications for the foundations of quantum field theory. *Erkenntnis*, 64(3), 305--344.
+Einstein, A. (1905). Ist die tr{\"a}gheit eines k{\"o}rpers von seinem energieinhalt abh{\"a}ngig? *Annalen der Physik*, 323, 639--641. https://onlinelibrary.wiley.com/doi/10.1002/andp.19053231314
+Einstein, A. (1905). {\"U}ber die von der molekularkinetischen theorie der w{\"a}rme geforderte bewegung von in ruhenden fl{\"u}ssigkeiten suspendierten teilchen. *Annalen der Physik*, 322, 549--560. https://onlinelibrary.wiley.com/doi/10.1002/andp.19053220806
+Einstein, A. (1905). {\"U}ber einen die erzeugung und verwandlung des lichtes betreffenden heuristischen gesichtspunkt. *Annalen der Physik*, 322, 132--148. https://onlinelibrary.wiley.com/doi/10.1002/andp.19053220607
+Einstein, A. (1905). Zur elektrodynamik bewegter k{\"o}rper. *Annalen der Physik*, 322, 891--921. https://www.physics.umd.edu/courses/Phys606/spring_2011/einstein_electrodynamics_of_moving_bodies.pdf [(On the electrodynamics of moving bodies).]
+Einstein, A. & Grossmann, M. (1913). Entwurf einer verallgemeinerten relativit{\"a}tstheorie und einer theorie der gravitation (Outline of a generalized theory of relativity and of a theory of gravitation). *Zeitschrift f{\"u}r Mathematik und Physik*, 62, 225--261. http://www.icra.it/MG/doc/Einstein_Entwurf_1913.pdf
+Einstein, A., Podolsky, B. & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete? *Physical Review*, 47, 777--780. https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777
+Englert, F. & Brout, R. (1964). Broken symmetry and the mass of gauge vector mesons. *Physical Review Letters*, 13, 321--323. https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.13.321
+Epstein, H. & Glaser, V. (1973). The role of locality in perturbation theory. *Annales de l'institut Henri Poincar{\'e}: Section A*, 19, 211. http://www.numdam.org/item/?id=AIHPA_1973__19_3_211_0
+Esfeld, M., Lazarovici, D., Lam, V., & Hubert, M. (2017). The physics and metaphysics of primitive stuff. *The British Journal for the Philosophy of Science*, 68, 133--161.. https://www.jstor.org/stable/44505729
+Everett, H. (1956). *Theory of the Universal Wave Function*. Princeton University. [(Ph.D. thesis. Reprinted in Barrett & Byrne (2012).)]
+Everett, H. (1957). "Relative state" formulation of quantum mechanics. *Reviews Modern Physics*, 29, 454--462.
+Everett, H. (2012). *The Everett Interpretation of Quantum Mechanics: Collected Works 1955-1980 with Commentary* (Barrett, J.A. & Byrne, P., Eds.). Princeton University Press.
+Feynman, R.P. (1963). *The Feynman Lectures on Physics, Volume I*. California Institute of Technology. http://www.feynmanlectures.caltech.edu/I_03.html
+Feynman, R.P. (1965). The development of the space-time view of quantum electrodynamics. https://www.nobelprize.org/prizes/physics/1965/feynman/lecture/ [Nobel Lecture, December 11, 1965]
+Feynman, R.P. & Hibbs, A.R. (1965). *Quantum Mechanics and Path Integrals*. Dover. [Emended edition (2005)]
+Fleming, G.N. (2000). Reeh-Schlieder meets Newton-Wigner. *Philosophy of Science*, 67, S495--S515. https://www.jstor.org/stable/188690
+Frankel, T. (2004). *The Geometry of Physics* (2nd ed.). Cambridge University Press. 
+Fraser, D. (2008). The fate of 'particles' in quantum field theories with interactions. *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 39(4), 841--859. http://philsci-archive.pitt.edu/4038/
+Fraser, D. (2011). How to take particle physics seriously: A further defence of axiomatic quantum field theory. *Studies in History and Philosophy of Modern Physics*, 42, 126--135.
+Fraser, J.D. (2018). Renormalization and the formulation of scientific realism. *Philosophy of Science*, 85(5), 1164--1175. https://philsci-archive.pitt.edu/14049/1/rgrealism_preprint.pdf
+Fraser, J.D. (2021). The twin origins of renormalization group concepts. *Studies in History and Philosophy of Science Part A*, 89, 114--128. https://durham-repository.worktribe.com/preview/1218769/34961.pdf
+Frauchiger, D. & Renner, R. (2018). Quantum theory cannot consistently describe the use of itself. *Nature Communications*,9, 3711. https://www.nature.com/articles/s41467-018-05739-8
+Freed, D.S. (2001). Dirac charge quantization and generalized differential cohomology. https://arxiv.org/abs/hep-th/0011220
+Freed, D.S. & Moore, G.W. (2012). Twisted equivariant matter. https://arxiv.org/abs/1208.5055
+Freedman, D.Z., van Nieuwenhuizen, P., & Ferrara, S. (1976). Progress toward a theory of supergravity. *Physical Review D*, 13, 3214--3218.
+Fr\`{e}, P.G. (2013). *Gravity, a Geometrical Course, Volume 1: Development of the Theory and Basic Physical Applications*. Springer.
+Fr\`{e}, P.G. (2013). *Gravity, a Geometrical Course, Volume 2: Black Holes, Cosmology and Introduction to Supergravity*. Springer.
+Friedrich, B. (2016). How did the tree of knowledge get its blossom? The rise of physical and theoretical chemistry, with an eye on Berlin and Leipzig. *Angewandte* 55, 5378--5392. https://onlinelibrary.wiley.com/doi/10.1002/anie.201509260
+Fuchs, C.A. (2002). Quantum mechanics as quantum information (and only a little more). https://arxiv.org/abs/quant-ph/0205039
+Fuchs, C.A. (2010). QBism, the perimeter of quantum Bayesianism. https://arxiv.org/abs/1003.5209
+Fuchs, C.A., Mermin, N.D., & Schack, R. (2014). An introduction to QBism with an application to the locality of quantum mechanics. *American Journal of Physics*, 82, 749--754. https://arxiv.org/abs/1311.5253
+Fuchs, C.A. & Schack, R. (2013). Quantum-Bayesian coherence: The no-nonsense version. *Reviews of Modern Physics*, 85, 1693--1715. https://arxiv.org/abs/1301.3274
+Fuchs, C.A. & Stacey, B.C. (2016). QBism: Quantum theory as a hero's handbook. https://arxiv.org/abs/1612.07308
+Geiko, R. & Moore, G.W. (2020). Dyson's classification and real division superalgebras. https://arxiv.org/abs/2010.01675
+Gell-Mann, M. & Low, F. (1951). Bound states in quantum field theory. *Physical Review*, 84, 350--354.
+Gell-Mann, M. (1988). Simplicity and complexity in the description of nature. *Engineering and Science*, 51, 2--9. https://calteches.library.caltech.edu/53/2/Mann.pdf
+Gell-Mann, M. & Hartle, J.B. (1989). Quantum mechanics in the light of quantum cosmology. In *Proceedings of the Santa Fe Institute Workshop on Complexity, Entropy, and the Physics of Information*. Addison-Wesley. https://arxiv.org/abs/1803.04605
+Georgi, H., Quinn, H.R., & Weinberg, S. (1974). Hierarchy of interactions in unified gauge theories. *Physical Review Letters*, 33(7), 451.
+Georgi, H. (1999). *Lie Algebras in Particle Physics* (2nd ed.). Westview Press. [(Originally published in 1982)]
+Georgi, H. & Glashow, S.L. (1974). Unity of all elementary-particle forces. *Physical Review Letters*, 32, 438--441. http://pcbat1.mi.infn.it/~battist/astrop/su5.pdf
+Ghirardi, G.C., Rimini, A., and Weber, T. (1986). Unified dynamics for microscopic and macroscopic systems. *Physical Review D*, 34, 470--491.
+Ghirardi, G.C., Pearle, P., Rimini, A. (1990). Markov processes in Hilbert space and continuous spontaneous localization of systems of identical particles. *Physical Review A*, 42, 78--89. 
+Gill, T.L. (2017). The Feynman-Dyson view. *Journal of Physics: Conference Series*, 845, 012023. https://iopscience.iop.org/article/10.1088/1742-6596/845/1/012023/pdf
+Gisin, N. (1991). Bell's inequality holds for all non-product states. *Physics Letters A*, 154, 201--202.
+Gisin, N. (1999). Bell inequality for arbitrary many settings of the analyzers. *Physics Letters A*, 260, 1--3. https://arxiv.org/abs/quant-ph/9905062
+Gisin, N. & Peres, A. (1992). Maximal violation of Bell's inequality for arbitrarily large spin. *Physics Letters A*, 162, 15--17. 
+Gisin, N. Del Santo, F. (2023). Towards a measurement theory in QFT: "Impossible" quantum measurements are possible but not ideal. https://arxiv.org/abs/2311.13644
+Glashow, S. (1961). Partial symmetries of weak interactions. *Nuclear Physics*, 22, 579--588.
+Glick, D. (2016). The ontology of quantum field theory: Structural realism vindicated? *Studies in History and Philosophy of Science Part A*, 59, 78--86. https://philarchive.org/archive/GLITOO
+Goldenfeld, N. (1992). *Lectures on Phase Transitions and the Renormalization Group*. Perseus Books.
+Gopakumar, R. (2011). What is the simplest gauge-string duality? https://arxiv.org/abs/1104.2386
+Gopakumar, R. & Mazenc, E.A. (2022). Deriving the simplest gauge-string duality, I: Open-closed-open triality. https://arxiv.org/abs/2212.05999
+Goyal, P. (2020). Derivation of classical mechanics in an energetic framework via conservation and relativity. *Foundations of Physics*, 50, 1426--1479.
+Greaves, H. & Thomas, T. (2012). The CPT theorem. https://arxiv.org/abs/1204.4674
+Greaves, H. & Wallace, D. (2011). Empirical consequences of symmetries. https://arxiv.org/abs/1111.4309
+Greenberger, D., Horne, M.A., & Zeilinger, A. (1989). Going beyond Bell's theorem. https://arxiv.org/abs/0712.0921
+Greenberger, D., Horne, M.A., Shimony, A., & Zeilinger, A. (1990). Bell's theorem without inequalities. *American Journal of Physics*, 58, 1131.
+Gross, D.J. (1996). The role of symmetry in fundamental physics. *Proceedings of the National Academy of Sciences*, 93(25), 14256--14259. https://www.pnas.org/doi/pdf/10.1073/pnas.93.25.14256
+Guralnik, G.S., Hagen, C.R., & Kibble, T.W.B. (1964). Global conservation laws and massless particles. *Physical Review Letters*, 13, 585--587. https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.13.585
+Guth, A.H. (1981). Inflationary universe: A possible solution to the horizon and flatness problems. *Physical Review D*, 23, 347--356. https://journals.aps.org/prd/abstract/10.1103/PhysRevD.23.347
+Guth, A.H. (1997). Was cosmic inflation the 'bang' of the big bang? *The Beamline*, 27, 14. https://ned.ipac.caltech.edu/level5/Guth/Guth_contents.html
+Guth, A.H. (2007). Eternal inflation and its implications. *Journal of Physics A*, 40, 6811. https://arxiv.org/abs/hep-th/0702178
+Haag, R. (1955). On quantum field theories. *Matematisk-fysiske Meddelelser*, 29, 1--37. http://cds.cern.ch/record/212242
+Haag, R. (1992). *Local Quantum Physics: Fields, Particles, Algebras*. Springer.
+Haag, R., \L{}opusza\'{n}ski, J. T., & Sohnius, M. (1975). All possible generators of supersymmetries of the S-matrix. *Nuclear Physics B*, 88(2), 257--274.
+Hall, D., & Wightman, A. S. (1957). A theorem on invariant analytic functions with applications to relativistic quantum field theory. I kommission hos Munksgaard.
+Hall, M.J.W. (2010). Local deterministic model of singlet state correlations based on relaxing measurement independence. *Physical Review Letters*, 105, 250404. https://arxiv.org/abs/1007.5518
+Halvorson, H. (2019). To be a realist about quantum theory. In Lombardi, O. (Ed.), *Quantum Worlds: Perspectives on the Ontology of Quantum Mechanics*. https://philpapers.org/archive/HALSPO-6.pdf
+Hamamatsu. (2007). *Photomultiplier Tubes: Basics and Applications* (3rd ed.). Hamamatsu Photonics. https://www.hamamatsu.com/content/dam/hamamatsu-photonics/sites/documents/99_SALES_LIBRARY/etd/PMT_handbook_v3aE.pdf
+Harrigan, N., & Spekkens, R.W. (2010). Einstein, incompleteness, and the epistemic view of quantum states. *Foundations of Physics*, 40(2), 125--157. https://arxiv.org/abs/0706.2661
+Healey, R. (2007). *Gauging What's Real*. Oxford University Press.
+Heaviside, O. (1893). *Electromagnetic Theory, Vol. 1*. London: The Electrician.
+Higgs, P.W. (1964). Broken symmetries, massless particles and gauge fields. *Physics Letters*, 13, 508--509. https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.13.508
+Hossenfelder, S. & Palmer, T. (2020). Rethinking superdeterminism. *Frontiers in Physics*, 8, 139. https://www.frontiersin.org/articles/10.3389/fphy.2020.00139/full
+Hossenfelder, S. (2023). Quantum confusions, cleared up (or so I hope). https://arxiv.org/abs/2309.12299
+Huggett, N., & Weingard, R. (1995). The renormalisation group and effective field theories. *Synthese*, 102(1), 171--194.
+Ismael, J. & Schaffer, J. (2020). Quantum holism: Nonseparability as common ground. *Synthese*, 197, 4131--4160. https://link.springer.com/article/10.1007/s11229-016-1201-2
+Jaeger, G. (2019). Are virtual particles less real? *Entropy*, 21, 141. https://www.mdpi.com/1099-4300/21/2/141
+Janyska, J., Modugno, M., & Vitolo, R. (2007). Semi-vector spaces and units of measurement. https://arxiv.org/abs/0710.1313
+Joos, E. & Zeh, H. D. (1985). The emergence of classical properties through interaction with the environment. *Zeitschrift f&uuml;r Physik B Condensed Matter*, 59, 223--243. http://www.decoherence.de/J+Z.pdf
+Joos, E., Zeh, H.D., Kiefer, C., Giulini, D.,  Kupsch, J., Stamatescu, I.O. (2003). *Decoherence and the Appearance of a Classical World in Quantum Theory* (2nd ed.). Springer. [(Originally published in 1996)]
+Jordan, P., von Neumann, J., & Wigner, E.P. (1934). On an algebraic generalization of the quantum mechanical formalism. *Annals of Mathematics*, 35, 29. https://www.jstor.org/stable/1968117
+Kadanoff, L.P. (2013). Theories of matter: Infinities and renormalization. In Batterman, R. (Ed.), *The Oxford Handbook of Philosophy of Physics* (pp. 109-141). Oxford University Press. https://arxiv.org/abs/1002.2985
+Kadison, R.V. (1965). Transformations of states in operator theory and dynamics. *Topology*, 3, 177--198. https://doi.org/10.1016/0040-9383(65)90075-3
+Kasprzak, W., Lysik, B., & Rybaczuk, M. (1990). *Dimensional Analysis in the Identification of Mathematical Models*. World Scientific.
+Kastler, D. (2003). Rudolf Haag---Eighty Years. *Communications in Mathematical Physics*, 237, 3--6.
+Keller, K.J., Papadopoulos, M.A., & Reyes-Lega, A.F. (2007). On the realization of symmetries in quantum mechanics. https://arxiv.org/abs/0712.0997
+Kelvin, L. (1901). Nineteenth century clouds over the dynamical theory of heat and light. *The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science*, 2, 1--40. https://www.equipes.lps.u-psud.fr/Montambaux/histoire-physique/Kelvin-1900.pdf
+Klaczynski, L. (2016). Haag's theorem in renormalised quantum field theories. https://arxiv.org/abs/1602.00662
+Kochen, S. & Specker, E.P. (1967). The problem of hidden variables in quantum mechanics. *Journal of Mathematics and Mechanics*, 17, 59--87.
+Kontsevich, M. & Segal, G. (2021). Wick rotation and the positivity of energy in quantum field theory. https://arxiv.org/abs/2105.10161
+Lazarovici, D. (2018). Against fields. *European Journal for Philosophy of Science*, 8(2), 145--170. https://arxiv.org/abs/1809.00855
+Leggett, A.J. (2002). Testing the limits of quantum mechanics: Motivation, state of play, prospects. *Journal of Physics: Condensed Matter*, 14, 415--451. 
+Lehmann, H., Symanzik, K., & Zimmermann, W. (1955). Zur formulierung quantisierter feldtheorien. *Nuovo Cimento*, 1, 205--225.
+Leifer, M.S., & Spekkens, R.W. (2013). Towards a formulation of quantum theory as a causally neutral theory of Bayesian inference. *Physical Review A*, 88(5), 052130. https://arxiv.org/abs/1107.5849
+Lepine, D. (2016). Deligne's theorem on tensor categories. https://alistairsavage.ca/pubs/Lepine-Deligne_Theorem.pdf
+Linde, A.D. (1982). A new inflationary universe scenario: A possible solution of the horizon, flatness, homogeneity, isotropy and primordial monopole problems. *Physics Letters B*, 108, 389--393. https://www.sciencedirect.com/science/article/pii/0370269382912199
+Linde, A.D. (1983). Chaotic inflation. *Physics Letters B*, 129, 177--181.
+Lisi, A.G. (2007). An exceptionally simple theory of everything. https://arxiv.org/abs/0711.0770
+Lisi, A.G. (2017). Emergence. https://www.edge.org/response-detail/27149
+{LSND Collaboration}. (1996). Evidence for neutrino oscillations from muon decay at rest. *Physical Review C*, 54, 2685--2708. https://arxiv.org/abs/nucl-ex/9605001
+{LSND Collaboration}. (2001). Evidence for neutrino oscillations from the observation of electron anti-neutrinos in a muon anti-neutrino beam. *Physical Review D*, 64, 112007. https://arxiv.org/abs/hep-ex/0104049
+Lyre, H. (2008). Does the Higgs mechanism exist? *International Studies in the Philosophy of Science*, 22, 119--133. https://arxiv.org/abs/0806.1359
+Malament, D.B. (1996). In defence of dogma: Why there cannot be a relativistic quantum mechanics of (localizable) particles. In Clifton, R. (Ed.) *Perspectives on Quantum Reality* (pp. 1--10). Springer.
+Maldacena, J.M. (1998). The large $N$ limit of superconformal field theories and supergravity. *Advances in Theoretical and Mathematical Physics*, 2, 231--252. https://arxiv.org/abs/hep-th/9711200
+Manton, N.S. (2019). The inevitability of sphalerons in field theory. *Philosophical Transactions of the Royal Society A*, 377, 20180327. http://dx.doi.org/10.1098/rsta.2018.0327
+Marsh, A. (2016). Gauge theories and fiber bundles: Definitions, pictures, and results. https://arxiv.org/abs/1607.03089
+Martens, N. (2022). Dark matter realism. *Foundations of Physics*, 52(1), 1--19. https://link.springer.com/article/10.1007/s10701-021-00524-y
+Martin, J. (2012). Everything you always wanted to know about the cosmological constant problem (but were afraid to ask). https://arxiv.org/abs/1205.3365
+Martin, S.P. (2011). Phenomenology of particle physics. https://www.ippp.dur.ac.uk/~mspannow/files/Phenomenology_Particle_Physics_Martin.pdf
+Martin, S.P. (2016). A supersymmetry primer. https://arxiv.org/abs/hep-ph/9709356 [(First published in 1997)]
+Martin, S.P. & Wells, J.D (2023). *Elementary Particles and Their Interactions*. Springer. https://link.springer.com/book/10.1007/978-3-031-14368-7
+Martin-Dussaud, P., Rovelli, C., & Zalamea, F. (2018). The notion of locality in relational quantum mechanics. https://arxiv.org/abs/1806.08150
+Maudlin, T. (1998). Healey on the Aharonov-Bohm effect. *Philosophy of Science*, 65, 361--368. https://www.jstor.org/stable/188266
+Maudlin, T. (1995). Three measurement problems. *Topoi*, 14, 7--15.
+Maudlin, T. (1996). *Quantum Nonlocality and Relativity: Metaphysical Intimations of Modern Physics*. Wiley-Blackwell.
+Maudlin, T. (2007). *The Metaphysics Within Physics*. Oxford University Press.
+Maudlin, T. (2012). *Philosophy of Physics: Space and Time*. Princeton University Press.
+Maudlin, T. (2014). What Bell did. *Journal of Physics A: Mathematical and Theoretical*, 47, 424010. https://iopscience.iop.org/article/10.1088/1751-8113/47/42/424010/pdf
+Maudlin, T. (2018). Ontological clarity via canonical presentation: Electromagnetism and the Aharonov-Bohm effect. *Entropy*, 20(6), 465. https://www.mdpi.com/1099-4300/20/6/465
+Maudlin, T. (2019). *Philosophy of Physics: Quantum Theory*. Princeton University Press.
+Mermin, N.D. (1985). Is the moon there when nobody looks? Reality and the quantum theory. *Physics Today*, 38(4), 38--47.
+Mermin, N.D. (1990). Quantum mysteries revisited. *American Journal of Physics*, 58, 731--734.
+Mermin, N.D. (2022). A note on the quantum measurement problem. https://arxiv.org/abs/2206.10741
+{MicroBooNE Collaboration}. (2021). Search for neutrino-induced neutral current $\Delta$ radiative decay in MicroBooNE and a first test of the MiniBooNE low energy excess under a single-photon hypothesis. https://arxiv.org/abs/2110.00409
+{MiniBooNE Collaboration}. (2018). Significant excess of electron-like events in the MiniBooNE short-baseline neutrino experiment. *Physical Review Letters*, 121, 221801. https://arxiv.org/abs/1805.12028
+Misner, C.W., Thorne, K.S., & Wheeler, J.A. (1973). *Gravitation*. Freeman and Co. [(Reprinted by Princeton University Press (2017))]
+Molinari, L.G. (2006). Another proof of Gell-Mann and Low's theorem. https://arxiv.org/abs/math-ph/0612030
+Morales, J.A.C. & Zilber, B. (2014). The geometric semantics of algebraic quantum mechanics. https://arxiv.org/abs/1410.7277
+Moretti, V. (2015). Mathematical foundations of quantum mechanics: An advanced short course. https://arxiv.org/abs/1508.06951
+Moretti, V. (2023). On the relativistic spatial localization for massive real scalar Klein-Gordon quantum particles. https://arxiv.org/abs/2304.02133
+Mulders, P.J. (2011). Quantum field theory. https://www.nat.vu.nl/~mulders/QFT-0.pdf
+Murayama, H. (2000). Supersymmetry phenomenology. https://arxiv.org/abs/hep-ph/0002232
+Myrvold, W.C. (2015). What is a wavefunction? *Synthese*, 192(10), 3247--3274. http://philsci-archive.pitt.edu/11117/
+Nagele, C., Janssen, O., & Kleban, M. (2023). Decoherence: A numerical study. *Journal of Physics A: Mathematical and Theoretical*, 56, 085301. https://iopscience.iop.org/article/10.1088/1751-8121/acb977
+Nail, T. (2018). *Lucretius I: An Ontology of Motion*. Edinburgh University Press.
+Nail, T. (2020). *Lucretius II: An Ethics of Motion*. Edinburgh University Press.
+Newton, T.D. & Wigner, E.P. (1949). Localized states for elementary systems. *Reviews of Modern Physics*, 21, 400--406. https://doi.org/10.1103/RevModPhys.21.400
+Ney, A. (2021). From quantum entanglement to spatiotemporal distance. In Christian W{\"u}thrich, Baptiste Le Bihan, & Nick Huggett (eds.), *Philosophy Beyond Spacetime*. Oxford University Press.
+Ney, A. & Albert, D.Z. (2013). *The Wave Function: Essays on the metaphysics of quantum mechanics*. Oxford University Press.
+Nguyen, T. (2016). The perturbative approach to path integrals: A succinct mathematical treatment. *Journal of Mathematical Physics*, 57, 092301. https://arxiv.org/abs/1505.04809
+Nigg, D. et al. (2015). Can different quantum state vectors correspond to the same physical state? An experimental test. *New Journal of Physics*, 18(1), 013007. https://arxiv.org/abs/1211.0942
+Nikoli{\'c}, H. (2007). Quantum mechanics: Myths and facts. *Foundations of Physics*, 37, 1563--1611. https://link.springer.com/content/pdf/10.1007/s10701-007-9176-y.pdf
+Nikoli{\'c}, H. (2022). Relativistic QFT from a Bohmian perspective: A proof of concept. *Foundations of Physics*, 52, 80. https://doi.org/10.1007/s10701-022-00600-x
+{nLab authors}. (2021). Causal perturbation theory. https://ncatlab.org/nlab/show/causal+perturbation+theory
+{nLab authors}. (2021). Fiber bundles in physics. https://ncatlab.org/nlab/show/fiber+bundles+in+physics
+Noether, E. (1918). Invariante variationsprobleme. *Nachrichten von der Gesellschaft der Wissenschaften zu G{\"o}ttingen, Mathematisch-Physikalische Klasse*, 235--257. https://www.tandfonline.com/doi/abs/10.1080/00411457108231446
+Norton, J.D. (1993). General covariance and the foundations of general relativity: Eight decades of dispute. *Reports on Progress in Physics*, 56, 791--858. https://web.archive.org/web/20171124074404/http://www.pitt.edu/~jdnorton/papers/decades.pdf
+Ohanian, H.C. (1986). What is spin? *American Journal of Physics*, 54, 500.
+O'Raifeartaigh, L. (1997). *The Dawning of Gauge Theory*. Princeton University Press.
+Ostrik, V. (2004). Tensor categories (after Deligne). https://arxiv.org/abs/math/0401347
+Palmer, T.N. (1995). A local deterministic model of quantum spin measurement. *Proceedings of the Royal Society of London A*, 451, 585--608. https://arxiv.org/abs/quant-ph/9505025
+Palmer, T.N. (2009). The invariant set postulate: A new geometric framework for the foundations of quantum theory and the role played by gravity. https://arxiv.org/abs/0812.1148
+Palmer, T.N. (2016). Invariant set theory. https://arxiv.org/abs/1605.01051
+Pati, J.C. & Salam, A. (1974). Lepton number as the fourth color. *Physical Review D*, 10, 275--289. https://pdfs.semanticscholar.org/21fb/f9d49acf3e3f07098ca686ae4058c38dbd03.pdf
+Patterson, G. (2007). Jean Perrin and the triumph of the atomic doctrine. *Endeavour*, 31, 50--53.
+Pauli, W. (1941). Relativistic field theories of elementary particles. *Reviews of Modern Physics*, 13, 203--232.
+Penington, G. (2019). Entanglement wedge reconstruction and the information paradox. https://arxiv.org/abs/1905.08255
+Penrose, R. (1971). Angular momentum: an approach to combinatorial spacetime. In T. Bastin (ed.), *Quantum Theory and Beyond* (pp. 151--180). Cambridge University Press. https://math.ucr.edu/home/baez/penrose/
+Percacci, R. (2024). *Non-Perturbative Quantum Field Theory: An Introduction to Topological and Semiclassical Methods*. SISSA Medialab. https://library.oapen.org/bitstream/handle/20.500.12657/96025/9788898587056.pdf
+Perrin, J. (1913). *Les Atomes*. Paris: Libraire Felix Alcan.
+Peskin, M.E. (1994). Spin, mass, and symmetry. https://arxiv.org/abs/hep-ph/9405255
+Peskin, M.E. & Schroeder, D.V. (1995). *An Introduction to Quantum Field Theory*. Westview Press.
+Pessa, E. (2009). The concept of particle in quantum field theory. https://arxiv.org/abs/0907.0178
+Phillips, P.W. (2023). Fifty years of Wilsonian renormalization and counting. https://arxiv.org/abs/2309.02484
+{Pierre Auger Collaboration}. (2007). Correlation of the highest-energy cosmic rays with nearby extragalactic objects. *Science*, 318, 938--943.
+{Pierre Auger Collaboration}. (2010). Measurement of the depth of maximum of extensive air showers above $10^{18}$ eV. *Physical Review Letters*, 104, 091101.
+{Pierre Auger Collaboration}. (2020). Features of the energy spectrum of cosmic rays above $2.5 \times 10^{18}$ eV using the Pierre Auger Observatory. *Physical Review Letters*, 125, 121106. https://arxiv.org/abs/2008.06488
+{Pierre Auger Collaboration}. (2020). Measurement of the cosmic ray energy spectrum above $2.5 \times 10^{18}$ eV using the Pierre Auger Observatory. *Physical Review D*, 102, 062005. https://arxiv.org/abs/2008.06486
+Polyakov, A.M. (2008). From quarks to strings. https://arxiv.org/abs/0812.0183
+Preskill, J. (2013). We are all Wilsonians now. https://quantumfrontiers.com/2013/06/18/we-are-all-wilsonians-now/
+Preskill, J. (2018). Quantum computing in the NISQ era and beyond. https://arxiv.org/abs/1801.00862
+Preskill, J. (2021). Quantum computing 40 years later. https://arxiv.org/abs/2106.10522
+Proietti, M. et al. (2019). Experimental test of local observer independence. *Science Advances*, 5, 9832. https://arxiv.org/abs/1902.05080
+Pusey, M.F., Barrett, J., & Rudolph, T. (2012). On the reality of the quantum state. *Nature Physics*, 8, 476. https://arxiv.org/abs/1111.3328
+#Putnam, H. (1965). A philosopher looks at quantum mechanics. *Beyond the Edge of Certainty*, 2, 75--101.
+Putnam, H. (1975). A philosopher looks at quantum mechanics. In *Mathematics, Matter and Method. Philosophical Papers, vol. 1* (pp. 130--158). Cambridge University Press. [(Originally published in 1965)]
+Putnam, H. (2005). A philosopher looks at quantum mechanics (again)*. *The British Journal for the Philosophy of Science*, 56, 615--634. https://www.jstor.org/stable/3541860
+Raman, V.V. & Forman, P. (1969). Why was it Schr{\"o}dinger who developed de Broglie's ideas? *Historical Studies in the Physical Sciences*, 1, 291--314. https://www.jstor.org/stable/27757299
+Redhead, M. (1975). Symmetry in intertheory relations. *Synthese*, 32, 77--112.
+Redhead, M. (1982). Quantum field theory for philosophers. *PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association*, 1982(2), 57--99.
+Redhead, M. (1988). A philosopher looks at quantum field theory. In Brown, H.R. & Harr\'{e}, R. (Eds.) *Philosophical Foundations of Quantum Field Theory* (pp. 9--24). Oxford University Press.
+R{\'e}dei, M. (1996). Why John von Neumann did not like the Hilbert space formalism of quantum mechanics (and what he liked instead). *Studies in History and Philosophy of Science Part B*, 27, 493--510. https://doi.org/10.1016/S1355-2198(96)00017-2
+Reece, R. (2007). Quantum field theory: An introduction. http://rreece.github.io/publications/pdf/2007.Reece.Quantum-Field-Theory-An-Introduction.pdf
+Reichenbach, H. (1944). *Philosophic Foundations of Quantum Mechanics*. Berkeley, CA: University of California Press.
+Reichert, P. & Lazarovici, D. (2022). The point of primitive ontology. *Foundations of Physics*, 52(6), 1--18. http://philsci-archive.pitt.edu/21425/1/The_point_of_primitive_ontology.pdf
+Romero, G.E. (2015). On the ontology of spacetime: Substantivalism, relationism, eternalism, and emergence. *Foundations of Science*, 22, 141--159.
+Rosaler, J. (2022). Dogmas of effective field theory: Scheme dependence, fundamental parameters, and the many faces of the Higgs naturalness principle. *Foundations of Physics*, 52(1), 1--32. https://link.springer.com/article/10.1007/s10701-021-00510-4
+Rubbia, C. (1984). Experimental observation of the intermediate vector bosons $W^{+}$, $W^{-}$, and $Z^{0}$. https://www.nobelprize.org/uploads/2018/06/rubbia-lecture.pdf [Nobel lecture, December 8, 1984]
+Ruetsche, L. (2002). Interpreting quantum field theory. *Philosophy of Science*, 69, 348--378.
+Ruetsche, L. (2018). Renormalization group realism: The ascent of pessimism. *Philosophy of Science*, 85, 1176--1189. https://www.jstor.org/stable/26627776
+Ryden, B. (2003). *Introduction to Cosmology*. Addison Wesley.
+Salam, A. & Ward, J.C. (1964). Electromagnetic and weak interactions. *Physics Letters*, 13, 168--171.
+Salam, A. & Ward, J.C. (1964). Gauge theory of elementary interactions. *Physical Review*, 136, 763--768.
+Saunders, S. (2021). Branch-counting in the Everett interpretation of quantum mechanics. *Proceedings of the Royal Society A*, 477, 20210600. https://royalsocietypublishing.org/doi/10.1098/rspa.2021.0600
+Schlingemann, D. (1998). From euclidean field theory to quantum field theory. https://arxiv.org/abs/hep-th/9802035
+Schlosshauer, M. (2005). Decoherence, the measurement problem, and interpretations of quantum mechanics. *Reviews of Modern Physics*, 76, 1267--1305. https://arxiv.org/abs/quant-ph/0312059
+Schlosshauer, M. & Fine, A. (2012). Implications of the Pusey-Barrett-Rudolph quantum no-go theorem. *Physical Review Letters*, 108(26), 260404. https://arxiv.org/abs/1203.4779
+Sch{\"o}nberg, M. (1954). On the hydrodynamical model of the quantum mechanics. *Il Nuovo Cimento*, 12, 103--133.
+Schreiber, U. (2016). Learn about supersymmetry and Deligne’s theorem. https://www.physicsforums.com/insights/supersymmetry-delignes-theorem/
+Schreiber, U. (2016). Higher prequantum geometry. https://arxiv.org/abs/1601.05956
+Schreiber, U. (2020). Differential cohomology in a cohesive $\infty$-topos. https://ncatlab.org/schreiber/show/differential+cohomology+in+a+cohesive+topos
+Schr{\"o}dinger, E. (1935). Discussion of probability relations between separated systems. *Mathematical Proceedings of the Cambridge Philosophical Society*, 31, 555--563..
+Schr{\"o}dinger, E. (1936). Probability relations between separated systems. *Mathematical Proceedings of the Cambridge Philosophical Society*, 32, 446--452.
+Schr{\"o}dinger, E. (1952). Are there quantum jumps? Part I. *The British Journal for the Philosophy of Science*, 3, 109--123. https://www.jstor.org/stable/685552
+Schr{\"o}dinger, E. (1952). Are there quantum jumps? Part II. *The British Journal for the Philosophy of Science*, 3, 109--123. https://www.jstor.org/stable/685266
+Schr{\"o}dinger, E. (1953). What is matter? *Scientific American*, 189(3), 52--57. https://www.jstor.org/stable/24944334
+Schroeren, D. (2021). Symmetry fundamentalism in quantum mechanics. *Philosophical Studies*. https://link.springer.com/article/10.1007%2Fs11098-021-01634-z
+Schwartz, M.D. (2014). *Quantum Field Theory and the Standard Model*. Cambridge University Press.
+Schweber, S.S. (1961). *An Introduction to Relativistic Quantum Field Theory*. Harper & Row.
+Schweber, S.S. (1993). The ebb and flow of of reductionism. In Brown, L.M. (Ed.) *Renormalization: From Lorentz to Landau (and Beyond)* (pp. 155-166). Springer-Verlag.
+Sebens, C.T. (2019). How electrons spin. *Studies in History and Philosophy of Science Part B*, 68, 40--50. https://arxiv.org/abs/1806.01121
+Seidewitz, E. (2017). Avoiding Haag's theorem with parameterized quantum field theory. *Foundations of Physics*, 47(3), 355--374. https://arxiv.org/abs/1501.05658
+Seifert, V.A. (2024). The chemical bond is a real pattern. *Philosophy of Science*. https://philpapers.org/archive/SEITCB-2.pdf
+Shifman, M. (2012). *Advanced Topics in Quantum Field Theory: A lecture course*. Cambridge University Press.
+Shikhovtsev, E.B. and Ford, K.W. (2003). Biographical sketch of Hugh Everett, III. https://space.mit.edu/home/tegmark/everett/
+Shimony, A. (1984). Contextual hidden variables theories and Bell's inequalities. *The British Journal for the Philosophy of Science*, 35, 25--45. https://www.jstor.org/stable/687555
+Simon, B. (1976). Quantum dynamics: From automorphism to Hamiltonian. In Lieb, E.H. (Ed.) *Studies in Mathematical Physics: Essays in Honor of Valentine Bargmann* (pp. 327-350). Princeton University Press. http://www.math.caltech.edu/SimonPapers/R12.pdf
+Simon, H.A. (1962). The architecture of complexity. *Proceedings of the American Philosophical Society*, 106, 467--482.
+Slansky, R. (1981). Group theory for unified model building. *Physics Reports*, 79, 1--128. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.126.1581&rep=rep1&type=pdf
+Stacey, B.C. (2014). Von Neumann was not a quantum Bayesian. https://arxiv.org/abs/1412.2409
+Stein, H. (2021). Physics and philosophy meet: The strange case of Poincar{\'e}. *Foundations of Physics*, 51, 1--24.
+Steinhardt, P.J. (1983). Natural inflation. In *The Very Early Universe: Proc. Nuffield Workshop* (pp. 251--66). Cambridge University Press.
+Stopp, F., Ortiz-Guti{\'e}rrez, L., Lehec, H., & Schmidt-Kaler, F. (2021). Single ion thermal wave packet analyzed via time-of-flight detection. *New Journal of Physics*, 23, 063002. https://iopscience.iop.org/article/10.1088/1367-2630/abffc0
+Streater, R. & Wightman, A. (1964). *PCT, spin and statistics, and all that*. New York: Benjamin.
+Sudarshan, E.C.G. & Marshak, R.E. (1994). Origin of the universal $V-A$ theory. *AIP Conference Proceedings*, 300, 110. https://repositories.lib.utexas.edu/handle/2152/29431
+Summers, S.J. (1999). On the Stone-von Neumann uniqueness theorem and its ramifications. In *John von Neumann and the Foundations of Quantum Physics* (pp. 135--152). Budapest: Kluwer.
+Suppe, F. (1974). *The Structure of Scientific Theories*. University of Illinois Press.
+Tegmark, M. (1993). Apparent wave function collapse caused by scattering. *Foundations of Physics Letters*, 6, 571--590. https://arxiv.org/abs/gr-qc/9310032
+Teller, P. (1997). *An Interpretive Introduction to Quantum Field Theory*. Princeton University Press.
+Teller, P. (2000). The gauge argument. *Philosophy of Science*. 67, 466--481.
+Todorov, I. (2012). Quantization is a mystery. https://arxiv.org/abs/1206.3116
+'t Hooft, G. (1971). Renormalizable Lagrangians for massive Yang-Mills fields. Nuclear Physics B, 35, 167--188.
+'t Hooft, G. (1978). Extended objects in gauge field theories. In Bod, D.H. & Kamal, A.N. (Eds.) *Particles and Fields* (pp. 165-198). New York: Plenum.
+'t Hooft, G. (1994). *Under the Spell of the Gauge Principle*. World Scientific.
+'t Hooft, G. (1999). A confrontation with infinity. https://www.nobelprize.org/prizes/physics/1999/thooft/lecture/ [Nobel Lecture, December 8, 1999]
+'t Hooft, G. (2005). The conceptual basis of quantum field theory. https://dspace.library.uu.nl/bitstream/handle/1874/22670/hooft_05_conceptualbasisofquantumfieldtheory.pdf
+'t Hooft, G. (2007). Lie groups in physics. http://www.staff.science.uu.nl/~hooft101/lectures/lieg07.pdf
+'t Hooft, G. (2014). The cellular automaton interpretation of quantum mechanics. https://arxiv.org/abs/1405.1548
+'t Hooft, G. (2021). An unorthodox view on quantum mechanics. https://arxiv.org/abs/2104.03179
+Tong, D. (2006). Lectures on Quantum Field Theory. https://www.damtp.cam.ac.uk/user/tong/qft.html
+Tong, D. (2022). Lectures on Supersymmetric Field Theory. https://www.damtp.cam.ac.uk/user/tong/susy.html
+Tumulka, R. (2017). Bohmian mechanics. https://arxiv.org/abs/1704.08017
+V\'{a}k\'{a}r, M. (2011). Principal bundles and gauge theories. https://arxiv.org/abs/2110.06334
+van Hove, L. (1958). Von Neumann's contributions to quantum theory. *Bulletin of the American Mathematical Society*. 64, 95--100. https://projecteuclid.org/journals/bulletin-of-the-american-mathematical-society-new-series/volume-64/issue-3.P2/Von-Neumanns-contributions-to-quantum-theory/bams/1183522374.full
+van Nieuwenhuizen, P. (1981). Supergravity. *Physics Reports*, 68, 189--398.
+Vitagliano, E., Tamborra, I., & Raffelt, G. (2020). Grand unified neutrino spectrum at Earth: Sources and spectral components. *Reviews of Modern Physics*, 92(4), 045006. https://arxiv.org/abs/1910.11878
+von Neumann, J. (1955). *The Mathematical Foundations of Quantum Mechanics* (R.T. Beyer, Trans.). Princeton University Press. [(Originally published in German in 1932)]
+Wallace, D. (2011). Taking particle physics seriously: A critique of the algebraic approach to quantum field theory. *Studies in History and Philosophy of Modern Physics*, 42, 116--125.
+Wallace, D. (2012). *The Emergent Multiverse*. Oxford University Press.
+Wallace, D. (2013). Inferential vs dynamical conceptions of physics. https://arxiv.org/abs/1306.4907
+Wallace, D. (2014). Deflating the Aharonov-Bohm effect. https://arxiv.org/abs/1407.5073
+Wallace, D. (2016). What is orthodox quantum mechanics? https://arxiv.org/abs/1604.05973
+Wallace, D. (2018). Decoherence and its role in the modern measurement problem. https://arxiv.org/abs/1111.2187
+Wallace, D. (2020). Lessons from realistic physics for the metaphysics of quantum theory. *Synthese*, 197, 4303--4318. https://link.springer.com/article/10.1007/s11229-018-1706-y
+Wallace, D. (2022). The sky is blue, and other reasons quantum mechanics is not underdetermined by evidence. https://arxiv.org/abs/2205.00568
+Way, R. (2010). Introduction to connections on principal fibre bundles. http://personal.maths.surrey.ac.uk/T.Bridges/GEOMETRIC-PHASE/Connections_intro.pdf
+Weinberg, S. (1964). Feynman rules for any spin II: Massless particles. *Physical Review*, 134, B882.
+Weinberg, S. (1964). Feynman rules for any spin. *Physical Review*, 133, B1318.
+Weinberg, S. (1967). A model of leptons. *Physical Review Letters*, 19, 1264--1266. https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.19.1264
+Weinberg, S. (1977). *The First Three Minutes*. Basic Books.
+Weinberg, S. (1979). Conceptual foundations of the unified theory of weak and electromagnetic interactions. https://www.nobelprize.org/uploads/2018/06/weinberg-lecture.pdf [Nobel lecture, December 8, 1979]
+Weinberg, S. (1995). *The Quantum Theory of Fields: Volume 1 Foundations*. Cambridge University Press.
+Weinberg, S. (1997). What is an elementary particle? *Beam Line*, 27, 17--21. https://www.slac.stanford.edu/pubs/beamline/27/1/27-1-weinberg.pdf
+Weinberg, S. (1997). What is quantum field theory, and what did we think it is? *Conceptual foundations of quantum field theory: Proceedings, Symposium and Workshop, Boston, USA, March 1-3, 1996*. http://arxiv.org/abs/hep-th/9702027
+Weyl, H. (1918). *Raum, Zeit, Materie*.
+Weyl, H. (1929). Elektron und gravitation. *Zeitschrift f{\"u}r Physik*, 56, 330--352.
+Weyl, H. (2009). *Philosophy of Mathematics and Natural Science*. Princeton University Press. [(Originally published in German in 1927)]
+Wheeler, J.A. (1957). Assessment of Everett's "relative state" formulation of quantum theory. *Reviews of Modern Physics*, 29(3), 46--465.
+Wigner, E.P. (1939). On unitary representations of the inhomogeneous Lorentz group. *Annals of Mathematics*, 40, 149--204.
+Wigner, E.P. (1954). Conservation laws in classical and quantum physics. *Progress of Theoretical Physics*, 11, 437--440. https://academic.oup.com/ptp/article/11/4-5/437/1831457
+Wigner, E.P. (1959). *Group Theory and its Application to the Quantum Mechanics of Atomic Spectra*. Academic Press. [(Originally published in German in 1931)]
+Wigner, E.P. (1961). Remarks on the mind-body question. In Good, I.J. (ed.). *The Scientist Speculates: An Anthology of Partly-Baked Ideas*. London: Heinemann.
+Wilhelm, I. (2022). Centering the Everett interpretation. https://philpapers.org/rec/WILCTE-4
+Williams, P. (2019). Scientific realism made effective. *British Journal for the Philosophy of Science*, 70, 209--237. https://www.journals.uchicago.edu/doi/full/10.1093/bjps/axx043
+Wilson, K.G. (1974). The renormalization group and the $\varepsilon$ expansion. *Physics Reports*, 12, 75--199.
+Wilson, K.G. (1979). Problems in physics with many scales of length. *Scientific American*, 241, 158--179. https://www.jstor.org/stable/24965270
+Witten, E. (1989). Quantum field theory and the Jones polynomial. *Communications Mathematical Physics*, 121, 351--399. https://projecteuclid.org/journals/communications-in-mathematical-physics/volume-121/issue-3/Quantum-field-theory-and-the-Jones-polynomial/cmp/1104178138.full
+Witten, E. (1998). Anti-de Sitter space and holography. *Advances in Theoretical and Mathematical Physics*, 2, 253--291. https://arxiv.org/abs/hep-th/9802150
+Wu, J. (2021). Explaining universality: infinite limit systems in the renormalization group method. *Synthese*, 199, 14897--14930. https://link.springer.com/article/10.1007/s11229-021-03448-2
+Wuthrich, C. (2014). Putnam looks at quantum mechanics (again and again). https://arxiv.org/abs/1406.5737
+Yang, C.N. & Mills, R.L. (1954). Conservation of isotopic spin and isotopic gauge invariance. *Physical Review*, 96, 191--195.
+Wu, T.T. & Yang, C.N. (1975). Concept of nonintegrable phase factors and global formulation of gauge fields. *Physical Review D*, 12, 3845--3857.
+Yang, C.N. (1996). Symmetry and physics. *Proceedings of the American Philosophical Society*, 140(3), 267--288. https://www.jstor.org/stable/pdf/987310.pdf
+Yock, P. (2018). Newton's hypotheses on the structure of matter. https://arxiv.org/abs/1807.05486
+Zapata-Carratala, C. (2021). Dimensioned algebra: The mathematics of physical quantities. https://arxiv.org/abs/2108.08703
+Zee, A. (2003). *Quantum Field Theory in a Nutshell*. Princeton University Press.
+Zeidler, E. (2007). *Quantum Field Theory I: Basics in mathematics and physics, Vol. 1*. Springer.
+Zeidler, E. (2008). *Quantum Field Theory II: Quantum electrodynamics, Vol. 2*. Springer.
+Zeidler, E. (2011). *Quantum Field Theory III: Gauge theory, Vol. 3*. Springer.
+Zurek, W.H. (1991). Decoherence and the transition from quantum to classical. *Physics Today*, 44, 36. https://www.unicamp.br/~chibeni/textosdidaticos/zurek-1991.pdf
+Zurek, W.H. (2001). Decoherence, einselection, and the quantum origins of the classical. *Reviews of Modern Physics*, 75(3), 715--775. https://arxiv.org/abs/quant-ph/0105127
+Zurek, W.H. (2003). Decoherence and the transition from quantum to classical--Revisited. https://arxiv.org/abs/quant-ph/0306072
+Zurek, W.H. (2022). Quantum theory of the classical: Einselection, envariance, quantum Darwinism and extantons. https://arxiv.org/abs/2208.09019
+{Zyla, P.A. et al. (Particle Data Group)}. (2021). Review of Particle Physics. *Progress of Theoretical and Experimental Physics*, 2020, 083C01. https://pdg.lbl.gov/2021/reviews/contents_sports.html [(and 2021 update)] 

@@ -1,0 +1,128 @@
+Aaronson, S. (2011). Why philosophers should care about computational complexity. https://arxiv.org/abs/1108.1791
+Aguirre, A., Foster, B., & Merali, Z. (2016). *Trick Or Truth?: The mysterious connection between physics and mathematics*. Springer.
+Atiyah, M. et al. (1994). Responses to "Theoretical Mathematics: Toward a cultural synthesis of mathematics and theoretical physics", by A. Jaffe and F. Quinn. *Bulletin of the American Mathematical Society*, 30, 178--207. https://arxiv.org/abs/math/9404229
+Awodey, S. & Forssell, H. (2013). First-order logical duality. *Annals of Pure and Applied Logic*, 164, 319--348.
+Awodey, S. (2014). Structuralism, invariance, and univalence. *Philosophia Mathematica*, 22, 1--11.
+Azzouni, J. (2015). Nominalism, the nonexistence of mathematical objects. In Davis, E. & Davis, P. (eds.), *Mathematics, Substance and Surmise* (pp. 133-145). Springer.
+Baez, J.C. (2002). The octonions. *Bulletin of the American Mathematical Society*, 39, 145--205. https://arxiv.org/abs/math/0105155
+Baez, J.C. & Dolan, J. (1995). Higher‐dimensional algebra and topological quantum field theory. *Journal of Mathematical Physics*, 36, 6073--6105. https://arxiv.org/abs/q-alg/9503002
+Baez, J.C. & Stay, M. (2009). Physics, topology, logic, and computation: A Rosetta Stone. https://arxiv.org/abs/0903.0340
+Bayes, T. (1736). *An Introduction to the Doctrine of Fluxions, and a Defence of the Mathematicians Against the Objections of the Author of The Analyst*. London. [(published anonymously)]
+B\`{e}s, A. (2002). A survey of arithmetical definability. In *A tribute to Maurice Boffa, Soc.Math* (pp. 1--54). Belgique. http://lacl.u-pec.fr/bes/publi/survey.pdf
+B\`{e}s, A. & Choffrut, C. (2022). Decidability of definability issues in the theory of real addition. *Fundamenta Informaticae*, 188, 15--39. https://fi.episciences.org/10753
+Bonevac, D. (2003). *Deduction: Introductory to Symbolic Logic* (2nd ed.). Blackwell.
+Boolos, G. (1984). To be is to be the value of a variable (or to be some values of some variables). *Journal of Philosophy*, 81, 430--449. https://www.jstor.org/stable/2026308
+Bradley, T.D. (2018). What is applied category theory? https://arxiv.org/abs/1809.05923
+Bradley, T.D., Terilla, J., & Vlassopoulos, Y. (2021). An enriched category theory of language: from syntax to semantics. https://arxiv.org/abs/2106.07890
+Brouwer, L.E.J. (1908). Unreliability of the logical principles. https://arxiv.org/abs/1511.01113
+Bueno, O. (2010). A defense of second-order logic. *Axiomathes*, 20, 365--383. https://web.as.miami.edu/personal/obueno/Site/Online_Papers_files/SecnOrd_FINAL.pdf
+Bueno, O. (2013). Nominalism in the philosophy of mathematics. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/nominalism-mathematics/
+Burgess, J.P. (1983). Why I am not a nominalist. *Notre Dame Journal of Formal Logic*, 24(1), 93--105.
+Burke, W.L. (1985). *Applied Differential Geometry*. Cambridge University Press.
+Button, T. & Walsh, S. (2018). *Philosophy and Model Theory*. Oxford University Press.
+Carnap, R. (1947). *Meaning and Necessity*. University of Chicago Press.
+Carnap, R. (1958). *Introduction to Symbolic Logic and its Applications*. New York: Dover Publications.
+Carnap, R. (1983). The Logicist foundations of mathematics. In Benacerraf, P. & Putnam, H. (Eds.) *Philosophy of Mathematics: Selected Readings* (pp. 41--52). Cambridge University Press. [(Originally published in 1931 as "Die logizistische Grundlegung der Mathematik", \emph{Erkenntnis}, 2, 91--121.)]
+Carroll, L. (1895). What the tortoise said to Achilles. *Mind*, 4(14), 278--280. http://www.ditext.com/carroll/tortoise.html
+Carter, N. (2009). *Visual Group Theory*. Mathematical Association of America.
+Chen, E.K. (2018). The intrinsic structure of quantum mechanics. http://philsci-archive.pitt.edu/15140/
+Church, A. (1936). A note on the Entscheidungsproblem. *Journal of Symbolic Logic*, 1, 40--41.
+Church, A. (1940). A formulation of the simple theory of types. *Journal of Symbolic Logic*, 5, 56--68. https://doi.org/10.2307/2266170
+Connes, A. (1985). Non-commutative differential geometry. *Publications Math\'{e}matiques de L'Institut des Hautes Scientifiques*, 62, 41--144. https://link.springer.com/article/10.1007/BF02698807
+De Cruz, H. (2016). Numerical cognition and mathematical realism. *Philosopher's Imprint*, 16, 1--13. http://hdl.handle.net/2027/spo.3521354.0016.016
+Drake, S. (1957). *Discoveries and Opinions of Galileo*. New York: Doubleday and Co.
+Dwyer, P. S. (1967). Some applications of matrix derivatives in multivariate analysis. *Journal of the American Statistical Association*, 62, 607--625. https://www.tandfonline.com/doi/abs/10.1080/01621459.1967.10482934
+Eilenberg, S. & MacLane, S. (1945). General theory of natural equivalences.  *Transactions of the American Mathematical Society*, 58, 231--294. https://www.ams.org/journals/tran/1945-058-00/S0002-9947-1945-0013131-6/S0002-9947-1945-0013131-6.pdf
+Enderton, H.B. (2009). Second-order and higher-order logic. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/archives/sum2019/entries/logic-higher-order/
+Ewald, W. (2018). The emergence of first-order logic. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/logic-firstorder-emergence/
+Field, H. (1989). *Realism, Mathematics, and Modality*. Oxford: Blackwell.
+Field, H. (2016). *Science Without Numbers* (2nd ed.). Oxford University Press. [(Originally published in 1980 by Princeton University Press)]
+Fong, B. & Spivak, D.I. (2018). Seven sketches in compositionality: An invitation to applied category theory. https://arxiv.org/abs/1803.05316
+Franz\'{e}n, T. (2005). *G{\"o}del's Theorem: An incomplete guide to its use and abuse*. A K Peters.
+Frankel, T. (1997). *The Geometry of Physics: An Introduction*. Cambridge University Press.
+Frenkel, E. (2005). Lectures on the Langlands program and conformal field theory. https://arxiv.org/abs/hep-th/0512172
+Girard, J.Y. (1987). Linear logic. *Theoretical Computer Science*, 50, 1--102. http://girard.perso.math.cnrs.fr/linear.pdf
+Gisin, N. (2020). Indeterminism in physics and intuitionistic mathematics. https://arxiv.org/abs/2011.02348
+G{\"o}del, K. (1929). *{\"U}ber die Vollst{\"a}ndigkeit des Logikkalk{\"u}ls*. University Of Vienna. [(Doctoral dissertation. The first proof of the completeness theorem.)]
+G{\"o}del, K. (1931). {\"U}ber formal unentscheidbare S{\"a}tze der Principia Mathematica und verwandter Systeme, I. *Monatshefte f{\"u}r Mathematik und Physik*, 38, 173--198.
+G{\"o}del, K. (1995). Some basic theorems on the foundations of mathematics and their implications. In S. Feferman (Ed.), *Kurt G{\"o}del Collected Works, Vol. III* (304--323). Oxford University Press. [(Originally published in 1951)]
+Goldfarb, W. (2005). On G{\"o}del's way in: The influence of Rudolf Carnap. *Bulletin of Symbolic Logic*, 11, 185--193. https://www.jstor.org/stable/1556748
+Goldstein, R. (2005). *Incompleteness: The Proof and Paradox of Kurt G{\"o}del*. Norton.
+Goodman, N. & Quine, W.V.O. (1947). Steps toward a constructive nominalism. *The Journal of Symbolic Logic*, 12, 105--122.
+Hall, B.C. (2000). *An Elementary Introduction to Groups and Representations*. https://arxiv.org/abs/math-ph/0005032
+Hamming, R. W. (1980). The unreasonable effectiveness of mathematics. *The American Mathematical Monthly*, 87, 81--90.
+Hardy, G.H. (1940). *A Mathematician's Apology*. Cambridge University Press.
+Henkin, L. (1950). Completeness in the theory of types. *Journal of Symbolic Logic*, 15, 81--91. https://doi.org/10.2307/2266967
+Henkin, L. (1953). Some notes on nominalism. *The Journal of Symbolic Logic*, 18, 19--29. https://doi.org/10.2307/2266323
+Henkin, L. (1996). The discovery of my completeness proofs. *Bulletin of Symbolic Logic*, 2, 127--158. https://doi.org/10.2307/421107
+Hilbert, D. (1926). \"{U}ber das Unendliche. *Mathematische Annalen*, 95, 161--190. https://lawrencecpaulson.github.io/papers/on-the-infinite.pdf [English translation, On the infinite, in van Heijenoort, J. (1967). \emph{From Frege to G\"{o}del: A Source Book in Mathematical Logic, 1897-1931}, pp. 183--201. Harvard University Press.]
+Hilbert, D. (1967). The foundations of mathematics. In J. van Heijenoort (Ed.), *From Frege to G\"{o}del: A Source Book in Mathematical Logic, 1879-1931* (pp. 464--479). Harvard University Press. [(From a lecture given by Hilbert in 1927).]
+Hodges, W. (1985). Truth in a structure. *Proceedings of the Aristotelian Society*, 86, 135--151. Wiley. https://www.jstor.org/stable/4545041
+Hodges, W. (1997). *A Shorter Model Theory*. Cambridge University Press.
+Holm, D.D. (2011). *Geometric Mechanics - Part I: Dynamics And Symmetry* (2nd ed.). Imperial College Press.
+Holm, D.D. (2011). *Geometric Mechanics - Part II: Rotating, Translating, and Rolling* (2nd ed.). Imperial College Press.
+Hunter, G. (1971). *Metalogic: An Introduction to the Metatheory of Standard First-Order Logic*. University of California Press.
+Jerzak, E. (2009). Second-order logic, or: How I learned to stop worrying and love the incompleteness theorems. http://www.math.uchicago.edu/~may/VIGRE/VIGRE2009/REUPapers/Jerzak.pdf
+Kleene, S.C. (1943). Recursive predicates and quantifiers. *Transactions of the American Mathematical Society*, 53, 41--73. https://www.jstor.org/stable/1990131
+Kleene, S.C. (1952). *Introduction to Metamathematics*. North-Holland Publishing.
+Kripke, S.A. (1959). A completeness theorem in modal logic. *The Journal of Symbolic Logic*, 24, 1--14. http://naturalthinker.net/trl/texts/Kripke,Saul/Kripke%20S.%20-%20A%20Completeness%20Theorem%20in%20Modal%20Logic.pdf
+Lawvere, F.W. (1963). *Functorial Semantics of Algebraic Theories and Some Algebraic Problems in the context of Functorial Semantics of Algebraic Theories*. Columbia University. http://www.tac.mta.ca/tac/reprints/articles/5/tr5abs.html [(Ph.D. thesis)]
+Lewis, C.I. (1917). The issues concerning material implication. *The Journal of Philosophy, Psychology and Scientific Methods*, 14, 350-356. https://www.jstor.org/stable/2940255
+Lewis, D. (1986). *On the Plurality of Worlds*. Oxford: Blackwell.
+Leitgeb, H., Nodelman, U., & Zalta, E.N. (2024). A defense of logicism. https://mally.stanford.edu/Papers/logicism.pdf
+Linsky, B. & Zalta, E.N. (1995). Naturalized platonism versus platonized naturalism. *Journal of Philosophy*, 92, 525--555. https://www.jstor.org/stable/2940786
+Linsky, B. & Zalta, E.N. (2006). What is Neologicism? *Bulletin of Symbolic Logic*, 12, 60-99. http://mally.stanford.edu/Papers/neologicism2.pdf
+Lloyd, S. (1993). Quantum-mechanical computers and uncomputability. Physical Review Letters, 71, 943--46.
+MacFarlane, J. (2021). *Philosophical Logic: A contemporary introduction*. Routledge.
+Makowsky, J.A. (1995). The impact of model theory on theoretical computer science. *Studies in Logic and the Foundations of Mathematics*, 134, 239--262. https://doi.org/10.1016/S0049-237X(06)80047-9
+Marschall, B. (2021). Carnap and Beth on the limits of tolerance. *Canadian Journal of Philosophy*, 51, 282--300. https://doi.org/10.1017/can.2021.16
+Marschall, B. (2022). Carnap's philosophy of mathematics. *Philosophy Compass*, 17, 12884. https://doi.org/10.1111/phc3.12884
+Mart{\'i}nez-Ordaz, M.R. (2021). The ignorance behind inconsistency toleration. *Synthese*, 198, 8665--8686. http://philsci-archive.pitt.edu/19672/
+McCrimmon, K. (2000). *A Taste of Jordan Algebras*. Springer. http://old.math.nsc.ru/LBRT/a1/files/mccrimmon.pdf
+Mill, J.S. (1877). *An Examination of Sir William Hamilton's Philosophy, vol II*. New York: Henry Holt and Co.
+Monk, J.D. (1976). *Mathematical Logic*. Springer.
+Ord, T. (2024). Bounds on the rates of growth and convergence of all physical processes. https://arxiv.org/abs/2410.10928
+Post, E.L. (1921). Introduction to the general theory of elementary propositions. *American Journal of Mathematics*, 43, 163--185.
+Priest, G. (1998). What is so bad about contradictions? *Journal of Philosophy*, 95, 410--426. 
+Putnam, H. (1971). *Philosophy of Logic*. New York: Harper & Row.
+Putnam, H. (1975). What is mathematical truth? *Historia Mathematica*, 2(4), 529--543.
+Quine, W.V.O. (1986). *Philosophy of Logic* (2nd ed.). Harvard University Press.
+Raatikainen, P. (2020). G{\"o}del's incompleteness theorems. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/goedel-incompleteness/
+Reid, C. (1996). *Hilbert*. Copernicus.
+Rodin, A. (2012). Axiomatic method and category theory. https://arxiv.org/abs/1210.1478
+Rossberg, M. (2004). First-order logic, second-order logic, and completeness. In V.F. Hendricks et al. (eds.) *First-Order Logic Revisited*. Berlin: Logos-Verlag. http://logic.amu.edu.pl/images/4/46/Completenessrossberg.pdf
+Russell, B. (1905). On denoting. *Mind*, 14(56), 479--493. https://www.finophd.eu/wp-content/uploads/2018/11/russell_on_denoting.pdf
+Russell, B. (1908). Mathematical logic as based on the theory of types. *American journal of mathematics*, 30, 222--262. https://www.jstor.org/stable/2369948
+Russell, G. (2015). The justification of the basic laws of logic. *Journal of Philosophical Logic*, 44(6), 793--803.
+{Open Logic Project}. (2020). *The Open Logic Text*. https://openlogicproject.org/
+Shapiro, S. (1990). Second-order logic, foundations, and rules. *The Journal of Philosophy*, 87, 234--261.
+Shapiro, S. (1991). *Foundations without Foundationalism: A Case for Second-Order Logic*. Oxford University Press.
+Shapiro, S. (2000). *Thinking about Mathematics: The Philosophy of Mathematics*. Oxford University Press.
+Sheffer, H.M. (1913). A set of five independent postulates for Boolean algebras, with application to logical constants. *Transactions of the American Mathematical Society*, 14, 481--488. https://www.ams.org/journals/tran/1913-014-04/S0002-9947-1913-1500960-1/
+Sider, T. (2022). Crash course on higher-order logic. https://tedsider.org/teaching/higher_order_20/higher_order_crash_course.pdf
+Smith, P. (2020). *An Introduction to Formal Logic* (2nd ed.). Cambridge University Press.
+Smith, P. (2022). *Beginning Mathematical Logic: A Study Guide*. https://www.logicmatters.net/resources/pdfs/LogicStudyGuide.pdf
+Snapper, E. (1979). The three crises in mathematics: Logicism, intuitionism and formalism. *Mathematics Magazine*, 52, 207--216. https://www.maa.org/sites/default/files/pdf/upload_library/22/Allendoerfer/1980/0025570x.di021111.02p0048m.pdf
+Spivak, D.I. (2013). Category theory for scientists. https://arxiv.org/abs/1302.6946
+Stillwell, J. (2004). Emil Post and his anticipation of G{\"o}del and Turing. *Mathematics Magazine*, 77, 3--14.
+Sullivan, B.W. (2013). *Everything You Always Wanted To Know About Mathematics*. Carnegie Mellon University. https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf [(Ph.D. thesis)]
+Sussman, G.J. & Wisdom, J. (2013). *Functional Differential Geometry*. MIT Press. https://mitpress.mit.edu/books/functional-differential-geometry
+Tait, W.W. (1983). Against intuitionism: Constructive mathematics is part of classical mathematics. *Journal of Philosophical Logic*, 12, 173--195. 
+Tao, T. (2007). Differential forms and integration. https://www.math.ucla.edu/~tao/preprints/forms.pdf
+Tarski, A. (1969). Truth and proof. *Scientific American*, 220, 63--77. https://web.archive.org/web/20141229081319/http://people.scs.carleton.ca/~bertossi/logic/material/tarski.pdf
+Tarski, A. (1983). The concept of truth in formalized languages. In J. Corcoran (ed.), *Logic, Semantics, Metamathematics*. Hackett. http://www.thatmarcusfamily.org/philosophy/Course_Websites/Readings/Tarski%20-%20The%20Concept%20of%20Truth%20in%20Formalized%20Languages.pdf [(Originally published in 1936 in German.)]
+Tegmark, M. (2008). The mathematical universe. *Foundations of Physics*, 38, 101--150. https://arxiv.org/abs/0704.0646
+Tegmark, M. (2014). *Our Mathematical Universe*. Knopf.
+Teller, P. (1989). *A Modern Formal Logic Primer*. Prentice Hall. https://tellerprimer.ucdavis.edu/
+Tu, L.W. (2017). *Differential Geometry: Connections, Curvature, and Characteristic Classes*. Springer.
+Turing, A.M. (1937). On computable numbers, with an application to the Entscheidungsproblem. *Proceedings of the London Mathematical Society*, 42, 230--65.
+Varadarajan, V.S. (2003). Vector bundles and connections in physics and mathematics: some historical remarks. In *A Tribute to CS Seshadri* (pp. 502--541). Gurgaon: Hindustan Book Agency.
+Viteri, S. & DeDeo, S. (2022). Epistemic phase transitions in mathematical proofs. *Cognition*, 225, 105120. https://www.sciencedirect.com/science/article/pii/S0010027722001081
+von Fintel, K. (2011). Conditionals. https://dspace.mit.edu/handle/1721.1/95781
+Wall, C.T.C. (1964). Graded Brauer groups. *Journal f{\"u}r die reine und angewandte Mathematik*, 213, 187--199.
+Weiss, W. & D'Mello, C. (2015). *Fundamentals of Model Theory*. https://www.math.toronto.edu/weiss/model_theory.pdf
+Westbury, B.W. (2010). Hurwitz' theorem on composition algebras. https://arxiv.org/abs/1011.6197
+Wigner, E.P. (1960). The unreasonable effectiveness of mathematics in the natural sciences. *Communications on pure and applied mathematics*, 13, 1--14. http://www.dartmouth.edu/~matc/MathDrama/reading/Wigner.html [Richard courant lecture in mathematical sciences delivered at New York University, May 11, 1959]
+Zalta, E.N. (1983). *Abstract Objects: An Introduction to Axiomatic Metaphysics*. Dordrecht: Reidel. https://mally.stanford.edu/abstract-objects.pdf
+Zalta, E.N. (2024). *Principia Logico-Metaphysica*. https://mally.stanford.edu/principia.pdf [(Draft)]
+Zee, A. (2016). *Group Theory in a Nutshell for Physicists*. Princeton University Press.

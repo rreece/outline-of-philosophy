@@ -1,0 +1,467 @@
+Agresti, A. & Coull, B.A. (1998). Approximate is better than "exact" for interval estimation of binomial proportions. *The American Statistician*, 52, 119--126.
+Aifer, M. et al. (2023). Thermodynamic linear algebra. https://arxiv.org/abs/2308.05660
+Alain, G. & Bengio, Y. (2016). Understanding intermediate layers using linear classifier probes. https://arxiv.org/abs/1610.01644
+Aldrich, J. (1997). R. A. Fisher and the making of maximum likelihood 1912-1922. *Statistical Science*, 12, 162-176.
+Amari, S. (1993). Backpropagation and stochastic gradient descent method. *Neurocomputing*, 5, 185--196.
+Amari, S. (1998). Natural gradient works efficiently in learning. *Neural Computation*, 10, 251--276.
+Amari, S. (2016). *Information Geometry and Its Applications*. Springer Japan.
+Anderson, C. (2008). The End of Theory: The data deluge makes the scientific method obsolete. *Wired*. https://www.wired.com/2008/06/pb-theory/ [June 23, 2008.]
+Anderson, J.A. & Rosenfeld, E. (1998). *Talking Nets: An oral history of neural networks*. MIT Press.
+Andrews, M. (2023). The devil in the data: Machine learning & the theory-free ideal. https://philsci-archive.pitt.edu/22690/1/ML_Atheoreticity.pdf
+Arras, K.O. (1998). An introduction to error propagation: Derivation, meaning and examples of $C_y= F_x C_x F_{x}^{\top}$. http://srl.informatik.uni-freiburg.de/papers/arrasTR98.pdf [EPFL-ASL-TR-98-01 R3.]
+Arulkumaran, K., Deisenroth, M.P., Brundage, M., & Bharath, A.A. (2017). Deep Reinforcement Learning: A Brief Survey. *IEEE Signal Processing Magazine*, 34, 26--38.
+Asch, M. et al. (2018). Big data and extreme-scale computing: Pathways to Convergence-Toward a shaping strategy for a future software and data ecosystem for scientific inquiry. *The International Journal of High Performance Computing Applications*, 32, 435--479.
+{ATLAS and CMS Collaborations}. (2011). Procedure for the LHC Higgs boson search combination in Summer 2011. http://cds.cern.ch/record/1379837 [CMS-NOTE-2011-005, ATL-PHYS-PUB-2011-11.]
+{ATLAS Collaboration}. (2012). Combined search for the Standard Model Higgs boson in $pp$ collisions at $\sqrt{s}$ = 7 TeV with the ATLAS detector. *Physical Review D*, 86, 032003. https://arxiv.org/abs/1207.0319
+{ATLAS Statistics Forum}. (2011). The CLs method: Information for conference speakers. http://www.pp.rhul.ac.uk/~cowan/stat/cls/CLsInfo.pdf
+Aytekin, C. (2022). Neural networks are decision trees. https://arxiv.org/abs/2210.05189
+Bach, F. (2022). *Learning Theory from First Principles*. https://www.di.ens.fr/~fbach/ltfp_book.pdf [(Draft)]
+Bach, F. (2024). Scaling laws of optimization. https://francisbach.com/scaling-laws-of-optimization/
+Bahdanau, D., Cho, K. & Bengio, Y. (2015). Neural machine translation by jointly learning to align and translate. *International Conference on Learning Representations, 3rd*, 2015. https://arxiv.org/abs/1409.0473
+Bahri, Y., Kadmon, J., Pennington, J., Schoenholz, S.S., Sohl-Dickstein, J., & Ganguli1, S. (2020). Statistical mechanics of deep learning. *Annual Review of Condensed Matter Physics*, 11, 501--528.
+Balasubramanian, V. (1996). A geometric formulation of Occam's razor for inference of parametric distributions. https://arxiv.org/abs/adap-org/9601001
+Balasubramanian, V. (1996). Statistical inference, Occam's razor and statistical mechanics on the space of probability distributions. https://arxiv.org/abs/cond-mat/9601030
+Balestriero, R., Pesenti, J., & LeCun, Y. (2021). Learning in high dimension always amounts to extrapolation. https://arxiv.org/abs/2110.09485
+Banerjee, S., Agarwal, A., & Singla, S. (2024). LLMs will always hallucinate, and we need to live with this. https://arxiv.org/abs/2409.05746
+Batson, J., Haaf, C.G., Kahn, Y., & Roberts, D.A. (2021). Topological obstructions to autoencoding. https://arxiv.org/abs/2102.08380
+Battiloro, C. et al. (2024). E(n) equivariant topological neural networks. https://arxiv.org/abs/2405.15429
+Baydin, A.G. et al. (2019). Etalumis: Bringing probabilistic programming to scientific simulators at scale. https://arxiv.org/abs/1907.03382
+Behnke, O., Kr{\"o}ninger, K., Schott, G., & Sch{\"o}rner-Sadenius, T. (2013). *Data Analysis in High Energy Physics: A Practical Guide to Statistical Methods*. Wiley.
+Belinkov, Y. (2022). Probing classifiers: Promises, shortcomings, and advances. *Computational Linguistics*, 48, 207--219.
+Belkin, M. (2021). Fit without fear: remarkable mathematical phenomena of deep learning through the prism of interpolation. https://arxiv.org/abs/2105.14368
+Belkin, M., Hsu, D., Ma, S., & Mandal, S. (2019). Reconciling modern machine-learning practice and the classical bias-variance trade-off. *Proceedings of the National Academy of Sciences*, 116(32), 15849--15854. https://arxiv.org/abs/1812.11118
+Bellman, R. (1952). On the theory of dynamic programming. *Proceedings of the National Academy of Sciences*, 38, 716--719.
+Bender, E.M. & Koller, A. (2020). Climbing towards NLU: On meaning, form, and understanding in the age of data. *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics*, 58, 5185--5198. https://aclanthology.org/2020.acl-main.463.pdf
+Bender, E.M. & Lascarides, A. (2020). *Linguistic Fundamentals for Natural Language Processing II: 100 Essentials from Semantics and Pragmatics*. Morgan & Claypool. https://link.springer.com/book/10.1007/978-3-031-02172-5
+Bengio, Y. (2009). Learning deep architectures for AI. *Foundations and Trends in Machine Learning*, 2(1), 1--127. https://www.iro.umontreal.ca/~lisa/pointeurs/TR1312.pdf
+Benjamin, D.J. et al. (2017). Redefine statistical significance. *PsyArXiv*. https://psyarxiv.com/mky9j/ [July 22, 2017]
+Benjamini, Y. et al. (2021). The ASA president's task force statement on statistical significance and replicability. *Annals of Applied Statistics*, 16, 1--2. https://magazine.amstat.org/blog/2021/08/01/task-force-statement-p-value/
+Bensusan, H. (2000). Is machine learning experimental philosophy of science? In *ECAI2000 Workshop notes on scientific Reasoning in Artificial Intelligence and the Philosophy of Science* (pp. 9--14).
+Berger, J.O. (2003). Could Fisher, Jeffreys and Neyman have agreed on testing? *Statistical Science*, 18(1), 1--32.
+Berger, J.O. & Wolpert, R.L. (1988). *The Likelihood Principle* (2nd ed.). Haywood, CA: The Institute of Mathematical Statistics.
+Bertsch, A., Alon, U., Neubig, G., & Gormley, M.R. (2023). Unlimiformer: Long-range transformers with unlimited length input. https://arxiv.org/abs/2305.01625
+B{\'e}rut, A., Arakelyan, A., Petrosyan, A., Ciliberto, S., Dillenschneider, R., & Lutz, E. (2012). Experimental verification of Landauer’s principle linking information and thermodynamics. *Nature*, 483(7388), 187--189. doi:10.1038/nature10872 
+B{\'e}rut, A., Petrosyan, A., & Ciliberto, S. (2015). Information and thermodynamics: Experimental verification of Landauer's erasure principle. https://arxiv.org/abs/1503.06537
+Bhargava, A., Witkowski, C., Shah, M., & Thomson, M. (2023). What's the magic word? A control theory of LLM prompting. https://arxiv.org/abs/2310.04444
+Bhattiprolu, P.N., Martin, S.P., & Wells, J.D. (2020). Criteria for projected discovery and exclusion sensitivities of counting experiments. https://arxiv.org/abs/2009.07249
+Billings, D., Davidson, A., Schaeffer, J., & Szafron, D. (2002). The challenge of poker. *Artificial Intelligence*, 134, 201--240. https://doi.org/10.1016/S0004-3702(01)00130-8
+Billings, D. et al. (2003). Approximating game-theoretic optimal strategies for full-scale poker. *IJCAI*, 3, 661. http://webdocs.cs.ualberta.ca/~duane/publications/pdf/2003ijcai.pdf
+Birnbaum, A. (1962). On the foundations of statistical inference. *Journal of the American Statistical Association*, 57, 269--326.
+Bishop, C.M. (2006). *Pattern Recognition and Machine Learning*. Springer. 
+Blondel, M., Martins, A.F., & Niculae, V. (2020). Learning with Fenchel-Young losses. *Journal of Machine Learning Research*, 21(35), 1--69.
+Bogatskiy, A., Hoffman, T., Miller, D.W., Offermann, J.T., & Liu, X. (2023). Explainable equivariant neural networks for particle physics: PELICAN. https://arxiv.org/abs/2307.16506
+Bottou, L. (1998). Stochastic gradient descent tricks. In Orr, G.B. & Muller, K.R. (eds.), *Neural Networks: Tricks of the trade*. Springer. https://www.microsoft.com/en-us/research/publication/stochastic-gradient-tricks/
+Bousquet, O., Hanneke, S., Moran, S., Van Handel, R., & Yehudayoff, A. (2021). A theory of universal learning. In *Proceedings of the 53rd Annual ACM SIGACT Symposium on Theory of Computing* (pp. 532--541). https://dl.acm.org/doi/pdf/10.1145/3406325.3451087
+Bowling, M., Burch, N., Johanson, M., & Tammelin, O. (2015). Heads-up limit hold'em poker is solved. *Science*, 347, 145--149. http://science.sciencemag.org/content/347/6218/145
+Bronstein, M.M., Bruna, J., Cohen, T., & Velickovic, P. (2021). Geometric deep learning: Grids, groups, graphs, geodesics, and gauges. https://arxiv.org/abs/2104.13478
+Brown, L.D., Cai, T.T., & DasGupta, A. (2001). Interval estimation for a binomial proportion. *Statistical Science*, 16(2), 101--133. https://projecteuclid.org/euclid.ss/1009213286
+Brown, N. (2020). *Equilibrium finding for large adversarial imperfect-information games*. http://www.cs.cmu.edu/~noamb/thesis.pdf [(Ph.D. thesis)]
+Brown, N., Bakhtin, A., Lerer, A., & Gong, Q. (2020). Combining deep reinforcement learning and search for imperfect-information games. https://arxiv.org/abs/2007.13544
+Brown, N., Lerer, A., Gross, S., & Sandholm, T. (2019). Deep counterfactual regret minimization. https://arxiv.org/abs/1811.00164
+Brown, N. & Sandholm, T. (2017). Safe and nested subgame solving for imperfect-information games. https://arxiv.org/abs/1705.02955
+Brown, N. & Sandholm, T. (2018). Superhuman AI for heads-up no-limit poker: Libratus beats top professionals. *Science*, 359, 418--424. https://science.sciencemag.org/content/359/6374/418
+Brown, N. & Sandholm, T. (2019). Solving imperfect-information games via discounted regret minimization. *Proceedings of the AAAI Conference on Artificial Intelligence*, 33, 1829--1836. https://arxiv.org/abs/1809.04040
+Brown, N. & Sandholm, T. (2019). Superhuman AI for multiplayer poker. *Science*, 365, 885--890. https://science.sciencemag.org/content/365/6456/885
+Brown, T.B. et al. (2020). Language models are few-shot learners. https://arxiv.org/abs/2005.14165 [(Paper on the GPT-3 model by OpenAI)] 
+Bubeck, S. et al. (2023). Sparks of Artificial General Intelligence: Early experiments with GPT-4. https://arxiv.org/abs/2303.12712
+Bubeck, S. & Sellke, M. (2023). A universal law of robustness via isoperimetry. *Journal of the ACM*, 70(2), 1--18. https://dl.acm.org/doi/full/10.1145/3578580
+Bulatov, A., Kuratov, Y., & Burtsev, M.S. (2022). Recurrent memory transformer. https://arxiv.org/abs/2207.06881
+Bulatov, A., Kuratov, Y., & Burtsev, M.S. (2023). Scaling transformer to 1M tokens and beyond with RMT. https://arxiv.org/abs/2304.11062
+Burch, N. (2018). *Time and Space: Why imperfect information games are hard*. University of Alberta. https://era.library.ualberta.ca/items/db44409f-b373-427d-be83-cace67d33c41/view/bcb00dca-39e6-4c43-9ec2-65026a50135e/Burch_Neil_E_201712_PhD.pdf  [(Ph.D. thesis)]
+Burch, N., Lanctot, M., Szafron, D., & Gibson, R. (2012). Efficient Monte Carlo counterfactual regret minimization in games with many player actions. *Advances in Neural Information Processing Systems*, 25. https://proceedings.neurips.cc/paper/2012/file/3df1d4b96d8976ff5986393e8767f5b2-Paper.pdf
+Burch, N., Moravcik, M., & Schmid, M. (2019). Revisiting CFR+ and alternating updates. *Journal of Artificial Intelligence Research*, 64, 429--443. https://www.jair.org/index.php/jair/article/view/11370
+Buzbas, E.O., Devezer, B., & Baumgaertner, B. (2022). The logical structure of experiments lays the foundation for a theory of reproducibility. https://www.biorxiv.org/content/10.1101/2022.08.10.503444v1
+Caballero, E., Gupta, K., Rish, I., & Krueger, D. (2022). Broken neural scaling laws. https://arxiv.org/abs/2210.14891
+Caldeira, J. & Nord, B. (2020). Deeply uncertain: comparing methods of uncertainty quantification in deep learning algorithms. *Machine Learning: Science and Technology*, 2, 015002. https://iopscience.iop.org/article/10.1088/2632-2153/aba6f3
+Calin, O. & Udriste, C. (2014). *Geometric Modeling in Probability and Statistics*. Springer Switzerland.
+Canatar, A., Bordelon, B., & Pehlevan, C. (2020). Spectral bias and task-model alignment explain generalization in kernel regression and infinitely wide neural networks. https://arxiv.org/abs/2006.13198
+Cantwell, G.T. (2022). Approximate sampling and estimation of partition functions using neural networks. https://arxiv.org/abs/2209.10423
+Carnap, R. (1945). The two concepts of probability. *Philosophy and Phenomenological Research*, 5(4), 513--32. 
+Carnap, R. (1947). Probability as a guide in life. *Journal of Philosophy*, 44(6), 141--48.
+Carnap, R. (1952). *The Continuum of Inductive Methods*. University of Chicago Press. https://www.phil.cmu.edu/projects/carnap/editorial/latex_pdf/1952-1.pdf
+Carnap, R. (1953). What is probability? *Scientific American*, 189(3), 128--139. https://www.jstor.org/stable/24944342
+Carnap, R. (1960). *Logical Foundations of Probability*. University of Chicago Press.
+Cartwright, N. (2001). What is wrong with Bayes nets? *Monist*, 84, 242--264. https://doi.org/10.5840/monist20018429
+Carver, J.C., Weber, N., Ram, K., Gesing, S., & Katz, D.S. (2022). A survey of the state of the practice for research software in the United States. *PeerJ Computer Science*, 8, 963. https://peerj.com/articles/cs-963/
+Casadei, D. (2012). Estimating the selection efficiency. *Journal of Instrumentation*, 7, 08021. https://arxiv.org/abs/0908.0130
+Cesa-Bianchi, N. & Lugosi, G. (2006). *Prediction, Learning, and Games*. Cambridge University Press. https://ii.uni.wroc.pl/~lukstafi/pmwiki/uploads/AGT/Prediction_Learning_and_Games.pdf
+Chang, X., Li, Y., Oymak, S., & Thrampoulidis, C. (2020). Provable benefits of overparameterization in model compression: From double descent to pruning neural networks. https://arxiv.org/abs/2012.08749
+Chen, R.T.Q., Rubanova, Y., Bettencourt, J., & Duvenaud, D. (2018). Neural ordinary differential equations. https://arxiv.org/abs/1806.07366
+Chen, S., Dobriban, E., & Lee, J.H. (2020). A group-theoretic framework for data augmentation. https://arxiv.org/abs/1907.10905
+Chen, T. & Guestrin, C. (2016). Xgboost: A scalable tree boosting system. https://arxiv.org/abs/1603.02754
+Chen, X. et al. (2018). Open is not enough. *Nature Physics*, 15, 113--119. https://www.nature.com/articles/s41567-018-0342-2
+Chevalley, M., Schwab, P., & Mehrjou, A. (2024). Deriving causal order from single-variable interventions: Guarantees & algorithm. https://arxiv.org/abs/2405.18314
+Chiley, V. et al. (2019). Online normalization for training neural networks. *NeurIPS 2019*. https://arxiv.org/abs/1905.05894
+Chowdhery, A. et al. (2022). PaLM: Scaling language modeling with pathways. https://arxiv.org/abs/2204.02311
+Church, K.W. & Hestness, J. (2019). A survey of 25 years of evaluation. *Natural Language Engineering*, 25(6), 753--767. https://www.cambridge.org/core/journals/natural-language-engineering/article/survey-of-25-years-of-evaluation/E4330FAEB9202EC490218E3220DDA291
+Cilibrasi, R. & Vitanyi, P.M.B. (2005). Clustering by compression. *IEEE Transactions on Information Theory*, 51(4), 1523--1545.
+Ciresan, D., Meier, U. Masci, J. & Schmidhuber, J. (2012). Multi-column deep neural network for traffic sign classification. *Neural Networks*, 32, 333--338. https://arxiv.org/abs/1202.2745
+Clayton, A. (2021). *Bernoulli's Fallacy: Statistical Illogic and the Crisis of Modern Science*. Columbia University Press.
+Clopper, C.J. & Pearson, E.S. (1934). The use of confidence or fiducial limits illustrated in the case of the binomial. *Biometrika*, 26(4), 404--413.
+Coadou, Y. (2022). Boosted decision trees. https://arxiv.org/abs/2206.09645
+Cohen, J. (1992). A power primer. *Psychological Bulletin*, 112, 155--9. https://www2.psych.ubc.ca/~schaller/528Readings/Cohen1992.pdf
+Cohen, T.S., Weiler, M., Kicanaoglu, B., & Welling, M. (2019). Gauge equivariant convolutional networks and the icosahedral CNN. https://arxiv.org/abs/1902.04615
+Cohen, T.S. & Welling, M. (2016). Group equivariant convolutional networks. *Proceedings of International Conference on Machine Learning*, 2016, 2990--9. http://proceedings.mlr.press/v48/cohenc16.pdf
+Collobert, R., Hannun, A., & Synnaeve, G. (2019). A fully differentiable beam search decoder. *International Conference on Machine Learning*, 2019, 1341--1350. http://proceedings.mlr.press/v97/collobert19a/collobert19a.pdf
+Cousins, R.D. (2018). Lectures on statistics in theory: Prelude to statistics in practice. https://arxiv.org/abs/1807.05996
+Cousins, R.D. & Highland, V.L. (1992). Incorporating systematic uncertainties into an upper limit. *Nuclear Instruments and Methods in Physics Research Section A*, 320, 331--335. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.193.1581&rep=rep1&type=pdf
+Cowan, G. (1998). *Statistical Data Analysis*. Clarendon Press.
+Cowan, G. (2012). Discovery sensitivity for a counting experiment with background uncertainty. https://www.pp.rhul.ac.uk/~cowan/stat/notes/medsigNote.pdf
+#Cowan, G. (2016). Statistics. In C. Patrignani \emph{et al}. (Particle Data Group), \emph{Chinese Physics C}, \emph{40}, 100001. \url{http://pdg.lbl.gov/2016/reviews/rpp2016-rev-statistics.pdf}
+Cowan, G. (2016). Statistics. In C. Patrignani et al. (Particle Data Group), *Chinese Physics C*, 40, 100001. http://pdg.lbl.gov/2016/reviews/rpp2016-rev-statistics.pdf
+Cowan, G., Cranmer, K., Gross, E., & Vitells, O. (2011). Asymptotic formulae for likelihood-based tests of new physics. *European Physical Journal C*, 71, 1544. https://arxiv.org/abs/1007.1727
+Cowan, G., Cranmer, K., Gross, E., & Vitells, O. (2012). Asymptotic distribution for two-sided tests with lower and upper boundaries on the parameter of interest. https://arxiv.org/abs/1210.6948
+Cox, D.R. (2006). *Principles of Statistical Inference*. Cambridge University Press.
+Cram\'{e}r, H. (1946). A contribution to the theory of statistical estimation. *Skandinavisk Aktuarietidskrift*, 29, 85--94.
+Cranmer, K. (2015). Practical statistics for the LHC. https://arxiv.org/abs/1503.07622
+Cranmer, K., Pavez, J., & Louppe, G. (2015). Approximating likelihood ratios with calibrated discriminative classifiers. https://arxiv.org/abs/1506.02169
+Cranmer, K., Brehmer, J., & Louppe, G. (2019). The frontier of simulation-based inference. https://arxiv.org/abs/1911.01429
+Cranmer, K., Seljak, U., & Terao, K. (2021). Machine learning. In P.A. Zyla et al. *Progress of Theoretical and Experimental Physics*, 2020, 083C01. https://pdg.lbl.gov/2021-rev/2021/reviews/contents_sports.html [(and 2021 update)] 
+Cranmer, K., Shibata, A., Verkerke, W., Moneta, L., & Lewis, G. (2012). HistFactory: A tool for creating statistical models for use with RooFit and RooStats. http://inspirehep.net/record/1236448/ [Technical Report: CERN-OPEN-2012-016]
+Cranmer, M. et al. (2020). Discovering symbolic models from deep learning with inductive biases. https://arxiv.org/abs/2006.11287
+D'Agnolo, R.T. & Wulzer, A. (2019). Learning New Physics from a Machine. *Physical Review D*, 99, 015014. https://arxiv.org/abs/1806.02350
+Dao, T. et al. (2022). FlashAttention: Fast and memory-efficient exact attention with IO-awareness. https://arxiv.org/abs/2205.14135
+Dao, T. & Gu, A. (2024). Transformers are SSMs: Generalized models and efficient algorithms through structured state space duality. https://arxiv.org/abs/2405.21060
+Dar, Y., Muthukumar, V., & Baraniuk, R.G. (2021). A farewell to the bias-variance tradeoff? An overview of the theory of overparameterized machine learning. https://arxiv.org/abs/2109.02355
+Dawid, A.P. (2014). Discussion of "On the Birnbaum Argument for the Strong Likelihood Principle". *Statistical Science*, 29, 240--241. https://projecteuclid.org/journals/statistical-science/volume-29/issue-2/Discussion-of-On-the-Birnbaum-Argument-for-the-Strong-Likelihood/10.1214/14-STS470.full
+de Carvalho, M., Page, G.L., & Barney, B.J. (2019). On the geometry of Bayesian inference. *Bayesian Analysis*, 14, 1013--1036. https://projecteuclid.org/journals/bayesian-analysis/volume-14/issue-4/On-the-Geometry-of-Bayesian-Inference/10.1214/18-BA1112.full
+Denby, B. (1988). Neural networks and cellular automata in experimental high energy physics. *Computer Physics Communications*, 49(3), 429--448. https://inis.iaea.org/collection/NCLCollectionStore/_Public/20/013/20013339.pdf
+Denby, B. (1993). The use of neural networks in high-energy physics. *Neural Computation*, 5(4), 505--549. https://lss.fnal.gov/archive/1992/pub/Pub-92-215-E.pdf
+Dettmers, T., Pagnoni, A., Holtzman, A., & Zettlemoyer, L. (2023). QLoRA: Efficient finetuning of quantized LLMs. https://arxiv.org/abs/2305.14314
+Devlin, J., Chang, M., Lee, K., & Toutanova, K. (2018). BERT: Pre-training of deep bidirectional transformers for language understanding. https://arxiv.org/abs/1810.04805
+Dewey, J. (1938). *Logic: The Theory of Inquiry*. New York: Henry Holt and Co.
+Dhariwal, P. & Nichol, A. (2021). Diffusion models beat GANs on image synthesis. https://arxiv.org/abs/2105.05233
+Dieleman, S., Fauw, J.D., & Kavukcuoglu, K. (2016). Exploiting cyclic symmetry in convolutional neural networks. https://arxiv.org/abs/1602.02660
+Dinan, E., Yaida, S., & Zhang, S. (2023). Effective theory of transformers at initialization. https://arxiv.org/abs/2304.02034
+Doob, J.L. (1935). The limiting distributions of certain statistics. *Annals of Mathematical Statistics*, 6, 160--169. https://www.jstor.org/stable/2957546
+Dosovitskiy, A. et al. (2020). An image is worth 16x16 words: Transformers for image recognition at scale. https://arxiv.org/abs/2010.11929
+Edelman, B.L., Goel, S., Kakade, S., & Zhang, C. (2021). Inductive biases and variable creation in self-attention mechanisms. https://arxiv.org/abs/2110.10090
+Edwards, A.W.F. (1974). The history of likelihood. *International Statistical Review*, 42(1), 9--15.
+Efron, B. & Hastie, T. (2016). *Computer Age Statistical Inference: Algorithms, evidence, and data science*. Cambridge University Press.
+Elhage, N. et al. (2022). Toy models of superposition. https://transformer-circuits.pub/2022/toy_model/index.html
+Evans, M. (2013). What does the proof of Birnbaum's theorem prove? https://arxiv.org/abs/1302.5468
+Fang, Z. et al. (2022). Is out-of-distribution detection learnable? *NeurIPS 2022*. https://arxiv.org/abs/2210.14707
+Fefferman, C., Mitter, S., & Narayanan, H. (2016). Testing the manifold hypothesis. *Journal of the American Mathematical Society*, 29, 983--1049. https://www.ams.org/journals/jams/2016-29-04/S0894-0347-2016-00852-4/S0894-0347-2016-00852-4.pdf
+Feldman, G.J., & Cousins, R.D. (1998). A unified approach to the classical statistical analysis of small signals. *Physical Review D*, 57, 3873. https://arxiv.org/abs/physics/9711021
+Fienberg, S.E. (2006). When did Bayesian inference become "Bayesian"? *Bayesian Analysis*, 1, 1--40. https://projecteuclid.org/journals/bayesian-analysis/volume-1/issue-1/When-did-Bayesian-inference-become-Bayesian/10.1214/06-BA101.full
+Finzi, M. et al. (2025). Compute-optimal LLMs provably generalize better with scale. https://arxiv.org/abs/2504.15208
+Firth, J.R. (1957). A synopsis of linguistic theory, 1930-1955. In *Studies in Linguistic Analysis* (pp. 1--31). Oxford: Blackwell.
+Fisher, R.A. (1912). On an absolute criterion for fitting frequency curves. *Statistical Science*, 12(1), 39--41.
+Fisher, R.A. (1915). Frequency distribution of the values of the correlation coefficient in samples of indefinitely large population. *Biometrika*, 10(4), 507--521.
+Fisher, R.A. (1921). On the "probable error" of a coefficient of correlation deduced from a small sample. *Metron*, 1, 1--32.
+Fisher, R.A. (1935). *The Design of Experiments*. Hafner.
+Fisher, R.A. (1955). Statistical methods and scientific induction. *Journal of the Royal Statistical Society, Series B*, 17, 69--78.
+Frankle, J. & Carbin, M. (2018). The lottery ticket hypothesis: Finding sparse, trainable neural networks. https://arxiv.org/abs/1803.03635
+Fr\'{e}chet, M. (1943).  Sur l'extension de certaines \'{e}valuations statistiques au cas de petits \'{e}chantillons. *Revue de l'Institut International de Statistique*, 11, 182--205.
+Freund, Y. & Schapire, R.E. (1997). A decision-theoretic generalization of on-line learning and an application to boosting. *Journal of Computer and System Sciences*, 55, 119--139. https://doi.org/10.1006/jcss.1997.1504
+Fuchs, F.B., Worrall, D.E., Fischer, V., & Welling, M. (2020). SE(3)-Transformers: 3D roto-translation equivariant attention networks. https://arxiv.org/abs/2006.10503
+Fukushima, K. & Miyake, S. (1982). Neocognitron: A new algorithm for pattern recognition tolerant of deformations and shifts in position. *Pattern Recognition*, 15, 455--469.
+Gamba, M., Englesson, E., Bj{\"o}rkman, M., & Azizpour, H. (2022). Deep double descent via smooth interpolation. https://arxiv.org/abs/2209.10080
+Gammerman, A., Vovk, V., & Vapnik, V. (1998). Learning by transduction. *Uncertainty in Artificial Intelligence*, 14, 148--155. https://arxiv.org/abs/1301.7375
+Gandenberger, G. (2015). A new proof of the likelihood principle. *British Journal for the Philosophy of Science*, 66, 475--503. https://www.journals.uchicago.edu/doi/abs/10.1093/bjps/axt039
+Gandenberger, G. (2016). Why I am not a likelihoodist. *Philosopher's Imprint*, 16(7), 1--22. https://quod.lib.umich.edu/p/phimp/3521354.0016.007/--why-i-am-not-a-likelihoodist
+Gao, Y. & Chaudhari, P. (2020). An information-geometric distance on the space of tasks. https://arxiv.org/abs/2011.00613
+Gardner, M.W. & Dorling, S.R. (1998). Artificial neural networks (the multilayer perceptron)--a  review of applications in the atmospheric sciences. *Atmospheric Environment*, 32, 2627--2636.
+Gelman, A. & Hennig, C. (2017). Beyond subjective and objective in statistics. *Journal of the Royal Statistical Society: Series A (Statistics in Society)*, 180(4), 967--1033.
+Gelman, A. & Vehtari, A. (2021). What are the most important statistical ideas of the past 50 years? *Journal of the American Statistical Association*, 116, 2087--2097. https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1938081
+Geshkovski, B., Letrouit, C., Polyanskiy, Y., & Rigollet, P. (2023). A mathematical perspective on Transformers. https://arxiv.org/abs/2312.10794
+Ghosh, N. & Belkin, M. (2022). A universal trade-off between the model size, test loss, and training loss of linear predictors. https://arxiv.org/abs/2207.11621
+Gibson, R. (2014). *Regret minimization in games and the development of champion multiplayer computer poker-playing agents*. University of Alberta. https://era.library.ualberta.ca/items/15d28cbf-49d4-42e5-a9c9-fc55b1d816af/view/5ee708c7-6b8b-4b96-b1f5-23cdd95b6a46/Gibson_Richard_Spring-202014.pdf [(Ph.D. thesis)]
+Goldreich, O. & Ron, D. (1997). On universal learning algorithms. *Information Processing Letters*, 63(3), 131--136. https://www.wisdom.weizmann.ac.il/~oded/p_ul.html
+Golovneva, O., Wang, T., Weston, J., & Sukhbaatar, S. (2024). Contextual position encoding: Learning to count what's important. https://arxiv.org/abs/2405.18719
+Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*. MIT Press. http://www.deeplearningbook.org
+Good, I.J. (1988). The interface between statistics and philosophy of science. *Statistical Science*, 3, 386--397.
+Goodman, N. (1955). *Fact, Fiction, and Forecast*. Harvard University Press.
+Goodman, S.N. (1999). Toward evidence-based medical statistics 1: The P value fallacy. *Annals of Internal Medicine*, 130(12), 995--1004. https://courses.botany.wisc.edu/botany_940/06EvidEvol/papers/goodman1.pdf
+Goodman, S.N. (1999). Toward evidence-based medical statistics 2: The Bayes factor. *Annals of Internal Medicine*, 130(12), 1005--1013. https://courses.botany.wisc.edu/botany_940/06EvidEvol/papers/goodman2.pdf
+Gorard, S. & Gorard, J. (2016). What to do instead of significance testing? Calculating the 'number of counterfactual cases needed to disturb a finding'. *International Journal of Social Research Methodology*, 19, 481--490.
+Graves, A. (2013). Generating sequences with recurrent neural networks. https://arxiv.org/abs/1308.0850
+Grinsztajn, L., Oyallon, E., & Varoquaux, G. (2022). Why do tree-based models still outperform deep learning on tabular data? https://arxiv.org/abs/2207.08815
+Gu, A., Goel, K., & R{\'e}, C. (2021). Efficiently modeling long sequences with structured state spaces. https://arxiv.org/abs/2111.00396
+Gu, A. & Dao, T. (2023). Mamba: Linear-time sequence modeling with selective state spaces. https://arxiv.org/abs/2312.00752
+Gurnee, W. et al. (2023). Finding neurons in a haystack: Case studies with sparse probing. https://arxiv.org/abs/2305.01610
+Gurnee, W. & Tegmark, M. (2023). Language models represent space and time. https://arxiv.org/abs/2310.02207
+Habara, K., Fukuda, E.H., & Yamashita, N. (2023). Convergence analysis and acceleration of the smoothing methods for solving extensive-form games. https://arxiv.org/abs/2303.11046
+Haber, E. & Ruthotto, L. (2017). Stable architectures for deep neural networks. https://arxiv.org/abs/1705.03341
+Haber, E. et al. (2018). Learning across scales: Multiscale methods for convolution neural networks. *AAAI Proceedings*, 32, 3142--3148. https://cdn.aaai.org/ojs/11680/11680-13-15208-1-2-20201228.pdf
+Hacking, I. (1965). *Logic of Statistical Inference*. Cambridge University Press.
+Hacking, I. (1971). Jacques Bernoulli's Art of conjecturing. *The British Journal for the Philosophy of Science*, 22, 209--229.
+Hacking, I. (2001). *An Introduction to Probability and Inductive Logic*. Cambridge University Press.
+Halverson, J., Maiti, A., & Stoner, K. (2020). Neural networks and quantum field theory. https://arxiv.org/abs/2008.08601
+Hanley, J.A. & Lippman-Hand, A. (1983). If nothing goes wrong, is everything all right?: Interpreting zero numerators. *JAMA*, 249(13), 1743--1745.
+Hart, S. & Mas‐Colell, A. (2000). A simple adaptive procedure leading to correlated equilibrium. *Econometrica*, 68, 1127--1150. https://www.ma.imperial.ac.uk/~dturaev/Hart0.pdf
+Hartigan, J.A. (1985). Statistical theory in clustering. *Journal of Classification*, 2, 63--76. https://link.springer.com/article/10.1007/BF01908064
+Hastie, T., Montanari, A., Rosset, S., & Tibshirani, R. J. (2022). Surprises in high-dimensional ridgeless least squares interpolation. *Annals of Statistics*, 50, 949. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9481183/
+Hastie, T., Tibshirani, R., & Friedman, J. (2009). *The Elements of Statistical Learning: Data Mining, Inference, and Prediction* (2nd ed.). Springer.
+Heinrich, J. & Lyons, L. (2007). Systematic errors. *Annual Reviews of Nuclear and Particle Science*, 57, 145--169. https://www.annualreviews.org/doi/abs/10.1146/annurev.nucl.57.090506.123052
+Heinrich, J. & Silver, D. (2016). Deep reinforcement learning from self-play in imperfect-information games. https://arxiv.org/abs/1603.01121
+He, K., Zhang, X., Ren, S., & Sun, J. (2015). Deep residual learning for image recognition. https://arxiv.org/abs/1512.03385
+Henighan, T. et al. (2023). Superposition, memorization, and double descent. https://transformer-circuits.pub/2023/toy-double-descent/index.html
+Hestness, J. et al. (2017). Deep learning scaling is predictable, empirically. https://arxiv.org/abs/1712.00409
+Hochreiter, S. & Schmidhuber, J. (1997). Long short-term memory. *Neural Computation*, 9(8), 1735--1780.
+Hoffmann, J. et al. (2022). Training compute-optimal large language models. https://arxiv.org/abs/2203.15556
+Holzm{\"u}ller, D. (2020). On the universality of the double descent peak in ridgeless regression. https://arxiv.org/abs/2010.01851
+Horacek, M. (2022). *Risk-Aversion in Algorithms for Poker*. https://is.muni.cz/th/ydbvx/thesis.pdf
+Hornik, K., Stinchcombe, M., & White, H. (1989). Multilayer feedforward networks are universal approximators. *Neural Networks*, 2, 359--366. https://cognitivemedium.com/magic_paper/assets/Hornik.pdf
+Howard, A.G. et al. (2017). MobileNets: Efficient convolutional neural networks for mobile vision applications. https://arxiv.org/abs/1704.04861
+Howard, J.N., Mandt, S., Whiteson, D., & Yang, Y. (2021). Foundations of a fast, data-driven, machine-learned simulator. https://arxiv.org/abs/2101.08944
+Hu, E.J. et al (2021). LoRA: Low-rank adaptation of large language models. https://arxiv.org/abs/2106.09685
+Huang, L. et al. (2020). Normalization techniques in training DNNs: Methodology, analysis and application. https://arxiv.org/abs/2009.12836
+Huber, F. (2007). Confirmation and induction. *Internet Encyclopedia of Philosophy*. http://www.iep.utm.edu/conf-ind/
+Huh, M., Cheung, B., Wang, T., & Isola, P. (2024). The platonic representation hypothesis. https://arxiv.org/abs/2405.07987
+Huh, M. et al. (2024). Training neural networks from scratch with parallel low-rank adapters. https://arxiv.org/abs/2402.16828
+Hutchins, J. (2000). Yehoshua Bar-Hillel: A philosophers' contribution to machine translation.
+Hutter, M. (2007). Universal Algorithmic Intelligence: A mathematical top-down approach. In *Artificial General Intelligence* (pp. 227--290). Springer. http://www.hutter1.net/ai/aixigentle.htm
+Ingrosso, A. & Goldt, S. (2022). Data-driven emergence of convolutional structure in neural networks. https://arxiv.org/abs/2202.00565
+Ioannidis, J.P. (2005). Why most published research findings are false. *PLOS Medicine*, 2(8), 696--701.
+Ismael, J. (2023). Reflections on the asymmetry of causation. *Interface Focus*, 13(3), 20220081. https://royalsocietypublishing.org/doi/pdf/10.1098/rsfs.2022.0081
+Ismailov, V. (2020). A three layer neural network can represent any multivariate function. https://arxiv.org/abs/2012.03016
+Jamali, M. et al. (2024). Semantic encoding during language comprehension at single-cell resolution. *Nature*, 631, 610--616. https://www.nature.com/articles/s41586-024-07643-2
+James, F. (2006). *Statistical Methods in Experimental Particle Physics* (2nd ed.). World Scientific.
+James, F. & Roos, M. (1975). MINUIT: A system for function minimization and analysis of the parameter errors and corrections. *Computational Physics Communications*, 10, 343--367. https://cds.cern.ch/record/310399
+James, W. & Stein, C. (1961). Estimation with quadratic loss. In *Proceedings of the Fourth Berkeley Symposium on Mathematical Statistics and Probability, Vol. 1* (pp. 361--379). University of California Press. https://projecteuclid.org/accountAjax/Download?urlId=bsmsp%2F1200512173&downloadType=presschapter&isResultClick=True
+Javed, K. & Sutton, R.S. (2024). The big world hypothesis and its ramifications for artificial intelligence. http://incompleteideas.net/papers/The_Big_World_Hypothesis.pdf
+Jaynes, E.T. (2003). *Probability Theory: The Logic of Science*. https://bayes.wustl.edu/etj/prob/book.pdf
+Jevons, W.S. (1873). The philosophy of inductive inference. *Fortnightly Review*, 14. 457--476. London: Chapman and Hall.
+Jevons, W.S. (1873). The use of hypothesis. *Fortnightly Review*, 14, 778-788. London: Chapman and Hall.
+Jiao, L. et al. (2024). AI meets physics: A comprehensive survey. *Artificial Intelligence Review*, 57, 256. https://doi.org/10.1007/s10462-024-10874-4
+Johanson, M. (2013). Measuring the size of large no-limit poker games. https://arxiv.org/abs/1302.7008
+Johanson, M. (2016). *Robust Strategies and Counter-Strategies: From Superhuman to Optimal Play*. University of Alberta. http://johanson.ca/publications/theses/2016-johanson-phd-thesis/2016-johanson-phd-thesis.pdf  [(Ph.D. thesis)]
+Johanson, M., Bard, N., Lanctot, M., Gibson, R.G., & Bowling, M. (2012). Efficient Nash equilibrium approximation through Monte Carlo counterfactual regret minimization. *Proceedings of the 11th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2012)*, 2, 837--846. https://www.idi.ntnu.no/emner/it3105/materials/poker/monte-carlo-cfm-2012.pdf
+Johanson, M., Waugh, K., Bowling, M., & Zinkevich, M. (2011). Accelerating best response calculation in large extensive games. *IJCAI 2011, Proceedings of the 22nd International Joint Conference on Artificial Intelligence*, 11, 258--265. http://www.cs.cmu.edu/~kwaugh/publications/johanson11.pdf
+Joyce, T. & Herrmann, J.M. (2017). A review of no free lunch theorems, and their implications for metaheuristic optimisation. In X.S. Yang (ed.), *Nature-Inspired Algorithms and Applied Optimization* (pp. 27--52).
+Junk, T. (1999). Confidence level computation for combining searches with small statistics. *Nuclear Instruments and Methods in Physics Research Section A*, 434, 435--443. https://arxiv.org/abs/hep-ex/9902006
+Jurafsky, D. & Martin, J.H. (2022). *Speech and Language Processing: An introduction to natural language processing, computational linguistics, and speech recognition* (3rd ed.). https://web.stanford.edu/~jurafsky/slp3/ed3book_jan122022.pdf
+Kaplan, J. et al. (2019). Notes on contemporary machine learning for physicists. https://sites.krieger.jhu.edu/jared-kaplan/files/2019/04/ContemporaryMLforPhysicists.pdf
+Kaplan, J. et al. (2020). Scaling laws for neural language models. https://arxiv.org/abs/2001.08361
+Kardum, M. (2020). Rudolf Carnap--The grandfather of artificial neural networks: The influence of Carnap's philosophy on Walter Pitts. In S. Skansi (ed.), *Guide To Deep Learning Basics: Logical, Historical And Philosophical Perspectives* (pp. 55--66). Springer.
+Karniadakis, G.E. et al. (2021). Physics-informed machine learning. *Nature Reviews Physics*, 3, 422--440. https://doi.org/10.1038/s42254-021-00314-5
+Kendall, M.G. (1946). *The Advanced Theory of Statistics, Vol.II*. London: Charles Griffin & Company.
+Keynes, J. M. (1921). *A Treatise on Probability*. London: Macmillan and Co.
+Kiani, B., Balestriero, R., Lecun, Y., & Lloyd, S. (2022). projUNN: efficient method for training deep networks with unitary matrices. https://arxiv.org/abs/2203.05483
+Korb, K.B. (2001). Machine learning as philosophy of science. In *Proceedings of the ECML-PKDD-01 Workshop on Machine Learning as Experimental Philosophy of Science*, Freiburg.
+Kornai, A. (2023). *Vector Semantics*. Springer.
+Kosinski, M. (2023). Theory of mind may have spontaneously emerged in large language models. https://arxiv.org/abs/2302.02083
+Kovarik, V. et al. (2022). Rethinking formal models of partially observable multiagent decision making. *Artificial Intelligence*, 303, 103645. https://arxiv.org/abs/1906.11110
+Krenn, M. et al. (2022). On scientific understanding with artificial intelligence. *Nature Reviews Physics*. https://www.nature.com/articles/s42254-022-00518-3
+Krizhevsky, A., Sutskever, I., & Hinton, G.E. (2012). ImageNet classification with deep convolutional neural networks. *Advances in Neural Information Processing Systems*, 2012, 1097--1105. https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
+Kruschke, J.K. & Liddell, T.M. (2018). The Bayesian New Statistics: Hypothesis testing, estimation, meta-analysis, and power analysis from a Bayesian perspective. *Psychonomic Bulletin & Review*, 25, 178--206. https://link.springer.com/article/10.3758/s13423-016-1221-4
+Kuhn, H.W. (1950). A simplified two-person poker. *Contributions to the Theory of Games*, 1, 97--103.
+Kun, J. (2018). *A Programmer's Introduction to Mathematics*. CreateSpace Independent Publishing Platform.
+Lanctot, M. (2013). *Monte Carlo Sample and Regret Minimization for Equilibrium Computation and Decision-Making in Large Extensive Form Games*. University of Alberta. http://mlanctot.info/files/papers/PhD_Thesis_MarcLanctot.pdf [(PhD thesis)]
+Lanctot, M. et al. (2017). A unified game-theoretic approach to multiagent reinforcement learning. *Advances in Neural Information Processing Systems*, 30. https://arxiv.org/abs/1711.00832
+Lanctot, M., Waugh, K., Zinkevich, M., & Bowling, M. (2009). Monte Carlo sampling for regret minimization in extensive games. *Advances in Neural Information Processing Systems*, 22, 1078--1086. https://proceedings.neurips.cc/paper/2009/file/00411460f7c92d2124a67ea0f4cb5f85-Paper.pdf
+Lan, Z., Chen, M., Goodman, S., Gimpel, K., Sharma, P., & Soricut, R. (2019). ALBERT: A lite BERT for self-supervised learning of language representations. https://arxiv.org/abs/1909.11942
+Lauc, D. (2020). Machine learning and the philosophical problems of induction. In S. Skansi (ed.), *Guide To Deep Learning Basics: Logical, Historical And Philosophical Perspectives* (pp. 93--106). Springer.
+LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. *Nature*, 521, 436-44.
+LeCun, Y. & Bottou, L. (1998). Efficient BackProp. In Orr, G.B. & Muller, K.R. (eds.), *Neural Networks: Tricks of the trade*. Springer. http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf
+LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). Gradient-based learning applied to document recognition. *Proceedings of the IEEE*, 86(11), 2278--2324. http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf
+LeCun, Y. (1989). Generalization and network design strategies. *Connectionism in Perspective*, 19, 18.
+LeCun, Y. et al. (1989). Backpropagation applied to handwritten zip code recognition. *Neural Computation*, 1(4), 541--551. https://web.archive.org/web/20150611222615/http://yann.lecun.com/exdb/publis/pdf/lecun-89e.pdf
+Leemis, L.M. & McQueston, J.T. (2008). Univariate distribution relationships. *The American Statistician*, 62(1), 45--53. http://www.stat.rice.edu/~dobelman/courses/texts/leemis.distributions.2008amstat.pdf
+Lei, N., Luo, Z., Yau, S., & Gu, D.X. (2018). Geometric understanding of deep learning. https://arxiv.org/abs/1805.10451
+Lewis, D. (1981). Causal decision theory. *Australasian Journal of Philosophy*, 59, 5--30. https://www.andrewmbailey.com/dkl/Causal_Decision_Theory.pdf
+Lewis, M. et al. (2019). BART: Denoising sequence-to-sequence pre-training for natural language generation, translation, and comprehension. https://arxiv.org/abs/1910.13461
+Li, H. et al. (2020). Regret minimization via novel vectorized sampling policies and exploration. http://aaai-rlg.mlanctot.info/2020/papers/AAAI20-RLG_paper_14.pdf
+Lin, H. & Jegelka, S. (2018). ResNet with one-neuron hidden layers is a universal approximator. https://arxiv.org/abs/1806.10909
+Lin, H.W., Tegmark, M., & Rolnick, D. (2017). Why does deep and cheap learning work so well? *Journal of Statistical Physics*, 168, 1223--1247. https://link.springer.com/article/10.1007/s10955-017-1836-5
+Lista, L. (2016). Practical statistics for particle physicists. https://arxiv.org/abs/1609.04150
+Lista, L. (2016). *Statistical Methods for Data Analysis in Particle Physics*. Springer. http://foswiki.oris.mephi.ru/pub/Main/Literature/st_methods_for_data_analysis_in_particle_ph.pdf
+Lisy, V. & Bowling, M. (2016). Equilibrium approximation quality of current no-limit poker bots. https://arxiv.org/abs/1612.07547
+Liu, H., Dai, Z., So, D.R., & Le, Q.V. (2021). Pay attention to MLPs. https://arxiv.org/abs/2105.08050
+Liu, Y. et al. (2019). RoBERTa: A robustly optimized BERT pretraining approach. https://arxiv.org/abs/1907.11692
+Liu, Y. et al. (2021). A survey of visual transformers. https://arxiv.org/abs/2111.06091
+Liu, Z., Lin, Y., & Sun, M. (2023). *Representation Learning for Natural Language Processing*. Springer. https://link.springer.com/book/10.1007/978-981-99-1600-9
+Liu, Z., Madhavan, V., & Tegmark, M. (2022). AI Poincare 2: Machine learning conservation laws from differential equations. https://arxiv.org/abs/2203.12610
+Liu, Z. et al. (2024). KAN: Kolmogorov-Arnold Networks. https://arxiv.org/abs/2404.19756
+Loh, W.Y. (1987). Calibrating confidence coefficients. *Journal of the American Statistical Association*, 82, 155--162. https://www.tandfonline.com/doi/abs/10.1080/01621459.1987.10478408
+Lovering, C. & Pavlick, E. (2022). Unit testing for concepts in neural networks. *Transactions of the Association for Computational Linguistics*, 10, 1193--1208. https://aclanthology.org/2022.tacl-1.69/
+Lu, C. et al. (2024). The AI Scientist: Towards fully automated open-ended scientific discovery. https://arxiv.org/abs/2408.06292
+Lu, Z., Pu, H., Wang, F., Hu, Z., & Wang, L. (2017). The expressive power of neural networks: A view from the width. *Advances in Neural Information Processing Systems*, 30. https://proceedings.neurips.cc/paper/2017/file/32cbf687880eb1674a07bf717761dd3a-Paper.pdf
+Lundberg, I., Johnson, R., & Stewart, B.M. (2021). What is your estimand? Defining the target quantity connects statistical evidence to theory. *American Sociological Review*, 86, 532--565. https://journals.sagepub.com/doi/abs/10.1177/00031224211004187
+Lyons, L. (2008). Open statistical issues in particle physics. *The Annals of Applied Statistics*, 2, 887--915. https://projecteuclid.org/journals/annals-of-applied-statistics/volume-2/issue-3/Open-statistical-issues-in-Particle-Physics/10.1214/08-AOAS163.full
+Ma, S. et al. (2024). The era of 1-bit LLMs: All large language models are in 1.58 bits. https://arxiv.org/abs/2402.17764
+Ma, X. et al. (2024). Megalodon: Efficient LLM pretraining and inference with unlimited context length. https://arxiv.org/abs/2404.08801
+MacFarlane, A. (2017). Rudolf Carnap (1891-1970). *Philosophy Now*, 118. https://philosophynow.org/issues/118/Rudolf_Carnap_1891-1970
+MacKay, D.J.C. (2003). *Information Theory, Inference, and Learning Algorithms*. Cambridge University Press.
+Maddox, W.J., Benton, G., & Wilson, A.G. (2023). Rethinking parameter counting in deep models: Effective dimensionality revisited. https://arxiv.org/abs/2003.02139
+Marchetti, G.L., Hillar, C., Kragic, D., & Sanborn, S. (2023). Harmonics of learning: Universal fourier features emerge in invariant networks. https://arxiv.org/abs/2312.08550
+Mayo, D.G. (1981). In defense of the Neyman-Pearson theory of confidence intervals. *Philosophy of Science*, 48(2), 269--280.
+Mayo, D.G. (1996). *Error and the Growth of Experimental Knowledge*. Chicago University Press.
+Mayo, D.G. (2014). On the Birnbaum Argument for the Strong Likelihood Principle, *Statistical Science*, 29, 227--266.
+Mayo, D.G. (2018). *Statistical Inference as Severe Testing: How to Get Beyond the Statistics Wars*. Cambridge University Press.
+Mayo, D.G. (2019). The law of likelihood and error statistics. https://errorstatistics.com/2019/04/04/excursion-1-tour-ii-error-probing-tools-versus-logics-of-evidence-excerpt/
+Mayo, D.G. (2021). Significance tests: Vitiated or vindicated by the replication crisis in psychology? *Review of Philosophy and Psychology*, 12, 101--121. https://link.springer.com/article/10.1007/s13164-020-00501-w
+Mayo, D.G. & Spanos, A. (2006). Severe testing as a basic concept in a Neyman-Pearson philosophy of induction. *British Journal for the Philosophy of Science*, 57(2), 323--357.
+Mayo, D.G. & Spanos, A. (2011). Error statistics. In *Philosophy of Statistics* (pp. 153--198). North-Holland.
+McCulloch, W. & Pitts, W. (1943). A logical calculus of ideas immanent in nervous activity. *Bulletin of Mathematical Biophysics*. 5, 115-133. https://link.springer.com/content/pdf/10.1007/BF02478259.pdf
+McDermott, J. (2019). When and why metaheuristics researchers can ignore "no free lunch" theorems. https://arxiv.org/abs/1906.03280
+McDougall, C., Conmy, A., Rushing, C., McGrath, T., & Nanda, N. (2023). Copy suppression: Comprehensively understanding an attention head. https://arxiv.org/abs/2310.04625
+McFadden, D. & Zarembka, P. (1973). Conditional logit analysis of qualitative choice behavior. In *Frontiers in Econometrics* (pp. 105--142). New York: Academic Press.
+Meehl, P.E. (1978). Theoretical risks and tabular asterisks: Sir Karl, Sir Ronald, and the slow progress of soft psychology. *Journal of Consulting and Clinical Psychology*, 46, 806--834.
+Meng, K., Bau, D., Andonian, A., & Belinkov, Y. (2023). Locating and editing factual associations in GPT https://arxiv.org/abs/2202.05262
+Merrill, W. & Sabharwal, A. (2022). The parallelism tradeoff: Limitations of log-precision transformers. https://arxiv.org/abs/2207.00729
+Mialon, G. et al. (2023). Augmented Language Models: a Survey. https://arxiv.org/abs/2302.07842
+Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient estimation of word representations in vector space. https://arxiv.org/abs/1301.3781
+Mikolov, T., Sutskever, I., Chen, K., Corrado, G., & Dean, J. (2013). Distributed representations of words and phrases and their compositionality. https://arxiv.org/abs/1310.4546
+Mikolov, T., Yih, W.T., & Zweig, G. (2013). Linguistic regularities in continuous space word representations. https://www.aclweb.org/anthology/N13-1090.pdf [NAACL HLT 2013.]
+Minsky, M. & Papert, S. (1969). *Perceptrons: An Introduction to Computational Geometry*. MIT Press.
+Mitchell, T.M. (1980). The need for biases in learning generalizations. In *Readings in Machine Learning* (pp. 184-192). San Mateo, CA, USA. http://www.cs.cmu.edu/afs/cs/usr/mitchell/ftp/pubs/NeedForBias_1980.pdf
+Mnih, V. et al. (2013). Playing Atari with deep reinforcement learning. https://arxiv.org/abs/1312.5602
+Mnih, V. et al. (2015). Human-level control through deep reinforcement learning. *Nature*, 518(7540), 529--533. http://files.davidqiu.com//research/nature14236.pdf
+Mohamadi, S., Mujtaba, G., Le, N., Doretto, G., & Adjeroh, D.A. (2023). ChatGPT in the age of generative AI and large language models: A concise survey. https://arxiv.org/abs/2307.04251v1
+Moravcik, M. et al. (2017). DeepStack: Expert-level artificial intelligence in heads-up no-limit poker. *Science*, 356, 508--513. https://arxiv.org/abs/1701.01724
+Muennighoff, N. et al. (2023). Scaling data-constrained language models. https://arxiv.org/abs/2305.16264
+Murphy, K.P. (2012). *Machine Learning: A probabilistic perspective*. MIT Press.
+Murphy, K.P. (2022). *Probabilistic Machine Learning: An introduction*. MIT Press.
+Muthukumar, V., Vodrahalli, K., Subramanian, V., & Sahai, A. (2019). Harmless interpolation of noisy data in regression. https://arxiv.org/abs/1903.09139
+Nagarajan, V. (2021). *Explaining generalization in deep learning: progress and fundamental limits*. https://arxiv.org/abs/2110.08922 [(Ph.D. thesis)]
+Nakkiran, P. (2021). Turing-universal learners with optimal scaling laws. https://arxiv.org/abs/2111.05321
+Nakkiran, P., Bradley, A., Zhou, H. & Advani, M. (2024). Step-by-step diffusion: An elementary tutorial. https://arxiv.org/abs/2406.08929
+Nakkiran, P., Kaplun, G., Bansal, Y., Yang, T., Barak, B., & Sutskever, I. (2019). Deep double descent: Where bigger models and more data hurt. https://arxiv.org/abs/1912.02292
+Neller, T.W. & Lanctot, M. (2013). An introduction to counterfactual regret minimization. *Proceedings of Model AI Assignments*, 11. http://cs.gettysburg.edu/~tneller/modelai/2013/cfr/cfr.pdf
+Neyman, J. (1955). The problem of inductive inference. *Communications on Pure and Applied Mathematics*, 8, 13--45. https://errorstatistics.files.wordpress.com/2017/04/neyman-1955-the-problem-of-inductive-inference-searchable.pdf
+Neyman, J. (1957). "Inductive behavior" as a basic concept of philosophy of science. *Revue de l'Institut International de Statistique*, 25, 7--22.
+Neyman, J. (1977). Frequentist probability and frequentist statistics. *Synthese*, 36(1), 97--131.
+Neyman, J. & Pearson, E.S. (1933). On the problem of the most efficient tests of statistical hypotheses. *Philosophical Transactions of the Royal Society A*, 231, 289--337.
+Nielsen, F. (2013). Cramer-Rao lower bound and information geometry. https://arxiv.org/abs/1301.3578
+#Nielsen, F. (2018). An elementary introduction to information geometry. https://arxiv.org/abs/1808.08271
+Nielsen, F. (2020). An elementary introduction to information geometry. *Entropy*, 22, 1100. https://www.mdpi.com/1099-4300/22/10/1100
+Nirenburg, S. (1996). Bar Hillel and Machine Translation: Then and Now.
+Nissim, M., van Noord, R., & van der Goot, R. (2019). Fair is better than sensational: Man is to doctor as woman is to doctor. *Computational Linguistics*, 46, 487--497.
+O'Hagan, A. (2010). *Kendall's Advanced Theory of Statistics, Vol 2B: Bayesian Inference*. Wiley.
+OpenAI. (2023). GPT-4 Technical Report. https://cdn.openai.com/papers/gpt-4.pdf
+Opper, M. (2001). Learning to generalize. *Frontiers of Life*, 3, 763-775.
+Opper, M. & Kinzel, W. (1996). Statistical mechanics of generalization. In *Models of Neural Networks III: Association, Generalization, and Representation* (pp. 151--209). Springer New York. https://gwern.net/doc/ai/nn/1996-opper.pdf
+Otsuka, J. (2023). *Thinking About Statistics: The Philosophical Foundations*. Routledge.
+Ouyang, L. et al. (2022). Training language models to follow instructions with human feedback. https://arxiv.org/abs/2203.02155
+Pandey, R. (2024). gzip predicts data-dependent scaling laws. https://arxiv.org/abs/2405.16684
+Park, N. & Kim, S. (2022). How do vision transformers work? https://arxiv.org/abs/2202.06709
+Patel, R. & Pavlick, E. (2022). Mapping language models to grounded conceptual spaces. *International Conference on Learning Representations*, 2022. https://openreview.net/pdf?id=gJcEM8sxHK
+Pearl, J. (2009). Causal inference in statistics: An overview. *Statistics Surveys*, 3, 96--146. https://projecteuclid.org/journals/statistics-surveys/volume-3/issue-none/Causal-inference-in-statistics-An-overview/10.1214/09-SS057.pdf
+Pearl, J. (2018). *The Book of Why: The new science of cause and effect*. Basic Books.
+Pearson, K. (1900). On the criterion that a given system of deviations from the probable in the case of a correlated system of variables is such that it can be reasonably supposed to have arisen from random sampling. *The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science*, 50, 157--175.
+Peirce, C.S. (1883). *Studies in Logic*. Boston: Little, Brown, and Co.
+Peng, B. et al. (2023). RWKV: Reinventing RNNs for the Transformer Era. https://arxiv.org/abs/2305.13048
+Perone, C.S. (2018). NLP word representations and the Wittgenstein philosophy of language. http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/
+Peters, J., Janzing, D., & Sch{\:o}lkopf, B. (2017). *Elements of Causal Inference*. MIT Press.
+Phuong, M. & Hutter, M. (2022). Formal algorithms for transformers. https://arxiv.org/abs/2207.09238
+Ponsen, M., De Jong, S., & Lanctot, M. (2011). Computing approximate Nash equilibria and robust best-responses using sampling. *Journal of Artificial Intelligence Research*, 42, 575--605. https://arxiv.org/abs/1401.4591
+Radford, A., Narasimhan, K., Salimans, T., & Sutskever, I. (2018). Improving language understanding by generative pre-training. https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf [(Paper on the GPT model by OpenAI)] 
+Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). Language models are unsupervised multitask learners. https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf [(Paper on the GPT-2 model by OpenAI)] 
+Rae, J.W. et al. (2022). Scaling language models: Methods, analysis & insights from training Gopher. https://arxiv.org/abs/2112.11446
+Raffel, C. et al. (2019). Exploring the limits of transfer learning with a unified text-to-text transformer. https://arxiv.org/abs/1910.10683
+Raissi, M., Perdikaris, P., & Karniadakis, G.E. (2017). Physics informed deep learning (Part I): Data-driven solutions of nonlinear partial differential equations. https://arxiv.org/abs/1711.10561
+Raissi, M., Perdikaris, P., & Karniadakis, G.E. (2017). Physics informed deep learning (Part II): Data-driven discovery of nonlinear partial differential equations. https://arxiv.org/abs/1711.10566
+Rao, C.R. (1945). Information and the accuracy attainable in the estimation of statistical parameters. *Bulletin of the Calcutta Mathematical Society*, 37, 81--91.
+Rao, C.R. (1947). Minimum variance and the estimation of several parameters. In *Mathematical Proceedings of the Cambridge Philosophical Society*, 43, 280--283. Cambridge University Press.
+Rao, C.R. (1997). *Statisitcs and Truth: Putting Chance to Work* (2nd ed.). World Scientific.
+Rao, C.R. & Lovric, M.M. (2016). Testing point null hypothesis of a normal mean and the truth: 21st century perspective. *Journal of Modern Applied Statistical Methods*, 15, 2--21. http://digitalcommons.wayne.edu/jmasm/vol15/iss2/3
+Rathmanner, S. & Hutter, M. (2011). A philosophical treatise of universal induction. *Entropy*, 13, 1076--1136. https://www.mdpi.com/1099-4300/13/6/1076
+Read, A.L. (2002). Presentation of search results: the CLs technique. *Journal of Physics G: Nuclear and Particle Physics*, 28(10), 2693. https://indico.cern.ch/event/398949/attachments/799330/1095613/The_CLs_Technique.pdf
+Reed, S. et al. (2022). A generalist agent. https://arxiv.org/abs/2205.06175
+Reichenbach, H. (1940). On the justification of induction. *The Journal of Philosophy*, 37, 97--103.
+Reid, C. (1998). *Neyman*. Springer-Verlag.
+Rice, J.A. (2007). *Mathematical Statistics and Data Analysis* (3rd ed.). Thomson.
+Roberts, D.A. (2021). Why is AI hard and physics simple? https://arxiv.org/abs/2104.00008
+Roberts, D.A., Yaida, S., & Hanin, B. (2021). *The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks*. Cambridge University Press. https://deeplearningtheory.com/PDLT.pdf
+Robins, J.M. & Wasserman, L. (1999). On the impossibility of inferring causation from association without background knowledge. In C. Glymour & G. Cooper (eds.), *Computation, Causation, and Discovery* (pp. 305--321). AAAI & MIT Press.
+Ronen, M., Finder, S.E., & Freifeld, O. (2022). DeepDPM: Deep clustering with an unknown number of clusters. https://arxiv.org/abs/2203.14309
+Rosenblatt, F. (1961). *Principles of Neurodynamics: Perceptrons and the Theory of Brain Mechanisms*. Spartan.
+Roughgarden, T. (2016). *Twenty Lectures on Algorithmic Game Theory*. Cambridge University Press.
+Royall, R. (1997). *Statistical Evidence: A likelihood paradigm*. CRC Press.
+Rozeboom, W.W. (1960). The fallacy of the null-hypothesis significance test. *Psychological Bulletin*, 57, 416.
+Rubin, D.B. (1974). Estimating causal effects of treatments in randomized and nonrandomized studies. *Journal of educational Psychology*, 66, 688. https://psycnet.apa.org/fulltext/1975-06502-001.pdf
+Rumelhart, D.E., Hinton, G.E., & Williams, R.J. (1986). Learning representations by back-propagating errors. *Nature*, 323(6088), 533--536. https://www.nature.com/articles/323533a0.pdf
+Salmon, W.C. (1963). On vindicating induction. *Philosophy of Science*, 30, 252--261.
+Salmon, W.C. (1966). *The Foundations of Scientific Inference*. University of Pittsburgh Press.
+Salmon, W. C. (1967). Carnap's inductive logic. *The Journal of Philosophy*, 64, 725--739.
+Salmon, W.C. (1991). Hans Reichenbach's vindication of induction. *Erkenntnis*, 35, 99--122.
+Salsburg, D. (2001). *The Lady Tasting Tea*. Holt.
+Savage, L.J. (1954). *The Foundations of Statistics*. John Wiley & Sons.
+Scardapane, S. (2024). *Alice's Adventures in a Differentiable Wonderland, Vol. I: A Tour of the Land*. https://arxiv.org/abs/2404.17625
+Schaeffer, R. et al. (2023). Double descent demystified: Identifying, interpreting & ablating the sources of a deep learning puzzle. https://arxiv.org/abs/2303.14151
+Schmidhuber, J. (1997). A computer scientist's view of life, the universe, and everything. https://arxiv.org/abs/quant-ph/9904050
+Schmid, M. et al. (2019). Variance reduction in Monte Carlo counterfactual regret minimization (VR-MCCFR) for extensive form games using baselines. https://ojs.aaai.org/index.php/AAAI/article/view/4048/3926
+Schmid, M. et al. (2021). Player of games. https://arxiv.org/abs/2112.03178
+Sellars, W. (1964). Induction as vindication. *Philosophy of Science*, 31, 197--231.
+Shalev-Shwarz, S. & Ben-David, S. (2014). *Understanding Machine Learning: From Theory to Algorithms*. Cambridge University Press. https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf
+Silver, D. et al. (2016). Mastering the game of Go with deep neural networks and tree search. *Nature*, 529, 484--489.
+Silver, D. et al. (2017). Mastering chess and shogi by self-play with a general reinforcement learning algorithm. https://arxiv.org/abs/1712.01815
+Silver, D. et al. (2017). Mastering the game of Go without human knowledge. *Nature*, 550, 354--359.
+Silver, D., Singh, S., Precup, D., & Sutton, R.S. (2024). Reward is enough. *Artificial Intelligence*, 299, 103535. https://www.sciencedirect.com/science/article/pii/S0004370221000862
+Simonyan, K. & Zisserman, A. (2014). Very deep convolutional networks for large-scale image recognition. https://arxiv.org/abs/1409.1556
+Sinervo, P. (2002). Signal significance in particle physics. In Whalley, M.R. & Lyons, L. (eds.), *Proceedings of the Conference on Advanced Statistical Techniques in Particle Physics*. Durham, UK: Institute of Particle Physics Phenomenology. https://arxiv.org/abs/hep-ex/0208005v1
+Sinervo, P. (2003). Definition and treatment of systematic uncertainties in high energy physics and astrophysics. In Lyons, L., & Mount, R., & Reitmeyer, R. (eds.), *Proceedings of the Conference on Statistical Problems in Particle Physics, Astrophysics, and Cosmology (PhyStat2003)* (pp. 122--129). Stanford Linear Accelerator Center. https://www.slac.stanford.edu/econf/C030908/papers/TUAT004.pdf
+Singh, S.P., Lucchi, A., Hofmann, T., & Sch{\"o}lkopf, B. (2022). Phenomenology of double descent in finite-width neural networks. https://arxiv.org/abs/2203.07337
+Skelac, I. & Jandric, A. (2020). Meaning as use: From Wittgenstein to Google’s Word2vec. In S. Skansi (ed.), *Guide To Deep Learning Basics: Logical, Historical And Philosophical Perspectives* (pp. 41--53). Springer.
+Slonim, N., Atwal, G.S., Tkacik, G. & Bialek, W. (2005). Information-based clustering. *Proceedings of the National Academy of Sciences*, 102(51), 18297--18302. https://arxiv.org/abs/q-bio/0511043
+Smith, L. (2019). A gentle introduction to information geometry. http://www.robots.ox.ac.uk/~lsgs/posts/2019-09-27-info-geom.html [September 27, 2019]
+Sohl-Dickstein, J. (2020). Two equalities expressing the determinant of a matrix in terms of expectations over matrix-vector products. https://arxiv.org/abs/2005.06553
+Solomonoff, G. (2016). Ray Solomonoff and the Dartmouth Summer Research Project in Artificial Intelligence, 1956. http://raysolomonoff.com/dartmouth/dartray.pdf
+Southey, F. et al. (2012). Bayes' bluff: Opponent modelling in poker. https://arxiv.org/abs/1207.1411
+Spears, B.K. et al. (2018). Deep learning: A guide for practitioners in the physical sciences. *Physics of Plasmas*, 25(8), 080901.
+Stahlberg, F. (2019). Neural machine translation: A review. https://arxiv.org/abs/1912.02047
+Stein, C. (1956). Inadmissibility of the usual estimator for the mean of a multivariate normal distribution. *Proceedings of the Third Berkeley Symposium on Mathematical Statistics and Probability*, 1, 197--206.
+Steinhardt, J. (2012). Beyond Bayesians and frequentists. https://jsteinhardt.stat.berkeley.edu/files/stats-essay.pdf
+Steinhardt, J. (2022). More is different for AI. https://bounded-regret.ghost.io/more-is-different-for-ai/
+Stuart, A., Ord, K., & Arnold, S. (2010). *Kendall's Advanced Theory of Statistics, Vol 2A: Classical Inference and the Linear Model*. Wiley.
+Sun, Y. et al. (2023). Retentive network: A successor to transformer for large language models. https://arxiv.org/abs/2307.08621
+Suppes, P. (1961). The philosophical relevance of decision theory. *The Journal of Philosophy*, 58, 605--614. http://www.jstor.org/stable/2023536
+Sutskever, I. (2015). A brief overview of deep learning. https://web.archive.org/web/20220728224752/http://yyue.blogspot.com/2015/01/a-brief-overview-of-deep-learning.html
+Sutskever, I., Vinyals, O., & Le, Q.V. (2014). Sequence to sequence learning with neural networks. *Advances in Neural Information Processing Systems*, 2014, 3104--3112. https://arxiv.org/abs/1409.3215
+Sutton, R.S. (2019). The bitter lesson. http://www.incompleteideas.net/IncIdeas/BitterLesson.html
+Sutton, R.S. & Barto, A.G. (2018). *Reinforcement Learning* (2nd ed.). MIT Press.
+Sznajder, M. (2018). Inductive logic as explication: The evolution of Carnap's notion of logical probability. *The Monist*, 101(4), 417--440.
+Tammelin, O. (2014). Solving large imperfect information games using CFR+. https://arxiv.org/abs/1407.5042
+Tammelin, O., Burch, N., Johanson, M., & Bowling, M. (2015). Solving heads-up limit texas hold'em. *International Joint Conference on Artificial Intelligence*, 24. http://johanson.ca/publications/poker/2015-ijcai-cfrplus/2015-ijcai-cfrplus.pdf
+Tan, M. & Le, Q.V. (2019). EfficientNet: Rethinking model scaling for convolutional neural networks. https://arxiv.org/abs/1905.11946
+Tan, M. & Le, Q.V. (2021). EfficientNetV2: Smaller models and faster training. https://arxiv.org/abs/2104.00298
+Tay, Y., Dehghani, M., Bahri, D., & Metzler, D. (2022). Efficient transformers: A survey. https://arxiv.org/abs/2009.06732
+Tegmark, M., Taylor, A.N., & Heavens, A.F. (1997). Karhunen-Loeve eigenvalue problems in cosmology: How should we tackle large data sets? *The Astrophysical Journal*, 480, 22--35. https://arxiv.org/abs/astro-ph/9603021
+Tenney, I. et al. (2019). What do you learn from context? Probing for sentence structure in contextualized word representations. https://arxiv.org/abs/1905.06316
+Theodoridis, S. & Koutroumbas, K. (2009). *Pattern Recognition*. Elsevier.
+Thuerey, N. et al. (2021). Physics-based deep learning. https://arxiv.org/abs/2109.05237
+Timbers, F. (2020). Approximate exploitability: Learning a best response in large games. https://arxiv.org/abs/2004.09677
+Tukey, J.W. (1962). The future of data analysis. *The Annals of Mathematical Statistics*, 33(1), 1--67.
+Tukey, J.W. (1977). *Exploratory Data Analysis*. Pearson.
+Udrescu, S. & Tegmark, M. (2020). Symbolic pregression: Discovering physical laws from raw distorted video. https://arxiv.org/abs/2005.11212
+van Handel, R. (2016). Probability in high dimensions. https://web.math.princeton.edu/~rvan/APC550.pdf [Lecture notes at Princeton.] 
+Vapnik, V., Levin, E., & LeCun, Y. (1994). Measuring the VC-dimension of a learning machine. *Neural Computation*, 6(5), 851--876.
+Vaswani, A. et al. (2017). Attention is all you need. *Advances in Neural Information Processing Systems*, 2017, 5998--6008. https://arxiv.org/abs/1706.03762
+Venn, J. (1888). *The Logic of Chance*. London: MacMillan and Co. [(Originally published in 1866)]
+Ver Hoef, J.M. (2012). Who invented the delta method? *American Statistician*, 66, 124--127. https://www.jstor.org/stable/23339471
+Vershynin, R. (2018). *High-Dimensional Probability: An Introduction with Applications in Data Science*. Cambridge University Press. https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.pdf
+Wagenmakers, E.J. (2021). Review: Bernoulli’s Fallacy. *Chance*, 34, 37--38. https://www.tandfonline.com/doi/full/10.1080/09332480.2021.2003642
+Wainer, H. (2007). The most dangerous equation. *American Scientist*, 95, 249--256. https://sites.stat.washington.edu/people/peter/498.Sp16/Equation.pdf
+Wakefield, J. (2013). *Bayesian and Frequentist Regression Methods*. Springer.
+Wald, A. (1943). Tests of statistical hypotheses concerning several parameters when the number of observations is large. *Transactions of the American Mathematical Society*, 54, 426--482. https://www.ams.org/journals/tran/1943-054-03/S0002-9947-1943-0012401-3/S0002-9947-1943-0012401-3.pdf
+Wang, H. et al. (2023). BitNet: Scaling 1-bit transformers for large language models. https://arxiv.org/abs/2310.11453
+Wasserman, L. (2003). *All of Statistics: A Concise Course in Statistical Inference*. Springer.
+Wasserstein, R.L., Allen, L.S., & Lazar, N.A. (2019). Moving to a World Beyond "p<0.05". *American Statistician*, 73, 1--19.
+Wasserstein, R.L. & Lazar, N.A. (2016). The ASA's statement on p-values: Context, process, and purpose. *American Statistician*, 70, 129--133.
+Watson, D. & Floridi, L. (2019). The explanation game: A formal framework for interpretable machine learning. *SSRN*, 3509737. https://ssrn.com/abstract=3509737
+Weintraub, R. (1995). What was Hume's contribution to the problem of induction? *The Philosophical Quarterly*, 45, 460--470.
+Weisberg, J. (2019). *Odds & Ends: Introducing Probability & Decision with a Visual Emphasis*. https://jonathanweisberg.org/vip/
+Werbos, P.J. (1990). Backpropagation through time: what it does and how to do it. *Proceedings of the IEEE*, 78(10), 1550--1560. http://www.werbos.com/Neural/BTT.pdf
+Wilks, S.S. (1938). The large-sample distribution of the likelihood ratio for testing composite hypotheses. *The Annals of Mathematical Statistics*, 9, 60--62. https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-9/issue-1/The-Large-Sample-Distribution-of-the-Likelihood-Ratio-for-Testing/10.1214/aoms/1177732360.full
+Williamson, J. (2009). The philosophy of science and its relation to machine learning. In *Scientific Data Mining and Knowledge Discovery* (pp. 77--89). Springer, Berlin, Heidelberg.
+Wolfram, S. (2023). What is ChatGPT doing---and why does it work? https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
+Wolpert, D.H. (1996). The lack of a priori distinctions between learning algorithms. *Neural Computation*, 8, 1341--1390.
+Wolpert, D.H. (2007). Physical limits of inference. https://arxiv.org/abs/0708.1362
+Wolpert, D.H. (2023). The implications of the no-free-lunch theorems for meta-induction. *Journal for General Philosophy of Science*, 54, 421--432. https://link.springer.com/article/10.1007/s10838-022-09609-2
+Wolpert, D.H. & Kinney, D. (2020). Noisy deductive reasoning: How humans construct math, and how math constructs universes. https://arxiv.org/abs/2012.08298
+Wolpert, D.H. & Macready, W.G. (1995). No free lunch theorems for search. [Technical Report SFI-TR-95-02-010, Santa Fe Institute]
+Wolpert, D.H. & Macready, W.G. (1997). No free lunch theorems for optimization. *IEEE Transactions on Evolutionary Computation*, 1, 67--82.
+Wu, Y. et al. (2016). Google's neural machine translation system: Bridging the gap between human and machine translation. https://arxiv.org/abs/1409.0473
+Xu, Z., van Hasselt, H., & Silver, D. (2018). Meta-gradient reinforcement learning. https://arxiv.org/abs/1805.09801
+Yang, T. & Suzuki, J. (2023). Dropout drops double descent. https://arxiv.org/abs/2305.16179
+Yang, Z. et al. (2019). XLNet: Generalized autoregressive pretraining for language understanding. https://arxiv.org/abs/1906.08237
+Zaheer, M. et al. (2020). Big Bird: Transformers for longer sequences. https://arxiv.org/abs/2007.14062
+Zech, G. (1995). Comparing statistical data to Monte Carlo simulation: Parameter fitting and unfolding. https://cds.cern.ch/record/284321 [(DESY-95-113). Deutsches Elektronen-Synchrotron (DESY)]
+Zhang, W. (1998). Complete anytime beam search. *AAAI Proceedings*, 98, 425--430. https://cdn.aaai.org/AAAI/1998/AAAI98-060.pdf
+Zhou, R. & Hansen, E. A. (2005). Beam-stack search: Integrating backtracking with beam search. *ICAPS*, 15, 90--98. https://cdn.aaai.org/ICAPS/2005/ICAPS05-010.pdf
+Zhao, J. et al (2024). GaLore: Memory-efficient LLM training by gradient low-rank projection. https://arxiv.org/abs/2403.03507
+Zhao, W.X. et al. (2023). A survey of large language models. https://arxiv.org/abs/2303.18223
+Zhao, Y. et al. (2023). DETRs beat YOLOs on real-time object detection. https://arxiv.org/abs/2304.08069
+Zinkevich, M., Johanson, M., Bowling, M., & Piccione, C. (2007). Regret minimization in games with incomplete information. *Advances in Neural Information Processing Systems*, 20, 1729--1736. https://proceedings.neurips.cc/paper/2007/file/08d98638c6fcd194a4b1e6992063e944-Paper.pdf

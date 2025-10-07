@@ -1,0 +1,24 @@
+
+## Preface {.unnumbered}
+
+
+![A graph by [Simon Raper (2012)](http://www.coppelia.io/2012/06/graphing-the-history-of-philosophy/) of influences among philosophers according to Wikipedia ([CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)).](img/graph-analytic-philosophy.jpg)
+
+
+### Note: this is under construction
+
+This site is my working draft of notes from philosophy papers I read.
+I share it here for collaborators and perhaps general interest (when I get it better organized).
+If you find any of it useful, please let me know, but please don't distribute widely yet.
+I hope to pubish these outlines or some version of them on my blog:
+[statisticalsignificance.net](http://statisticalsignificance.net/).
+
+
+### Note: scope disclaimer
+
+While the scope of this project is ambitiously large,
+clearly it cannot pretend to represent *all* of philosophy by any stretch.
+This is a meandering of one person through his own thoughts on philosophy,
+a meandering that is primarily western and focused on empiricism,
+although not entirely either.
+

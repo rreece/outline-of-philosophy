@@ -1,0 +1,101 @@
+Aaronson, S. (2005). The complexity of agreement. *Proceedings of ACM STOC*. 634--643. https://www.scottaaronson.com/papers/agree-econ.pdf
+Abad, L.A. & Khalifa, K. (2015). What are stylized facts? *Journal of Economic Methodology*, 22, 143--156.
+Allain, R. (2013). What's wrong with the scientific method? *Wired*. https://www.wired.com/2013/04/whats-wrong-with-the-scientific-method/ [April 1, 2013]
+Aristotle. (1993). *Posterior Analytics* (J. Barnes, Trans.). Oxford: Clarendon Press. [(Originally written in 350 BCE)]
+Aristotle. (2007). *Posterior Analytics* (G.R.G. Mure, Trans.). https://web.archive.org/web/20070427034930/http://etext.library.adelaide.edu.au/a/aristotle/a8poa/ [(Originally written in 350 BCE)]
+Aronson, D. (2007). *Evidence-Based Technical Analysis*. John Wiley & Sons.
+Aumann, R.J. (1976). Agreeing to disagree. *The Annals of Statistics*, 4(6), 1236--9.
+Awodey, S. & Carus, A.W. (2007). Carnap's dream: G{\"o}del, Wittgenstein, and Logical Syntax. *Synthese*, 159, 23--45. https://link.springer.com/article/10.1007/s11229-006-9066-4
+Bhaskar, R. (2008). *A Realist Theory of Science*. Routledge.
+Blancke, S. & Boudry, M. (2022). Pseudoscience as a negative outcome of scientific dialogue: A pragmatic-naturalistic approach to the demarcation problem. *International Studies in the Philosophy of Science*. 
+Blachowicz, J. (2009). How science textbooks treat scientific method: A philosopher's perspective. *The British Journal for the Philosophy of Science*, 60(2), 303--344.
+Blachowicz, J. (2016). There is no scientific method. *The New York Times*. https://www.nytimes.com/2016/07/04/opinion/there-is-no-scientific-method.html [July 4, 2016]
+Box, G.E.P. (1976). Science and statistics. *Journal of the American Statistical Association*, 71(356), 791--799.
+Bright, L.K. & Heesen, R. (2023). To be scientific is to be communist. *Social Epistemology*, 37, 1--10. https://www.tandfonline.com/doi/full/10.1080/02691728.2022.2156308
+Bunge, M. (1974). *Treatise on Basic Philosophy, Volume 1: Sense and Reference*. Reidel.
+Bunge, M. (1991). What is science? Does it matter to distinguish it from pseudoscience? A reply to my commentators. *New Ideas in Psychology*, 9, 245--283. https://www.hpsst.com/uploads/6/2/9/3/62931075/bunge__1991__science___pseudoscience.pdf
+Bunge, M. (2011). Knowledge: Genuine and bogus. *Science & Education*, 20, 411--438.
+Carnap, R. (1945). On inductive logic. *Philosophy of Science*, 12, 72--97.
+Carnap, R. (1950). *Logical Foundations of Probability*. University of Chicago Press.
+Carnap, R. (1966). The aim of inductive logic. In *Studies in Logic and the Foundations of Mathematics Vol. 44* (pp. 303--318). Elsevier.
+Carnap, R. (1973). Notes on probability and induction. *Synthese*, 25, 269--298.
+Chalmers, D.J. (2020). What is conceptual engineering and what should it be? *Inquiry*, 0, 1-18. https://www.tandfonline.com/doi/abs/10.1080/0020174X.2020.1817141
+Chisholm, R. (1966). *Theory of Knowledge*. Prentice Hall.
+Clark, M. (1963). Knowledge and grounds: A comment on Mr. Gettier's paper. *Analysis*, 24, 46--48.
+Davis, N. (2015). To Explain the World review. *The Guardian*. https://www.theguardian.com/books/2015/feb/22/to-explain-the-world-steven-weinberg-history-great-thinkers [February 21, 2015]
+Descartes, R. (1996). *Oeuvres de Descartes, 11 volumes* (C. Adam & P. Tannery, Eds.). Paris: Vrin. http://philosophyfaculty.ucsd.edu/faculty/ctolley/texts/descartes.html
+Descartes, R. (2008). *Meditations on First Philosophy* (M. Moriarty, Trans.). Oxford University Press. [(Originally published in 1641)]
+de Swart, H. (2018). *Philosophical and Mathematical Logic*. Springer.
+Dicker, G. (1991). Hume's fork revisited. *History of Philosophy Quarterly*, 8, 327--342.
+Douven, I. (2011). Abduction. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/abduction/
+Doyle, A.C. (1890). *The Sign of the Four*.
+Earman, J. (2000). *Hume's Abject Failure: The argument against miracles*. Oxford University Press.
+Earnshaw, E. (2017). How I solved Hume's problem and why nobody will believe me. *Philosophy Now*. https://philosophynow.org/issues/119/How_I_Solved_Humes_Problem_and_Why_Nobody_Will_Believe_Me
+Eells, E. (1988). On the alleged impossibility of inductive probability. *The British Journal for the Philosophy of Science*, 39, 111--116. https://fitelson.org/probability/eells_pm.pdf
+Einstein, A. (1922). Geometry and Experience. London: Methuen & Co. http://www-history.mcs.st-andrews.ac.uk/Extras/Einstein_geometry.html [Address given to the Prussian Academy of Sciences on January 27, 1921]
+Feyerabend, P. (1974). *Against Method*. Verso.
+Feynman, R.P. (1974). Cargo cult science. http://calteches.library.caltech.edu/51/2/CargoCult.pdf
+Feynman, R.P. (1998). *The Meaning of It All*. Addison-Wesley.
+Feynman, R.P. (1999). *The Pleasure of Finding Things Out*. Basic Books.
+French, S. (2007). *Science: Key Concepts in Philosophy*. London: Continuum.
+French, C.F. (2015). *Philosophy as Conceptual Engineering: Inductive Logic in Rudolf Carnap’s Scientific Philosophy*. https://web.archive.org/web/20170810180750id_/https://philpapers.org/archive/FREPAC-7.pdf [(Ph.D. thesis)]
+Frigg, R. & Nguyen, J. (2017). Models and representation. In *Springer Handbook of Model-Based Science* (pp. 49--102). Springer.
+Frigg, R. & Hartmann, S. (2020). Models in science *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/models-science/
+Geanakoplos, J.D. & Polemarchakis, H.M. (1982). We can't disagree forever. *Journal of Economic Theory*, 28, 192--200.
+Gettier, E.L. (1963). Is justified true belief knowledge? *Analysis*, 23, 121--3.
+Gould, S.J. (1965). Is uniformitarianism necessary? *American Journal of Science*, 263, 223--228.
+Hansson, S.O. & Hendricks, V.F. (2018). *Introduction to Formal Philosophy*. Springer.
+Heesen, R. (2017). Communism and the incentive to share in science. *Philosophy of Science*, 84, 698--716. 
+Hempel, C.G. & Oppenheim, P. (1948). Studies in the logic of explanation. *Philosophy of Science*, 15(2), 135--175.
+Hendricks, V.F. (2006). *Mainstream and Formal Epistemology*. Cambridge University Press.
+Hintikka, J. (1999). *Inquiry as Inquiry: A logic of scientific discovery*. Springer.
+Hirschman, D. (2016). Stylized facts in the social sciences. *Sociological Science*, 3, 604--626. https://sociologicalscience.com/download/vol-3/july/SocSci_v3_604to626.pdf
+#Hume, D. (1902). *Enquiries Concerning the Human Understanding and Concerning the Principles of Morals*. Oxford: Clarendon Press. [(Originally published in 1777)]
+#Hume, D. (1983). *An Enquiry Concerning the Principles of Morals*. Hackett Classics. [(Originally published in 1751)]
+#Hume, D. (1993). *An Enquiry Concerning Human Understanding* (E. Steinberg, Ed.). Hackett. [(Originally published in 1748)]
+Hume, D. (2007). *An Enquiry Concerning Human Understanding* (P. Millican, Ed.). Oxford University Press. [(Originally published in 1748)]
+Hume, D. (2009). *A Treatise of Human Nature*. Floating Press. [(Originally published in 1740)]
+Ichikawa, J. & Jenkins, C. (2017). On putting knowledge 'first'. In Carter, J.A. (Ed.), *Knowledge First: Approaches in epistemology and mind* (pp. 113--130). Oxford University Press.
+Isaac, M.G. & Koch, S. (2022). Foundational issues in conceptual engineering: Introduction and overview. *Inquiry*, 0, 1--9. https://www.tandfonline.com/doi/full/10.1080/0020174X.2022.2028230
+Juhl, C. & Loomis, E. (2009). *Analyticity*. Routledge.
+Kaldor, N. (1961). Capital accumulation and economic growth. In Lutz & Hague (eds.), *The Theory of Capital*, (pp. 177--222). London. http://gesd.free.fr/kaldor61.pdf
+Kant, I. (1996). *Critique of Pure Reason* (W. Pluhar, Trans.). Hackett. [(Originally published in 1787)]
+Keoke, E.D. & Porterfield, K.M. (2002). *Encyclopedia of American Indian Contributions to the World*. Checkmark Books. https://mexikaresistance.files.wordpress.com/2013/09/american-indian-contributions-to-the-world.pdf
+Kinsella, D. (2005). No rest for the democratic peace. *American Political Science Review*, 99, 453--457.
+Kripke, S.A. (1980). *Naming and Necessity*. Harvard University Press. [(Originally published in 1972)]
+Leibniz, G.W. (1996). *New Essays on Human Understanding* (P. Remnant & J. Bennett, Trans.). New York: Cambridge University Press. [(Originally written in 1704)]
+Marks, J.M. (2009). *Why I Am Not A Scientist: Anthropology and Modern Science*. University of California Press.
+Mart{\'i}nez-Ordaz, M.R. (2021). Is there anything special about the ignorance involved in big data practices? http://philsci-archive.pitt.edu/19671/
+McComas, W.F. (1996). Ten myths of science: Reexamining what we think we know about the nature of science. *School Science and Mathematics*, 96(1), 10--16.
+McComas, W.F. (2008). Seeking historical examples to illustrate key aspects of the nature of science. *Science & Education*, 17(2-3), 249--263.
+McComas, W.F. (2002). The principal elements of the nature of science: Dispelling the myths. In McComas, W.F. (Ed.), *The Nature of Science in Science Education* (pp. 53--70). Springer Netherlands.
+Mill, J.S. (1843). *A System of Logic*. New York: Harper and Brothers.
+Morgan, M.S. & Morrison, M. (1999). *Models as Mediators*. Cambridge University Press.
+Newton, I. (2016). *The Principia: Mathematical Principles of Natural Philosophy* (I.B. Cohen and A. Whitman and J. Budenz, Trans.). University of California Press. [(Originally published in 1687)]
+Nola, R. (1999). On the possibility of a scientific theory of scientific method. *Science & Education*, 8(4), 427--439.
+Nola, R. & Sankey, H. (2007). *Theories of Scientific Method*. Stocksfield: Acumen.
+Norton, J.D. (2017). Einstein on Kant. https://www.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/significance_GR_geometry/Einstein_on_Kant.html
+Nozick, R. (1981). *Philosophical Explanations*. Harvard University Press.
+Russell, B. (2004). *History of Western Philosophy*. Routledge. [(Originally published in 1946)]
+Russell, B. (2009). *Human Knowledge: Its Scope and Limits*. Routledge. [(Originally published in 1923)]
+Russell, G. (2008). *Truth in Virtue of Meaning: A defence of the analytic/synthetic distinction*. Oxford University Press.
+Papineau, D. (2012). *Philosophical Devices: Proofs, Probabilities, Possibilities, and Sets*. Oxford University Press.
+Pettigrew, R. & Weisberg, J. (2019). *The Open Handbook of Formal Epistemology*. PhilPapers. https://jonathanweisberg.org/pdf/open-handbook-of-formal-epistemology.pdf
+Pigliucci, M. (2010). *Nonsense on Stilts: How to Tell Science From Bunk*. Chicago University Press.
+Pigliucci, M. & Boudry, M. (2013). *Philosophy of Pseudoscience: Reconsidering the Demarcation Problem*. The University of Chicago Press.
+Popper, K. & Miller, D. (1983). A proof of the impossibility of inductive probability. *Nature*, 302, 687--688. https://www.nature.com/articles/302687a0
+Popper, K.R. (2002). *The Logic of Scientific Discovery*. Routledge. [(Originally published in 1934 as \emph{Logik der Forschung} and first published in English in 1959)]
+Prado, I. (2006). Ionian enchantment: A brief history of scientific naturalism. http://www.naturalism.org/worldview-naturalism/history-of-naturalism
+Quine, W.V.O. (1951). Two dogmas of empiricism. *The Philosophical Review*, 60, 20--43.
+Quine, W.V.O. & Carnap, R. (1990). *Dear Carnap, Dear Van: The Quine-Carnap Correspondence and Related Work* (Richard Creath, Ed.). University of California Press.
+Rovelli, C. (2007). *Anaximander*. Westholme.
+Sabra, A.I. (1978). An eleventh-century refutation of Ptolemy's planetary theory. *Studia Copernicana*, 16, 117--131.
+Salmon, W.C. (1953). The uniformity of nature. *Philosophy and Phenomenological Research*, 14, 39--48.
+Schurz, G. (2019). *Hume's Problem Solved: The optimality of meta-induction*. MIT Press.
+{Sextus Empiricus}. (1933). *Outlines of Pyrrhonism* (R.G. Bury, Trans.). London: W. Heinemann.
+Suppes, P. (1961). A comparison of the meaning and uses of models in mathematics and the empirical sciences. In *The Concept and the Role of the Model in Mathematics and Natural and Social Sciences* (pp. 163--177). Springer, Dordrecht.
+Suppes, P. (1967). What is a scientific theory? In Morgenbesser, S. (Ed.) *Philosophy of Science Today* (pp. 55-67). Basic Books.
+Vickers, J. (2014). The problem of induction. *Stanford Encyclopedia of Philosophy*. https://stanford.library.sydney.edu.au/archives/sum2016/entries/induction-problem/
+Weatherson, B. (2017). Analytic-synthetic and a priori-a posteriori. In Cappelen, H., Gendler, T.S., & Hawthorne, J. (Eds.) *The Oxford Handbook of Philosophical Methodology* (pp. 231--248). Oxford University Press.
+Weinberg, S. (2015). *To Explain The World: The discovery of modern science*. Harper.
+Whitehead, A.N. (1978). *Process and Reality*. New York: The Free Press.

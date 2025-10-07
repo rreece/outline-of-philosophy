@@ -1,0 +1,75 @@
+Awodey, S. & Klein, C. (2004). *Carnap Brought Home: The View from Jena*. Open Court.
+Ayer, A. J. (1952). *Language, truth and logic* (2 ed.). Dover Publications. [(Originally published in 1946)]
+Blumberg, A.E. & Feigl, H. (1931). Logical positivism: A new movement in European philosophy. *The Journal of Philosophy*, 28(11), 281.
+Buck, R.C. & Cohen, R.S. (1971). *PSA 1970: In Memory of Rudolf Carnap Proceedings of the 1970 Biennial Meeting Philosophy of Science Association*. Springer Netherlands.
+Carnap, R. (1987). On protocol sentences. *Nous*, 21, 457--470. http://www.ualberta.ca/~francisp/NewPhil448/Carnap1932ProtocolSentences.pdf [(R. Creath & R. Nollan, Trans. Originally published in 1932 as {\"U}ber Protokolls{\"a}tze. \emph{Erkenntnis}, 3, 215--228.)]
+Carnap, R. (1936). Testability and meaning. *Philosophy of Science*, 3, 419--471.
+Carnap, R. (1937). Testability and meaning--continued. *Philosophy of Science*, 4, 1--40.
+Carnap, R. (1937). *Logical Syntax of Language*. Kegan Paul, Trench, Trubner & Co. [(Originally published in German in 1934)]
+Carnap, R. (1938). The logical foundations of the unity of science. In *International Encyclopedia of Unified Science: Volume I* (pp. 42--62). University of Chicago Press.
+Carnap, R. (1950). Empiricism, semantics, and ontology. *Revue Internationale de Philosophie*, 4, 20--40. https://www.phil.cmu.edu/projects/carnap/editorial/latex_pdf/1956-ESO.pdf
+Carnap, R. (1955). Meaning and synonymy in natural languages. *Philosophical Studies*, 6, 33--47.
+#Carnap, R. (1932). The elimination of metaphysics through logical analysis of language. *Erkenntnis*, 2. https://philpapers.org/archive/TEO.pdf
+Carnap, R. (1959). The elimination of metaphysics through logical analysis of language. In A.J. Ayer (Ed.) *Logical Positivism* (pp. 60--81). New York: The Free Press. https://philpapers.org/archive/TEO.pdf [(Translated by Arthur Pap; originally published in 1932 as ``{\"U}berwindung der Metaphysik durch logische Analyse der Sprache`` in \emph{Erkenntnis}, 2, 219--241.)]
+Carnap, R. (2003). *The Logical Structure of the World* (R.A. George, Trans.). Chicago: Open Court. [(Originally published in 1928 as \emph{Der logische Aufbau der Welt})]
+Carnap, R. & Schilpp, P.A. (1963). *The Philosophy of Rudolf Carnap*. Open Court. http://fitelson.org/confirmation/carnap_schilpp_volume.pdf
+Carus, A.W. (2008). *Carnap and Twentieth-Century Thought*. Cambridge University Press.
+Chalmers, D.J. (2020). Carnap’s Second Aufbau and David Lewis’s Aufbau. In *Franz Brentano and Austrian Philosophy*, (pp. 329--352). Springer. https://philpapers.org/archive/CHACSA-16.pdf
+Coffa, A. (1991). *The Semantic Tradition from Kant to Carnap: To the Vienna Station*. Cambridge University Press.
+Creath, R. (2012). *Rudolf Carnap and the Legacy of Logical Empiricism*. Springer.
+Creath, R. (2017). The logical and the analytic. *Synthese*, 194, 79--96. https://link.springer.com/article/10.1007/s11229-015-0685-5
+Creath, R. (2017). Logical empiricism. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/logical-empiricism/
+Creath, R. (2023). What was Carnap rejecting when he rejected metaphysics? In *From Biological Practice to Scientific Metaphysics*. University of Minnesota Press. https://manifold.umn.edu/read/from-biological-practice-to-scientific-metaphysics/section/0d271498-1f37-49d7-8bf5-3268cb77b4a0#ch03
+Ebbs, G. (2017). *Carnap, Quine, and Putnam on Methods of Inquiry*. Cambridge University Press.
+Edmonds, D. (2020). *The Murder of Professor Schlick: The Rise and Fall of the Vienna Circle*. Princeton University Press.
+Feigl, H. (1956). Some major issues and developments in the philosophy of science of logical empiricism. In H. Feigl & M. Scriven (eds.), *The Foundations of Science and the Concepts of Psychology and Psychoanalysis*, (pp. 3--37). Minneapolis: University of Minnesota Press.
+Feigl, H. (1981). The origin and spirit of logical positivism. *Inquiries and Provocations*, 21--37.
+Fowler, S. (2010). LSL in a nutshell. https://philarchive.org/archive/FOWLIA
+Friedman, M. (1999). *Reconsidering Logical Positivism*. Cambridge University Press.
+Friedman, M. & Creath, R. (2007). *The Cambridge Companion to Carnap*. Cambridge University Press.
+Frost-Arnold, G. (2013). *Carnap, Tarski, and Quine at Harvard: Conversations on Logic, Mathematics, and Science*. Open Court.
+#Hahn, H., Neurath, O., & Carnap, R. (1973). The scientific conception of the world: The Vienna Circle. In M. Neurath & R.S. Cohen (Eds.) *Empiricism and Sociology* (pp. 298--318). Dordrecht: Reidel. https://www.biostasis.com/pdfs/viennacircle.pdf [(Originally published in German in 1929 as "Wissenschaftliche Weltauffassung: Der Wiener Kreis")]
+Hahn, H., Neurath, O., & Carnap, R. (1973). The scientific conception of the world: The Vienna Circle. In M. Neurath & R.S. Cohen (Eds.) *Empiricism and Sociology* (pp. 298--318). Dordrecht: Reidel. http://rreece.github.io/philosophy-reading-list/docs/the-scientific-conception-of-the-world-the-vienna-circle.pdf [(Originally published in German in 1929 as ``Wissenschaftliche Weltauffassung: Der Wiener Kreis``)]
+Heilbron, J.L. (2013). The first Solvay council: "A sort of private conference". In D. Gross & M. Henneaux & A. Servin (Eds.). *The Theory of the Quantum World: Proceedings of the 25th Solvay Conference on Physics* (pp. 1--16). World Scientific.
+Hintikka, J. (1975). *Rudolf Carnap, Logical Empiricist*. Dordrecht: Springer Netherlands.
+Houghton, T. (2011). Does positivism really 'work' in the social sciences? https://www.e-ir.info/2011/09/26/does-positivism-really-%E2%80%98work%E2%80%99-in-the-social-sciences/
+Kazemier, B.H. & Vuysje, D. (1962). *Logic and Language: Studies Dedicated to Professor Rudolf Carnap on the Occasion of His Seventieth Birthday*. Springer.
+Leitgeb, H. (2023). Vindicating the verifiability criterion. *Philosophical Studies*. https://doi.org/10.1007/s11098-023-02071-w
+Leitgeb, H. & Carus, A. (2020). Rudolf Carnap. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/carnap/index.html
+Lewis, D.K. (1969). Policing the Aufbau. *Philosophical Studies*, 20, 13--17. https://www.jstor.org/stable/4318613
+McGuinness, B. (2008). *Wittgenstein in Cambridge: Letters and Documents 1911-1951*. Wiley-Blackwell.
+Milkov, N. (2013). The Berlin Group and the Vienna Circle: Affinities and divergences. In N. Milkov & V. Peckhaus (Eds.) *The Berlin Group and the Philosophy of Logical Empiricism* (pp. 3--32). Springer.
+Mill, J.S. (1865). *Auguste Comte and Positivism*. https://www.gutenberg.org/files/16833/16833-h/16833-h.htm
+Murzi, M. (2004). Vienna circle. *Internet Encyclopedia of Philosophy*. http://www.iep.utm.edu/viennacr/
+Murzi, M. (2001). Rudolf Carnap (1891-1970). *Internet Encyclopedia of Philosophy*. https://iep.utm.edu/carnap/
+Neurath, O. (1983). Protocol statements. In R.S. Cohen & M. Neurath (eds.) *Otto Neurath Philosophical Papers, 1913-1946* (pp. 91--99). Dordrecht: Reidel. [(Originally published in 1933)]
+Neurath, O. (1973). Anti-Spengler. In M. Neurath & R.S. Cohen (Eds.) *Empiricism and Sociology* (pp. 158--213). Dordrecht: Reidel. [(Originally published in 1921)]
+Neurath, O., Carnap, R., & Morris, C.W. (1955). *International Encyclopedia of Unified Science, Vol. 1*. University of Chicago Press.
+Passmore, J. (1967). Logical positivism. In P. Edwards (Ed.) *The Encyclopedia of Philosophy, Volume 5* (pp. 52--57). New York: Macmillan.
+Potochnik, A. (2011). A Neurathian conception of the unity of science. *Erkenntnis*, 74(3), 305--319.
+Psillos, S. (2011). On Reichenbach's argument for scientific realism. *Synthese*, 181, 23--40.
+Quine, W.V.O. (1970). Homage to Rudolf Carnap. *PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association*, 1970, XI--LXVI.
+Ramsey, F.P. (1923). Review of Tractatus Logico-Philosophicus by L. Wittgenstein & B. Russell. *Mind*, 32, 465--478.
+Ramsey, F.P. (1925). Universals. *Mind*, 34, 401--417. 
+Ramsey, F.P. (1926). Foundations of mathematics. *Proceedings of the London Mathematical Society*, 25, 338--384. https://gwern.net/doc/math/1926-ramsey-2.pdf
+Ramsey, F.P. (1927). Facts and propositions. *Proceedings of the Aristotelian Society, Supplementary*, 7, 153--170. https://web.archive.org/web/20190120155923/https://www.aristoteliansociety.org.uk/pdf/ramsey.pdf
+Reichenbach, H. (1936). Logistic empiricism in Germany and the present state of its problems. *The Journal of Philosophy*, 33, 141--160.
+Reichenbach, H. (1938). *Experience and Prediction*. University of Chicago Press. https://philpapers.org/archive/REIEAP-2.pdf
+Rescher, N. (2006). The Berlin School of logical empiricism and its legacy. *Erkenntnis*, 64, 281--304.
+Richardson, A. (2023). *Logical Empricism as Scientific Philosophy*. Cambridge University Press. https://doi.org/10.1017/9781009471497
+Richardson, A. & Tuboly, A.T. (2024). *Interpreting Carnap: Critical Essays*. Cambridge University Press.
+Ruja, H. (1961). The present status of the verifiability criterion. *Philosophy and Phenomenological Research*, 22, 216--222.
+Russell, B. (1919). The philosophy of logical atomism: Lectures 7-8. *The Monist*, 29(3), 345--380. https://www.jstor.org/stable/pdf/27900748.pdf
+Sachs, C.B. (2011). What is to be Overcome? Nietzsche, Carnap, and modernism as the overcoming of metaphysics. *History of Philosophy Quarterly*, 28, 303--318. https://www.jstor.org/stable/23032343
+Schlick, M. (1936). Meaning and verification. *The Philosophical Review*, 45, 339--369.
+Schlick, M. (1948). Positivism and realism. *Synthese*, 7, 478--505. [(D. Rynin, Trans. Originally published in 1933 in \emph{Erkenntnis}, 3.)]
+Schlick, M. (1959). The turning point in philosophy. http://zolaist.org/wiki/images/7/79/The_Turning_Point_in_Philosophy.pdf [(D. Rynin, Trans. Originally published in 1933 as Die Wende Der Philosophie. \emph{Erkenntnis}, 1, 4--11.)]
+Schlick, M. (1974). *General Theory of Knowledge* (A.E. Blumberg, Trans.). Springer-Verlag.  [(Originally published in German in 1921 as \emph{Allgemeine Erkenntnislehre})]
+Sigmund, K. (2017). *Exact Thinking in Demented Times: The Vienna Circle and the epic quest for the foundations of science*. Basic Books.
+Stadler, F. (1998). Vienna Circle. In *Routledge Encyclopedia of Philosophy*. Taylor and Francis. https://www.rep.routledge.com/articles/thematic/vienna-circle/v-1.
+Stadler, F. (2015). *The Vienna Circle: Studies in the origins, development, and influence of Logical Empiricism*. Springer.
+Wagner, P. (2009). *Carnap's Logical Syntax of Language*. Palgrave Macmillan.
+Whetsell, T.A. & Shields, P.M. (2013). The dynamics of positivism in the study of public administration: A brief intellectual history and reappraisal. *Administration & Society*, 47, 416--446.
+#Wittgenstein, L. (1922). *Tractatus Logico-Philosophicus* (C.K. Ogden, Trans.). London: Kegan Paul, Trench, Trubner & Co. [(Originally published in German in 1921)]
+Wittgenstein, L. (1961). *Tractatus Logico-Philosophicus* (D.F. Pears and B.F. McGuinness, Trans.). Routledge. https://people.umass.edu/klement/tlp/tlp.html [(Originally published in 1922)]
+Wittgenstein, L. (2009). *Philosophical Investigations* (4 ed.) (P. Hacker and J. Schulte, Eds. E. Anscombe and P. Hacker, Trans.). Wiley-Blackwell. [(Originally published in 1953)]

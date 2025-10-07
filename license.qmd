@@ -1,0 +1,16 @@
+---
+title: "License"
+date: 2024-09-21
+number-sections: false
+---
+
+
+{{< include LICENSE >}}
+
+
+-------------
+
+
+[Back to the main document](./)
+
+
