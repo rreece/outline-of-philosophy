@@ -1,0 +1,49 @@
+name: "quarto build & test"
+
+on:
+  workflow_dispatch:
+  pull_request:
+    branches: [ "main" ]
+    paths-ignore:
+      - "LICENSE"
+      - "README.md"
+
+permissions:
+  contents: read
+
+jobs:
+  build-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Quarto install tinytex
+        run: quarto install tinytex
+
+      - name: Install Python and Dependencies
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - run: pip install -r requirements.txt
+
+      - name: "Make the bibliography"
+        run: make bib
+
+      - name: "Render html with quarto"
+        run: make
+
+      - name: "Test for html: make check"
+        run: make check
+
+      - name: "Render pdf with quarto"
+        run: make pdf
+
+      - name: "Test for pdf: make check_pdf"
+        run:  make check_pdf
+

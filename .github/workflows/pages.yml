@@ -1,0 +1,65 @@
+name: "quarto build & gh-pages deploy"
+
+on:
+  workflow_dispatch:
+  push:
+    branches: main
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Quarto install tinytex
+        run: quarto install tinytex
+
+      - name: Install Python and Dependencies
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - run: pip install -r requirements.txt
+
+      - name: "Make the bibliography"
+        run: make bib
+
+      - name: "Render html with quarto"
+        run: make
+
+      - name: "Test for html: make check"
+        run: make check
+
+      - name: "Render pdf with quarto"
+        run: make pdf
+
+      - name: "Test for pdf: make check_pdf"
+        run:  make check_pdf
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Upload this directory
+          path: '_site/'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
