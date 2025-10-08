@@ -564,6 +564,12 @@ Reductionism
 
 ### Introduction
 
+Reduction for Carnap:
+
+>   An object (or concept) is said to be reducible to one or more other objects if
+>   all statements about it can be transformed into statements about these other
+>   objects. [^Carnap2003p6]
+
 Leibniz:
 
 >   If controversies were to arise, there would be no more need of disputation
@@ -604,6 +610,7 @@ Wittgenstein:
 
 [^Bunge1991b]: @Bunge_1991_The_power_and_limits_of_reduction\.
 [^Carnap1934]: @Carnap_1934_On_the_character_of_philophical_problems\.
+[^Carnap2003p6]: @Carnap_2003_The_Logical_Structure_of_the_World\, p. 6.
 [^Leibniz-De-Arte-Combinatoria]: Leibniz has similar quotes in several works.
     This quote is taken from a translation of his first book, *Dissertatio de arte combinatoria*,
     written in 1666 [@Leibniz_1989_Dissertatio_de_Arte_Combinatoria, 73].
