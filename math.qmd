@@ -323,6 +323,10 @@ Number theory
     -   Paul Cohen showed the CH is undecidable in ZFC (1963).
 -   Generalized Continuum Hypothesis (GCH)
     -   $\aleph_{n+1} = 2^{\aleph_n}$
+-   Surreal numbers
+    -   John Conway (1937-2020)
+    -   Conway, J. (2016). Lecture: [Surreal Numbers - How playing games led to more numbers than anybody ever thought of](https://www.youtube.com/watch?v=1eAmxgINXrE).
+    -   [Construction of the real numbers](https://en.wikipedia.org/wiki/Construction_of_the_real_numbers) and [Dedekind cuts](https://en.wikipedia.org/wiki/Dedekind_cut)
  
 Hilbert:
 
@@ -440,6 +444,9 @@ not part of the rules of logic; they are shorthands.
 $\vdash$  means "from which, it is derivable that".          
 $\models$ means "entails that, *i.e.* in every case this is true, that is true (regardless of provability)".           
 $\equiv$ means "is identical to".         
+
+TODO: discuss the differences between [logical equivalence](https://en.wikipedia.org/wiki/Logical_equivalence)
+and [material equivalence](https://en.wikipedia.org/wiki/Material_equivalence).
 
 Lecture notes on soundness and completeness:
 
@@ -1081,11 +1088,9 @@ Platonism
 
 -   Radical realism
 -   Monism: everything is math.
--   Tegmark, M. (2014). *Our Mathematical Universe*. [^Tegmark2014]
+-   Tegmark
 
 ![Bronnikov, F. (1869). Pythagoreans celebrate sunrise. ([Wikimedia](https://commons.wikimedia.org/wiki/File:Bronnikov_gimnpifagoreizev.jpg), 2007).](img/Bronnikov-Pythagoreans-celebrate-sunrise.jpg){#fig-Bronnikov-Pythagoreans-celebrate-sunrise}
-
-[^Tegmark2014]: @Tegmark_2014_Our_Mathematical_Universe\.
 
 
 ### Plato
@@ -1147,8 +1152,10 @@ Platonism
 >   theory must be capable of referring in order that the affirmations made in the theory be
 >   true. [^Quine1948p9]
 
--   Neopythagoreanism: Tegmark. (2008). "The mathmatical universe". [^Tegmark2008]
+-   Neopythagoreanism
+    -   Tegmark, M. (2008). "The mathmatical universe". [^Tegmark2008]
     -   Mathematical Universe Hypothesis (MUH)
+    -   Tegmark, M. (2014). *Our Mathematical Universe*. [^Tegmark2014]
 -   Seth Lloyd - the universe is a computer - pythagorean?
 -   Clearly Ed Witten is a platonist. Video: [How is mathematics truth and beauty?](https://www.youtube.com/watch?v=O3isFuQ2q2A) *Closer To Truth*.
 -   De Cruz, H. (2016). [Numerical cognition and mathematical realism](http://hdl.handle.net/2027/spo.3521354.0016.016). [^DeCruz2016]
@@ -1162,14 +1169,16 @@ Platonism
     -   Zalta, E.N. (2024). [*Principia Logico-Metaphysica*](https://mally.stanford.edu/principia.pdf) (Draft). [^Zalta2024]
 -   [Basic formal ontology](https://en.wikipedia.org/wiki/Basic_Formal_Ontology)
     -   Barry Smith (b. 1952)
--   John Conway (1937-2020)
-    -   Surreal numbers
+-   Surreal numbers
+    -   John Conway (1937-2020)
+    -   TODO: Surreals motivate Platonism
 
 [^DeCruz2016]: @DeCruz_2016_Numerical_cognition_and_mathematical_realism\.
 [^Quine1948b]: @Quine_1948_On_what_there_is\.
 [^Quine1948p7]: @Quine_1948_On_what_there_is\, p. 7.
 [^Quine1948p9]: @Quine_1948_On_what_there_is\, p. 9.
 [^Tegmark2008]: @Tegmark_2008_The_mathematical_universe\.
+[^Tegmark2014]: @Tegmark_2014_Our_Mathematical_Universe\.
 [^Zalta1983]: @Zalta_1983_Abstract_Objects_An_Introduction_to_Axiomatic\.
 [^Zalta2024]: @Zalta_2024_Principia_Logico_Metaphysica\.
 
@@ -1527,11 +1536,6 @@ My thoughts
 Annotated bibliography
 --------------------------------------------------------------------------------
 
-<div class="clickmore"><a id="link:annotated_bibliography" class="closed" onclick="toggle_more('annotated_bibliography')">
-Click to show annotated bibliography
-</a></div>
-<div id="annotated_bibliography" class="more">
-
 ### Wigner, E.P. (1960). The Unreasonable Effectiveness of Mathematics in the Natural Sciences.
 
 -   @Wigner_1960_The_unreasonable_effectiveness_of_mathematics
@@ -1566,19 +1570,13 @@ Click to show annotated bibliography
 
 -   TODO.
 
-</div>
-
 
 Links and encyclopedia articles
 --------------------------------------------------------------------------------
 
-<div class="clickmore"><a id="link:encyclopedia_articles" class="closed" onclick="toggle_more('encyclopedia_articles')">
-Click to show links
-</a></div>
-<div id="encyclopedia_articles" class="more">
-
 ### SEP
 
+-   [Abstract objects](https://plato.stanford.edu/entries/abstract-objects/)
 -   [Algebra](https://plato.stanford.edu/entries/algebra/)
 -   [Algebra of logic](https://plato.stanford.edu/entries/algebra-logic-tradition/)
 -   [Alternative axiomatic set theories](https://plato.stanford.edu/entries/settheory-alternative/)
@@ -1701,6 +1699,7 @@ Click to show links
 
 ### Wikipedia
 
+-   [Abstract object theory](https://en.wikipedia.org/wiki/Abstract_object_theory)
 -   [Affirming the consequent](https://en.wikipedia.org/wiki/Affirming_the_consequent)
 -   [Aristotle (384-322 BCE)](http://en.wikipedia.org/wiki/Aristotle)
 -   [Begriffsschrift](https://en.wikipedia.org/wiki/Begriffsschrift)
@@ -1813,6 +1812,4 @@ Click to show links
     -   Gregory Chaitin, Mario Livio, Marvin Minsky, Rebecca Newberger Goldstein
     -   June 4, 2010
 -   [A very platonist math documentary](https://www.youtube.com/watch?v=8gd-gUlBv_s)
-
-</div>
 

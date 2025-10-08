@@ -343,7 +343,7 @@ def make_book(reo):
     cite_author = reo.group('author').split()[0].rstrip(',')
     cite_author_lower = cite_author.lower()
     has_von = False
-    if cite_author_lower in ('van', 'von', 'da', 'de', 'di', "'t"):
+    if cite_author_lower in ('van', 'ver', 'von', 'da', 'de', 'del', 'di', "'t"):
         cite_author += reo.group('author').split()[1].rstrip(',')
         has_von = True
     cite_year = reo.group('year')
@@ -407,7 +407,7 @@ def make_incollection(reo):
     cite_author = reo.group('author').split()[0].rstrip(',')
     cite_author_lower = cite_author.lower()
     has_von = False
-    if cite_author_lower in ('van', 'von', 'da', 'de', 'di', "'t"):
+    if cite_author_lower in ('van', 'von', 'da', 'de', 'del', 'di', "'t"):
         cite_author += reo.group('author').split()[1].rstrip(',')
         has_von = True
     cite_year = reo.group('year')
@@ -472,7 +472,7 @@ def make_article(reo):
     cite_author = reo.group('author').split()[0].rstrip(',')
     cite_author_lower = cite_author.lower()
     has_von = False
-    if cite_author_lower in ('van', 'von', 'da', 'de', 'di', "'t"):
+    if cite_author_lower in ('van', 'von', 'da', 'de', 'del', 'di', "'t"):
         cite_author += reo.group('author').split()[1].rstrip(',')
         has_von = True
     cite_year = reo.group('year')
@@ -530,7 +530,7 @@ def make_misc(reo):
     cite_author = reo.group('author').split()[0].rstrip(',')
     cite_author_lower = cite_author.lower()
     has_von = False
-    if cite_author_lower in ('van', 'von', 'da', 'de', 'di', "'t"):
+    if cite_author_lower in ('van', 'von', 'da', 'de', 'del', 'di', "'t"):
         cite_author += reo.group('author').split()[1].rstrip(',')
         has_von = True
     cite_year = reo.group('year')
@@ -653,7 +653,14 @@ def clean_citation(s):
     if new_s_lower.endswith('_and'):
         new_s = new_s[:-4]
         new_s_lower = new_s.lower()
+    if new_s_lower.endswith('_or'):
+        new_s = new_s[:-3]
+        new_s_lower = new_s.lower()
+    if new_s_lower.endswith('_but'):
+        new_s = new_s[:-4]
+        new_s_lower = new_s.lower()
 
+    new_s = new_s.strip('_')
     return new_s
 
 

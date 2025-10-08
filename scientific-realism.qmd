@@ -1153,7 +1153,7 @@ TODO: Note any differences between:
 
 #### Carnap on language and ontology
 
--   Carnap, R. (1937). *The Logical Syntax of Language*. (*LSL*)[^Carnap1937LSL]
+-   Carnap, R. (1937). *The Logical Syntax of Language*. (*LSL*) [^Carnap1937LSL]
     -   Coffa, A. (1987). [Carnap, Tarski and the search for truth](https://www.jstor.org/stable/2215672). [^Coffa1987]
     -   Wagner, P. (2009). *Carnap's Logical Syntax of Language*. [^Wagner2009]
     -   Fowler, S. (2010). LSL in a nutshell. [^Fowler2010]
@@ -1164,6 +1164,14 @@ TODO: Note any differences between:
     -   Lavers, G. (2004). Carnap, semantics and ontology. [^Lavers2004]
     -   Lavers, G. (2015). Carnap, Quine, quantification and ontology. [^Lavers2015]
     -   Nado, J. (2024). [Truth in philosophy: a conceptual engineering approach](https://link.springer.com/article/10.1007/s44204-024-00151-0). [^Nado2024]
+
+Carnap's principle of tolerance:
+
+>   *Principia of Tolerance: It is not our business to set up prohibitions, but to arrive at conventions*. [^Carnap1937LSLSec17a]
+
+and
+
+>   *In logic, there are no morals*. Everyone is at liberty to build up his own logic, i.e., his own form of language, as he wishes. All that is required of him is that, if he wishes to discuss it, he must state his methods clearly, and give syntactical rules instead of philosophical arguments. [^Carnap1937LSLSec17b]
 
 Carnap in ESO:
 
@@ -1184,6 +1192,8 @@ Discussion:
 -   Baker, K. (2023). Video: [Metaphysics - Carnap on Ontology](https://www.youtube.com/watch?v=e4eOtMn2me0).
 
 [^Carnap1937LSL]: @Carnap_1937_Logical_Syntax_of_Language\.
+[^Carnap1937LSLSec17a]: @Carnap_1937_Logical_Syntax_of_Language\, &sect;17.
+[^Carnap1937LSLSec17b]: @Carnap_1937_Logical_Syntax_of_Language\, &sect;17.
 [^Carnap1950]: @Carnap_1950_Empiricism_semantics_and_ontology\.
 [^Carnap1950p7]: @Carnap_1950_Empiricism_semantics_and_ontology\, p. 7.
 [^Coffa1987]: @Coffa_1987_Carnap_Tarski_and_the_search_for_truth\.
@@ -2245,62 +2255,14 @@ Slides for my talk: [Machine learning and realism](http://rreece.github.io/talks
 
 ### My defense of realism
 
-<div class="clickmore"><a id="link:my_defense_of_realism1" class="closed" onclick="toggle_more('my_defense_of_realism1')">
 1. There is an external world.
-</a></div>
-<div id="my_defense_of_realism1" class="more">
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-sunt in culpa qui officia deserunt mollit anim id est laborum.
-</div>
-
-<div class="clickmore"><a id="link:my_defense_of_realism2" class="closed" onclick="toggle_more('my_defense_of_realism2')">
 2. If we are careful, we can collect reproducible empirical information.
-</a></div>
-<div id="my_defense_of_realism2" class="more">
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-sunt in culpa qui officia deserunt mollit anim id est laborum.
-</div>
-
-<div class="clickmore"><a id="link:my_defense_of_realism3" class="closed" onclick="toggle_more('my_defense_of_realism3')">
 3. Regularities in the phenomena of the world can be summarized in Laws of Nature.
-</a></div>
-<div id="my_defense_of_realism3" class="more">
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-sunt in culpa qui officia deserunt mollit anim id est laborum.
-</div>
-
-<div class="clickmore"><a id="link:my_defense_of_realism4" class="closed" onclick="toggle_more('my_defense_of_realism4')">
 4. Some of the structure of the Laws of Nature are necessary by consistency.
-</a></div>
-<div id="my_defense_of_realism4" class="more">
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-sunt in culpa qui officia deserunt mollit anim id est laborum.
-</div>
 
 
 Annotated bibliography
 --------------------------------------------------------------------------------
-
-<div class="clickmore"><a id="link:annotated_bibliography" class="closed" onclick="toggle_more('annotated_bibliography')">
-Click to show annotated bibliography
-</a></div>
-<div id="annotated_bibliography" class="more">
 
 ### Wittgenstein, L. (1922). *Tractatus Logico-Philosophicus*.
 
@@ -2644,16 +2606,9 @@ Click to show annotated bibliography
 -   French, S. (2014). The Structure of the World: Metaphysics and Representation.
 -   Tegmark, M. (2014). Our Mathematical Universe: My Quest for the Ultimate Nature of Reality.
 
-</div>
-
 
 Links and encyclopedia articles
 --------------------------------------------------------------------------------
-
-<div class="clickmore"><a id="link:encyclopedia_articles" class="closed" onclick="toggle_more('encyclopedia_articles')">
-Click to show links
-</a></div>
-<div id="encyclopedia_articles" class="more">
 
 ### SEP
 
@@ -2929,7 +2884,4 @@ Click to show links
 -   [Hicks, S. (2018). Explaining Postmodernism In 2018](https://www.youtube.com/watch?v=-BGbHG63x8w)
 -   [Brassier, Ray. (2013). The Myth of the Given: Nominalism, Naturalism & Materialism](https://www.youtube.com/watch?v=dI5MZ2kBK9M)
 -   [Ian Ground, Stephen Mulhall, & Chon Tejedor. (2018). The Young Wittgenstein,](https://www.youtube.com/watch?v=fE4dDqUTnaA)
-
-
-</div>
 

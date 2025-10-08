@@ -26,13 +26,6 @@ starting with [rationalism vs empiricism](#rationalism-vs-empiricism).
 
 ![[Timeline of some major philosophers in history.](http://www.rit.edu/cla/philosophy/Timeline.html)](img/timeline-of-major-philosophers-since-1200.png){#fig-timeline-of-major-philosophers-since-1200}
 
-_This section is collapsed:_
-
-<div class="clickmore"><a id="link:history_of_science" class="closed" onclick="toggle_more('history_of_science')">
-Click to show the paltry outline of the history of science
-</a></div>
-<div id="history_of_science" class="more">
-
 
 ### Antiquity
 
@@ -377,8 +370,6 @@ See also:
 -   [Konrad Zuse](https://en.wikipedia.org/wiki/Konrad_Zuse) (1910-1995)
 -   [ENIAC](https://en.wikipedia.org/wiki/ENIAC)
 -   TODO
-
-</div> <!-- end history_of_science -->
 
 
 Rationalism vs empiricism
@@ -1728,11 +1719,6 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Annotated bibliography
 --------------------------------------------------------------------------------
 
-<div class="clickmore"><a id="link:annotated_bibliography" class="closed" onclick="toggle_more('annotated_bibliography')">
-Click to show annotated bibliography
-</a></div>
-<div id="annotated_bibliography" class="more">
-
 ### Hume, D. (1748). *An Enquiry Concerning Human Understanding*.
 
 -   @Hume_2007_An_Enquiry_Concerning_Human_Understanding
@@ -1847,16 +1833,9 @@ TODO:
 
 -   TODO.
 
-</div>
-
 
 Links and encyclopedia articles
 --------------------------------------------------------------------------------
-
-<div class="clickmore"><a id="link:encyclopedia_articles" class="closed" onclick="toggle_more('encyclopedia_articles')">
-Click to show links
-</a></div>
-<div id="encyclopedia_articles" class="more">
 
 ### SEP
 
@@ -2156,6 +2135,4 @@ Click to show links
 -   DeMichele, T. (2017). [A priori-a posteriori, analytic-synthetic, and necessary-contingent distinctions](http://factmyth.com/a-priori-a-posteriori-analytic-synthetic-and-necessary-contingent-distinctions/).
 -   Alsabeh, F. (2018). [Kant, demystified](https://prophemy.com/2018/09/23/kant-demystified/).
 -   Stearns, P. (2020). [Epistemology: A priori vs. a posteriori, analytic vs. synthetic, necessary vs. contingent](https://lucidphilosophy.com/1019-2/).
-
-</div>
 
