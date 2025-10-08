@@ -124,5 +124,7 @@ Weiss, W. & D'Mello, C. (2015). *Fundamentals of Model Theory*. https://www.math
 Westbury, B.W. (2010). Hurwitz' theorem on composition algebras. https://arxiv.org/abs/1011.6197
 Wigner, E.P. (1960). The unreasonable effectiveness of mathematics in the natural sciences. *Communications on pure and applied mathematics*, 13, 1--14. http://www.dartmouth.edu/~matc/MathDrama/reading/Wigner.html [Richard courant lecture in mathematical sciences delivered at New York University, May 11, 1959]
 Zalta, E.N. (1983). *Abstract Objects: An Introduction to Axiomatic Metaphysics*. Dordrecht: Reidel. https://mally.stanford.edu/abstract-objects.pdf
+Zalta, E.N. (2000). Neo-logicism? An ontological reduction of mathematics to metaphysics. *Erkenntnis*, 53, 219--265. https://www.jstor.org/stable/20013013
+Zalta, E. N. (2011). Logic and metaphysics. *Logic and Philosophy Today*, 2, 153--172. https://mally.stanford.edu/Papers/logic-metaphysics.pdf
 Zalta, E.N. (2024). *Principia Logico-Metaphysica*. https://mally.stanford.edu/principia.pdf [(Draft)]
 Zee, A. (2016). *Group Theory in a Nutshell for Physicists*. Princeton University Press.
