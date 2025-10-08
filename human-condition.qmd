@@ -2541,11 +2541,6 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Annotated bibliography
 --------------------------------------------------------------------------------
 
-<div class="clickmore"><a id="link:annotated_bibliography" class="closed" onclick="toggle_more('annotated_bibliography')">
-Click to show annotated bibliography
-</a></div>
-<div id="annotated_bibliography" class="more">
-
 ### Camus, A. (1942). *The Stranger*.
 
 -   TODO.
@@ -2586,16 +2581,9 @@ Click to show annotated bibliography
 -   Camus, A. (1956). *The Fall*.
 -   @Peterson_1999_Maps_of_Meaning on Jung
 
-</div>
-
 
 Links and encyclopedia articles
 --------------------------------------------------------------------------------
-
-<div class="clickmore"><a id="link:encyclopedia_articles" class="closed" onclick="toggle_more('encyclopedia_articles')">
-Click to show links
-</a></div>
-<div id="encyclopedia_articles" class="more">
 
 ### SEP
 
@@ -2826,6 +2814,4 @@ Cuck Philosophy
 Others
 
 -   [Albert Camus's "The Human Crisis" read by Viggo Mortensen, 70 years later](https://www.youtube.com/watch?v=aaFZJ_ymueA)
-
-</div>
 

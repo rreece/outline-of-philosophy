@@ -1000,11 +1000,6 @@ Thought experiment on moral naturalism:
 Annotated bibliography
 --------------------------------------------------------------------------------
 
-<div class="clickmore"><a id="link:annotated_bibliography" class="closed" onclick="toggle_more('annotated_bibliography')">
-Click to show annotated bibliography
-</a></div>
-<div id="annotated_bibliography" class="more">
-
 ### Putnam, H. (2004). *The Collapse of the Fact/Value Dichotomy and Other Essays*.
 
 -   @Putnam_2004_The_Collapse_of_the_FactValue_Dichotomy_and_Other
@@ -1031,16 +1026,9 @@ Click to show annotated bibliography
 
 -   TODO
 
-</div>
-
 
 Links and encyclopedia articles
 --------------------------------------------------------------------------------
-
-<div class="clickmore"><a id="link:encyclopedia_articles" class="closed" onclick="toggle_more('encyclopedia_articles')">
-Click to show links
-</a></div>
-<div id="encyclopedia_articles" class="more">
 
 ### SEP
 
@@ -1187,6 +1175,4 @@ Click to show links
 -   [Arkani-Hamed, Nima. (2016). The Morality of Fundamental Physics.](https://www.youtube.com/watch?v=OzATDiLFH8Q)
 -   [Music And Measure Theory](https://www.youtube.com/watch?v=cyW5z-M2yzw) - 3Blue1Brown
 -   [Why It's Impossible to Tune a Piano](https://www.youtube.com/watch?v=1Hqm0dYKUx4) - minutephysics
-
-</div>
 

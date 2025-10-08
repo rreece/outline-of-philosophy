@@ -375,11 +375,6 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Annotated bibliography
 --------------------------------------------------------------------------------
 
-<div class="clickmore"><a id="link:annotated_bibliography" class="closed" onclick="toggle_more('annotated_bibliography')">
-Click to show annotated bibliography
-</a></div>
-<div id="annotated_bibliography" class="more">
-
 ### Nagel, T. (1974). What is it like to be a bat?
 
 -   @Nagel_1974_What_is_it_like_to_be_a_bat
@@ -428,16 +423,9 @@ Click to show annotated bibliography
 
 -   TODO
 
-</div>
-
 
 Links and encyclopedia articles
 --------------------------------------------------------------------------------
-
-<div class="clickmore"><a id="link:encyclopedia_articles" class="closed" onclick="toggle_more('encyclopedia_articles')">
-Click to show links
-</a></div>
-<div id="encyclopedia_articles" class="more">
 
 ### SEP
 
@@ -529,6 +517,4 @@ Click to show links
 -   Dennett, Daniel. (2017). [From Bacteria to Bach and Back: The Evolution of Minds](https://www.youtube.com/watch?v=IZefk4gzQt4).
 -   Seth, Anil. (2017). [The Neuroscience of Consciousness](https://www.youtube.com/watch?v=xRel1JKOEbI).
 -   Seth, Anil. (2021). [Is Reality a Controlled Hallucination?](https://www.youtube.com/watch?v=qXcH26M7PQM)
-
-</div>
 

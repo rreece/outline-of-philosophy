@@ -2500,11 +2500,6 @@ My thoughts
 Annotated bibliography
 --------------------------------------------------------------------------------
 
-<div class="clickmore"><a id="link:annotated_bibliography" class="closed" onclick="toggle_more('annotated_bibliography')">
-Click to show annotated bibliography
-</a></div>
-<div id="annotated_bibliography" class="more">
-
 ### Einstein, A., Podolsky, B. & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?
 
 -   @Einstein_1935_Can_quantum_mechanical_description_of_physical
@@ -2567,16 +2562,9 @@ Click to show annotated bibliography
 -   [Aaronson, S. (2015). "Bell inequality violation finally done right."](http://www.scottaaronson.com/blog/?p=2464)
 -   [Hensen, B. et al. (2015). "Experimental loophole-free violation of a Bell inequality using entangled electron spins separated by 1.3 km."](http://arxiv.org/abs/1508.05949)
 
-</div>
-
 
 Links and encyclopedia articles
 --------------------------------------------------------------------------------
-
-<div class="clickmore"><a id="link:encyclopedia_articles" class="closed" onclick="toggle_more('encyclopedia_articles')">
-Click to show links
-</a></div>
-<div id="encyclopedia_articles" class="more">
 
 ### SEP
 
@@ -2849,6 +2837,4 @@ Click to show links
 -   Kuhn, R.L. (2020). [Closer To Truth: What's Strong Emergence?](https://www.youtube.com/watch?v=zkffv2nVF64)
 -   Maudlin, T. (2018). [Ontological clarity, electromagnetism, Aharanov-Bohm effect.](https://www.fetzer-franklin-fund.org/media/ontological-clarity-electromagnetism-aharanov-bohm-effect-maudlin-video/)
 -   Tong, D. (2017). [Quantum Fields: The Real Building Blocks of the Universe.](https://www.youtube.com/watch?v=zNVQfWC_evg)
-
-</div>
 

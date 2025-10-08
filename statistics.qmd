@@ -3124,11 +3124,6 @@ My talks:
 Annotated bibliography
 --------------------------------------------------------------------------------
 
-<div class="clickmore"><a id="link:annotated_bibliography" class="closed" onclick="toggle_more('annotated_bibliography')">
-Click to show annotated bibliography
-</a></div>
-<div id="annotated_bibliography" class="more">
-
 ### Mayo, D.G. (1996). *Error and the Growth of Experimental Knowledge*.
 
 -   @Mayo_1996_Error_and_the_Growth_of_Experimental_Knowledge
@@ -3199,16 +3194,9 @@ Click to show annotated bibliography
 [^Savage1954]: @Savage_1954_The_Foundations_of_Statistics\.
 [^Wasserman2003]: @Wasserman_2003_All_of_Statistics_A_Concise_Course_in_Statistical\.
 
-</div>
-
 
 Links and encyclopedia articles
 --------------------------------------------------------------------------------
-
-<div class="clickmore"><a id="link:encyclopedia_articles" class="closed" onclick="toggle_more('encyclopedia_articles')">
-Click to show links
-</a></div>
-<div id="encyclopedia_articles" class="more">
 
 ### SEP
 
@@ -3366,6 +3354,4 @@ Click to show links
 -   [Wilks's theorem](https://stephens999.github.io/fiveMinuteStats/wilks.html) - fiveMinuteStats
 -   Dallal, G.E. (2012). [The Little Handbook of Statistical Practice](http://www.jerrydallal.com/LHSP/LHSP.HTM).
 -   Soch, J. et al. (2024). [*The Book of Statistical Proofs*](https://statproofbook.github.io/I/ToC).
-
-</div>
 
