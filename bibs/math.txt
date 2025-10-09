@@ -69,7 +69,7 @@ Kripke, S.A. (1959). A completeness theorem in modal logic. *The Journal of Symb
 Lawvere, F.W. (1963). *Functorial Semantics of Algebraic Theories and Some Algebraic Problems in the context of Functorial Semantics of Algebraic Theories*. Columbia University. http://www.tac.mta.ca/tac/reprints/articles/5/tr5abs.html [(Ph.D. thesis)]
 Lewis, C.I. (1917). The issues concerning material implication. *The Journal of Philosophy, Psychology and Scientific Methods*, 14, 350-356. https://www.jstor.org/stable/2940255
 Lewis, D. (1986). *On the Plurality of Worlds*. Oxford: Blackwell.
-Leitgeb, H., Nodelman, U., & Zalta, E.N. (2024). A defense of logicism. https://mally.stanford.edu/Papers/logicism.pdf
+Leitgeb, H., Nodelman, U., & Zalta, E.N. (2025). A defense of logicism. *Bulletin of Symbolic Logic*, 31, 88--152. https://www.cambridge.org/core/journals/bulletin-of-symbolic-logic/article/defense-of-logicism/A7F3DFF29C85BE044C6DDBBBB81CA6B4
 Linsky, B. & Zalta, E.N. (1995). Naturalized platonism versus platonized naturalism. *Journal of Philosophy*, 92, 525--555. https://www.jstor.org/stable/2940786
 Linsky, B. & Zalta, E.N. (2006). What is Neologicism? *Bulletin of Symbolic Logic*, 12, 60-99. http://mally.stanford.edu/Papers/neologicism2.pdf
 Lloyd, S. (1993). Quantum-mechanical computers and uncomputability. Physical Review Letters, 71, 943--46.
@@ -81,6 +81,7 @@ Mart{\'i}nez-Ordaz, M.R. (2021). The ignorance behind inconsistency toleration. 
 McCrimmon, K. (2000). *A Taste of Jordan Algebras*. Springer. http://old.math.nsc.ru/LBRT/a1/files/mccrimmon.pdf
 Mill, J.S. (1877). *An Examination of Sir William Hamilton's Philosophy, vol II*. New York: Henry Holt and Co.
 Monk, J.D. (1976). *Mathematical Logic*. Springer.
+Nodelman, U. & Zalta, E.N. (2014). Foundations for mathematical structuralism. *Mind*, 123, 39--78. https://www.jstor.org/stable/24489523
 Ord, T. (2024). Bounds on the rates of growth and convergence of all physical processes. https://arxiv.org/abs/2410.10928
 Post, E.L. (1921). Introduction to the general theory of elementary propositions. *American Journal of Mathematics*, 43, 163--185.
 Priest, G. (1998). What is so bad about contradictions? *Journal of Philosophy*, 95, 410--426. 
@@ -127,13 +128,7 @@ Westbury, B.W. (2010). Hurwitz' theorem on composition algebras. https://arxiv.o
 Wigner, E.P. (1960). The unreasonable effectiveness of mathematics in the natural sciences. *Communications on pure and applied mathematics*, 13, 1--14. http://www.dartmouth.edu/~matc/MathDrama/reading/Wigner.html [Richard courant lecture in mathematical sciences delivered at New York University, May 11, 1959]
 Zalta, E.N. (1983). *Abstract Objects: An Introduction to Axiomatic Metaphysics*. Dordrecht: Reidel. https://mally.stanford.edu/abstract-objects.pdf
 Zalta, E.N. (2000). Neo-logicism? An ontological reduction of mathematics to metaphysics. *Erkenntnis*, 53, 219--265. https://www.jstor.org/stable/20013013
+Zalta, E.N. (2007). Reflections on mathematics.  In V.F. Hendricks & H. Leitgeb (eds.), *Philosophy of Mathematics: 5 Questions* (pp. 313--328). New York: Automatic Press. https://mally.stanford.edu/Papers/reflections.pdf
 Zalta, E.N. (2011). Logic and metaphysics. *Logic and Philosophy Today*, 2, 153--172. https://mally.stanford.edu/Papers/logic-metaphysics.pdf
 Zalta, E.N. (2024). *Principia Logico-Metaphysica*. https://mally.stanford.edu/principia.pdf [(Draft)]
 Zee, A. (2016). *Group Theory in a Nutshell for Physicists*. Princeton University Press.
-
-
-Nodelman, U. & Zalta, E.N. (2014). Foundations for mathematical structuralism. *Mind*, 123, 39--78. https://www.jstor.org/stable/24489523
-Zalta, E.N. (2007). Reflections on mathematics.  In V.F. Hendricks & H. Leitgeb (eds.), *Philosophy of Mathematics: 5 Questions* (pp. 313--328). New York: Automatic Press. https://mally.stanford.edu/Papers/reflections.pdf
-
-
-

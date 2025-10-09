@@ -6,6 +6,12 @@ number-sections: false
 
 Author: [Ryan Reece](https://rreece.github.io/)
 
+This site is my working draft of notes from philosophy papers I read.
+I share it here for collaborators and perhaps general interest (when I get it better organized).
+If you find any of it useful, please let me know:
+
+-   email: ![my email address](img/my-email.png)
+-   [twitter.com/RyanDavidReece](https://twitter.com/RyanDavidReece)
 
 {{< lipsum 2 >}}
 
