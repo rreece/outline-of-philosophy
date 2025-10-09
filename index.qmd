@@ -7,8 +7,8 @@
 
 ### Note: This is under construction
 
-This site is my working draft of notes from philosophy papers I read.
-I share it here for collaborators and perhaps general interest (when I get it better organized).
+This site is my working draft of notes from philosophy papers and books I read.
+I share it here for collaborators and perhaps general interest.
 If you find any of it useful, please let me know:
 
 -   email: ![my email address](img/my-email.png)
