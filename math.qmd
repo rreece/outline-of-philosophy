@@ -1404,7 +1404,7 @@ Logicism
     -   Ernst Mally (1879-1944)
 -   Zalta, E.N. (2000). [Neo-logicism? An ontological reduction of mathematics to metaphysics](https://www.jstor.org/stable/20013013). [^Zalta2000]
 -   Linsky, B. & Zalta, E.N. (2006). [What is Neologicism?](http://mally.stanford.edu/Papers/neologicism2.pdf) [^Linsky2006]
--   Leitgeb, H., Nodelman, U., & Zalta, E.N. (2024). [A defense of logicism](https://mally.stanford.edu/Papers/logicism.pdf). [^Leitgeb2024]
+-   Leitgeb, H., Nodelman, U., & Zalta, E.N. (2024). [A defense of logicism](https://www.cambridge.org/core/journals/bulletin-of-symbolic-logic/article/defense-of-logicism/A7F3DFF29C85BE044C6DDBBBB81CA6B4). [^Leitgeb2025]
 
 Zalta:
 
@@ -1425,7 +1425,7 @@ See also:
 
 -   [Contemporary platonism](#contemporary-platonism)
 
-[^Leitgeb2024]: @Leitgeb_2024_A_defense_of_logicism\.
+[^Leitgeb2025]: @Leitgeb_2025_A_defense_of_logicism\.
 [^Linsky2006]: @Linsky_2006_What_is_Neologicism\.
 [^Linsky2006p43]: @Linsky_2006_What_is_Neologicism\, p. 43.
 [^Zalta2000]: @Zalta_2000_Neo_logicism_An_ontological_reduction\.
