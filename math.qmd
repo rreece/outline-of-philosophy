@@ -66,26 +66,6 @@ See also:
 -   [Convex optimization](ethics.html#convex-optimization)
 
 
-### Finite groups
-
--   [Group](https://en.wikipedia.org/wiki/Group_(mathematics))
--   [Cayley's theorem](https://en.wikipedia.org/wiki/Cayley%27s_theorem)
--   [Classification of finite simple groups](https://en.wikipedia.org/wiki/Classification_of_finite_simple_groups)
-    -   Every finite simple group is either cyclic, alternating, Lie type, or one of 26 exceptions called sporadic.
-    -   There are 26 sporadic simple groups or 27 if you count the Tits group (otherwise the Tits group is classified as a twisted Chevalley group of Lie type).
-    -   [Sporadic group](https://en.wikipedia.org/wiki/Sporadic_group)
-    -   Within the sporadic groups, 20 are known as the "happy family", which include the Monster group and subquotients of it.
-    -   The other 6 sporadic groups are known as the "pariahs".
-    -   Elwes, R. (2006). [An enormous theorem: The classification of finite simple groups](https://plus.maths.org/content/enormous-theorem-classification-finite-simple-groups).
-    -   YouTube 3Blue1Brown: [Group theory and why I love       
-        808,017,424,794,512,875,886,459,904,961,710,757,005,754,368,000,000,000](https://www.youtube.com/watch?v=mH0oCDa74tE).
--   [Monstrous moonshine](https://en.wikipedia.org/wiki/Monstrous_moonshine)
-    -   [Richard Borcherds](https://en.wikipedia.org/wiki/Richard_Borcherds) (b. 1959)
--   Carter, N. (2009). *Visual Group Theory*. [^Carter2009]
-
-[^Carter2009]: @Carter_2009_Visual_Group_Theory\.
-
-
 ### Lie groups
 
 -   [Lie group](https://en.wikipedia.org/wiki/Lie_group)
@@ -100,6 +80,41 @@ See also:
 
 [^Hall2000]: @Hall_2000_An_Elementary_Introduction_to_Groups\.
 [^Zee2016]: @Zee_2016_Group_Theory_in_a_Nutshell_for_Physicists\.
+
+
+### Finite groups
+
+-   [Group](https://en.wikipedia.org/wiki/Group_(mathematics))
+-   [Cayley's theorem](https://en.wikipedia.org/wiki/Cayley%27s_theorem)
+-   [Jordan-H&ouml;lder theorem](https://en.wikipedia.org/wiki/Composition_series)
+-   [Classification of finite simple groups](https://en.wikipedia.org/wiki/Classification_of_finite_simple_groups)
+    -   Every finite simple group is either cyclic, alternating, Lie type, one of 26 exceptions called sporadic, or the Tits group.
+    -   There are 26 sporadic simple groups or 27 if you count the Tits group (otherwise the Tits group is classified as a twisted Chevalley group of Lie type).
+    -   [Sporadic group](https://en.wikipedia.org/wiki/Sporadic_group)
+    -   Within the sporadic groups, 20 are known as the "Happy Family", which include the Monster group and subquotients of it.
+    -   The other 6 sporadic groups are known as the "Pariahs".
+    -   Elwes, R. (2006). [An enormous theorem: The classification of finite simple groups](https://plus.maths.org/content/enormous-theorem-classification-finite-simple-groups).
+    -   YouTube 3Blue1Brown: [Group theory and why I love       
+        808,017,424,794,512,875,886,459,904,961,710,757,005,754,368,000,000,000](https://www.youtube.com/watch?v=mH0oCDa74tE).
+-   [Monstrous moonshine](https://en.wikipedia.org/wiki/Monstrous_moonshine)
+    -   [Richard Borcherds](https://en.wikipedia.org/wiki/Richard_Borcherds) (b. 1959)
+-   Carter, N. (2009). *Visual Group Theory*. [^Carter2009]
+
+Summarizing the classification of finite simple groups:
+
+-   Cyclic groups of prime order, $Z_n$ 
+-   Alternating groups, $\mathrm{Alt}_n$ for $n \geq 5$
+-   Lie type groups:
+    -   Classical/Chevalley groups: $A_n$, $B_n$, $C_n$, $D_n$
+    -   Exceptional groups: $E_6$, $E_7$, $E_8$, $F_4$, $G_2$
+    -   Twisted groups: ${}^{2}A_{n}$, ${}^{2}D_{n}$, ${}^{3}D_{4}$, ${}^{2}E_{6}$,
+        plus the Suzuki and Ree groups ${}^{2}B_{2}$, ${}^{2}F_{4}$, ${}^{2}G_{2}$
+-   Tits group: ${}^{2}F_{4}(2)^\prime$
+-   26 Sporadic groups
+    -   20 groups in the Happy Family
+    -   6 Pariahs
+
+[^Carter2009]: @Carter_2009_Visual_Group_Theory\.
 
 
 ### Abstract algebra
@@ -299,6 +314,7 @@ Number theory
     -   $\aleph_1$ is the first uncountable cardinal.
     -   $\aleph_2$ is the second uncountable cardinal.
 -   Transfinite numbers were anticipated by [Robert Grosseteste](https://plato.stanford.edu/entries/grosseteste/) (ca. 1168-1253).
+-   [Hume's principle](https://en.wikipedia.org/wiki/Hume%27s_principle)
 -   Developed by [Georg Cantor](https://en.wikipedia.org/wiki/Georg_Cantor) (1845-1918) in 1895
     -   [Cantor's first set theory article](https://en.wikipedia.org/wiki/Cantor%27s_first_set_theory_article)
     -   Proved that the real numbers are uncountably infinite.
@@ -398,6 +414,7 @@ More:
 -   [Chrysippus](https://en.wikipedia.org/wiki/Chrysippus) (c. 279-206 BCE)
 -   [Vasubandhu](https://en.wikipedia.org/wiki/Vasubandhu) (fl. 4th to 5th century CE)
 -   [Dign&amacr;ga](https://en.wikipedia.org/wiki/Dign%C4%81ga) (c. 480-540 CE)
+-   [Gottfried Wilhelm Leibniz](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz) (1646-1716)
 -   [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) (1839-1914)
 -   [Gottlob Frege](https://en.wikipedia.org/wiki/Gottlob_Frege) (1848-1925)
     -   [*Begriffsschrift*](https://en.wikipedia.org/wiki/Begriffsschrift) (1879)
@@ -493,7 +510,6 @@ $$ ((P \rightarrow Q) \rightarrow P) \rightarrow P $$
 -   TODO: More basic examples in propositional logic
 -   TODO: Use-mention distinction: P vs 'P' vs Quine quotes
 -   [Cut-elimination theorem](https://en.wikipedia.org/wiki/Cut-elimination_theorem)
--   [Gerhard Gentzen](https://en.wikipedia.org/wiki/Gerhard_Gentzen) (1909-1945)
 
 [^Post1921]: @Post_1921_Introduction_to_the_general_theory_of_elementary\.
 [^Stillwell2004]: @Stillwell_2004_Emil_Post_and_his_anticipation_of_Godel\.
@@ -919,7 +935,7 @@ Category theory
     -   For the category of abelian groups, the coproduct is the direct sum.
 -   Functors
 -   [Yoneda lemma](https://en.wikipedia.org/wiki/Yoneda_lemma)
-    -   Related to: [Pragmatic maxim](https://en.wikipedia.org/wiki/Pragmatic_maxim), [Identity of indiscernibles](https://en.wikipedia.org/wiki/Identity_of_indiscernibles)
+    -   Related to: [Cayley's theorem](https://en.wikipedia.org/wiki/Cayley%27s_theorem), [Pragmatic maxim](https://en.wikipedia.org/wiki/Pragmatic_maxim), [Identity of indiscernibles](https://en.wikipedia.org/wiki/Identity_of_indiscernibles)
 -   Relation to set theory
 -   Relation to Russell type theory
 -   Univalent foundations

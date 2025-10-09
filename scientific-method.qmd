@@ -667,12 +667,6 @@ another translation:
 >   It is plain, then, that to understand is something of this
 >   sort. [^PosteriorAnalyticsBook1ch2Barnes]
 
-Reduction for Carnap:
-
->   An object (or concept) is said to be reducible to one or more other objects if
->   all statements about it can be transformed into statements about these other
->   objects. [^Carnap2003p6]
-
 See also:
 
 -   Sean Carroll on scientific epistemology: [debate with Hans Halvorson](https://www.youtube.com/watch?v=H864JH1tPYU#t=3930)
@@ -680,7 +674,6 @@ See also:
     -   [Scientific progress](scientific-realism.html#scientific-progress)
 -   [Outline on naturalism](naturalism.html)
 
-[^Carnap2003p6]: @Carnap_2003_The_Logical_Structure_of_the_World\, p. 6.
 [^PosteriorAnalyticsBook1ch2Barnes]: @Aristotle_1993_Posterior_Analytics\, book 1, chapter 2.
 [^PosteriorAnalyticsBook1ch2Mure]: @Aristotle_2007_Posterior_Analytics\, book 1, chapter 2.
 [^MartinezOrdaz2021a]: @Martinez_Ordaz_2021_Is_there_anything_special_about_the_ignorance\.
