@@ -107,13 +107,13 @@ Cartan's classification:
     -   [Sporadic group](https://en.wikipedia.org/wiki/Sporadic_group)
     -   Within the sporadic groups, 20 are known as the "Happy Family", which include the Monster group and subquotients of it.
     -   The other 6 sporadic groups are known as the "Pariahs".
+    -   [ATLAS of Finite Group Representations](https://brauer.maths.qmul.ac.uk/Atlas/v3/)
     -   Elwes, R. (2006). [An enormous theorem: The classification of finite simple groups](https://plus.maths.org/content/enormous-theorem-classification-finite-simple-groups).
     -   YouTube 3Blue1Brown: [Group theory and why I love       
         808,017,424,794,512,875,886,459,904,961,710,757,005,754,368,000,000,000](https://www.youtube.com/watch?v=mH0oCDa74tE).
 -   [Monstrous moonshine](https://en.wikipedia.org/wiki/Monstrous_moonshine)
     -   [Richard Borcherds](https://en.wikipedia.org/wiki/Richard_Borcherds) (b. 1959)
 -   Carter, N. (2009). *Visual Group Theory*. [^Carter2009]
--   [ATLAS of Finite Group Representations](https://brauer.maths.qmul.ac.uk/Atlas/v3/)
 
 Summarizing the classification of finite simple groups:
 
@@ -140,7 +140,11 @@ Summarizing the classification of finite simple groups:
 -   Modules are to rings as vector spaces are to fields.
 
 $$ 
-\mathrm{rngs} \supset \mathrm{rings} \supset \mathrm{commutative\ rings} \supset \mathrm{integral\ domains} \supset \mathrm{integrally\ closed\ domains} \supset \mathrm{GCD\ domains} \supset \mathrm{unique\ factorization\ domains} \supset \mathrm{principal\ ideal\ domains} \supset \mathrm{euclidean\ domains} \supset \mathrm{fields} \supset \mathrm{algebraically\ closed\ fields}
+\begin{align}
+\mathrm{rngs} &\supset \mathrm{rings} \supset \mathrm{commutative\ rings} \supset \mathrm{integral\ domains} \supset \mathrm{integrally\ closed\ domains} \\
+    &\supset \mathrm{GCD\ domains} \supset \mathrm{unique\ factorization\ domains} \supset \mathrm{principal\ ideal\ domains} \\
+    &\supset \mathrm{euclidean\ domains} \supset \mathrm{fields} \supset \mathrm{algebraically\ closed\ fields}
+\end{align}
 $$
 
 
