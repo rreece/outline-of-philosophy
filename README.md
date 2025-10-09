@@ -13,7 +13,12 @@ All rights reserved.
 Word count
 ----------------------------------
 
-TODO: Update wordcount script.
-
 ![Word count over time.](wordcount/words.png)
+
+
+TODOs
+----------------------------------
+
+-   Update wordcount script
+-   Add disqus support
 

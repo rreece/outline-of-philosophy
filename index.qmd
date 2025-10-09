@@ -9,9 +9,10 @@
 
 This site is my working draft of notes from philosophy papers I read.
 I share it here for collaborators and perhaps general interest (when I get it better organized).
-If you find any of it useful, please let me know, but please don't distribute widely yet.
-I hope to pubish these outlines or some version of them on my blog:
-[statisticalsignificance.net](http://statisticalsignificance.net/).
+If you find any of it useful, please let me know:
+
+-   ![my email address](img/my-email.png)
+-   [twitter.com/RyanDavidReece](https://twitter.com/RyanDavidReece)
 
 
 ### Note: scope disclaimer
@@ -21,4 +22,23 @@ clearly it cannot pretend to represent *all* of philosophy by any stretch.
 This is a meandering of one person through his own thoughts on philosophy,
 a meandering that is primarily western and focused on empiricism,
 although not entirely either.
+
+
+### Note: But there's a lot here that isn't even philosophy?
+
+When I'm trying to understand something, I don't see a sharp line between
+knowing my way around and getting into the details.
+
+Wilfrid Sellars:
+
+>   The aim of philosophy, abstractly formulated, is to understand how
+>   things in the broadest possible sense of the term hang together in the
+>   broadest possible sense of the term. Under 'things in the broadest
+>   possible sense' I include such radically different items as not only
+>   'cabbages and kings', but numbers and duties, possibilities and finger
+>   snaps, aesthetic experience and death. To achieve success in philosophy
+>   would be, to use a contemporary turn of phrase, to 'know one's way
+>   around' with respect to all these things... [^Sellars1963p1a]
+
+[^Sellars1963p1a]: @Sellars_1963_Science_Perception_and_Reality\, p. 1.
 

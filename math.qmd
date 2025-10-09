@@ -1206,7 +1206,8 @@ Platonism
     -   [The Metaphysics Research Lab](https://mally.stanford.edu/index.html) - Stanford, CA
     -   Zalta, E.N. (1983). [*Abstract Objects: An Introduction to Axiomatic Metaphysics*](https://mally.stanford.edu/abstract-objects.pdf). [^Zalta1983]
     -   Linsky, B. & Zalta, E.N. (1995). [Naturalized platonism versus platonized naturalism](https://www.jstor.org/stable/2940786) [^Linsky1995]
-    -   Zalta, E. N. (2011). [Logic and metaphysics](https://mally.stanford.edu/Papers/logic-metaphysics.pdf). [^Zalta2011]
+    -   Zalta, E.N. (2007). [Reflections on mathematics](https://mally.stanford.edu/Papers/reflections.pdf). [^Zalta2007]
+    -   Zalta, E.N. (2011). [Logic and metaphysics](https://mally.stanford.edu/Papers/logic-metaphysics.pdf). [^Zalta2011]
     -   Zalta, E.N. (2024). [*Principia Logico-Metaphysica*](https://mally.stanford.edu/principia.pdf) (Draft). [^Zalta2024]
 -   Neopythagoreanism
     -   Tegmark, M. (2008). "The mathmatical universe". [^Tegmark2008]
@@ -1244,6 +1245,7 @@ See also:
 [^Tegmark2014]: @Tegmark_2014_Our_Mathematical_Universe\.
 [^Zalta1983]: @Zalta_1983_Abstract_Objects_An_Introduction_to_Axiomatic\.
 [^Zalta1983p12]: @Zalta_1983_Abstract_Objects_An_Introduction_to_Axiomatic\, p. 12.
+[^Zalta2007]: @Zalta_2007_Reflections_on_mathematics\.
 [^Zalta2011]: @Zalta_2011_Logic_and_metaphysics\.
 [^Zalta2024]: @Zalta_2024_Principia_Logico_Metaphysica\.
 
@@ -1549,8 +1551,10 @@ Structuralism
 
 -   Realist
 -   Awodey, S. (2014). Structuralism, invariance, and univalence. [^Awodey2014]
+-   Nodelman, U. & Zalta, E.N. (2014). [Foundations for mathematical structuralism](https://www.jstor.org/stable/24489523). [^Nodelman2014]
 
 [^Awodey2014]: @Awodey_2014_Structuralism_invariance_and_univalence\.
+[^Nodelman2014]: @Nodelman_2014_Foundations_for_mathematical_structuralism\.
 
 
 Naturalism
