@@ -35,7 +35,7 @@ Sellars:
 >   'cabbages and kings', but numbers and duties, possibilities and finger
 >   snaps, aesthetic experience and death. To achieve success in philosophy
 >   would be, to use a contemporary turn of phrase, to 'know one's way
->   around' with respect to all these things... [^Sellars1963p1]
+>   around' with respect to all these things... [^Sellars1963p1b]
 
 TODO: Manifest image and scientific image - Sellars
 
@@ -115,7 +115,7 @@ Papineau:
 [^Maddy2007p18]: @Maddy_2007_Second_Philosophy, p. 18--19.
 [^Maudlin2007p1]: @Maudlin_2007_The_Metaphysics_Within_Physics\, p. 1.
 [^Papineau2007]: @Papineau_2007_Naturalism\.
-[^Sellars1963p1]: @Sellars_1963_Science_Perception_and_Reality\, p. 1.
+[^Sellars1963p1b]: @Sellars_1963_Science_Perception_and_Reality\, p. 1.
 
 
 ### Second pass
