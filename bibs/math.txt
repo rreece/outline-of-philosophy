@@ -88,6 +88,7 @@ Putnam, H. (1971). *Philosophy of Logic*. New York: Harper & Row.
 Putnam, H. (1975). What is mathematical truth? *Historia Mathematica*, 2(4), 529--543.
 Quine, W.V.O. (1986). *Philosophy of Logic* (2nd ed.). Harvard University Press.
 Raatikainen, P. (2020). G{\"o}del's incompleteness theorems. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/goedel-incompleteness/
+Ramond, P. (1976). Introduction to exceptional Lie groups and algebras. CALT-68-577. https://inspirehep.net/literature/111550
 Reid, C. (1996). *Hilbert*. Copernicus.
 Rodin, A. (2012). Axiomatic method and category theory. https://arxiv.org/abs/1210.1478
 Rossberg, M. (2004). First-order logic, second-order logic, and completeness. In V.F. Hendricks et al. (eds.) *First-Order Logic Revisited*. Berlin: Logos-Verlag. http://logic.amu.edu.pl/images/4/46/Completenessrossberg.pdf
@@ -100,6 +101,7 @@ Shapiro, S. (1991). *Foundations without Foundationalism: A Case for Second-Orde
 Shapiro, S. (2000). *Thinking about Mathematics: The Philosophy of Mathematics*. Oxford University Press.
 Sheffer, H.M. (1913). A set of five independent postulates for Boolean algebras, with application to logical constants. *Transactions of the American Mathematical Society*, 14, 481--488. https://www.ams.org/journals/tran/1913-014-04/S0002-9947-1913-1500960-1/
 Sider, T. (2022). Crash course on higher-order logic. https://tedsider.org/teaching/higher_order_20/higher_order_crash_course.pdf
+Siegel, K. (2014). The ubiquity of ADE classifications in nature. https://kylersiegel.xyz/notes/ADEClassifications.pdf
 Smith, P. (2020). *An Introduction to Formal Logic* (2nd ed.). Cambridge University Press.
 Smith, P. (2022). *Beginning Mathematical Logic: A Study Guide*. https://www.logicmatters.net/resources/pdfs/LogicStudyGuide.pdf
 Snapper, E. (1979). The three crises in mathematics: Logicism, intuitionism and formalism. *Mathematics Magazine*, 52, 207--216. https://www.maa.org/sites/default/files/pdf/upload_library/22/Allendoerfer/1980/0025570x.di021111.02p0048m.pdf

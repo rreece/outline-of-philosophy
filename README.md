@@ -1,17 +1,19 @@
 Ryan's Outline of Philosophy
 ===========================================
 
-My notes on the philosophy papers I'm reading.
+My notes on the philosophy papers and books I'm reading.
 
-authors:
-Ryan Reece  <ryan.reece@cern.ch>
+Author:
+Ryan Reece  ![my email address](img/my-email.png)
 
-Copyright 2013-2025.  All rights reserved.
+Copyright (c) 2013-2025 Ryan Reece    
+All rights reserved.
 
 
 Word count
 ----------------------------------
 
-![Page count over time.](wordcount/pages.png)
+TODO: Update wordcount script.
 
 ![Word count over time.](wordcount/words.png)
+
