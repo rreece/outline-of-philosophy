@@ -19,6 +19,7 @@ Word count
 TODOs
 ----------------------------------
 
--   Update wordcount script
+-   Add Google Analytics support
 -   Add disqus support
+-   Update wordcount script
 
