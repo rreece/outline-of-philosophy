@@ -13,10 +13,12 @@ Feynman, R.P. (1959). There's plenty of room at the bottom. https://calteches.li
 Gabriel, I. et al. (2024). The ethics of advanced AI assistants. https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/ethics-of-advanced-ai-assistants/the-ethics-of-advanced-ai-assistants-2024-i.pdf
 Good, I.J. (1965). Speculations concerning the first ultraintelligent machine. *Advances in Computers*, 6, 31--88. https://blog.biocomm.ai/wp-content/uploads/2023/05/IJ-Good.-Speculations-Concerning-the-First-Ultraintelligent-Machine.pdf
 Hanson, R., Martin, D., McCarter, C., & Paulson, J. (2021). If loud aliens explain human earliness, quiet aliens are also rare. *The Astrophysical Journal*, 922, 182. https://iopscience.iop.org/article/10.3847/1538-4357/ac2369
+Kubrick, S. (1968). Playboy Interview: Stanley Kubrick. *Playboy Magazine*, 9, 94. https://galacticjourney.org/stories/PB_1968-09_Kubrik-Interview.pdf
 Longpre, S. (2024). Consent in crisis: The rapid decline of the AI data commons. https://www.dataprovenance.org/Consent_in_Crisis.pdf
 Marcus, G. (2018). Deep learning: A critical appraisal. https://arxiv.org/abs/1801.00631
 Maslej, N. et al. (2023). The AI Index 2023 Annual Report. https://aiindex.stanford.edu/wp-content/uploads/2023/04/HAI_AI-Index-Report_2023.pdf
 Maslej, N. et al. (2024). The AI Index 2024 Annual Report. https://aiindex.stanford.edu/wp-content/uploads/2024/05/HAI_AI-Index-Report-2024.pdf
+Moravec, H. (1998). When will computer hardware match the human brain? *Journal of Evolution and Technology*, 1. https://jetpress.org/volume1/moravec.htm
 O'Neill, G.K. (1974). The colonization of space. *Physics Today*, 27, 32--40. https://pubs.aip.org/physicstoday/article/27/9/32/429507/The-colonization-of-spaceCareful-engineering-and
 Perrault, R. et al. (2025). Artificial Intelligence Index Report 2025. Human-Centered Artificial Intelligence, Stanford University. https://hai-production.s3.amazonaws.com/files/hai_ai_index_report_2025.pdf
 Russell, S. & Norvig, P. (1995). *Artificial Intelligence: A modern approach* (3rd ed.). Pearson.

@@ -70,15 +70,29 @@ See also:
 
 -   [Lie group](https://en.wikipedia.org/wiki/Lie_group)
     -   [Sophus Lie](https://en.wikipedia.org/wiki/Sophus_Lie) (1842-1899)
+    -   [Wilhelm Killing](https://en.wikipedia.org/wiki/Wilhelm_Killing) (1847-1923)
     -   [&Eacute;lie Cartan](https://en.wikipedia.org/wiki/%C3%89lie_Cartan) (1869-1951)
-    -   Schwichtenberg, J. (2016). [Classification of simple Lie groups](http://jakobschwichtenberg.com/classification-of-simple-lie-groups/).
+    -   [Eugene Dynkin](https://en.wikipedia.org/wiki/Eugene_Dynkin) (1924-2014)
+    -   Ramond, P. (1976). [Introduction to exceptional Lie groups and algebras](https://inspirehep.net/literature/111550). [^Ramond1976]
     -   Hall, B.C. (2000). [*An Elementary Introduction to Groups and Representations*](https://arxiv.org/abs/math-ph/0005032). [^Hall2000]
+    -   Schwichtenberg, J. (2016). [Classification of simple Lie groups](http://jakobschwichtenberg.com/classification-of-simple-lie-groups/).
     -   Zee, A. (2016). *Group Theory in a Nutshell for Physicists*. [^Zee2016]
--   Dynkin diagrams
-    -   [ADE classification](https://en.wikipedia.org/wiki/ADE_classification)
-    -   Siegel, K. (2014). The ubiquity of ADE classifications in nature.
+-   [ADE classification](https://en.wikipedia.org/wiki/ADE_classification)
+    -   [Dynkin diagrams](https://en.wikipedia.org/wiki/Dynkin_diagram)
+    -   Simply-laced Dynkin diagrams correspond to the ADE families of groups
+    -   Siegel, K. (2014). [The ubiquity of ADE classifications in nature](https://kylersiegel.xyz/notes/ADEClassifications.pdf). [^Siegel2014]
+
+Cartan's classification:
+
+-   $\mathrm{A}_{n} = \mathrm{SU}(n+1)$
+-   $\mathrm{B}_{n} = \mathrm{SO}(2n+1)$
+-   $\mathrm{C}_{n} = \mathrm{Sp}(n)$
+-   $\mathrm{D}_{n} = \mathrm{SO}(2n)$
+-   Exceptional groups: $\mathrm{E}_6$, $\mathrm{E}_7$, $\mathrm{E}_8$, $\mathrm{F}_4$, $\mathrm{G}_2$
 
 [^Hall2000]: @Hall_2000_An_Elementary_Introduction_to_Groups\.
+[^Ramond1976]: @Ramond_1976_Introduction_to_exceptional_Lie_groups\.
+[^Siegel2014]: @Siegel_2014_The_ubiquity_of_ADE_classifications_in_nature\.
 [^Zee2016]: @Zee_2016_Group_Theory_in_a_Nutshell_for_Physicists\.
 
 
@@ -99,17 +113,18 @@ See also:
 -   [Monstrous moonshine](https://en.wikipedia.org/wiki/Monstrous_moonshine)
     -   [Richard Borcherds](https://en.wikipedia.org/wiki/Richard_Borcherds) (b. 1959)
 -   Carter, N. (2009). *Visual Group Theory*. [^Carter2009]
+-   [ATLAS of Finite Group Representations](https://brauer.maths.qmul.ac.uk/Atlas/v3/)
 
 Summarizing the classification of finite simple groups:
 
--   Cyclic groups of prime order, $Z_n$ 
+-   Cyclic groups of prime order, $\mathrm{Z}_n$ 
 -   Alternating groups, $\mathrm{Alt}_n$ for $n \geq 5$
--   Lie type groups:
-    -   Classical/Chevalley groups: $A_n$, $B_n$, $C_n$, $D_n$
-    -   Exceptional groups: $E_6$, $E_7$, $E_8$, $F_4$, $G_2$
-    -   Twisted groups: ${}^{2}A_{n}$, ${}^{2}D_{n}$, ${}^{3}D_{4}$, ${}^{2}E_{6}$,
-        plus the Suzuki and Ree groups ${}^{2}B_{2}$, ${}^{2}F_{4}$, ${}^{2}G_{2}$
--   Tits group: ${}^{2}F_{4}(2)^\prime$
+-   Lie-type groups:
+    -   Classical/Chevalley groups: $\mathrm{A}_n$, $\mathrm{B}_n$, $\mathrm{C}_n$, $\mathrm{D}_n$
+    -   Exceptional groups: $\mathrm{E}_6$, $\mathrm{E}_7$, $\mathrm{E}_8$, $\mathrm{F}_4$, $\mathrm{G}_2$
+    -   Twisted groups: ${}^{2}\mathrm{A}_{n}$, ${}^{2}\mathrm{D}_{n}$, ${}^{3}\mathrm{D}_{4}$, ${}^{2}\mathrm{E}_{6}$,
+        plus the Suzuki and Ree groups ${}^{2}\mathrm{B}_{2}$, ${}^{2}\mathrm{F}_{4}$, ${}^{2}\mathrm{G}_{2}$
+-   Tits group: ${}^{2}\mathrm{F}_{4}(2)^\prime$
 -   26 Sporadic groups
     -   20 groups in the Happy Family
     -   6 Pariahs
@@ -123,6 +138,10 @@ Summarizing the classification of finite simple groups:
 -   A field is a commutative division ring.
 -   Vector space
 -   Modules are to rings as vector spaces are to fields.
+
+$$ 
+\mathrm{rngs} \supset \mathrm{rings} \supset \mathrm{commutative\ rings} \supset \mathrm{integral\ domains} \supset \mathrm{integrally\ closed\ domains} \supset \mathrm{GCD\ domains} \supset \mathrm{unique\ factorization\ domains} \supset \mathrm{principal\ ideal\ domains} \supset \mathrm{euclidean\ domains} \supset \mathrm{fields} \supset \mathrm{algebraically\ closed\ fields}
+$$
 
 
 ### More
@@ -167,7 +186,7 @@ TODO
 -   Jacob Bernoulli (1655-1705)
 -   Leonhard Euler (1707-1783)
     -   *Mechanica* (1736)
--   [Pierre-Simon Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace) (1749-1827)
+-   Pierre-Simon Laplace (1749-1827)
 -   Carl Friedrich Gauss (1777-1855)
 -   Augustin-Louis Cauchy (1789-1857)
 -   Karl Weierstrass (1815-1897)
@@ -1174,35 +1193,53 @@ Platonism
 >   theory must be capable of referring in order that the affirmations made in the theory be
 >   true. [^Quine1948p9]
 
--   Neopythagoreanism
-    -   Tegmark, M. (2008). "The mathmatical universe". [^Tegmark2008]
-    -   Mathematical Universe Hypothesis (MUH)
-    -   Tegmark, M. (2014). *Our Mathematical Universe*. [^Tegmark2014]
--   Seth Lloyd - the universe is a computer - pythagorean?
--   Clearly Ed Witten is a platonist. Video: [How is mathematics truth and beauty?](https://www.youtube.com/watch?v=O3isFuQ2q2A) *Closer To Truth*.
--   De Cruz, H. (2016). [Numerical cognition and mathematical realism](http://hdl.handle.net/2027/spo.3521354.0016.016). [^DeCruz2016]
--   Carroll, S. (2021). [Mindscape 127: Justin Clarke-Doane on Mathematics, Morality, Objectivity, and Reality](https://www.youtube.com/watch?v=3tvfq8ehHOk).
+-   [Basic formal ontology](https://en.wikipedia.org/wiki/Basic_Formal_Ontology)
+    -   Barry Smith (b. 1952)
 -   [Abstract object theory](https://en.wikipedia.org/wiki/Abstract_object_theory)
     -   Alexius Meinong (1853-1920)
     -   Ernst Mally (1879-1944)
     -   Edward N. Zalta (b. 1952)
     -   [The Metaphysics Research Lab](https://mally.stanford.edu/index.html) - Stanford, CA
     -   Zalta, E.N. (1983). [*Abstract Objects: An Introduction to Axiomatic Metaphysics*](https://mally.stanford.edu/abstract-objects.pdf). [^Zalta1983]
+    -   Linsky, B. & Zalta, E.N. (1995). [Naturalized platonism versus platonized naturalism](https://www.jstor.org/stable/2940786) [^Linsky1995]
     -   Zalta, E. N. (2011). [Logic and metaphysics](https://mally.stanford.edu/Papers/logic-metaphysics.pdf). [^Zalta2011]
     -   Zalta, E.N. (2024). [*Principia Logico-Metaphysica*](https://mally.stanford.edu/principia.pdf) (Draft). [^Zalta2024]
--   [Basic formal ontology](https://en.wikipedia.org/wiki/Basic_Formal_Ontology)
-    -   Barry Smith (b. 1952)
+-   Neopythagoreanism
+    -   Tegmark, M. (2008). "The mathmatical universe". [^Tegmark2008]
+    -   Mathematical Universe Hypothesis (MUH)
+    -   Tegmark, M. (2014). *Our Mathematical Universe*. [^Tegmark2014]
 -   Surreal numbers
     -   John Conway (1937-2020)
     -   TODO: Surreals motivate Platonism
+-   More
+    -   De Cruz, H. (2016). [Numerical cognition and mathematical realism](http://hdl.handle.net/2027/spo.3521354.0016.016). [^DeCruz2016]
+    -   Carroll, S. (2021). [Mindscape 127: Justin Clarke-Doane on Mathematics, Morality, Objectivity, and Reality](https://www.youtube.com/watch?v=3tvfq8ehHOk).
+    -   Clearly Ed Witten is a platonist. Video: [How is mathematics truth and beauty?](https://www.youtube.com/watch?v=O3isFuQ2q2A) *Closer To Truth*.
+    -   Seth Lloyd - the universe is a computer - pythagorean?
+
+Zalta: [^Zalta1983p12]
+
+$$
+F^{n} x_{1} \ldots x_{n} = x_{1} \ldots x_{n}\ \mathrm{exemplify\ property}\ F^{n}
+$$
+
+$$
+x F^{1} = \mathrm{individual}\ x\ \mathrm{encodes\ property}\ F^{1}
+$$
+
+See also:
+
+-   [Neologicism](#neologicism)
 
 [^DeCruz2016]: @DeCruz_2016_Numerical_cognition_and_mathematical_realism\.
+[^Linsky1995]: @Linsky_1995_Naturalized_platonism_versus_platonized\.
 [^Quine1948b]: @Quine_1948_On_what_there_is\.
 [^Quine1948p7]: @Quine_1948_On_what_there_is\, p. 7.
 [^Quine1948p9]: @Quine_1948_On_what_there_is\, p. 9.
 [^Tegmark2008]: @Tegmark_2008_The_mathematical_universe\.
 [^Tegmark2014]: @Tegmark_2014_Our_Mathematical_Universe\.
 [^Zalta1983]: @Zalta_1983_Abstract_Objects_An_Introduction_to_Axiomatic\.
+[^Zalta1983p12]: @Zalta_1983_Abstract_Objects_An_Introduction_to_Axiomatic\, p. 12.
 [^Zalta2011]: @Zalta_2011_Logic_and_metaphysics\.
 [^Zalta2024]: @Zalta_2024_Principia_Logico_Metaphysica\.
 
@@ -1325,7 +1362,6 @@ Logicism
     -   Marschall, B. (2022). [Carnap's philosophy of mathematics](https://doi.org/10.1111/phc3.12884). [^Marschall2022]
 -   Snapper, E. (1979). [The three crises in mathematics: Logicism, intuitionism and formalism](https://www.maa.org/sites/default/files/pdf/upload_library/22/Allendoerfer/1980/0025570x.di021111.02p0048m.pdf). [^Snapper1979]
 -   Shapiro, S. (2000). *Thinking about Mathematics: The Philosophy of Mathematics*. [^Shapiro2000]
--   [Hume's principle](https://en.wikipedia.org/wiki/Hume%27s_principle)
 -   [Frege's theorem](https://en.wikipedia.org/wiki/Frege%27s_theorem)
 
 [^Carnap1931]: @Carnap_1983_The_Logicist_foundations_of_mathematics\.
@@ -1357,10 +1393,21 @@ Logicism
 
 -   [Crispin Wright](https://en.wikipedia.org/wiki/Crispin_Wright) (b. 1942)
 -   [Bob Hale](https://en.wikipedia.org/wiki/Bob_Hale_(philosopher)) (1945-2017)
--   Linsky, B. & Zalta, E.N. (1995). [Naturalized platonism versus platonized naturalism](https://www.jstor.org/stable/2940786) [^Linsky1995]
+-   [Edward N. Zalta](https://en.wikipedia.org/wiki/Edward_N._Zalta) (b. 1952)
+    -   Alexius Meinong (1853-1920)
+    -   Ernst Mally (1879-1944)
 -   Zalta, E.N. (2000). [Neo-logicism? An ontological reduction of mathematics to metaphysics](https://www.jstor.org/stable/20013013). [^Zalta2000]
 -   Linsky, B. & Zalta, E.N. (2006). [What is Neologicism?](http://mally.stanford.edu/Papers/neologicism2.pdf) [^Linsky2006]
 -   Leitgeb, H., Nodelman, U., & Zalta, E.N. (2024). [A defense of logicism](https://mally.stanford.edu/Papers/logicism.pdf). [^Leitgeb2024]
+
+Zalta:
+
+>   Our thesis is that mathematical objects just are (reducible to) the
+>   abstract objects systematized by a certain axiomatic, *mathematics-free*
+>   metaphysical theory. This thesis appears to be a version of mathematical
+>   platonism, for if correct, it would make a certain simple and intuitive
+>   philosophical position about mathematics much more rigorous, namely,
+>   that mathematics describes a realm of abstract objects. [^Zalta2000p219]
 
 Linsky & Zalta:
 
@@ -1368,11 +1415,15 @@ Linsky & Zalta:
 >   we use to understand language, since that is the only faculty we need to
 >   understand object abstraction. [^Linsky2006p43]
 
+See also:
+
+-   [Contemporary platonism](#contemporary-platonism)
+
 [^Leitgeb2024]: @Leitgeb_2024_A_defense_of_logicism\.
-[^Linsky1995]: @Linsky_1995_Naturalized_platonism_versus_platonized\.
 [^Linsky2006]: @Linsky_2006_What_is_Neologicism\.
 [^Linsky2006p43]: @Linsky_2006_What_is_Neologicism\, p. 43.
 [^Zalta2000]: @Zalta_2000_Neo_logicism_An_ontological_reduction\.
+[^Zalta2000p219]: @Zalta_2000_Neo_logicism_An_ontological_reduction\, p. 219.
 
 
 Formalism
