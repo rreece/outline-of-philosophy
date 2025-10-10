@@ -130,5 +130,5 @@ Zalta, E.N. (1983). *Abstract Objects: An Introduction to Axiomatic Metaphysics*
 Zalta, E.N. (2000). Neo-logicism? An ontological reduction of mathematics to metaphysics. *Erkenntnis*, 53, 219--265. https://www.jstor.org/stable/20013013
 Zalta, E.N. (2007). Reflections on mathematics.  In V.F. Hendricks & H. Leitgeb (eds.), *Philosophy of Mathematics: 5 Questions* (pp. 313--328). New York: Automatic Press. https://mally.stanford.edu/Papers/reflections.pdf
 Zalta, E.N. (2011). Logic and metaphysics. *Logic and Philosophy Today*, 2, 153--172. https://mally.stanford.edu/Papers/logic-metaphysics.pdf
-Zalta, E.N. (2024). *Principia Logico-Metaphysica*. https://mally.stanford.edu/principia.pdf [(Draft)]
+Zalta, E.N. (2025). *Principia Logico-Metaphysica*. https://mally.stanford.edu/principia.pdf [(Draft)]
 Zee, A. (2016). *Group Theory in a Nutshell for Physicists*. Princeton University Press.
