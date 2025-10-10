@@ -7,6 +7,7 @@ Azzouni, J. (2015). Nominalism, the nonexistence of mathematical objects. In Dav
 Baez, J.C. (2002). The octonions. *Bulletin of the American Mathematical Society*, 39, 145--205. https://arxiv.org/abs/math/0105155
 Baez, J.C. & Dolan, J. (1995). Higher‐dimensional algebra and topological quantum field theory. *Journal of Mathematical Physics*, 36, 6073--6105. https://arxiv.org/abs/q-alg/9503002
 Baez, J.C. & Stay, M. (2009). Physics, topology, logic, and computation: A Rosetta Stone. https://arxiv.org/abs/0903.0340
+Bajnok, B. (2013). *An Invitation to Abstract Mathematics*. Springer. https://link.springer.com/book/10.1007/978-1-4614-6636-9
 Bayes, T. (1736). *An Introduction to the Doctrine of Fluxions, and a Defence of the Mathematicians Against the Objections of the Author of The Analyst*. London. [(published anonymously)]
 B\`{e}s, A. (2002). A survey of arithmetical definability. In *A tribute to Maurice Boffa, Soc.Math* (pp. 1--54). Belgique. http://lacl.u-pec.fr/bes/publi/survey.pdf
 B\`{e}s, A. & Choffrut, C. (2022). Decidability of definability issues in the theory of real addition. *Fundamenta Informaticae*, 188, 15--39. https://fi.episciences.org/10753

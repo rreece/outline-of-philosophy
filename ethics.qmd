@@ -756,6 +756,11 @@ Protests and (non-)violence
 Feminism
 --------------------------------------------------------------------------------
 
+### Introduction
+
+-   TODO
+
+
 ### Women's suffrage movements (19th and early 20th centuries)
 
 -   [Seneca Falls Convention](https://en.wikipedia.org/wiki/Seneca_Falls_Convention) (1848)
@@ -933,7 +938,7 @@ Aesthetics
 -   Pettit, P. (1983). The possibility of aesthetic realism. [^Pettit1983]
 -   Semiotics
 -   Roger Scruton (1944-2022)
--   Scruton, R. (2018). Why beauty matters. [^Scruton2018]
+    -   Scruton, R. (2018). Why beauty matters. [^Scruton2018]
 
 [^Pettit1983]: @Pettit_1983_The_possibility_of_aesthetic_realism\.
 [^Scruton2018]: @Scruton_2018_Why_beauty_matters\.

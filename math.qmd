@@ -134,18 +134,21 @@ Summarizing the classification of finite simple groups:
 
 ### Abstract algebra
 
--   Rings, groups, fields
--   A field is a commutative division ring.
+-   Groups, rings, fields
+-   A *semigroup* is a set with a closed, associative, binary operation.
+-   A *monoid* is a semigroup with an identity element.
+-   A *group* is a monoid with inverse elements.
+-   An *abelian group* is a group where the binary operation is commutative.
+-   A *ring* is an abelian group (under addition) with a second closed, associative, binary operation (multiplication) that distributes over the first.
+-   A *division ring* is a ring where every non-zero element has a multiplicative inverse.
+-   A *field* is a commutative division ring (where multiplication commutes).
 -   Vector space
 -   Modules are to rings as vector spaces are to fields.
 
 $$ 
 \begin{align}
-\mathrm{rngs} &\supset \mathrm{rings} \supset \mathrm{commutative\ rings} \supset \mathrm{integral\ domains} \\
-    &\supset \mathrm{integrally\ closed\ domains} &\supset \mathrm{GCD\ domains} \\
-    &\supset \mathrm{unique\ factorization\ domains} \supset \mathrm{principal\ ideal\ domains} \\
-    &\supset \mathrm{euclidean\ domains} \supset \mathrm{fields} \\
-    &\supset \mathrm{algebraically\ closed\ fields}
+\mathrm{sets} &\supset \mathrm{semigroups} \supset \mathrm{monoids} \supset \mathrm{groups} \supset \mathrm{abelian\ groups} \\
+    &\supset \mathrm{rings} \supset \mathrm{division\ rings} \supset \mathrm{fields}
 \end{align}
 $$
 
@@ -322,8 +325,20 @@ Number theory
 
 ### Transfinite numbers
 
+-   Transfinite numbers were anticipated by [Robert Grosseteste](https://plato.stanford.edu/entries/grosseteste/) (ca. 1168-1253).
 -   Ordinal (index) vs cardinal (size) numbers
+-   Developed by [Georg Cantor](https://en.wikipedia.org/wiki/Georg_Cantor) (1845-1918) in 1895
+    -   [Cantor's first set theory article](https://en.wikipedia.org/wiki/Cantor%27s_first_set_theory_article)
+    -   Proved that the real numbers are uncountably infinite.
+    -   The cardinalities of $\mathbb{R}$ and $\mathbb{R}^n$ are both $C$.
+-   [Cantor's theorem](https://en.wikipedia.org/wiki/Cantor%27s_theorem)
+    -   Let $|A| \equiv \mathrm{card}(A)$ denote the cardinality (i.e size) of a set, $A$.
+    -   A power set, $P(A)$, of a set, $A$, is the set of all subsets of $A$.
+    -   The cardinality of a power set is $|P(A)| = 2^{|A|}$
+    -   The cardinality of a power set is strictly larger than the set: $|A| < |P(A)|$
 -   [Cantor-Bernstein-Schr&ouml;eder theorem](https://en.wikipedia.org/wiki/Schr%C3%B6der%E2%80%93Bernstein_theorem)
+    -   Not accepted in intuitionism
+    -   [Hume's principle](https://en.wikipedia.org/wiki/Hume%27s_principle)
 -   [Transfinite numbers](https://en.wikipedia.org/wiki/Transfinite_number):
     -   $\omega$: the smallest transfinite ordinal number; the order type of the natural numbers.
     -   $\aleph_0$: the first transfinite cardinal number; the cardinality of the natural numbers, $\aleph_0 \equiv |\mathbb{N}|$
@@ -336,30 +351,20 @@ Number theory
     -   $\aleph_0$ is the smallest infinite cardinal; it is countable.
     -   $\aleph_1$ is the first uncountable cardinal.
     -   $\aleph_2$ is the second uncountable cardinal.
--   Transfinite numbers were anticipated by [Robert Grosseteste](https://plato.stanford.edu/entries/grosseteste/) (ca. 1168-1253).
--   [Hume's principle](https://en.wikipedia.org/wiki/Hume%27s_principle)
--   Developed by [Georg Cantor](https://en.wikipedia.org/wiki/Georg_Cantor) (1845-1918) in 1895
-    -   [Cantor's first set theory article](https://en.wikipedia.org/wiki/Cantor%27s_first_set_theory_article)
-    -   Proved that the real numbers are uncountably infinite.
-    -   The cardinalities of $\mathbb{R}$ and $\mathbb{R}^n$ are both $C$.
--   [Schr&ouml;der–Bernstein theorem](https://en.wikipedia.org/wiki/Schr%C3%B6der%E2%80%93Bernstein_theorem)
-    -   Not accepted in intuitionism
--   [Cantor's theorem](https://en.wikipedia.org/wiki/Cantor%27s_theorem)
-    -   Let $|A| \equiv \mathrm{card}(A)$ denote the cardinality (i.e size) of a set, $A$.
-    -   A power set, $P(A)$, of a set, $A$, is the set of all subsets of $A$.
-    -   The cardinality of a power set is $|P(A)| = 2^{|A|}$
-    -   The cardinality of a power set is strictly larger than the set: $|A| < |P(A)|$
 -   [Cardinality of the continuum](https://en.wikipedia.org/wiki/Cardinality_of_the_continuum)
     -   The cardinality of the reals: $C \equiv |\mathbb{R}|$
+    -   The cardinality of the reals is the power set of the natural numbers:
+        $C \equiv |\mathbb{R}| = |P(\mathbb{N})| = 2^{|\mathbb{N}|} = 2^{\aleph_0} > \aleph_0$
     -   Examples of sets with cardinality = $C$
         -   real numbers, $\mathbb{R}$
         -   closed or open intervals on $\mathbb{R}$
         -   Euclidean space, $\mathbb{R}^n$
         -   complex numbers, $\mathbb{C}$
         -   set of all continuous functions from $\mathbb{R}$ to $\mathbb{R}$
-        -   power set of of natural numbers, $P(\mathbb{N})$
-    -   The cardinality of the reals is the power set of the natural numbers:
-        $C \equiv |\mathbb{R}| = |P(\mathbb{N})| = 2^{|\mathbb{N}|} = 2^{\aleph_0} > \aleph_0$
+        -   power set of the natural numbers, $P(\mathbb{N})$
+    -   Examples of sets with cardinality > $C$
+        -   set of all functions from $\mathbb{R}$ to $\mathbb{R}$
+        -   power set of the real numbers, $P(\mathbb{R})$
 -   [Continuum Hypothesis](https://en.wikipedia.org/wiki/Continuum_hypothesis) (CH)
     -   CH: There is no set $S$ such that $\aleph_0 < |S| < 2^{\aleph_0}$
     -   $C = 2^{\aleph_0}$, and under CH, $C = 2^{\aleph_0} = \aleph_1$.
@@ -368,9 +373,12 @@ Number theory
 -   Generalized Continuum Hypothesis (GCH)
     -   $\aleph_{n+1} = 2^{\aleph_n}$
 -   [Surreal numbers](https://en.wikipedia.org/wiki/Surreal_number)
+    -   The surreal number system is the largest ordered field.
     -   John Conway (1937-2020)
     -   Conway, J. (2016). Lecture: [Surreal Numbers - How playing games led to more numbers than anybody ever thought of](https://www.youtube.com/watch?v=1eAmxgINXrE).
     -   [Construction of the real numbers](https://en.wikipedia.org/wiki/Construction_of_the_real_numbers) and [Dedekind cuts](https://en.wikipedia.org/wiki/Dedekind_cut)
+-   Pedagogy
+    -   Bajnok, B. (2013). [*An Invitation to Abstract Mathematics*](https://link.springer.com/book/10.1007/978-1-4614-6636-9). [^Bajnok2013]
  
 Hilbert:
 
@@ -387,6 +395,7 @@ Hilbert:
 >       which no one doubts and where contradictions and paradoxes
 >       arise only through our own carelessness. [^Hilbert1926p191]
 
+[^Bajnok2013]: @Bajnok_2013_An_Invitation_to_Abstract_Mathematics\.
 [^Hilbert1926p191]: @Hilbert_1926_Uber_das_Unendliche\, p. 191.
 [^Trioni2020Omega]: Trioni, S. (2020). [Cantor's attic](https://neugierde.github.io/cantors-attic/Omega) - Omega.
 
