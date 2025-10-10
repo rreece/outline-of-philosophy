@@ -134,18 +134,21 @@ Summarizing the classification of finite simple groups:
 
 ### Abstract algebra
 
--   Rings, groups, fields
--   A field is a commutative division ring.
+-   Groups, rings, fields
+-   A *semigroup* is a set with a closed, associative, binary operation.
+-   A *monoid* is a semigroup with an identity element.
+-   A *group* is a monoid with inverse elements.
+-   An *abelian group* is a group where the binary operation is commutative.
+-   A *ring* is an abelian group (under addition) with a second closed, associative, binary operation (multiplication) that distributes over the first.
+-   A *division ring* is a ring where every non-zero element has a multiplicative inverse.
+-   A *field* is a commutative division ring (where multiplication commutes).
 -   Vector space
 -   Modules are to rings as vector spaces are to fields.
 
 $$ 
 \begin{align}
-\mathrm{rngs} &\supset \mathrm{rings} \supset \mathrm{commutative\ rings} \supset \mathrm{integral\ domains} \\
-    &\supset \mathrm{integrally\ closed\ domains} &\supset \mathrm{GCD\ domains} \\
-    &\supset \mathrm{unique\ factorization\ domains} \supset \mathrm{principal\ ideal\ domains} \\
-    &\supset \mathrm{euclidean\ domains} \supset \mathrm{fields} \\
-    &\supset \mathrm{algebraically\ closed\ fields}
+\mathrm{sets} &\supset \mathrm{semigroups} \supset \mathrm{monoids} \supset \mathrm{groups} \supset \mathrm{abelian\ groups} \\
+    &\supset \mathrm{rings} \supset \mathrm{division\ rings} \supset \mathrm{fields}
 \end{align}
 $$
 
@@ -368,9 +371,12 @@ Number theory
 -   Generalized Continuum Hypothesis (GCH)
     -   $\aleph_{n+1} = 2^{\aleph_n}$
 -   [Surreal numbers](https://en.wikipedia.org/wiki/Surreal_number)
+    -   The surreal number system is the largest ordered field.
     -   John Conway (1937-2020)
     -   Conway, J. (2016). Lecture: [Surreal Numbers - How playing games led to more numbers than anybody ever thought of](https://www.youtube.com/watch?v=1eAmxgINXrE).
     -   [Construction of the real numbers](https://en.wikipedia.org/wiki/Construction_of_the_real_numbers) and [Dedekind cuts](https://en.wikipedia.org/wiki/Dedekind_cut)
+-   Pedagogy
+    -   Bajnok, B. (2013). [*An Invitation to Abstract Mathematics*](https://link.springer.com/book/10.1007/978-1-4614-6636-9). [^Bajnok2013]
  
 Hilbert:
 
@@ -387,6 +393,7 @@ Hilbert:
 >       which no one doubts and where contradictions and paradoxes
 >       arise only through our own carelessness. [^Hilbert1926p191]
 
+[^Bajnok2013]: @Bajnok_2013_An_Invitation_to_Abstract_Mathematics\.
 [^Hilbert1926p191]: @Hilbert_1926_Uber_das_Unendliche\, p. 191.
 [^Trioni2020Omega]: Trioni, S. (2020). [Cantor's attic](https://neugierde.github.io/cantors-attic/Omega) - Omega.
 
