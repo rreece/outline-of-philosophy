@@ -1587,9 +1587,6 @@ See also:
 -   Stanley Cavell (1926-2018)
     -   *Must We Mean What We Say?* (1969) [^Cavell2015]
     -   *The Claim of Reason: Wittgenstein, Skepticism, Morality, and Tragedy* (1979)
--   Richard Rorty (1931-2007)
-    -   Rorty, R. (1993). Wittgenstein, Heidegger, and the reification of language. [^Rorty1993]
-    -   "Obsession with this image of something deeply hidden" [^Rorty1993p347]
 -   [Saul Kripke](https://en.wikipedia.org/wiki/Saul_Kripke) (1940-2022)
     -   *Wittgenstein on Rules and Private Language* (1982)
         -   Distinguishes the views of Wittgenstein, Kripke, and Kripkenstein
@@ -1616,8 +1613,6 @@ See also:
 
 [^Borg2007]: @Borg_2007_Minimal_Semantics\.
 [^Cavell2015]: @Cavell_2015_Must_We_Mean_What_We_Say\.
-[^Rorty1993]: @Rorty_1993_Wittgenstein_Heidegger_and_the_reification\.
-[^Rorty1993p347]: @Rorty_1993_Wittgenstein_Heidegger_and_the_reification\, p. 347.
 [^Strawson1950]: @Strawson_1950_On_referring\.
 [^Wittgenstein1969b]: @Wittgenstein_1969_On_Certainty\.
 [^Wittgenstein2009]: @Wittgenstein_2009_Philosophical_Investigations\.
@@ -1852,10 +1847,7 @@ Pragmatism
     -   Critic of foundationalist epistemology
     -   Sheff, N. (2021). [Wilfrid Sellars, sensory experience and the 'Myth of the Given'](https://psyche.co/ideas/wilfrid-sellars-sensory-experience-and-the-myth-of-the-given).
 -   [Richard Rorty](https://en.wikipedia.org/wiki/Richard_Rorty) (1931-2007)
-    -   *The Linguistic Turn* (1967) [^Rorty1967]
-    -   *Philosophy and the Mirror of Nature* (1979)
-    -   Rejection of the representationalist account of knowledge; mirror of nature.
-    -   Ironism
+    -   Rorty, R. (1967). *The Linguistic Turn* (1967) [^Rorty1967]
     -   Brandom, R. (Ed.). (2000). *Rorty and His Critics*. [^Rorty2000]
 -   Hilary Putnam (1926-2016)
     -   Rorty and Putnam
@@ -1936,7 +1928,19 @@ Postmodernism
 -   Jacques Derrida (1930-2004)
     -   Schliesser, E. (2016). [The letter against Derrida's honorary degree, re-examined](https://digressionsnimpressions.typepad.com/digressionsimpressions/2016/03/the-letter-against-derridas-honorary-degree.html).
 -   Richard Rorty (1931-2007)
--   [Strong programme](https://en.wikipedia.org/wiki/Strong_programme)
+    -   Rorty, R. (1979). *Philosophy and the Mirror of Nature* (1979) [^Rorty1979]
+        -   Rejection of the representationalist account of knowledge; mirror of nature.
+        -   Ironism
+    -   Rorty, R. (1989). *Contingency, Irony, and Solidarity*. [^Rorty1989]
+    -   Rorty, R. (1993). Wittgenstein, Heidegger, and the reification of language. [^Rorty1993]
+        -   "Obsession with this image of something deeply hidden" [^Rorty1993p347]
+    -   Rorty, R. (1998). *Achieving Our Country*. [^Rorty1998]
+
+[^Rorty1979]: @Rorty_1979_Philosophy_and_the_Mirror_of_Nature\.
+[^Rorty1989]: @Rorty_1989_Contingency_Irony_and_Solidarity\.
+[^Rorty1993]: @Rorty_1993_Wittgenstein_Heidegger_and_the_reification\.
+[^Rorty1993p347]: @Rorty_1993_Wittgenstein_Heidegger_and_the_reification\, p. 347.
+[^Rorty1998]: @Rorty_1998_Achieving_Our_Country\.
 
 
 ### Discussion
@@ -2176,6 +2180,7 @@ See also:
 ### Discussion
 
 -   Harding, S. (1986). *The Science Question in Feminism*. [^Harding1986]
+-   Richards, J.R. (1995). Why feminist epistemology isn't (and the implications for feminist jurisprudence). [^Richards1995]
 -   Decolonizing science
     -   Prescod-Weinstein, Chanda. (2015). [Decolonising science reading list](https://medium.com/@chanda/decolonising-science-reading-list-339fb773d51f).
     -   Roy, Rohan Deb. (2018). [Decolonise science: Time to end another imperial era](https://theconversation.com/decolonise-science-time-to-end-another-imperial-era-89189).
@@ -2185,6 +2190,7 @@ See also:
 -   [Criticisms of naturalism in the Outline on naturalism](naturalism.html#criticisms-of-naturalism)
 
 [^Harding1986]: @Harding_1986_The_Science_Question_in_Feminism\.
+[^Richards1995]: @Richards_1995_Why_feminist_epistemology_isnt\.
 
 
 ### Criticism
