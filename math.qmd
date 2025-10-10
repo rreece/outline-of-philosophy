@@ -608,7 +608,7 @@ See also:
 -   [Second-order and higher-order logic](https://plato.stanford.edu/entries/logic-higher-order/), *SEP*
 -   Includes relation variables in addition to object variables and allows quantification over both.
     -   Extends first-order logic to allow predicates having predicates or functions as arguments, or in which one or both of predicate quantifiers or function quantifiers are permitted.
-    -   $\exists P\ P(x)$
+    -   $\exists \phi\ \phi(x)$
 -   Addition and multiplication are definabile in second-order logic.
     -   [Peano arithmetic](https://en.wikipedia.org/wiki/Peano_axioms#Peano_arithmetic_as_first-order_theory), PA
     -   [Second-order arithmetic](https://en.wikipedia.org/wiki/Second-order_arithmetic), $\mathrm{Z}_{2}$
