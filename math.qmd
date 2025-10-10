@@ -62,8 +62,8 @@ TODO
 
 See also:
 
--   [Estimation of covariance matrices](ethics.html#estimation-of-covariance-matrices)
--   [Convex optimization](ethics.html#convex-optimization)
+-   [Covariance estimation](https://rreece.github.io/finance-notes/covariance-estimation.html)
+-   [Convex optimization](https://rreece.github.io/finance-notes/convex-optimization.html)
 
 
 ### Lie groups
@@ -141,26 +141,26 @@ Summarizing the classification of finite simple groups:
 
 $$ 
 \begin{align}
-\mathrm{rngs} &\supset \mathrm{rings} \supset \mathrm{commutative\ rings} \supset \mathrm{integral\ domains} \supset \mathrm{integrally\ closed\ domains} \\
-    &\supset \mathrm{GCD\ domains} \supset \mathrm{unique\ factorization\ domains} \supset \mathrm{principal\ ideal\ domains} \\
-    &\supset \mathrm{euclidean\ domains} \supset \mathrm{fields} \supset \mathrm{algebraically\ closed\ fields}
+\mathrm{rngs} &\supset \mathrm{rings} \supset \mathrm{commutative\ rings} \supset \mathrm{integral\ domains} \\
+    &\supset \mathrm{integrally\ closed\ domains} &\supset \mathrm{GCD\ domains} \\
+    &\supset \mathrm{unique\ factorization\ domains} \supset \mathrm{principal\ ideal\ domains} \\
+    &\supset \mathrm{euclidean\ domains} \supset \mathrm{fields} \\
+    &\supset \mathrm{algebraically\ closed\ fields}
 \end{align}
 $$
 
 
 ### More
 
--   Jordan algebras
-    -   McCrimmon, K. (2000). *A Taste of Jordan Algebras*. [^McCrimmon2000]
 -   [Algebraic number theory](https://en.wikipedia.org/wiki/Algebraic_number_theory)
 -   [Representation theory](https://en.wikipedia.org/wiki/Representation_theory)
--   [Langlands program](https://en.wikipedia.org/wiki/Langlands_program)
--   [Universal algebra](https://en.wikipedia.org/wiki/Universal_algebra)
 -   [Hurwitz's theorem](https://en.wikipedia.org/wiki/Hurwitz%27s_theorem_(composition_algebras))
     -   The real numbers, the complex numbers, the quaternions, and the octonions
         exhaust all the possible normed division algebras.
     -   Baez, J.C. (2002). [The octonions](https://arxiv.org/abs/math/0105155). [^Baez2002]
     -   Westbury, B.W. (2010). [Hurwitz' theorem on composition algebras](https://arxiv.org/abs/1011.6197). [^Westbury2010]
+-   Jordan algebras
+    -   McCrimmon, K. (2000). *A Taste of Jordan Algebras*. [^McCrimmon2000]
 
 See also:
 
@@ -1222,7 +1222,7 @@ Platonism
     -   Clearly Ed Witten is a platonist. Video: [How is mathematics truth and beauty?](https://www.youtube.com/watch?v=O3isFuQ2q2A) *Closer To Truth*.
     -   Seth Lloyd - the universe is a computer - pythagorean?
 
-Zalta: [^Zalta1983p12]
+Zalta on ordinary objects exemplifing properties and abstract objects encoding properties: [^Zalta1983p12]
 
 $$
 F^{n} x_{1} \ldots x_{n} = x_{1} \ldots x_{n}\ \mathrm{exemplify\ property}\ F^{n}
@@ -1232,11 +1232,28 @@ $$
 x F^{1} = \mathrm{individual}\ x\ \mathrm{encodes\ property}\ F^{1}
 $$
 
+If possibly an abstract object encodes a property, then it does so necessarily: [^Leitgeb2025p129]
+
+$$
+\Diamond x F \rightarrow \Box x F
+$$
+
+Ordinary objects possibly exist concretely; abstract objects do not possibly exist concretely: [^Zalta2025Sec15_2]
+
+$$
+O! x \equiv \Diamond E! x
+$$
+
+$$
+A! x \equiv \neg \Diamond E! x
+$$
+
 See also:
 
 -   [Neologicism](#neologicism)
 
 [^DeCruz2016]: @DeCruz_2016_Numerical_cognition_and_mathematical_realism\.
+[^Leitgeb2025p129]: @Leitgeb_2025_A_defense_of_logicism\, p. 129.
 [^Linsky1995]: @Linsky_1995_Naturalized_platonism_versus_platonized\.
 [^Quine1948b]: @Quine_1948_On_what_there_is\.
 [^Quine1948p7]: @Quine_1948_On_what_there_is\, p. 7.
@@ -1248,6 +1265,7 @@ See also:
 [^Zalta2007]: @Zalta_2007_Reflections_on_mathematics\.
 [^Zalta2011]: @Zalta_2011_Logic_and_metaphysics\.
 [^Zalta2025]: @Zalta_2025_Principia_Logico_Metaphysica\.
+[^Zalta2025Sec15_2]: @Zalta_2025_Principia_Logico_Metaphysica\, &sect;15.2, p. 866.
 
 
 ### Visual proofs
