@@ -46,9 +46,11 @@ Deontological ethics
 
 ### Introduction
 
--   Kant
+-   Immanuel Kant (1724-1804)
     -   Categorical imperative
--   Rawls
+-   Ernst Mally (1879-1944)
+    -   Deontic logic
+-   John Rawls (1921-2002)
     -   *A Theory of Justice* [^Rawls1999]
     -   The original position
     -   Veil of ignorance
@@ -516,6 +518,11 @@ See also:
 Political philosophy
 --------------------------------------------------------------------------------
 
+### Introduction
+
+-   TODO
+
+
 ### Capitalism
 
 -   Feudalism
@@ -616,6 +623,11 @@ Philosophy of law
 
 Economics
 --------------------------------------------------------------------------------
+
+### Introduction
+
+-   TODO
+
 
 ### Classical economics
 

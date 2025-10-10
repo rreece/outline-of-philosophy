@@ -608,7 +608,7 @@ See also:
 -   [Second-order and higher-order logic](https://plato.stanford.edu/entries/logic-higher-order/), *SEP*
 -   Includes relation variables in addition to object variables and allows quantification over both.
     -   Extends first-order logic to allow predicates having predicates or functions as arguments, or in which one or both of predicate quantifiers or function quantifiers are permitted.
-    -   $\exists P\ P(x)$
+    -   $\exists \phi\ \phi(x)$
 -   Addition and multiplication are definabile in second-order logic.
     -   [Peano arithmetic](https://en.wikipedia.org/wiki/Peano_axioms#Peano_arithmetic_as_first-order_theory), PA
     -   [Second-order arithmetic](https://en.wikipedia.org/wiki/Second-order_arithmetic), $\mathrm{Z}_{2}$
@@ -637,6 +637,12 @@ See also:
 -   Kleene, S.C. (1943). [Recursive predicates and quantifiers](https://www.jstor.org/stable/1990131). [^Kleene1943]
     -   The incompleteness of second-order logic is deeply related to recursion.
 -   Rossberg, M. (2004). [First-order logic, second-order logic, and completeness](http://logic.amu.edu.pl/images/4/46/Completenessrossberg.pdf). [^Rossberg2004]
+
+TODO: Clarify that G&ouml;del's incompleteness theorems actually do _not_ require second-order logic, but apply to first-order PA.
+
+-   First-order logic (as a deductive system) is complete: every logically valid formula is provable.
+-   First-order PA (a specific theory) is incomplete: not every true arithmetic statement is provable from PA's axioms.
+    -   First-order PA requires an infinite schema of induction axioms; second-order logic can can express induction as a single axiom; but both are incomplete.
 
 See also:
 
