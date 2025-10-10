@@ -1208,7 +1208,7 @@ Platonism
     -   Linsky, B. & Zalta, E.N. (1995). [Naturalized platonism versus platonized naturalism](https://www.jstor.org/stable/2940786) [^Linsky1995]
     -   Zalta, E.N. (2007). [Reflections on mathematics](https://mally.stanford.edu/Papers/reflections.pdf). [^Zalta2007]
     -   Zalta, E.N. (2011). [Logic and metaphysics](https://mally.stanford.edu/Papers/logic-metaphysics.pdf). [^Zalta2011]
-    -   Zalta, E.N. (2025). [*Principia Logico-Metaphysica*](https://mally.stanford.edu/principia.pdf) (Draft). [^Zalta2024]
+    -   Zalta, E.N. (2025). [*Principia Logico-Metaphysica*](https://mally.stanford.edu/principia.pdf) (Draft). [^Zalta2025]
 -   Neopythagoreanism
     -   Tegmark, M. (2008). "The mathmatical universe". [^Tegmark2008]
     -   Mathematical Universe Hypothesis (MUH)
@@ -1247,7 +1247,7 @@ See also:
 [^Zalta1983p12]: @Zalta_1983_Abstract_Objects_An_Introduction_to_Axiomatic\, p. 12.
 [^Zalta2007]: @Zalta_2007_Reflections_on_mathematics\.
 [^Zalta2011]: @Zalta_2011_Logic_and_metaphysics\.
-[^Zalta2024]: @Zalta_2024_Principia_Logico_Metaphysica\.
+[^Zalta2025]: @Zalta_2025_Principia_Logico_Metaphysica\.
 
 
 ### Visual proofs

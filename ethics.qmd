@@ -437,7 +437,7 @@ Churchland:
 ### Science of morality
 
 -   Deontic logic
-    Ernst Mally (1879-1944)
+    -   Ernst Mally (1879-1944)
 -   Sam Harris
     -   *The Moral Landscape: How science can determine human values* [^Harris2010]
     -   Video: Sisyphus55 (2020). [The Zen Neuroscientist: A guide to Sam Harris](https://www.youtube.com/watch?v=UaTE4ZxzLdA).
@@ -810,7 +810,6 @@ Feminism
 -   Skeptical feminism
     -   [Janet Radcliffe Richards](https://en.wikipedia.org/wiki/Janet_Radcliffe_Richards) (b. 1944)
     -   Richards, J.R. (1980). *The Sceptical Feminist: A Philosophical Enquiry*. [^Richards1980]
-    -   Richards, J.R. (1995). Why feminist epistemology isn't (and the implications for feminist jurisprudence). [^Richards1995]
 -   Gender and identity
     -   Judith Butler (b. 1956)
         -   *Gender Trouble* (1990)
@@ -822,7 +821,6 @@ Feminism
 [^Haslanger2000]: @Haslanger_2000_Gender_and_Race_What_Are_They_What_Do_We\.
 [^Mikkola2009]: @Mikkola_2009_Gender_concepts_and_intuitions\.
 [^Richards1980]: @Richards_1980_The_Sceptical_Feminist_A_Philosophical_Enquiry\.
-[^Richards1995]: @Richards_1995_Why_feminist_epistemology_isnt\.
 [^SnyderHall2010]: @Snyder_Hall_2010_Third_wave_feminism_and_the_defense_of_choice\.
 
 

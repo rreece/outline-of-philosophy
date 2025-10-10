@@ -84,10 +84,14 @@ Reck, E.H. (2005). Frege's influence on Wittgenstein: Reversing metaphysics via 
 Redhead, M. (1999). Quantum field theory and the philosopher. In Cao, T.Y. (Ed.) *Conceptual Foundations of Quantum Field Theory* (pp. 34--40). Cambridge University Press.
 Redhead, M. (2001). The intelligibility of the universe. *Royal Institute of Philosophy Supplements*, 48, 73--90.
 Reichenbach, H. (1968). *The Rise of Scientific Philosophy*. University of California Press. [(Originally published in 1951)]
+Richards, J.R. (1995). Why feminist epistemology isn't (and the implications for feminist jurisprudence). *Legal Theory*, 1, 365--400.
 Richter, D.J. (2004). Ludwig Wittgenstein. *International Encyclopedia of Philosophy*. https://iep.utm.edu/wittgens/
 Rorty, R. (1967). *The Linguist Turn: Recent Essays in Philosophical Method*. University of Chicago Press.
+Rorty, R. (1979). *Philosophy and the Mirror of Nature*. Princeton University Press.
+Rorty, R. (1989). *Contingency, Irony, and Solidarity*. Cambridge University Press.
 #Rorty, R. (1991). Wittgenstein, Heidegger, and the reification of language. In *Essays on Heidegger and Others* (pp. 50--65). Cambridge University Press.
 Rorty, R. (1993). Wittgenstein, Heidegger, and the reification of language. In Guignonn, C.B. (Ed.) *The Cambridge Companion to Heidegger* (pp. 337--357). Cambridge University Press.
+Rorty, R. (1998). *Achieving Our Country*. Harvard University Press.
 Ross, D., Ladyman, J., & Kincaid, H. (2013). *Scientific Metaphysics*. Oxford University Press.
 Rovelli, C. (2003). A dialog on quantum gravity. https://arxiv.org/abs/hep-th/0310077
 Russell, B. (1912). *The Problems of Philosophy*. Oxford University Press. [(with Introduction by John Perry 1997)]
