@@ -18,6 +18,7 @@ Bradley, T.D., Terilla, J., & Vlassopoulos, Y. (2021). An enriched category theo
 Brouwer, L.E.J. (1908). Unreliability of the logical principles. https://arxiv.org/abs/1511.01113
 Bueno, O. (2010). A defense of second-order logic. *Axiomathes*, 20, 365--383. https://web.as.miami.edu/personal/obueno/Site/Online_Papers_files/SecnOrd_FINAL.pdf
 Bueno, O. (2013). Nominalism in the philosophy of mathematics. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/nominalism-mathematics/
+Burgess, C. (1990). PDEs, ODEs, analytic continuation, special functions, Sturm-Liouville problems and all that. https://physics.mcmaster.ca/~cburgess/Notes/mathphys.pdf
 Burgess, J.P. (1983). Why I am not a nominalist. *Notre Dame Journal of Formal Logic*, 24(1), 93--105.
 Burke, W.L. (1985). *Applied Differential Geometry*. Cambridge University Press.
 Button, T. & Walsh, S. (2018). *Philosophy and Model Theory*. Oxford University Press.
