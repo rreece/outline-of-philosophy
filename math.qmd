@@ -33,7 +33,7 @@ TODO
 -   roots from Babylonians
 -   [Al-Karaji](https://en.wikipedia.org/wiki/Al-Karaji) (c. 953-1029)
 -   [Gerolamo Cardano](https://en.wikipedia.org/wiki/Gerolamo_Cardano) (1501-1576)
--   Carl Friedrich Gauss (1777-1855)
+-   [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss) (1777-1855)
     -   published a proof of the fundamental theorem of algebra (1797)
     -   The theorem states that the field of complex numbers is algebraically closed.
 -   [&Eacute;variste Galois](https://en.wikipedia.org/wiki/%C3%89variste_Galois) (1811-1832)
@@ -231,26 +231,33 @@ TODO
     -   Starbird, M. (2016). [Who invented calculus?](https://www.thegreatcoursesdaily.com/invented-calculus-newton-leibniz/)
 
 
-#### Matrix calculus
+### Vector calculus
 
+-   History
+    -   William Rowan Hamilton (1805-1865)
+    -   George Stokes (1819-1903)
+    -   Josiah Willard Gibbs (1839-1903)
+    -   Oliver Heaviside (1850-1925)
+-   Stokes' theorem
+-   Tong, D. (2022). [Lectures on Vector Calculus](https://www.damtp.cam.ac.uk/user/tong/vc.html).
 -   [Matrix calculus](https://explained.ai/matrix-calculus/)
 -   Dwyer, P.S. (1967). [Some applications of matrix derivatives in multivariate analysis](https://www.tandfonline.com/doi/abs/10.1080/01621459.1967.10482934). [^Dwyer1967]
 
 [^Dwyer1967]: @Dwyer_1967_Some_applications_of_matrix_derivatives\.
 
 
+### Differential equations
+
+-   Burgess, C. (1990). [PDEs, ODEs, analytic continuation, special functions, Sturm-Liouville problems and all that](https://physics.mcmaster.ca/~cburgess/Notes/mathphys.pdf). [^Burgess1990]
+
+[^Burgess1990]: @Burgess_1990_PDEs_ODEs_analytic_continuation_special\.
+
+
 ### Differential geometry
 
 -   History
-    -   Leonhard Euler (1707-1783)
-    -   William Rowan Hamilton (1805-1865)
-    -   George Stokes (1819-1903)
-    -   Josiah Willard Gibbs (1839-1903)
     -   &Eacute;lie Cartan (1869-1951)
     -   W.V.D. Hodge (1903-1975)
--   Vector calculus
-    -   Stokes' theorem
-    -   Tong, D. (2022). [Lectures on Vector Calculus](https://www.damtp.cam.ac.uk/user/tong/vc.html).
 -   Differential forms
     -   Manifold, tangent and cotangent spaces, vector bundle, fiber bundle
     -   Burke, W.L. (1985). *Applied Differential Geometry*. [^Burke1985]
@@ -281,6 +288,19 @@ See also:
 [^Tao2007]: @Tao_2007_Differential_forms_and_integration\.
 [^Tu2017]: @Tu_2017_Differential_Geometry_Connections_Curvature\.
 [^Varadarajan2003]: @Varadarajan_2003_Vector_bundles_and_connections_in_physics\.
+
+
+### Complex analysis
+
+-   History
+    -   Leonhard Euler (1707-1783)
+    -   Augustin-Louis Cauchy (1789-1857)
+-   Needham, T. (1997). *Visual Complex Analysis*. [^Needham1997]
+-   Reece, R. (2006). [Primer on complex analysis](https://rreece.github.io/publications/pdf/2006.Reece.Primer-on-complex-analysis.pdf). [^Reece2006]
+-   TODO
+
+[^Needham1997]: @Needham_1997_Visual_Complex_Analysis\.
+[^Reece2006]: @Reece_2006_Primer_on_complex_analysis\.
 
 
 Number theory

@@ -725,12 +725,14 @@ Baez, Segal, & Zhou:
 -   Zeidler, vol 1 [^Zeidler2007], 2 [^Zeidler2008], and 3 [^Zeidler2011]
 -   Cao, T.Y. (1999). *Conceptual Foundations of Quantum Field Theory*. [^Cao1999]
 -   't Hooft, G. (2005). [The conceptual basis of quantum field theory](https://dspace.library.uu.nl/bitstream/handle/1874/22670/hooft_05_conceptualbasisofquantumfieldtheory.pdf). [^tHooft2005]
+-   Reece, R. (2007). [Quantum field theory: An introduction](https://rreece.github.io/publications/pdf/2007.Reece.Quantum-Field-Theory-An-Introduction.pdf). [^Reece2007]
 -   Mulders, P.J. (2011). [Quantum field theory](https://www.nat.vu.nl/~mulders/QFT-0.pdf). [^Mulders2011]
 -   Kocic, M. (2016). [Handout: Overview of the fields in QFT](https://ncatlab.org/nlab/files/FieldSpecies.pdf).
 
 [^Cao1999]: @Cao_1999_Conceptual_Foundations_of_Quantum_Field_Theory\.
 [^Mulders2011]: @Mulders_2011_Quantum_field_theory\.
 [^Peskin1995]: @Peskin_1995_An_Introduction_to_Quantum_Field_Theory\.
+[^Reece2007]: @Reece_2007_Quantum_field_theory_An_introduction\.
 [^Schwartz2014]: @Schwartz_2014_Quantum_Field_Theory_and_the_Standard_Model\.
 [^tHooft2005]: @tHooft_2005_The_conceptual_basis_of_quantum_field_theory\.
 [^Tong2006]: @Tong_2006_Lectures_on_Quantum_Field_Theory\.
