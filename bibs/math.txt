@@ -93,6 +93,7 @@ Putnam, H. (1975). What is mathematical truth? *Historia Mathematica*, 2(4), 529
 Quine, W.V.O. (1986). *Philosophy of Logic* (2nd ed.). Harvard University Press.
 Raatikainen, P. (2020). G{\"o}del's incompleteness theorems. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/goedel-incompleteness/
 Ramond, P. (1976). Introduction to exceptional Lie groups and algebras. CALT-68-577. https://inspirehep.net/literature/111550
+Reece, R. (2006). Primer on complex analysis. https://rreece.github.io/publications/pdf/2006.Reece.Primer-on-complex-analysis.pdf
 Reid, C. (1996). *Hilbert*. Copernicus.
 Rodin, A. (2012). Axiomatic method and category theory. https://arxiv.org/abs/1210.1478
 Rossberg, M. (2004). First-order logic, second-order logic, and completeness. In V.F. Hendricks et al. (eds.) *First-Order Logic Revisited*. Berlin: Logos-Verlag. http://logic.amu.edu.pl/images/4/46/Completenessrossberg.pdf
