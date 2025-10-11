@@ -852,7 +852,6 @@ Michael Atiyah:
 -   Pedagogy
     -   Martin, S.P. (2011). [Phenomenology of particle physics](https://www.ippp.dur.ac.uk/~mspannow/files/Phenomenology_Particle_Physics_Martin.pdf). [^Martin2011]
     -   Martin, S.P. & Wells, J.D (2023). [*Elementary Particles and Their Interactions*](https://link.springer.com/book/10.1007/978-3-031-14368-7). [^Martin2023]
-    -   My notes: Reece, R. (2007). [Quantum field theory: An introduction](http://rreece.github.io/publications/pdf/2007.Reece.Quantum-Field-Theory-An-Introduction.pdf). [^Reece2007]
 -   Discussion
     -   Jaeger, G. (2019). [Are virtual particles less real?](https://www.mdpi.com/1099-4300/21/2/141) [^Jaeger2019]
 
@@ -866,7 +865,6 @@ Michael Atiyah:
 [^Martin2011]: @Martin_2011_Phenomenology_of_particle_physics\.
 [^Martin2023]: @Martin_2023_Elementary_Particles_and_Their_Interactions\.
 [^Molinari2006]: @Molinari_2006_Another_proof_of_Gell_Mann_and_Lows_theorem\.
-[^Reece2007]: @Reece_2007_Quantum_field_theory_An_introduction\.
 [^Schlingemann1998]: @Schlingemann_1998_From_euclidean_field_theory_to_quantum_field\.
 [^Weinberg1964]: @Weinberg_1964_Feynman_rules_for_any_spin and
     @Weinberg_1964_Feynman_rules_for_any_spin_II_Massless_particles\.
