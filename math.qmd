@@ -231,8 +231,15 @@ TODO
     -   Starbird, M. (2016). [Who invented calculus?](https://www.thegreatcoursesdaily.com/invented-calculus-newton-leibniz/)
 
 
-### Matrix calculus
+### Vector calculus
 
+-   History
+    -   William Rowan Hamilton (1805-1865)
+    -   George Stokes (1819-1903)
+    -   Josiah Willard Gibbs (1839-1903)
+    -   Oliver Heaviside (1850-1925)
+-   Stokes' theorem
+-   Tong, D. (2022). [Lectures on Vector Calculus](https://www.damtp.cam.ac.uk/user/tong/vc.html).
 -   [Matrix calculus](https://explained.ai/matrix-calculus/)
 -   Dwyer, P.S. (1967). [Some applications of matrix derivatives in multivariate analysis](https://www.tandfonline.com/doi/abs/10.1080/01621459.1967.10482934). [^Dwyer1967]
 
@@ -249,15 +256,8 @@ TODO
 ### Differential geometry
 
 -   History
-    -   Leonhard Euler (1707-1783)
-    -   William Rowan Hamilton (1805-1865)
-    -   George Stokes (1819-1903)
-    -   Josiah Willard Gibbs (1839-1903)
     -   &Eacute;lie Cartan (1869-1951)
     -   W.V.D. Hodge (1903-1975)
--   Vector calculus
-    -   Stokes' theorem
-    -   Tong, D. (2022). [Lectures on Vector Calculus](https://www.damtp.cam.ac.uk/user/tong/vc.html).
 -   Differential forms
     -   Manifold, tangent and cotangent spaces, vector bundle, fiber bundle
     -   Burke, W.L. (1985). *Applied Differential Geometry*. [^Burke1985]
@@ -288,6 +288,17 @@ See also:
 [^Tao2007]: @Tao_2007_Differential_forms_and_integration\.
 [^Tu2017]: @Tu_2017_Differential_Geometry_Connections_Curvature\.
 [^Varadarajan2003]: @Varadarajan_2003_Vector_bundles_and_connections_in_physics\.
+
+
+### Complex analysis
+
+-   History
+    -   Leonhard Euler (1707-1783)
+    -   Augustin-Louis Cauchy (1789-1857)
+-   Needham, T. (1997). *Visual Complex Analysis*. [^Needham1997]
+-   TODO
+
+[^Needham1997]: @Needham_1997_Visual_Complex_Analysis\.
 
 
 Number theory
