@@ -367,8 +367,8 @@ Number theory
 ### Transfinite numbers
 
 -   Transfinite numbers were anticipated by [Robert Grosseteste](https://plato.stanford.edu/entries/grosseteste/) (ca. 1168-1253).
--   Ordinal (index) vs cardinal (size) numbers
 -   Developed by [Georg Cantor](https://en.wikipedia.org/wiki/Georg_Cantor) (1845-1918) in 1895
+    -   Ordinal (index) vs cardinal (size) numbers
     -   [Cantor's first set theory article](https://en.wikipedia.org/wiki/Cantor%27s_first_set_theory_article)
     -   Proved that the real numbers are uncountably infinite.
     -   The cardinalities of $\mathbb{R}$ and $\mathbb{R}^n$ are both $C$.
@@ -416,7 +416,7 @@ Number theory
 -   [Surreal numbers](https://en.wikipedia.org/wiki/Surreal_number)
     -   The surreal number system is the largest ordered field.
     -   John Conway (1937-2020)
-    -   Conway, J. (2016). Lecture: [Surreal Numbers - How playing games led to more numbers than anybody ever thought of](https://www.youtube.com/watch?v=1eAmxgINXrE).
+    -   Conway, J. (2016). Lecture: [Surreal Numbers - How playing games led to more numbers than anybody ever thought of](https://www.youtube.com/watch?v=1eAmxgINXrE). [^ConwayKeats]
     -   [Construction of the real numbers](https://en.wikipedia.org/wiki/Construction_of_the_real_numbers) and [Dedekind cuts](https://en.wikipedia.org/wiki/Dedekind_cut)
 -   Pedagogy
     -   Bajnok, B. (2013). [*An Invitation to Abstract Mathematics*](https://link.springer.com/book/10.1007/978-1-4614-6636-9). [^Bajnok2013]
@@ -438,6 +438,13 @@ Hilbert:
 
 [^Bajnok2013]: @Bajnok_2013_An_Invitation_to_Abstract_Mathematics\.
 [^Hilbert1926p191]: @Hilbert_1926_Uber_das_Unendliche\, p. 191.
+[^ConwayKeats]: At [31:18--33:37](https://www.youtube.com/watch?v=1eAmxgINXrE&t=1878s),
+    Conway references Keats's poem, [On First Looking into Chapman's Homer](https://en.wikipedia.org/wiki/On_First_Looking_into_Chapman%27s_Homer) (1816).
+    Conway likens surveying the surreal numbers for the first time as
+    being like the first Spanish explorer to see the Pacific Ocean.
+    In the poem, Keats mistakenly implies the first Spainard to see the Pacific is
+    [Hern&aacute;n Cort&eacute;s](https://en.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s) but
+    it was actually [Vasco N&uacute;&ntilde;ez de Balboa](https://en.wikipedia.org/wiki/Vasco_N%C3%BA%C3%B1ez_de_Balboa).
 [^Trioni2020Omega]: Trioni, S. (2020). [Cantor's attic](https://neugierde.github.io/cantors-attic/Omega) - Omega.
 
 
