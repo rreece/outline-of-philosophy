@@ -581,7 +581,7 @@ Propositional logic is
 -   Complete (valid $\Rightarrow$ provable)
 -   Consistent (no contradictions)
 
-Consistency means you cannot prove $\vdash A \wedge \lnot A$.
+Consistency means you cannot prove $\vdash P \wedge \lnot P$.
 Soundness is stronger than consistency: a sound system must be consistent, but a consistent system needn't be sound.
 Soundness implies consistency: Sound $\Rightarrow$ Consistent.
 
