@@ -242,25 +242,25 @@ TODO
 
 Stokes' theorem:
 
-$$ \int_{\partial M} \omega = \int_{M} d\omega $$
+$$ \int_{\partial M} \omega = \int_{M} \mathrm{d}\omega $$
 
 The generalized Stokes' theorem unifies these familiar results:
 
 Fundamental Theorem of Calculus (0D boundary, 1D region):
 
-$$ f(b) - f(a) = \int_{a}^{b} f^{\prime}(x) dx $$
+$$ f(b) - f(a) = \int_{a}^{b} f^{\prime}(x) \mathrm{d}x $$
 
 Green's Theorem (1D boundary, 2D region):
 
-$$ \oint_{C} (P dx + Q dy) = \iint_D \left( \frac{\partial Q}{\partial x} - \frac{\partial P}{\partial y} \right) dA $$
+$$ \oint_{C} (P \mathrm{d}x + Q \mathrm{d}y) = \iint_D \left( \frac{\partial Q}{\partial x} - \frac{\partial P}{\partial y} \right) \mathrm{d}A $$
 
 Classical Stokes' Theorem (2D boundary, 3D region):
 
-$$ \oint_{C} \mathbf{F} \cdot d\mathbf{r} = \iint_S (\nabla \times \mathbf{F}) \cdot d\mathbf{S} $$
+$$ \oint_{C} \vec{F} \cdot \mathrm{d}\vec{r} = \iint_S (\nabla \times \vec{F}) \cdot \mathrm{d}\vec{S} $$
 
 Divergence Theorem (2D boundary, 3D region):
 
-$$ \iint_{\partial V} \mathbf{F} \cdot d\mathbf{S} = \iiint_V (\nabla \cdot \mathbf{F}) dV $$
+$$ \iint_{\partial V} \vec{F} \cdot \mathrm{d}\vec{S} = \iiint_V (\nabla \cdot \vec{F}) \mathrm{d}V $$
 
 [^Dwyer1967]: @Dwyer_1967_Some_applications_of_matrix_derivatives\.
 
@@ -331,7 +331,9 @@ Number theory
 
 -   [Peano axioms](https://en.wikipedia.org/wiki/Peano_axioms)
 -   [Robinson arithmetic](https://en.wikipedia.org/wiki/Robinson_arithmetic)
--   Newstead, C. (2022). [*An Infinite Descent into Pure Mathematics*](https://infinitedescent.xyz/dl/infdesc.pdf).
+-   Newstead, C. (2022). [*An Infinite Descent into Pure Mathematics*](https://infinitedescent.xyz/dl/infdesc.pdf). [^Newstead2022]
+
+[^Newstead2022]: @Newstead_2022_An_Infinite_Descent_into_Pure_Mathematics\.
 
 
 ### Set theory
@@ -351,7 +353,7 @@ Number theory
 
 #### Zermelo-Fraenkel set theory
 
--   [Zermelo-Fraenkel set theory](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory)
+-   [Zermelo-Fraenkel set theory](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory), ZF
 -   [Axiom schema of specification](https://en.wikipedia.org/wiki/Axiom_schema_of_specification) AKA Axiom of restricted comprehension
     -   Define a set by defining a subset of a known set $A$, $\{ x \in A : \phi(x) \}$, instead of the more general $\{ x : \phi(x) \}$
     -   Given any set A, there exists a subset of $A$, whose memebers are those that satisfy $\phi$ (and are also members of $A$).
@@ -581,7 +583,7 @@ Propositional logic is
 -   Complete (valid $\Rightarrow$ provable)
 -   Consistent (no contradictions)
 
-Consistency means you cannot prove $\vdash A \wedge \lnot A$.
+Consistency means you cannot prove $\vdash P \wedge \lnot P$.
 Soundness is stronger than consistency: a sound system must be consistent, but a consistent system needn't be sound.
 Soundness implies consistency: Sound $\Rightarrow$ Consistent.
 

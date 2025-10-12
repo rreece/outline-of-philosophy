@@ -87,6 +87,7 @@ McCrimmon, K. (2000). *A Taste of Jordan Algebras*. Springer. http://old.math.ns
 Mill, J.S. (1877). *An Examination of Sir William Hamilton's Philosophy, vol II*. New York: Henry Holt and Co.
 Monk, J.D. (1976). *Mathematical Logic*. Springer.
 Needham, T. (1997). *Visual Complex Analysis*. Oxford University Press.
+Newstead, C. (2022). *An Infinite Descent into Pure Mathematics*. https://infinitedescent.xyz/dl/infdesc.pdf
 Nodelman, U. & Zalta, E.N. (2014). Foundations for mathematical structuralism. *Mind*, 123, 39--78. https://www.jstor.org/stable/24489523
 Ord, T. (2024). Bounds on the rates of growth and convergence of all physical processes. https://arxiv.org/abs/2410.10928
 Post, E.L. (1921). Introduction to the general theory of elementary propositions. *American Journal of Mathematics*, 43, 163--185.
