@@ -439,7 +439,7 @@ Hilbert:
 
 [^Bajnok2013]: @Bajnok_2013_An_Invitation_to_Abstract_Mathematics\.
 [^ConwayKeats]: At [31:18--33:37](https://www.youtube.com/watch?v=1eAmxgINXrE&t=1878s),
-    Conway references Keats's poem, "[On First Looking into Chapman's Homer](https://en.wikipedia.org/wiki/On_First_Looking_into_Chapman%27s_Homer)" (1816).
+    Conway references the poem, "[On First Looking into Chapman's Homer](https://en.wikipedia.org/wiki/On_First_Looking_into_Chapman%27s_Homer)" (1816) by John Keats.
     Conway likens surveying the surreal numbers for the first time as
     being like the first Spanish explorer to see the Pacific Ocean.
     In the poem, Keats mistakenly implies the first Spainard to see the Pacific is
