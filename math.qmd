@@ -253,7 +253,7 @@ Green's Theorem (1D boundary, 2D region):
 
 $$ \oint_{C} (P \mathrm{d}x + Q \mathrm{d}y) = \iint_D \left( \frac{\partial Q}{\partial x} - \frac{\partial P}{\partial y} \right) \mathrm{d}A $$
 
-Classical Stokes' Theorem (2D boundary, 3D region):
+Classical Stokes' Theorem (1D boundary, 2D region):
 
 $$ \oint_{C} \vec{F} \cdot \mathrm{d}\vec{r} = \iint_S (\nabla \times \vec{F}) \cdot \mathrm{d}\vec{S} $$
 
