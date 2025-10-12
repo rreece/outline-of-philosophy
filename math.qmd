@@ -416,7 +416,7 @@ Number theory
 -   [Surreal numbers](https://en.wikipedia.org/wiki/Surreal_number)
     -   Anticipated by Hans Hahn (1879-1934) in 1907
     -   Discovered by John Conway (1937-2020) in 1970
-        -   Conway, J.H. (1974). *On Numbers and Games*. [^Conway1974]
+        -   Conway, J.H. (1976). *On Numbers and Games*. [^Conway1976]
         -   Conway, J.H. (2016). Lecture: [Surreal Numbers - How playing games led to more numbers than anybody ever thought of](https://www.youtube.com/watch?v=1eAmxgINXrE). [^ConwayKeats]
     -   Named by Knuth
         -   Knuth, D. (1974). *Surreal Numbers: How two ex-students turned on to pure mathematics and found total happiness*. [^Knuth1974]
@@ -441,7 +441,7 @@ Hilbert:
 >       arise only through our own carelessness. [^Hilbert1926p191]
 
 [^Bajnok2013]: @Bajnok_2013_An_Invitation_to_Abstract_Mathematics\.
-[^Conway1974]: @Conway_2001_On_Numbers_and_Games\.
+[^Conway1976]: @Conway_2001_On_Numbers_and_Games\.
 [^ConwayKeats]: At [31:18--33:37](https://www.youtube.com/watch?v=1eAmxgINXrE&t=1878s),
     Conway references the poem "[On First Looking into Chapman's Homer](https://en.wikipedia.org/wiki/On_First_Looking_into_Chapman%27s_Homer)" (1816) by John Keats.
     Conway likens surveying the surreal numbers for the first time as
