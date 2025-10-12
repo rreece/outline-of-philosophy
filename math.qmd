@@ -397,15 +397,15 @@ Number theory
     -   The cardinality of the reals is the power set of the natural numbers:
         $C \equiv |\mathbb{R}| = |P(\mathbb{N})| = 2^{|\mathbb{N}|} = 2^{\aleph_0} > \aleph_0$
     -   Examples of sets with cardinality = $C$
+        -   power set of the natural numbers, $P(\mathbb{N})$
         -   real numbers, $\mathbb{R}$
         -   closed or open intervals on $\mathbb{R}$
         -   Euclidean space, $\mathbb{R}^n$
         -   complex numbers, $\mathbb{C}$
         -   set of all continuous functions from $\mathbb{R}$ to $\mathbb{R}$
-        -   power set of the natural numbers, $P(\mathbb{N})$
     -   Examples of sets with cardinality > $C$
-        -   set of all functions from $\mathbb{R}$ to $\mathbb{R}$
         -   power set of the real numbers, $P(\mathbb{R})$
+        -   set of all functions from $\mathbb{R}$ to $\mathbb{R}$
 -   [Continuum Hypothesis](https://en.wikipedia.org/wiki/Continuum_hypothesis) (CH)
     -   CH: There is no set $S$ such that $\aleph_0 < |S| < 2^{\aleph_0}$
     -   $C = 2^{\aleph_0}$, and under CH, $C = 2^{\aleph_0} = \aleph_1$.
@@ -415,12 +415,13 @@ Number theory
     -   $\aleph_{n+1} = 2^{\aleph_n}$
 -   [Surreal numbers](https://en.wikipedia.org/wiki/Surreal_number)
     -   Anticipated by Hans Hahn (1879-1934) in 1907
-    -   Discovered by John Conway (1937-2020) in 1970 [^Conway1974]
-    -   Conway, J. (2016). Lecture: [Surreal Numbers - How playing games led to more numbers than anybody ever thought of](https://www.youtube.com/watch?v=1eAmxgINXrE). [^ConwayKeats]
+    -   Discovered by John Conway (1937-2020) in 1970
+        -   Conway, J.H. (1974). *On Numbers and Games*. [^Conway1974]
+        -   Conway, J.H. (2016). Lecture: [Surreal Numbers - How playing games led to more numbers than anybody ever thought of](https://www.youtube.com/watch?v=1eAmxgINXrE). [^ConwayKeats]
     -   Named by Knuth
         -   Knuth, D. (1974). *Surreal Numbers: How two ex-students turned on to pure mathematics and found total happiness*. [^Knuth1974]
-    -   [Construction of the real numbers](https://en.wikipedia.org/wiki/Construction_of_the_real_numbers) and [Dedekind cuts](https://en.wikipedia.org/wiki/Dedekind_cut)
     -   The surreal number system is the largest ordered field.
+    -   Related: [Construction of the real numbers](https://en.wikipedia.org/wiki/Construction_of_the_real_numbers) and [Dedekind cuts](https://en.wikipedia.org/wiki/Dedekind_cut)
 -   Pedagogy
     -   Bajnok, B. (2013). [*An Invitation to Abstract Mathematics*](https://link.springer.com/book/10.1007/978-1-4614-6636-9). [^Bajnok2013]
  
