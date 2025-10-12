@@ -447,7 +447,7 @@ Hilbert:
     being like the first Spanish explorer to see the Pacific Ocean.
     In the poem, Keats mistakenly implies the first Spainard to see the Pacific is
     [Hern&aacute;n Cort&eacute;s](https://en.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s) but
-    it was actually [Vasco N&uacute;&ntilde;ez de Balboa](https://en.wikipedia.org/wiki/Vasco_N%C3%BA%C3%B1ez_de_Balboa).
+    it was actually [Vasco N&uacute;&ntilde;ez de Balboa](https://en.wikipedia.org/wiki/Vasco_N%C3%BA%C3%B1ez_de_Balboa) in 1513.
     When Conway says, "I was monarch of all; I surveyed", he's actually referencing another poem,
     "[Verses Supposed To Be Written by Alexander Selkirk](https://en.wikisource.org/wiki/Verses_Supposed_To_Be_Written_by_Alexander_Selkirk)" (1782) by William Cowper.
 
