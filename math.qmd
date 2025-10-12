@@ -197,9 +197,6 @@ TODO
 -   Carl Friedrich Gauss (1777-1855)
 -   Augustin-Louis Cauchy (1789-1857)
 -   Karl Weierstrass (1815-1897)
--   George Stokes (1819-1903)
--   Differential forms
--   Geometry and the [Erlangen program](https://en.wikipedia.org/wiki/Erlangen_program)
 
 
 ### Development of calculus
@@ -243,6 +240,28 @@ TODO
 -   [Matrix calculus](https://explained.ai/matrix-calculus/)
 -   Dwyer, P.S. (1967). [Some applications of matrix derivatives in multivariate analysis](https://www.tandfonline.com/doi/abs/10.1080/01621459.1967.10482934). [^Dwyer1967]
 
+Stokes' theorem:
+
+$$ \int_{\partial M} \omega = \int_{M} d\omega $$
+
+The generalized Stokes' theorem unifies these familiar results:
+
+Fundamental Theorem of Calculus (0D boundary, 1D region):
+
+$$ f(b) - f(a) = \int_{a}^{b} f^{\prime}(x) dx $$
+
+Green's Theorem (1D boundary, 2D region):
+
+$$ \oint_{C} (P dx + Q dy) = \iint_D \left( \frac{\partial Q}{\partial x} - \frac{\partial P}{\partial y} \right) dA $$
+
+Classical Stokes' Theorem (2D boundary, 3D region):
+
+$$ \oint_{C} \mathbf{F} \cdot d\mathbf{r} = \iint_S (\nabla \times \mathbf{F}) \cdot d\mathbf{S} $$
+
+Divergence Theorem (2D boundary, 3D region):
+
+$$ \iint_{\partial V} \mathbf{F} \cdot d\mathbf{S} = \iiint_V (\nabla \cdot \mathbf{F}) dV $$
+
 [^Dwyer1967]: @Dwyer_1967_Some_applications_of_matrix_derivatives\.
 
 
@@ -272,28 +291,6 @@ TODO
 -   [Chern-Simons theory](https://en.wikipedia.org/wiki/Chern%E2%80%93Simons_theory)
 -   Non-commutative
     -   Connes, A. (1985). [Non-commutative differential geometry](https://link.springer.com/article/10.1007/BF02698807). [^Connes1985a]
-
-Stokes' theorem:
-
-$$ \int_{\partial M} \omega = \int_{M} d\omega $$
-
-The generalized Stokes' theorem unifies these familiar results:
-
-Fundamental Theorem of Calculus (0D boundary, 1D region):
-
-$$ f(b) - f(a) = \int_{a}^{b} f^{\prime}(x) dx $$
-
-Green's Theorem (1D boundary, 2D region):
-
-$$ \oint_{C} (P dx + Q dy) = \iint_D \left( \frac{\partial Q}{\partial x} - \frac{\partial P}{\partial y} \right) dA $$
-
-Classical Stokes' Theorem (2D boundary, 3D region):
-
-$$ \oint_{C} \mathbf{F} \cdot d\mathbf{r} = \iint_S (\nabla \times \mathbf{F}) \cdot d\mathbf{S} $$
-
-Divergence Theorem (2D boundary, 3D region):
-
-$$ \iint_{\partial V} \mathbf{F} \cdot d\mathbf{S} = \iiint_V (\nabla \cdot \mathbf{F}) dV $$
 
 Hodge star:
 
