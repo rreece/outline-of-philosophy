@@ -59,6 +59,7 @@ Henkin, L. (1953). Some notes on nominalism. *The Journal of Symbolic Logic*, 18
 Henkin, L. (1996). The discovery of my completeness proofs. *Bulletin of Symbolic Logic*, 2, 127--158. https://doi.org/10.2307/421107
 Hilbert, D. (1926). \"{U}ber das Unendliche. *Mathematische Annalen*, 95, 161--190. https://lawrencecpaulson.github.io/papers/on-the-infinite.pdf [English translation, On the infinite, in van Heijenoort, J. (1967). \emph{From Frege to G\"{o}del: A Source Book in Mathematical Logic, 1897-1931}, pp. 183--201. Harvard University Press.]
 Hilbert, D. (1967). The foundations of mathematics. In J. van Heijenoort (Ed.), *From Frege to G\"{o}del: A Source Book in Mathematical Logic, 1879-1931* (pp. 464--479). Harvard University Press. [(From a lecture given by Hilbert in 1927).]
+#Hilbert D. (1984). On the infinite. In Benacerraf P, Putnam H, (eds.), *Philosophy of Mathematics: Selected Readings* (pp. 183--201). Cambridge University Press. [(Originally published in 1926).]
 Hodges, W. (1985). Truth in a structure. *Proceedings of the Aristotelian Society*, 86, 135--151. Wiley. https://www.jstor.org/stable/4545041
 Hodges, W. (1997). *A Shorter Model Theory*. Cambridge University Press.
 Holm, D.D. (2011). *Geometric Mechanics - Part I: Dynamics And Symmetry* (2nd ed.). Imperial College Press.

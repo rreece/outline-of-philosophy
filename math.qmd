@@ -73,12 +73,12 @@ See also:
     -   [Wilhelm Killing](https://en.wikipedia.org/wiki/Wilhelm_Killing) (1847-1923)
     -   [&Eacute;lie Cartan](https://en.wikipedia.org/wiki/%C3%89lie_Cartan) (1869-1951)
     -   [Eugene Dynkin](https://en.wikipedia.org/wiki/Eugene_Dynkin) (1924-2014)
+    -   [Dynkin diagrams](https://en.wikipedia.org/wiki/Dynkin_diagram)
     -   Ramond, P. (1976). [Introduction to exceptional Lie groups and algebras](https://inspirehep.net/literature/111550). [^Ramond1976]
     -   Hall, B.C. (2000). [*An Elementary Introduction to Groups and Representations*](https://arxiv.org/abs/math-ph/0005032). [^Hall2000]
     -   Schwichtenberg, J. (2016). [Classification of simple Lie groups](http://jakobschwichtenberg.com/classification-of-simple-lie-groups/).
     -   Zee, A. (2016). *Group Theory in a Nutshell for Physicists*. [^Zee2016]
 -   [ADE classification](https://en.wikipedia.org/wiki/ADE_classification)
-    -   [Dynkin diagrams](https://en.wikipedia.org/wiki/Dynkin_diagram)
     -   Simply-laced Dynkin diagrams correspond to the ADE families of groups
     -   Siegel, K. (2014). [The ubiquity of ADE classifications in nature](https://kylersiegel.xyz/notes/ADEClassifications.pdf). [^Siegel2014]
 
@@ -272,6 +272,30 @@ TODO
 -   [Chern-Simons theory](https://en.wikipedia.org/wiki/Chern%E2%80%93Simons_theory)
 -   Non-commutative
     -   Connes, A. (1985). [Non-commutative differential geometry](https://link.springer.com/article/10.1007/BF02698807). [^Connes1985a]
+
+Stokes' theorem:
+
+$$ \int_{\partial M} \omega = \int_{M} d\omega $$
+
+The generalized Stokes' theorem unifies these familiar results:
+
+Fundamental Theorem of Calculus (0D boundary, 1D region):
+
+$$ f(b) - f(a) = \int_{a}^{b} f^{\prime}(x) dx $$
+
+Green's Theorem (1D boundary, 2D region):
+
+$$ \oint_{C} (P dx + Q dy) = \iint_D \left( \frac{\partial Q}{\partial x} - \frac{\partial P}{\partial y} \right) dA $$
+
+Classical Stokes' Theorem (2D boundary, 3D region):
+
+$$ \oint_{C} \mathbf{F} \cdot d\mathbf{r} = \iint_S (\nabla \times \mathbf{F}) \cdot d\mathbf{S} $$
+
+Divergence Theorem (2D boundary, 3D region):
+
+$$ \iint_{\partial V} \mathbf{F} \cdot d\mathbf{S} = \iiint_V (\nabla \cdot \mathbf{F}) dV $$
+
+Hodge star:
 
 $$ a \times b = \star(a \wedge b) $$
 
@@ -561,8 +585,10 @@ $$ ((P \rightarrow Q) \rightarrow P) \rightarrow P $$
 
 -   TODO: More basic examples in propositional logic
 -   TODO: Use-mention distinction: P vs 'P' vs Quine quotes
+    -   See MacFarlane [^MacFarlane2021Sec1_4]
 -   [Cut-elimination theorem](https://en.wikipedia.org/wiki/Cut-elimination_theorem)
 
+[^MacFarlane2021Sec1_4]: @MacFarlane_2021_Philosophical_Logic_A_contemporary_introduction\, &sect;1.4.
 [^Post1921]: @Post_1921_Introduction_to_the_general_theory_of_elementary\.
 [^Stillwell2004]: @Stillwell_2004_Emil_Post_and_his_anticipation_of_Godel\.
 [^vonFintel2011]: @vonFintel_2011_Conditionals\.
@@ -1257,6 +1283,8 @@ Platonism
     -   Clearly Ed Witten is a platonist. Video: [How is mathematics truth and beauty?](https://www.youtube.com/watch?v=O3isFuQ2q2A) *Closer To Truth*.
     -   Seth Lloyd - the universe is a computer - pythagorean?
 
+#### Abstract object theory
+
 Zalta on ordinary objects exemplifing properties and abstract objects encoding properties: [^Zalta1983p12]
 
 $$
@@ -1393,6 +1421,71 @@ interact causally with the world. [^Field1989p68]
 [^Field2016]: @Field_2016_Science_Without_Numbers\.
 
 
+Formalism
+--------------------------------------------------------------------------------
+
+### Introduction
+
+-   Hilbert
+-   Antirealist?
+-   Michael Hallett
+
+Hilbert:
+
+>   We must know. We shall know.
+
+Hilbert:
+
+>   Mathematics is a presuppositionless science. To found it I do not need God, 
+>   as does Kronecker, or the assumption of a special faculty of our understanding 
+>   attuned to the principle of mathematical induction, as does Poincar&eacute;, 
+>   or the primal intuition of Brouwer, or, finally, as do Russell and Whitehead, 
+>   axioms of infinity, reducibility, or completeness, which in fact are actual, 
+>   contentual assumptions that cannot be compensated for by consistency
+>   proofs. [^Hilbert1967p479]
+
+-   Video: Veritasium - [You can't prove everything that's true](https://www.youtube.com/watch?v=HeQX2HjkcNo)
+
+[^Hilbert1967p479]: @Hilbert_1967_The_foundations_of_mathematics\, p. 479.
+    Discussion by [Michael J. O'Donnell](http://people.cs.uchicago.edu/~odonnell/OData/Courses/22C:096/Lecture_notes/Hilbert_program.html):
+
+    >   Well, the tone sounds like hubris again, but this is actually a relatively modest claim, 
+    >   and largely substantiated by events. Mathematics may arguably be understood as the 
+    >   science of forms, which have an objective quality independent of individual beliefs.
+    >   What is missing here is the claim that a single formal system may embrace all of mathematics
+    >   at once, and that we may prove that it contains no error. Notice that Hilbert objects to the 
+    >   "actual, contentual assumptions" of Russell and Whitehead. 
+    >   But, recall that Hilbert claims to treat numerical equations contentually, and even seems 
+    >   to regard that as a virtue. It is not the mere contentual quality of Russell's and 
+    >   Whitehead's assumptions that Hilbert objects to, but the fact that each particular 
+    >   assumptions is not verifiable by a single computation or finite observation, and 
+    >   furthermore that there is not even a proof that they are consistent with basic
+    >   numerical equations. Of course, Hilbert's proposed system never gets its consistency proof either. 
+    >   Oh well.
+
+
+### Hilbert's program
+
+-   [Hilbert's program](http://en.wikipedia.org/wiki/Hilbert%27s_program)
+-   Influenced by *Principia Mathematica*
+-   Hilbert, D. (1926). On the infinite. [^Hilbert1926]
+-   G&ouml;del derailed the program
+-   TODO: What do we expect from proof theory now?
+
+Hilbert wanted math to be
+
+-   Consistent?
+-   ~~Decidable~~
+-   ~~Complete~~
+
+See also:
+
+-   [Incompleteness](#incompleteness)
+-   [Proof theory](#proof-theory)
+
+[^Hilbert1926]: @Hilbert_1926_Uber_das_Unendliche\.
+
+
 Logicism
 --------------------------------------------------------------------------------
 
@@ -1483,71 +1576,6 @@ See also:
 [^Linsky2006p43]: @Linsky_2006_What_is_Neologicism\, p. 43.
 [^Zalta2000]: @Zalta_2000_Neo_logicism_An_ontological_reduction\.
 [^Zalta2000p219]: @Zalta_2000_Neo_logicism_An_ontological_reduction\, p. 219.
-
-
-Formalism
---------------------------------------------------------------------------------
-
-### Introduction
-
--   Hilbert
--   Antirealist?
--   Michael Hallett
-
-Hilbert:
-
->   We must know. We shall know.
-
-Hilbert:
-
->   Mathematics is a presuppositionless science. To found it I do not need God, 
->   as does Kronecker, or the assumption of a special faculty of our understanding 
->   attuned to the principle of mathematical induction, as does Poincar&eacute;, 
->   or the primal intuition of Brouwer, or, finally, as do Russell and Whitehead, 
->   axioms of infinity, reducibility, or completeness, which in fact are actual, 
->   contentual assumptions that cannot be compensated for by consistency
->   proofs. [^Hilbert1967p479]
-
--   Video: Veritasium - [You can't prove everything that's true](https://www.youtube.com/watch?v=HeQX2HjkcNo)
-
-[^Hilbert1967p479]: @Hilbert_1967_The_foundations_of_mathematics\, p. 479.
-    Discussion by [Michael J. O'Donnell](http://people.cs.uchicago.edu/~odonnell/OData/Courses/22C:096/Lecture_notes/Hilbert_program.html):
-
-    >   Well, the tone sounds like hubris again, but this is actually a relatively modest claim, 
-    >   and largely substantiated by events. Mathematics may arguably be understood as the 
-    >   science of forms, which have an objective quality independent of individual beliefs.
-    >   What is missing here is the claim that a single formal system may embrace all of mathematics
-    >   at once, and that we may prove that it contains no error. Notice that Hilbert objects to the 
-    >   "actual, contentual assumptions" of Russell and Whitehead. 
-    >   But, recall that Hilbert claims to treat numerical equations contentually, and even seems 
-    >   to regard that as a virtue. It is not the mere contentual quality of Russell's and 
-    >   Whitehead's assumptions that Hilbert objects to, but the fact that each particular 
-    >   assumptions is not verifiable by a single computation or finite observation, and 
-    >   furthermore that there is not even a proof that they are consistent with basic
-    >   numerical equations. Of course, Hilbert's proposed system never gets its consistency proof either. 
-    >   Oh well.
-
-
-### Hilbert's program
-
--   [Hilbert's program](http://en.wikipedia.org/wiki/Hilbert%27s_program)
--   Influenced by *Principia Mathematica*
--   Hilbert, D. (1926). On the infinite. [^Hilbert1926]
--   G&ouml;del derailed the program
--   TODO: What do we expect from proof theory now?
-
-Hilbert wanted math to be
-
--   Consistent?
--   ~~Decidable~~
--   ~~Complete~~
-
-See also:
-
--   [Incompleteness](#incompleteness)
--   [Proof theory](#proof-theory)
-
-[^Hilbert1926]: @Hilbert_1926_Uber_das_Unendliche\.
 
 
 Intuitionism
@@ -1669,6 +1697,9 @@ My thoughts
 --------------------------------------------------------------------------------
 
 -   What would happen if you asked an alien to solve a Rubik's cube?
+-   The logicist program has the advantage of building from the ground up,
+    despite the presumed dualism of platonism, but without appealing to the sky.
+-   Logicism: logic $\Rightarrow$ math; Zalta: metaphysics $\Rightarrow$ logic $\Rightarrow$ math.
 
 
 Annotated bibliography
