@@ -230,21 +230,20 @@ TODO
 
 ### Vector calculus
 
--   History
-    -   William Rowan Hamilton (1805-1865)
-    -   George Stokes (1819-1903)
-    -   Josiah Willard Gibbs (1839-1903)
-    -   Oliver Heaviside (1850-1925)
--   Stokes' theorem
 -   Tong, D. (2022). [Lectures on Vector Calculus](https://www.damtp.cam.ac.uk/user/tong/vc.html).
--   [Matrix calculus](https://explained.ai/matrix-calculus/)
--   Dwyer, P.S. (1967). [Some applications of matrix derivatives in multivariate analysis](https://www.tandfonline.com/doi/abs/10.1080/01621459.1967.10482934). [^Dwyer1967]
 
-Stokes' theorem:
+#### History
+
+-   William Rowan Hamilton (1805-1865)
+-   George Stokes (1819-1903)
+-   Josiah Willard Gibbs (1839-1903)
+-   Oliver Heaviside (1850-1925)
+
+#### Stokes' theorem
 
 $$ \int_{\partial M} \omega = \int_{M} \mathrm{d}\omega $$
 
-The generalized Stokes' theorem unifies these familiar results:
+The generalized Stokes' theorem unifies the following familiar results.
 
 Fundamental Theorem of Calculus (0D boundary, 1D region):
 
@@ -263,6 +262,11 @@ Divergence Theorem (2D boundary, 3D region):
 $$ \iint_{\partial V} \vec{F} \cdot \mathrm{d}\vec{S} = \iiint_V (\nabla \cdot \vec{F}) \mathrm{d}V $$
 
 [^Dwyer1967]: @Dwyer_1967_Some_applications_of_matrix_derivatives\.
+
+#### Matrix calculus
+
+-   [Matrix calculus](https://explained.ai/matrix-calculus/)
+-   Dwyer, P.S. (1967). [Some applications of matrix derivatives in multivariate analysis](https://www.tandfonline.com/doi/abs/10.1080/01621459.1967.10482934). [^Dwyer1967]
 
 
 ### Differential equations
