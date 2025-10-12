@@ -242,25 +242,25 @@ TODO
 
 Stokes' theorem:
 
-$$ \int_{\partial M} \omega = \int_{M} d\omega $$
+$$ \int_{\partial M} \omega = \int_{M} \mathrm{d}\omega $$
 
 The generalized Stokes' theorem unifies these familiar results:
 
 Fundamental Theorem of Calculus (0D boundary, 1D region):
 
-$$ f(b) - f(a) = \int_{a}^{b} f^{\prime}(x) dx $$
+$$ f(b) - f(a) = \int_{a}^{b} f^{\prime}(x) \mathrm{d}x $$
 
 Green's Theorem (1D boundary, 2D region):
 
-$$ \oint_{C} (P dx + Q dy) = \iint_D \left( \frac{\partial Q}{\partial x} - \frac{\partial P}{\partial y} \right) dA $$
+$$ \oint_{C} (P \mathrm{d}x + Q \mathrm{d}y) = \iint_D \left( \frac{\partial Q}{\partial x} - \frac{\partial P}{\partial y} \right) \mathrm{d}A $$
 
 Classical Stokes' Theorem (2D boundary, 3D region):
 
-$$ \oint_{C} \mathbf{F} \cdot d\mathbf{r} = \iint_S (\nabla \times \mathbf{F}) \cdot d\mathbf{S} $$
+$$ \oint_{C} \vec{F} \cdot \mathrm{d}\vec{r} = \iint_S (\nabla \times \vec{F}) \cdot \mathrm{d}\vec{S} $$
 
 Divergence Theorem (2D boundary, 3D region):
 
-$$ \iint_{\partial V} \mathbf{F} \cdot d\mathbf{S} = \iiint_V (\nabla \cdot \mathbf{F}) dV $$
+$$ \iint_{\partial V} \vec{F} \cdot \mathrm{d}\vec{S} = \iiint_V (\nabla \cdot \vec{F}) \mathrm{d}V $$
 
 [^Dwyer1967]: @Dwyer_1967_Some_applications_of_matrix_derivatives\.
 
