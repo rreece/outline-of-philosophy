@@ -31,7 +31,7 @@ Chen, E.K. (2018). The intrinsic structure of quantum mechanics. http://philsci-
 Church, A. (1936). A note on the Entscheidungsproblem. *Journal of Symbolic Logic*, 1, 40--41.
 Church, A. (1940). A formulation of the simple theory of types. *Journal of Symbolic Logic*, 5, 56--68. https://doi.org/10.2307/2266170
 Connes, A. (1985). Non-commutative differential geometry. *Publications Math\'{e}matiques de L'Institut des Hautes Scientifiques*, 62, 41--144. https://link.springer.com/article/10.1007/BF02698807
-Conway, J.H. (1976). *On Numbers and Games*. Natick, MA: AK Peters. [(Originally published in 1976).]
+Conway, J.H. (2001). *On Numbers and Games*. Natick, MA: AK Peters. [(Originally published in 1976).]
 De Cruz, H. (2016). Numerical cognition and mathematical realism. *Philosopher's Imprint*, 16, 1--13. http://hdl.handle.net/2027/spo.3521354.0016.016
 Drake, S. (1957). *Discoveries and Opinions of Galileo*. New York: Doubleday and Co.
 Dwyer, P. S. (1967). Some applications of matrix derivatives in multivariate analysis. *Journal of the American Statistical Association*, 62, 607--625. https://www.tandfonline.com/doi/abs/10.1080/01621459.1967.10482934
