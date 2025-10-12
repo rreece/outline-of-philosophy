@@ -418,6 +418,7 @@ Number theory
     -   John Conway (1937-2020)
     -   Conway, J. (2016). Lecture: [Surreal Numbers - How playing games led to more numbers than anybody ever thought of](https://www.youtube.com/watch?v=1eAmxgINXrE). [^ConwayKeats]
     -   [Construction of the real numbers](https://en.wikipedia.org/wiki/Construction_of_the_real_numbers) and [Dedekind cuts](https://en.wikipedia.org/wiki/Dedekind_cut)
+    -   Knuth, D. (1974). *Surreal Numbers: How two ex-students turned on to pure mathematics and found total happiness*. [^Knuth1974]
 -   Pedagogy
     -   Bajnok, B. (2013). [*An Invitation to Abstract Mathematics*](https://link.springer.com/book/10.1007/978-1-4614-6636-9). [^Bajnok2013]
  
@@ -437,14 +438,18 @@ Hilbert:
 >       arise only through our own carelessness. [^Hilbert1926p191]
 
 [^Bajnok2013]: @Bajnok_2013_An_Invitation_to_Abstract_Mathematics\.
-[^Hilbert1926p191]: @Hilbert_1926_Uber_das_Unendliche\, p. 191.
 [^ConwayKeats]: At [31:18--33:37](https://www.youtube.com/watch?v=1eAmxgINXrE&t=1878s),
-    Conway references Keats's poem, [On First Looking into Chapman's Homer](https://en.wikipedia.org/wiki/On_First_Looking_into_Chapman%27s_Homer) (1816).
+    Conway references Keats's poem, "[On First Looking into Chapman's Homer](https://en.wikipedia.org/wiki/On_First_Looking_into_Chapman%27s_Homer)" (1816).
     Conway likens surveying the surreal numbers for the first time as
     being like the first Spanish explorer to see the Pacific Ocean.
     In the poem, Keats mistakenly implies the first Spainard to see the Pacific is
     [Hern&aacute;n Cort&eacute;s](https://en.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s) but
     it was actually [Vasco N&uacute;&ntilde;ez de Balboa](https://en.wikipedia.org/wiki/Vasco_N%C3%BA%C3%B1ez_de_Balboa).
+    When Conway says, "I was monarch of all; I surveyed", he's actually referencing another poem,
+    "[Verses Supposed To Be Written by Alexander Selkirk](https://en.wikisource.org/wiki/Verses_Supposed_To_Be_Written_by_Alexander_Selkirk)" (1782) by William Cowper.
+
+[^Hilbert1926p191]: @Hilbert_1926_Uber_das_Unendliche\, p. 191.
+[^Knuth1974]: @Knuth_1974_Surreal_Numbers_How_two_ex_students_turned_on\.
 [^Trioni2020Omega]: Trioni, S. (2020). [Cantor's attic](https://neugierde.github.io/cantors-attic/Omega) - Omega.
 
 

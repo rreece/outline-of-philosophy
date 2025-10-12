@@ -68,6 +68,7 @@ Hunter, G. (1971). *Metalogic: An Introduction to the Metatheory of Standard Fir
 Jerzak, E. (2009). Second-order logic, or: How I learned to stop worrying and love the incompleteness theorems. http://www.math.uchicago.edu/~may/VIGRE/VIGRE2009/REUPapers/Jerzak.pdf
 Kleene, S.C. (1943). Recursive predicates and quantifiers. *Transactions of the American Mathematical Society*, 53, 41--73. https://www.jstor.org/stable/1990131
 Kleene, S.C. (1952). *Introduction to Metamathematics*. North-Holland Publishing.
+Knuth, D. (1974). *Surreal Numbers: How two ex-students turned on to pure mathematics and found total happiness*. Addison Wesley.
 Kripke, S.A. (1959). A completeness theorem in modal logic. *The Journal of Symbolic Logic*, 24, 1--14. http://naturalthinker.net/trl/texts/Kripke,Saul/Kripke%20S.%20-%20A%20Completeness%20Theorem%20in%20Modal%20Logic.pdf
 Lawvere, F.W. (1963). *Functorial Semantics of Algebraic Theories and Some Algebraic Problems in the context of Functorial Semantics of Algebraic Theories*. Columbia University. http://www.tac.mta.ca/tac/reprints/articles/5/tr5abs.html [(Ph.D. thesis)]
 Lewis, C.I. (1917). The issues concerning material implication. *The Journal of Philosophy, Psychology and Scientific Methods*, 14, 350-356. https://www.jstor.org/stable/2940255
