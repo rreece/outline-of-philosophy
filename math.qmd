@@ -573,8 +573,7 @@ i.e. if $A_1, A_2, \ldots A_n \models B$, then $A_1, A_2, \ldots A_n \vdash B$.
 
 Propositional logic was proven to be sound ($\vdash$ implies $\models$)
 and complete ($\models$ implies $\vdash$) by Emil Post in 1921. [^Post1921]
-
--   Emil Post and his anticipation of G&ouml;del and Turing [^Stillwell2004]
+Post anticipated incompleteness and undecidability before G&ouml;del and Turing. [^Stillwell2004]
 
 Propositional logic is
 
@@ -711,7 +710,9 @@ TODO: Clarify that G&ouml;del's incompleteness theorems actually do _not_ requir
 
 -   First-order logic (as a deductive system) is complete: every logically valid formula is provable.
 -   First-order PA (a specific theory) is incomplete: not every true arithmetic statement is provable from PA's axioms.
-    -   First-order PA requires an infinite schema of induction axioms; second-order logic can can express induction as a single axiom; but both are incomplete.
+    -   First-order PA requires an infinite schema of induction axioms.
+    -   Second-order logic can can express induction as a single axiom.
+    -   But both first-order PA and second-order PA are incomplete.
 
 See also:
 
