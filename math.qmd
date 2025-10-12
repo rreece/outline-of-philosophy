@@ -353,7 +353,7 @@ Number theory
 
 #### Zermelo-Fraenkel set theory
 
--   [Zermelo-Fraenkel set theory](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory)
+-   [Zermelo-Fraenkel set theory](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory), ZF
 -   [Axiom schema of specification](https://en.wikipedia.org/wiki/Axiom_schema_of_specification) AKA Axiom of restricted comprehension
     -   Define a set by defining a subset of a known set $A$, $\{ x \in A : \phi(x) \}$, instead of the more general $\{ x : \phi(x) \}$
     -   Given any set A, there exists a subset of $A$, whose memebers are those that satisfy $\phi$ (and are also members of $A$).
