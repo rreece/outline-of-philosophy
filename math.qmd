@@ -331,7 +331,9 @@ Number theory
 
 -   [Peano axioms](https://en.wikipedia.org/wiki/Peano_axioms)
 -   [Robinson arithmetic](https://en.wikipedia.org/wiki/Robinson_arithmetic)
--   Newstead, C. (2022). [*An Infinite Descent into Pure Mathematics*](https://infinitedescent.xyz/dl/infdesc.pdf).
+-   Newstead, C. (2022). [*An Infinite Descent into Pure Mathematics*](https://infinitedescent.xyz/dl/infdesc.pdf). [^Newstead2022]
+
+[^Newstead2022]: @Newstead_2022_An_Infinite_Descent_into_Pure_Mathematics\.
 
 
 ### Set theory
