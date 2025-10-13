@@ -973,6 +973,8 @@ with Claude help:
 
 $$ \exists \phi : \mathbb{N} \models \forall{}x\ \phi(x) \land \mathrm{PA} \nvdash \forall{}x\ \phi(x) $$
 
+$$ \exists \phi : \mathbb{N} \models \phi \land \mathrm{PA} \nvdash \phi(x) $$
+
 Fom the SEP:
 
 >   The first incompleteness theorem states that in any consistent formal
