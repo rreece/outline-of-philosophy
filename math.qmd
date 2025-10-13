@@ -564,7 +564,7 @@ Table: Meta-logical connectives. {#tbl-meta-logical-connectives}
 | **Connective**  | **Symbol**        | **Definition**                                                                              |
 |:----------------|:------------------|:--------------------------------------------------------------------------------------------|
 | Proves          | $\vdash$          | From which, it is derivable that                                                            |         
-| Models          | $\models$         | Entails that, *i.e.* in every case this is true, that is true (regardless of provability)". |          
+| Models          | $\models$         | Entails that, *i.e.* in every case this is true, that is true (regardless of provability). |          
 | Equivalent?     | $=$               | TODO                                                                                        |
 | Identical?      | $\equiv$          | TODO                                                                                        |
 
