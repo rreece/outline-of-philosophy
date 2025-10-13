@@ -969,8 +969,6 @@ My expression for incompleteness (I haven't seen this written elsewhere):
 
 $$ \exists \phi : \mathbb{N} \models \phi \land \mathrm{PA}, \mathbb{N} \nvdash \phi $$
 
-TODO: Cleanup above?
-
 Fom the SEP:
 
 >   The first incompleteness theorem states that in any consistent formal
