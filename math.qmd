@@ -247,7 +247,7 @@ The generalized Stokes' theorem unifies the following familiar results.
 
 Fundamental Theorem of Calculus (0D boundary, 1D region):
 
-$$ f(b) - f(a) = \int_{a}^{b} f^{\prime}(x) \mathrm{d}x $$
+$$ f(b) - f(a) = \int_{a}^{b} \frac{\mathrm{d}f}{\mathrm{d}x} \mathrm{d}x $$
 
 Green's Theorem (1D boundary, 2D region):
 
@@ -591,6 +591,25 @@ Consistency means you cannot prove $\vdash P \wedge \lnot P$.
 Soundness is stronger than consistency: a sound system must be consistent, but a consistent system needn't be sound.
 Soundness implies consistency: Sound $\Rightarrow$ Consistent.
 
+Table: Logical connectives. {#tbl-logical-connectives}
+
+| **Connective**  | **Symbol**        | **Definition**                                                             |
+|:----------------|:------------------|:---------------------------------------------------------------------------|
+| Negation        | $\lnot$           | Not: True if the statement is false.                                       |
+| Conjunction     | $\land$           | And: True if both statements are true.                                     |
+| Disjunction     | $\lor$            | Or: True if at least one of the statements is true.                        |
+| Implication     | $\rightarrow$     | If-then: True unless the first statement is true and the second is false.  |
+| Biconditional   | $\leftrightarrow$ | If-and-only-if: True when both statements are either true or false.        |
+
+Table: Truth table of the logical connectives. {#tbl-truth-table-logical-connectives}
+
+| $P$ | $Q$ | $\lnot{}P$ | $P\land{}Q$ | $P\lor{}Q$ | $P\rightarrow{}Q$ | $P\leftrightarrow{}Q$ |
+|:---:|:---:|:----------:|:-----------:|:----------:|:-----------------:|:---------------------:|
+| T   | T   | F          | T           | T          | T                 | T                     |
+| T   | F   | F          | F           | T          | F                 | F                     |
+| F   | T   | T          | F           | T          | T                 | F                     |
+| F   | F   | T          | F           | F          | T                 | T                     |
+
 *Material implication:*
 
 $$ P \rightarrow Q \equiv \lnot P \lor Q $$
@@ -717,7 +736,7 @@ TODO: Clarify that G&ouml;del's incompleteness theorems actually do _not_ requir
 -   First-order logic (as a deductive system) is complete: every logically valid formula is provable.
 -   First-order PA (a specific theory) is incomplete: not every true arithmetic statement is provable from PA's axioms.
     -   First-order PA requires an infinite schema of induction axioms.
-    -   Second-order logic can can express induction as a single axiom.
+    -   Second-order logic can express induction as a single axiom.
     -   But both first-order PA and second-order PA are incomplete.
 
 See also:
