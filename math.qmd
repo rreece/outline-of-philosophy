@@ -591,6 +591,25 @@ Consistency means you cannot prove $\vdash P \wedge \lnot P$.
 Soundness is stronger than consistency: a sound system must be consistent, but a consistent system needn't be sound.
 Soundness implies consistency: Sound $\Rightarrow$ Consistent.
 
+Table: Logical connectives. {#tbl-logical-connectives}
+
+| **Connective**      | **Symbol**        | **Definition**                                                             |
+|:--------------------|:------------------|:---------------------------------------------------------------------------|
+| **Negation**        | $\lnot            | Not: True if the statement is false.                                       |
+| **Conjunction**     | $\land$           | And: True if both statements are true.                                     |
+| **Disjunction**     | $\lor$            | Or: True if at least one of the statements is true.                        |
+| **Implication**     | $\rightarrow$     | If-then: True unless the first statement is true and the second is false.  |
+| **Biconditional**   | $\leftrightarrow$ | If-and-only-if: True when both statements are either true or false.        |
+
+Table: Truth table of the logical connectives. {#tbl-truth-table-logical-connectives}
+
+| $P$ | $Q$ | $P\land{}Q$ | $P\lor{}Q$ | $P\rightarrow{}$ | $P\leftrightarrow{}Q$ |
+|:----|:----|:------------|:-----------|:-----------------|:----------------------|
+| T   | T   | T           | T          | T                | T                     |
+| T   | F   | F           | T          | F                | F                     |
+| F   | T   | F           | T          | T                | F                     |
+| F   | F   | F           | F          | T                | T                     |
+
 *Material implication:*
 
 $$ P \rightarrow Q \equiv \lnot P \lor Q $$
