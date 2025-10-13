@@ -604,7 +604,7 @@ Table: Logical connectives. {#tbl-logical-connectives}
 Table: Truth table of the logical connectives. {#tbl-truth-table-logical-connectives}
 
 | $P$ | $Q$ | $\lnot{}P$ | $P\land{}Q$ | $P\lor{}Q$ | $P\rightarrow{}Q$ | $P\leftrightarrow{}Q$ |
-|:----|:----|:-----------|:------------|:-----------|:------------------|:----------------------|
+|:---:|:---:|:----------:|:-----------:|:----------:|:-----------------:|:---------------------:|
 | T   | T   | F          | T           | T          | T                 | T                     |
 | T   | F   | F          | F           | T          | F                 | F                     |
 | F   | T   | T          | F           | T          | T                 | F                     |
