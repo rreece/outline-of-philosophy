@@ -559,9 +559,14 @@ One says that $A$ "entails" $B$, or $A$ "models" $B$.
 Note that $\vdash$, $\models$, and $\equiv$ are all metalogical symbols,
 not part of the rules of logic; they are shorthands.
 
-$\vdash$  means "from which, it is derivable that".          
-$\models$ means "entails that, *i.e.* in every case this is true, that is true (regardless of provability)".           
-$\equiv$ means "is identical to".         
+Table: Meta-logical connectives. {#tbl-meta-logical-connectives}
+
+| **Connective**  | **Symbol**        | **Definition**                                                                              |
+|:----------------|:------------------|:--------------------------------------------------------------------------------------------|
+| Proves          | $\vdash$          | From which, it is derivable that                                                            |         
+| Models          | $\models$         | Entails that, *i.e.* in every case this is true, that is true (regardless of provability)". |          
+| Equivalent?     | $=$               | TODO                                                                                        |
+| Identical?      | $\equiv$          | TODO                                                                                        |
 
 TODO: discuss the differences between [logical equivalence](https://en.wikipedia.org/wiki/Logical_equivalence)
 and [material equivalence](https://en.wikipedia.org/wiki/Material_equivalence).
