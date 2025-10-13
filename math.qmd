@@ -247,7 +247,7 @@ The generalized Stokes' theorem unifies the following familiar results.
 
 Fundamental Theorem of Calculus (0D boundary, 1D region):
 
-$$ f(b) - f(a) = \int_{a}^{b} f^{\prime}(x) \frac{\mathrm{d}f}{\mathrm{d}x} \mathrm{d}x $$
+$$ f(b) - f(a) = \int_{a}^{b} \frac{\mathrm{d}f}{\mathrm{d}x} \mathrm{d}x $$
 
 Green's Theorem (1D boundary, 2D region):
 
