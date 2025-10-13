@@ -561,12 +561,13 @@ not part of the rules of logic; they are shorthands.
 
 Table: Meta-logical connectives. {#tbl-meta-logical-connectives}
 
-| **Connective**  | **Symbol**        | **Definition**                                                                              |
-|:----------------|:------------------|:--------------------------------------------------------------------------------------------|
-| Proves          | $\vdash$          | From which, it is derivable that                                                            |         
-| Models          | $\models$         | Entails that, *i.e.* in every case this is true, that is true (regardless of provability). |          
-| Equivalent?     | $=$               | TODO                                                                                        |
-| Identical?      | $\equiv$          | TODO                                                                                        |
+| **Connective**  | **Symbol**  | **Definition**                                                                              |
+|:----------------|:------------|:--------------------------------------------------------------------------------------------|
+| Proves          | $\vdash$    | From which, it is derivable that                                                            |         
+| Models          | $\models$   | Entails that, *i.e.* in every case this is true, that is true (regardless of provability).  |          
+| Equivalent?     | $=$         | TODO                                                                                        |
+| Identical?      | $\equiv$    | TODO                                                                                        |
+| Such that       | :           | TODO                                                                                        |
 
 TODO: discuss the differences between [logical equivalence](https://en.wikipedia.org/wiki/Logical_equivalence)
 and [material equivalence](https://en.wikipedia.org/wiki/Material_equivalence).
@@ -966,7 +967,7 @@ See also:
 
 My expression for incompleteness (I haven't seen this written elsewhere):
 
-$$ \exists P\ \left( \mathrm{PA} \models P \right) \land \left( \mathrm{PA} \nvdash P \right) $$
+$$ \exists \phi : \mathbb{N} \models \phi \land \mathrm{PA}, \mathbb{N} \nvdash \phi $$
 
 Fom the SEP:
 
