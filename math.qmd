@@ -251,7 +251,7 @@ $$ f(b) - f(a) = \int_{a}^{b} \frac{\mathrm{d}f}{\mathrm{d}x} \mathrm{d}x $$
 
 Green's Theorem (1D boundary, 2D region):
 
-$$ \oint_{C} (P \mathrm{d}x + Q \mathrm{d}y) = \iint_D \left( \frac{\partial Q}{\partial x} - \frac{\partial P}{\partial y} \right) \mathrm{d}A $$
+$$ \oint_{C} (P \mathrm{d}x + Q \mathrm{d}y) = \iint_D \left( \frac{\partial Q}{\partial x} - \frac{\partial P}{\partial y} \right) \mathrm{d}x \mathrm{d}y $$
 
 Classical Stokes' Theorem (1D boundary, 2D region):
 
