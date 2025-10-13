@@ -595,7 +595,7 @@ Table: Logical connectives. {#tbl-logical-connectives}
 
 | **Connective**      | **Symbol**        | **Definition**                                                             |
 |:--------------------|:------------------|:---------------------------------------------------------------------------|
-| **Negation**        | $\lnot            | Not: True if the statement is false.                                       |
+| **Negation**        | $\lnot$           | Not: True if the statement is false.                                       |
 | **Conjunction**     | $\land$           | And: True if both statements are true.                                     |
 | **Disjunction**     | $\lor$            | Or: True if at least one of the statements is true.                        |
 | **Implication**     | $\rightarrow$     | If-then: True unless the first statement is true and the second is false.  |
