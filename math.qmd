@@ -966,7 +966,7 @@ See also:
 
 My expression for incompleteness (I haven't seen this written elsewhere):
 
-$$ \exists P\ \exists x\ \left( \mathrm{PA} \models P(x) \right) \land \left( \mathrm{PA} \nvdash P(x) \right) $$
+$$ \exists \phi\ \exists x\ \left( \mathrm{PA} \models \phi(x) \right) \land \left( \mathrm{PA} \nvdash \phi(x) \right) $$
 
 Fom the SEP:
 
