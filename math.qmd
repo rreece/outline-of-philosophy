@@ -964,6 +964,10 @@ See also:
     -   Carnap had warning of G&ouml;del's results the month before. [^Edmonds2020p96]
 -   Goldstein [^Goldstein2005]
 
+My expression for incompleteness (I haven't seen this written elsewhere):
+
+$$ \exists P\ \left( \mathrm{PA} \models P \right) \land \left( \mathrm{PA} \nvdash P \right) $$
+
 Fom the SEP:
 
 >   The first incompleteness theorem states that in any consistent formal
