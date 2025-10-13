@@ -967,7 +967,7 @@ See also:
 
 My expression for incompleteness (I haven't seen this written elsewhere):
 
-$$ \exists \phi : \mathbb{N} \models \phi \land \mathrm{PA} \nvdash \phi(x) $$
+$$ \exists \phi : \mathbb{N} \models \phi \land \mathrm{PA}, \mathbb{N} \nvdash \phi(x) $$
 
 TODO: Cleanup above?
 
