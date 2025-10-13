@@ -967,13 +967,9 @@ See also:
 
 My expression for incompleteness (I haven't seen this written elsewhere):
 
-$$ \exists \phi\ \exists x\ \left( \mathrm{PA} \models \phi(x) \right) \land \left( \mathrm{PA} \nvdash \phi(x) \right) $$
-
-with Claude help:
-
-$$ \exists \phi : \mathbb{N} \models \forall{}x\ \phi(x) \land \mathrm{PA} \nvdash \forall{}x\ \phi(x) $$
-
 $$ \exists \phi : \mathbb{N} \models \phi \land \mathrm{PA} \nvdash \phi(x) $$
+
+TODO: Cleanup above?
 
 Fom the SEP:
 
