@@ -603,12 +603,12 @@ Table: Logical connectives. {#tbl-logical-connectives}
 
 Table: Truth table of the logical connectives. {#tbl-truth-table-logical-connectives}
 
-| $P$ | $Q$ | $P\land{}Q$ | $P\lor{}Q$ | $P\rightarrow{}$ | $P\leftrightarrow{}Q$ |
-|:----|:----|:------------|:-----------|:-----------------|:----------------------|
-| T   | T   | T           | T          | T                | T                     |
-| T   | F   | F           | T          | F                | F                     |
-| F   | T   | F           | T          | T                | F                     |
-| F   | F   | F           | F          | T                | T                     |
+| $P$ | $Q$ | $P\land{}Q$ | $P\lor{}Q$ | $P\rightarrow{}Q$ | $P\leftrightarrow{}Q$ |
+|:----|:----|:------------|:-----------|:------------------|:----------------------|
+| T   | T   | T           | T          | T                 | T                     |
+| T   | F   | F           | T          | F                 | F                     |
+| F   | T   | F           | T          | T                 | F                     |
+| F   | F   | F           | F          | T                 | T                     |
 
 *Material implication:*
 
