@@ -736,7 +736,7 @@ TODO: Clarify that G&ouml;del's incompleteness theorems actually do _not_ requir
 -   First-order logic (as a deductive system) is complete: every logically valid formula is provable.
 -   First-order PA (a specific theory) is incomplete: not every true arithmetic statement is provable from PA's axioms.
     -   First-order PA requires an infinite schema of induction axioms.
-    -   Second-order logic can can express induction as a single axiom.
+    -   Second-order logic can express induction as a single axiom.
     -   But both first-order PA and second-order PA are incomplete.
 
 See also:
