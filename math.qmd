@@ -593,13 +593,13 @@ Soundness implies consistency: Sound $\Rightarrow$ Consistent.
 
 Table: Logical connectives. {#tbl-logical-connectives}
 
-| **Connective**      | **Symbol**        | **Definition**                                                             |
-|:--------------------|:------------------|:---------------------------------------------------------------------------|
-| **Negation**        | $\lnot$           | Not: True if the statement is false.                                       |
-| **Conjunction**     | $\land$           | And: True if both statements are true.                                     |
-| **Disjunction**     | $\lor$            | Or: True if at least one of the statements is true.                        |
-| **Implication**     | $\rightarrow$     | If-then: True unless the first statement is true and the second is false.  |
-| **Biconditional**   | $\leftrightarrow$ | If-and-only-if: True when both statements are either true or false.        |
+| **Connective**  | **Symbol**        | **Definition**                                                             |
+|:----------------|:------------------|:---------------------------------------------------------------------------|
+| Negation        | $\lnot$           | Not: True if the statement is false.                                       |
+| Conjunction     | $\land$           | And: True if both statements are true.                                     |
+| Disjunction     | $\lor$            | Or: True if at least one of the statements is true.                        |
+| Implication     | $\rightarrow$     | If-then: True unless the first statement is true and the second is false.  |
+| Biconditional   | $\leftrightarrow$ | If-and-only-if: True when both statements are either true or false.        |
 
 Table: Truth table of the logical connectives. {#tbl-truth-table-logical-connectives}
 
