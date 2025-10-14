@@ -473,7 +473,7 @@ Pedagogy:
 -   Hunter, G. (1971). *Metalogic: An Introduction to the Metatheory of Standard First-Order Logic*. [^Hunter1971]
 -   Monk, J.D. (1976). *Mathematical Logic*. [^Monk1976]
 -   Sullivan, B.W. (2013). [*Everything You Always Wanted To Know About Mathematics*](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf). [^Sullivan2013]
--   Smith, P. (2020). *An Introduction to Formal Logic*. [^Smith2020]
+-   Smith, P. (2020). *An Introduction to Formal Logic*. [^Smith2020a]
 -   Smith, P. (2022). *Beginning Mathematical Logic A Study Guide*. [^Smith2022]
 
 More:
@@ -492,7 +492,7 @@ More:
 [^MacFarlane2021]: @MacFarlane_2021_Philosophical_Logic_A_contemporary_introduction\.
 [^Monk1976]: @Monk_1976_Mathematical_Logic\.
 [^OpenLogicText]: @Open_2020_The_Open_Logic_Text\.
-[^Smith2020]: @Smith_2020_An_Introduction_to_Formal_Logic\.
+[^Smith2020a]: @Smith_2020_An_Introduction_to_Formal_Logic\.
 [^Smith2022]: @Smith_2022_Beginning_Mathematical_Logic_A_Study_Guide\.
 [^Sullivan2013]: @Sullivan_2013_Everything_You_Always_Wanted_To_Know_About\.
 [^Teller1989]: @Teller_1989_A_Modern_Formal_Logic_Primer\.
@@ -533,15 +533,16 @@ More:
 [^Sheffer1913]: @Sheffer_1913_A_set_of_five_independent_postulates_for_Boolean\.
 
 
-### Propositional logic
+### Metalogic
 
--   [Propositional logic](https://en.wikipedia.org/wiki/Propositional_logic)
-    -   AKA propositional calculus and zeroth-order logic
 -   Validity and soundness:
     -   An argument is *valid* iff for any assignment of the truth values in the argument
         where all of the premises are true, the conclusion is always true.
     -   An argument is *sound* iff it is valid and all of its premises are true.
 -   [Sequent calculus](https://en.wikipedia.org/wiki/Sequent_calculus)
+-   Lecture notes on soundness and completeness:
+    -   [Cornell](https://www.cs.cornell.edu/courses/cs2800/2016sp/lectures/lec39-sound-complete.html)
+    -   [Waterloo](https://cs.uwaterloo.ca/~plragde/cs245old/03-propsem.pdf)
 
 *Syntactic consequence:*
 
@@ -551,51 +552,52 @@ means that $B$ is logically derivable/provable from $A$; $B$ is a theorem of the
 
 *Semantic consequence:*
 
-$$ A \models B $$
+$$ A \vDash B $$
 
 means that in all possible valuations in which $A$ is true, $B$ is also true.
 One says that $A$ "entails" $B$, or $A$ "models" $B$.
 
-Note that $\vdash$, $\models$, and $\equiv$ are all metalogical symbols,
+Note that $\vdash$, $\vDash$, and $\equiv$ are all metalogical symbols,
 not part of the rules of logic; they are shorthands.
 
 Table: Meta-logical connectives. {#tbl-meta-logical-connectives}
 
-| **Connective**  | **Symbol**  | **Definition**                                                                              |
-|:----------------|:------------|:--------------------------------------------------------------------------------------------|
-| Proves          | $\vdash$    | From which, it is derivable that                                                            |         
-| Models          | $\models$   | Entails that, *i.e.* in every case this is true, that is true (regardless of provability).  |          
-| Equivalent?     | $=$         | TODO                                                                                        |
-| Identical?      | $\equiv$    | TODO                                                                                        |
-| Such that       | :           | TODO                                                                                        |
+| **Connective**  | **Symbol**  | **Definition**                                                                             |
+|:----------------|:------------|:-------------------------------------------------------------------------------------------|
+| Proves          | $\vdash$    | From which, it is derivable that                                                           |
+| Models          | $\vDash$    | Entails that, *i.e.* in every case this is true, that is true (regardless of provability)  |
+| Equivalent      | $\equiv$    | Has the same truth value in all interpretations as                                         |
+| Identical       | $=$         | Refers to the same object as, is the very same thing as                                    |
 
 TODO: discuss the differences between [logical equivalence](https://en.wikipedia.org/wiki/Logical_equivalence)
 and [material equivalence](https://en.wikipedia.org/wiki/Material_equivalence).
 
-Lecture notes on soundness and completeness:
+$P \equiv Q$ is a metalogical claim that "$(P \leftrightarrow Q)$ is a tautology" or "$\vDash (P \leftrightarrow Q)$".
 
--   [Cornell](https://www.cs.cornell.edu/courses/cs2800/2016sp/lectures/lec39-sound-complete.html)
--   [Waterloo](https://cs.uwaterloo.ca/~plragde/cs245old/03-propsem.pdf)
+Another notation used that isn't metalogical but is really just a logical shorthand
+is the "such that",":", operation in set-builder notation:
+
+$$ \left\{ x : P(x) \right\} = \left\{ x | x \in U \land P(x) \right\} $$
 
 A formal system is *sound* if everything that is provable is in fact true,
-i.e. if $A_1, A_2, \ldots A_n \vdash B$, then $A_1, A_2, \ldots A_n \models B$.
+i.e. if $A_1, A_2, \ldots A_n \vdash B$, then $A_1, A_2, \ldots A_n \vDash B$.
 
 A formal system is *complete* if everything that is true has a proof,
-i.e. if $A_1, A_2, \ldots A_n \models B$, then $A_1, A_2, \ldots A_n \vdash B$.
+i.e. if $A_1, A_2, \ldots A_n \vDash B$, then $A_1, A_2, \ldots A_n \vdash B$.
 
-Propositional logic was proven to be sound ($\vdash$ implies $\models$)
-and complete ($\models$ implies $\vdash$) by Emil Post in 1921. [^Post1921]
-Post anticipated incompleteness and undecidability before G&ouml;del and Turing. [^Stillwell2004]
+Note:
 
-Propositional logic is
+$$ A_{1}, \ldots, A_{n} \vdash B_{1}, \ldots, B_{n} $$
 
--   Sound (provable $\Rightarrow$ valid)
--   Complete (valid $\Rightarrow$ provable)
--   Consistent (no contradictions)
+is equivalent with
 
-Consistency means you cannot prove $\vdash P \wedge \lnot P$.
-Soundness is stronger than consistency: a sound system must be consistent, but a consistent system needn't be sound.
-Soundness implies consistency: Sound $\Rightarrow$ Consistent.
+$$ \vdash (A_{1} \land \ldots \land A_{n}) \rightarrow (B_{1} \lor \ldots \lor B_{n}) $$
+
+
+### Propositional logic
+
+-   [Propositional logic](https://en.wikipedia.org/wiki/Propositional_logic)
+    -   AKA propositional calculus and zeroth-order logic
 
 Table: Logical connectives. {#tbl-logical-connectives}
 
@@ -641,6 +643,20 @@ $$ ((P \rightarrow Q) \rightarrow P) \rightarrow P $$
     -   See MacFarlane [^MacFarlane2021Sec1_4]
 -   [Cut-elimination theorem](https://en.wikipedia.org/wiki/Cut-elimination_theorem)
 
+Propositional logic was proven to be sound ($\vdash$ implies $\vDash$)
+and complete ($\vDash$ implies $\vdash$) by Emil Post in 1921. [^Post1921]
+Post anticipated incompleteness and undecidability before G&ouml;del and Turing. [^Stillwell2004]
+
+Propositional logic is
+
+-   Sound (provable $\Rightarrow$ valid)
+-   Complete (valid $\Rightarrow$ provable)
+-   Consistent (no contradictions)
+
+Consistency means you cannot prove $\vdash P \wedge \lnot P$.
+Soundness is stronger than consistency: a sound system must be consistent, but a consistent system needn't be sound.
+Soundness implies consistency: Sound $\Rightarrow$ Consistent.
+
 [^MacFarlane2021Sec1_4]: @MacFarlane_2021_Philosophical_Logic_A_contemporary_introduction\, &sect;1.4.
 [^Post1921]: @Post_1921_Introduction_to_the_general_theory_of_elementary\.
 [^Stillwell2004]: @Stillwell_2004_Emil_Post_and_his_anticipation_of_Godel\.
@@ -659,6 +675,7 @@ $$ ((P \rightarrow Q) \rightarrow P) \rightarrow P $$
 -   [G&ouml;del's completeness theorem](https://en.wikipedia.org/wiki/G%C3%B6del%27s_completeness_theorem)
     -   Establishes a correspondence between semantic truth and syntactic
         provability in first-order logic.
+    -   Like Post proved for propositional logic, G&ouml;del proved that first-order logic is sound and complete.
     -   G&ouml;del, K. (1929). *&Uuml;ber die Vollst&auml;ndigkeit des Logikkalk&uuml;ls*. [^Godel1929]
         -   His doctoral dissertation, University Of Vienna.
         -   The first proof of the completeness theorem.
@@ -713,7 +730,7 @@ See also:
     -   [Second-order arithmetic](https://en.wikipedia.org/wiki/Second-order_arithmetic), $\mathrm{Z}_{2}$
 -   The power set can be written in terms of second-order logic.
     -   This second-order expressibility of the power-set operation permits the simulation of higher-order logic within second order. [^Enderton2009]
--   $\mathbb{N} \models \mathrm{PA}$
+-   $\mathbb{N} \vDash \mathrm{PA}$
     -   The natural numbers model PA, but not uniquely in FOL.
     -   In SOL, PA is *categorical*, meaning it has only one model up to isomorphism.
 -   Henkin semantics
@@ -849,9 +866,9 @@ More:
 -   Paraconsistent logic
     -   [Principle of explosion](https://en.wikipedia.org/wiki/Principle_of_explosion)
     -   *Ex contradictione quodlibet* (ECQ): from a contradiction anything follows.         
-        $A, \lnot A \models B$
+        $A, \lnot A \vDash B$
     -   Law of No Contradiction (LNC).            
-        $\models \lnot ( A \land \lnot A )$
+        $\vDash \lnot ( A \land \lnot A )$
     -   Paraconsistent logics reject ECQ, and may or may not invalidate LNC.
     -   Dialetheism rejects LNC.
     -   Priest, G. (1998). What is so bad about contradictions? [^Priest1998]
@@ -964,10 +981,47 @@ See also:
     -   von Neumann recognized the importance first.
     -   Carnap had warning of G&ouml;del's results the month before. [^Edmonds2020p96]
 -   Goldstein [^Goldstein2005]
+-   Smith, P. (2020). [*An Introduction G&ouml;del's Theorems*](https://www.logicmatters.net/resources/pdfs/godelbook/GodelBookLM.pdf). [^Smith2020b]
 
-My expression for incompleteness (I haven't seen this written elsewhere):
+Consistency:
 
-$$ \exists \phi : \mathbb{N} \models \phi \land \mathrm{PA}, \mathbb{N} \nvdash \phi $$
+$$ \mathrm{Consistent(T)} \equiv \neg \mathrm{Prov}_{T}(g_{c}) \equiv \neg \exists x \, \mathrm{Prf}_{T}(x, g_{c}) $$
+
+where $g_{c} = \ulcorner \bot \urcorner$ is the G&ouml;del number of a contradiction. 
+
+This says "there does not exist a number that encodes a proof of contradiction in PA" - which is the arithmetized way of saying "PA is consistent."
+
+My expression for the first incompleteness theorem (first draft, less formal):
+
+$$ \mathrm{PA} \vdash \left[ \mathrm{Consistent(PA)} \rightarrow \exists G : \left( \mathbb{N} \vDash G \right) \land \left( \mathrm{PA} \nvdash G \right) \right] $$
+
+Decidability:
+
+$$ \mathrm{Decidable}_{T}(x) \equiv \mathrm{Prov}_{T}(x) \lor \mathrm{Prov}_{T}(\mathrm{neg}(x)) $$
+
+This says "$x$ is decidable in $T$" - either the formula coded by $x$ is provable, or its negation is provable.
+
+Then the incompleteness claim is
+
+$$ \exists x \neg \mathrm{Decidable}_{\mathrm{PA}}(x) $$
+
+Or even more simply
+
+$$ \neg \forall x \, \mathrm{Decidable}_{\mathrm{PA}}(x) $$
+
+Not all formulas are decidable in PA.
+
+My expression for the first incompleteness theorem:
+
+$$ \mathrm{PA} \vdash \mathrm{Consistent(PA)} \rightarrow \exists x \, \neg \mathrm{Decidable}_{\mathrm{PA}}(x) $$
+
+If PA is consistent, then there exists an undecidable sentence.
+
+My expression for the second incompleteness theorem:
+
+$$ \mathrm{PA} \nvdash \mathrm{Consistent(PA)} $$
+
+PA cannot prove its own consistency.
 
 Fom the SEP:
 
@@ -1036,6 +1090,7 @@ See also:
 [^Goldstein2005]: @Goldstein_2005_Incompleteness_The_Proof_and_Paradox_of_Kurt\.
 [^Lloyd1993]: @Lloyd_1993_Quantum_mechanical_computers_and_uncomputability\.
 [^Raatikainen2020]: @Raatikainen_2020_Godels_incompleteness_theorems\.
+[^Smith2020b]: @Smith_2020_An_Introduction_Godels_Theorems\.
 [^Tarski1936]: @Tarski_1983_The_concept_of_truth_in_formalized_languages\.
 [^Tarski1969]: @Tarski_1969_Truth_and_proof\.
 [^Turing1937]: @Turing_1937_On_computable_numbers_with_an_application\.
