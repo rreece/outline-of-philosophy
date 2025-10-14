@@ -1011,6 +1011,8 @@ My expression for the second incompleteness theorem:
 
 $$ \mathrm{PA} \nvdash \mathrm{Consistent(PA)} $$
 
+PA cannot prove its own consistency.
+
 Fom the SEP:
 
 >   The first incompleteness theorem states that in any consistent formal
