@@ -533,7 +533,7 @@ More:
 [^Sheffer1913]: @Sheffer_1913_A_set_of_five_independent_postulates_for_Boolean\.
 
 
-### Propositional logic
+### Metalogic
 
 -   [Propositional logic](https://en.wikipedia.org/wiki/Propositional_logic)
     -   AKA propositional calculus and zeroth-order logic
@@ -589,19 +589,16 @@ i.e. if $A_1, A_2, \ldots A_n \vdash B$, then $A_1, A_2, \ldots A_n \vDash B$.
 A formal system is *complete* if everything that is true has a proof,
 i.e. if $A_1, A_2, \ldots A_n \vDash B$, then $A_1, A_2, \ldots A_n \vdash B$.
 
-Propositional logic was proven to be sound ($\vdash$ implies $\vDash$)
-and complete ($\vDash$ implies $\vdash$) by Emil Post in 1921. [^Post1921]
-Post anticipated incompleteness and undecidability before G&ouml;del and Turing. [^Stillwell2004]
+Note:
 
-Propositional logic is
+$$ A_{1}, \ldots, A_{n} \vdash B_{1}, \ldots, A_{n} $$
 
--   Sound (provable $\Rightarrow$ valid)
--   Complete (valid $\Rightarrow$ provable)
--   Consistent (no contradictions)
+is equivalent with
 
-Consistency means you cannot prove $\vdash P \wedge \lnot P$.
-Soundness is stronger than consistency: a sound system must be consistent, but a consistent system needn't be sound.
-Soundness implies consistency: Sound $\Rightarrow$ Consistent.
+$$ \vdash (A_{1} \land \ldots \land A_{n}) \rightarrow (B_{1} \lor \ldots \lor B_{n})
+
+
+### Propositional logic
 
 Table: Logical connectives. {#tbl-logical-connectives}
 
@@ -646,6 +643,20 @@ $$ ((P \rightarrow Q) \rightarrow P) \rightarrow P $$
 -   TODO: Use-mention distinction: P vs 'P' vs Quine quotes
     -   See MacFarlane [^MacFarlane2021Sec1_4]
 -   [Cut-elimination theorem](https://en.wikipedia.org/wiki/Cut-elimination_theorem)
+
+Propositional logic was proven to be sound ($\vdash$ implies $\vDash$)
+and complete ($\vDash$ implies $\vdash$) by Emil Post in 1921. [^Post1921]
+Post anticipated incompleteness and undecidability before G&ouml;del and Turing. [^Stillwell2004]
+
+Propositional logic is
+
+-   Sound (provable $\Rightarrow$ valid)
+-   Complete (valid $\Rightarrow$ provable)
+-   Consistent (no contradictions)
+
+Consistency means you cannot prove $\vdash P \wedge \lnot P$.
+Soundness is stronger than consistency: a sound system must be consistent, but a consistent system needn't be sound.
+Soundness implies consistency: Sound $\Rightarrow$ Consistent.
 
 [^MacFarlane2021Sec1_4]: @MacFarlane_2021_Philosophical_Logic_A_contemporary_introduction\, &sect;1.4.
 [^Post1921]: @Post_1921_Introduction_to_the_general_theory_of_elementary\.
