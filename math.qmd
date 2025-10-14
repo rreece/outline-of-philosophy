@@ -540,6 +540,9 @@ More:
         where all of the premises are true, the conclusion is always true.
     -   An argument is *sound* iff it is valid and all of its premises are true.
 -   [Sequent calculus](https://en.wikipedia.org/wiki/Sequent_calculus)
+-   Lecture notes on soundness and completeness:
+    -   [Cornell](https://www.cs.cornell.edu/courses/cs2800/2016sp/lectures/lec39-sound-complete.html)
+    -   [Waterloo](https://cs.uwaterloo.ca/~plragde/cs245old/03-propsem.pdf)
 
 *Syntactic consequence:*
 
@@ -576,11 +579,6 @@ is the "such that",":", operation in set-builder notation:
 
 $$ \left\{ x : P(x) \right\} = \left\{ x | x \in U \land P(x) \right\} $$
 
-Lecture notes on soundness and completeness:
-
--   [Cornell](https://www.cs.cornell.edu/courses/cs2800/2016sp/lectures/lec39-sound-complete.html)
--   [Waterloo](https://cs.uwaterloo.ca/~plragde/cs245old/03-propsem.pdf)
-
 A formal system is *sound* if everything that is provable is in fact true,
 i.e. if $A_1, A_2, \ldots A_n \vdash B$, then $A_1, A_2, \ldots A_n \vDash B$.
 
@@ -589,11 +587,11 @@ i.e. if $A_1, A_2, \ldots A_n \vDash B$, then $A_1, A_2, \ldots A_n \vdash B$.
 
 Note:
 
-$$ A_{1}, \ldots, A_{n} \vdash B_{1}, \ldots, A_{n} $$
+$$ A_{1}, \ldots, A_{n} \vdash B_{1}, \ldots, B_{n} $$
 
 is equivalent with
 
-$$ \vdash (A_{1} \land \ldots \land A_{n}) \rightarrow (B_{1} \lor \ldots \lor B_{n})
+$$ \vdash (A_{1} \land \ldots \land A_{n}) \rightarrow (B_{1} \lor \ldots \lor B_{n}) $$
 
 
 ### Propositional logic
