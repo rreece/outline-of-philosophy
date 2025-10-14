@@ -997,23 +997,23 @@ $$ \mathrm{PA} \vdash \left[ \mathrm{Consistent(PA)} \rightarrow \exists G : \le
 
 Decidability:
 
-$$\mathrm{Decidable}_{T}(x) \equiv \mathrm{Prov}_{T}(x) \lor \mathrm{Prov}_{T}(\mathrm{neg}(x))$$
+$$ \mathrm{Decidable}_{T}(x) \equiv \mathrm{Prov}_{T}(x) \lor \mathrm{Prov}_{T}(\mathrm{neg}(x)) $$
 
 This says "$x$ is decidable in $T$" - either the formula coded by $x$ is provable, or its negation is provable.
 
 Then the incompleteness claim is
 
-$$\exists x : \neg \mathrm{Decidable}_{\mathrm{PA}}(x)$$
+$$ \exists x \neg \mathrm{Decidable}_{\mathrm{PA}}(x) $$
 
 Or even more simply
 
-$$\neg \forall x \, \mathrm{Decidable}_{\mathrm{PA}}(x)$$
+$$ \neg \forall x \, \mathrm{Decidable}_{\mathrm{PA}}(x) $$
 
 Not all formulas are decidable in PA.
 
 My expression for the first incompleteness theorem:
 
-$$\mathrm{PA} \vdash \mathrm{Consistent(PA)} \rightarrow \exists x \, \neg \mathrm{Decidable}_{\mathrm{PA}}(x)$$
+$$ \mathrm{PA} \vdash \mathrm{Consistent(PA)} \rightarrow \exists x \, \neg \mathrm{Decidable}_{\mathrm{PA}}(x) $$
 
 If PA is consistent, then there exists an undecidable sentence.
 
