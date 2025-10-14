@@ -535,8 +535,6 @@ More:
 
 ### Metalogic
 
--   [Propositional logic](https://en.wikipedia.org/wiki/Propositional_logic)
-    -   AKA propositional calculus and zeroth-order logic
 -   Validity and soundness:
     -   An argument is *valid* iff for any assignment of the truth values in the argument
         where all of the premises are true, the conclusion is always true.
@@ -599,6 +597,9 @@ $$ \vdash (A_{1} \land \ldots \land A_{n}) \rightarrow (B_{1} \lor \ldots \lor B
 
 
 ### Propositional logic
+
+-   [Propositional logic](https://en.wikipedia.org/wiki/Propositional_logic)
+    -   AKA propositional calculus and zeroth-order logic
 
 Table: Logical connectives. {#tbl-logical-connectives}
 
