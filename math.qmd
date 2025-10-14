@@ -975,7 +975,7 @@ See also:
 
 Consistency:
 
-$$ \mathrm{Consistent(T)} \equiv \neg \mathrm{Prov_{T}}(g_{c}) \equiv \neg \exists x \, \mathrm{Prf}_{T}(x, g_{c}) $$
+$$ \mathrm{Consistent(T)} \equiv \neg \mathrm{Prov}_{T}(g_{c}) \equiv \neg \exists x \, \mathrm{Prf}_{T}(x, g_{c}) $$
 
 where $g_{c} = \ulcorner \bot \urcorner$ is the G&ouml;del number of a contradiction. 
 
