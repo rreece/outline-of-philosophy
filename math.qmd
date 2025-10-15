@@ -834,7 +834,7 @@ See also:
 -   [David Lewis](https://en.wikipedia.org/wiki/David_Lewis_(philosopher)) (1941-2001)
     -   *On the Plurality of Worlds* (1986) [^Lewis1986]
 
-$\Box$ means "necessarily". $\Diamond$ means "possibly".
+$\Box$ means necessarily. $\Diamond$ means possibly.
 
 If necessarily $P$, then necessarily necessarily $P$:
 
@@ -997,7 +997,7 @@ where $g_{c} = \ulcorner \bot \urcorner$ is the G&ouml;del number of a contradic
 $\mathrm{Prf}_{T}(x, y)$ = $x$ is the G&ouml;del number of a proof of the formula with G&ouml;del number $y$, and
 $\mathrm{Prov}_{T}(x)$ = The formula with G&ouml;del number $x$ is provable in $T$. [^Smith2020ch31]
 
-This says "there does not exist a number that encodes a proof of contradiction in PA" - which is the arithmetized way of saying "PA is consistent."
+This says "there does not exist a number that encodes a proof of contradiction in $T$" - which is the arithmetized way of saying "$T$ is consistent."
 
 
 Decidability:
