@@ -681,7 +681,8 @@ Soundness implies consistency: Sound $\Rightarrow$ Consistent.
     -   Establishes a correspondence between semantic truth and syntactic
         provability in first-order logic.
     -   Like Post proved for propositional logic, G&ouml;del proved that first-order logic is sound and complete.
-    -   $T \vDash P \quad \Leftrightarrow \quad T \vdash P$
+    -   $\vDash P \quad \Leftrightarrow \quad \vdash P$
+    -   $T \vDash P \quad \nLeftrightarrow T \quad \vdash P$
     -   G&ouml;del, K. (1929). *&Uuml;ber die Vollst&auml;ndigkeit des Logikkalk&uuml;ls*. [^Godel1929]
         -   His doctoral dissertation, University Of Vienna.
         -   The first proof of the completeness theorem.
@@ -1022,7 +1023,7 @@ $$ \mathrm{PA} \vdash \mathrm{Consistent(PA)} \rightarrow \exists x \, \neg \mat
 
 If PA is consistent, then there exists an undecidable sentence.
 
-Also semantic consequence does not imply syntactic consequence.
+Also semantic consequence does not correspond with syntactic consequence.
 
 $$ T \vDash P \quad \nLeftrightarrow \quad T \vdash P $$
 
