@@ -682,7 +682,8 @@ Soundness implies consistency: Sound $\Rightarrow$ Consistent.
         provability in first-order logic.
     -   Like Post proved for propositional logic, G&ouml;del proved that first-order logic is sound and complete.
     -   $\vDash P \quad \Leftrightarrow \quad \vdash P$
-    -   $T \vDash P \quad \nLeftrightarrow T \quad \vdash P$
+    -   $T \vDash P \quad \nLeftrightarrow \quad T \vdash P$
+        -   Example: $T = \mathrm{PA}$ then incompleteness theorem
     -   G&ouml;del, K. (1929). *&Uuml;ber die Vollst&auml;ndigkeit des Logikkalk&uuml;ls*. [^Godel1929]
         -   His doctoral dissertation, University Of Vienna.
         -   The first proof of the completeness theorem.
