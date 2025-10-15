@@ -345,6 +345,10 @@ Number theory
 -   Membership: Axiom of extensionality
 -   von Neumann's set theoretical definition of numbers
 
+Such-that in set-builder notation:
+
+$$ \left\{ x : P(x) \right\} = \left\{ x | x \in U \land P(x) \right\} $$
+
 
 #### Naive Set Theory
 
@@ -521,6 +525,7 @@ More:
 -   [Henry M. Sheffer](https://en.wikipedia.org/wiki/Henry_M._Sheffer) (1882-1964)
     -   Sheffer, H.M. (1913). [A set of five independent postulates for Boolean algebras, with application to logical constants](https://www.ams.org/journals/tran/1913-014-04/S0002-9947-1913-1500960-1/). [^Sheffer1913]
     -    Propositional logic can be formulated using a single connective: either logical NAND or its dual, logical NOR.
+-   [Thoralf Albert Skolem](https://en.wikipedia.org/wiki/Thoralf_Skolem) (1887-1963)
 -   [Emil Post](https://en.wikipedia.org/wiki/Emil_Leon_Post) (1897-1954)
 -   [Alfred Tarski](https://en.wikipedia.org/wiki/Alfred_Tarski) (1901-1983)
 -   [Kurt G&ouml;del](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del) (1906-1978)
@@ -574,11 +579,6 @@ and [material equivalence](https://en.wikipedia.org/wiki/Material_equivalence).
 
 $P \equiv Q$ is a metalogical claim that "$(P \leftrightarrow Q)$ is a tautology" or "$\vDash (P \leftrightarrow Q)$".
 
-Another notation used that isn't metalogical but is really just a logical shorthand
-is the "such that",":", operation in set-builder notation:
-
-$$ \left\{ x : P(x) \right\} = \left\{ x | x \in U \land P(x) \right\} $$
-
 A formal system is *sound* if everything that is provable is in fact true,
 i.e. if $A_1, A_2, \ldots A_n \vdash B$, then $A_1, A_2, \ldots A_n \vDash B$.
 
@@ -589,7 +589,7 @@ Note:
 
 $$ A_{1}, \ldots, A_{n} \vdash B_{1}, \ldots, B_{n} $$
 
-is equivalent with
+is equivalent to
 
 $$ \vdash (A_{1} \land \ldots \land A_{n}) \rightarrow (B_{1} \lor \ldots \lor B_{n}) $$
 
@@ -598,6 +598,7 @@ $$ \vdash (A_{1} \land \ldots \land A_{n}) \rightarrow (B_{1} \lor \ldots \lor B
 
 -   [Propositional logic](https://en.wikipedia.org/wiki/Propositional_logic)
     -   AKA propositional calculus and zeroth-order logic
+-   Propositions are Boolean valued
 
 Table: Logical connectives. {#tbl-logical-connectives}
 
@@ -625,6 +626,10 @@ $$ P \rightarrow Q \equiv \lnot P \lor Q $$
 -   [Paradoxes of material implication](https://en.wikipedia.org/wiki/Paradoxes_of_material_implication)
 -   [Vacuous truth](https://en.wikipedia.org/wiki/Vacuous_truth)
 -   von Fintel, K. (2011). [Conditionals](https://dspace.mit.edu/handle/1721.1/95781). [^vonFintel2011]
+
+*Material biconditional or bidirectional implication:*
+
+$$ P \leftrightarrow Q \equiv  (P \rightarrow Q) \land (Q \rightarrow P) \equiv (P \land Q) \lor (\lnot P \land \lnot Q) $$
 
 *Modus ponens:*
 
@@ -676,6 +681,7 @@ Soundness implies consistency: Sound $\Rightarrow$ Consistent.
     -   Establishes a correspondence between semantic truth and syntactic
         provability in first-order logic.
     -   Like Post proved for propositional logic, G&ouml;del proved that first-order logic is sound and complete.
+    -   $T \vDash P$ if and only if $T \vdash P$
     -   G&ouml;del, K. (1929). *&Uuml;ber die Vollst&auml;ndigkeit des Logikkalk&uuml;ls*. [^Godel1929]
         -   His doctoral dissertation, University Of Vienna.
         -   The first proof of the completeness theorem.
@@ -748,8 +754,7 @@ See also:
 
 #### Incompleteness of second-order logic
 
--   Second-order logic opens the door to G&ouml;del's incompleteness theorems.
--   According to G&ouml;del's incompleteness theorems, the theory of PA (if consistent) is incomplete.
+-   Second-order logic, just the deductive system, is incomplete.
 -   Kleene, S.C. (1943). [Recursive predicates and quantifiers](https://www.jstor.org/stable/1990131). [^Kleene1943]
     -   The incompleteness of second-order logic is deeply related to recursion.
 -   Rossberg, M. (2004). [First-order logic, second-order logic, and completeness](http://logic.amu.edu.pl/images/4/46/Completenessrossberg.pdf). [^Rossberg2004]
@@ -973,27 +978,27 @@ See also:
 
 -   [Kurt G&ouml;del](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del) (1906-1978)
     -   Carnap inspired G&ouml;del to study logic. [^Goldfarb2005]
--   G&ouml;del, K. (1931). &Uuml;ber formal unentscheidbare S&auml;tze der Principia Mathematica und verwandter Systeme, I. [^Godel1931]
--   G&ouml;del, K. (1951). Some basic theorems on the foundations of mathematics and their implications. [^Godel1951]
 -   G&ouml;del presented his incompleteness theorems at the
     Second Conference on the Epistemology of the Exact Sciences
     in K&ouml;nigsberg September 5-7, 1930.
     -   von Neumann recognized the importance first.
     -   Carnap had warning of G&ouml;del's results the month before. [^Edmonds2020p96]
+-   According to G&ouml;del's first incompleteness theorem, the theory of PA (if consistent) is incomplete.
+-   G&ouml;del, K. (1931). &Uuml;ber formal unentscheidbare S&auml;tze der Principia Mathematica und verwandter Systeme, I. [^Godel1931]
+-   G&ouml;del, K. (1951). Some basic theorems on the foundations of mathematics and their implications. [^Godel1951]
 -   Goldstein [^Goldstein2005]
 -   Smith, P. (2020). [*An Introduction G&ouml;del's Theorems*](https://www.logicmatters.net/resources/pdfs/godelbook/GodelBookLM.pdf). [^Smith2020b]
 
 Consistency:
 
-$$ \mathrm{Consistent(T)} \equiv \neg \mathrm{Prov}_{T}(g_{c}) \equiv \neg \exists x \, \mathrm{Prf}_{T}(x, g_{c}) $$
+$$ \mathrm{Consistent}(T) \equiv \neg \mathrm{Prov}_{T}(g_{c}) \equiv \neg \exists x \, \mathrm{Prf}_{T}(x, g_{c}) $$
 
-where $g_{c} = \ulcorner \bot \urcorner$ is the G&ouml;del number of a contradiction. 
+where $g_{c} = \ulcorner \bot \urcorner$ is the G&ouml;del number of a contradiction,
+$\mathrm{Prf}_{T}(x, y)$ = $x$ is the G&ouml;del number of a proof of the formula with G&ouml;del number $y$, and
+$\mathrm{Prov}_{T}(x)$ = The formula with G&ouml;del number $x$ is provable in $T$. [^Smith2020ch31]
 
 This says "there does not exist a number that encodes a proof of contradiction in PA" - which is the arithmetized way of saying "PA is consistent."
 
-My expression for the first incompleteness theorem (first draft, less formal):
-
-$$ \mathrm{PA} \vdash \left[ \mathrm{Consistent(PA)} \rightarrow \exists G : \left( \mathbb{N} \vDash G \right) \land \left( \mathrm{PA} \nvdash G \right) \right] $$
 
 Decidability:
 
@@ -1017,6 +1022,10 @@ $$ \mathrm{PA} \vdash \mathrm{Consistent(PA)} \rightarrow \exists x \, \neg \mat
 
 If PA is consistent, then there exists an undecidable sentence.
 
+Also semantic consequence does not imply syntactic consequence.
+
+$$ T \vDash P \nLeftrightarrow T \vdash P $$
+
 My expression for the second incompleteness theorem:
 
 $$ \mathrm{PA} \nvdash \mathrm{Consistent(PA)} $$
@@ -1032,7 +1041,12 @@ Fom the SEP:
 >   such a formal system cannot prove that the system itself is consistent
 >   (assuming it is indeed consistent). [^Raatikainen2020]
 
-Related:
+But:
+
+-   [Gentzen's consistency proof](https://en.wikipedia.org/wiki/Gentzen%27s_consistency_proof) for first-order PA (1936)
+    -   $\mathrm{PRA}, \varepsilon_{0} \vdash \mathrm{Consistent}(\mathrm{PA})$
+
+Related to incompleteness:
 
 -   Tarski's undefinability theorem on the formal undefinability of truth
     -   Tarski, A. (1936). The concept of truth in formalized languages. [^Tarski1936]
@@ -1041,8 +1055,9 @@ Related:
     -   Church, A. (1936). A note on the Entscheidungsproblem. [^Church1936]
 -   Turing's theorem that there is no algorithm to solve the halting problem
     -   Turing, A.M. (1937). On computable numbers, with an application to the Entscheidungsproblem. [^Turing1937]
--   Rice's theorem that all non-trivial semantic properties of programs are undecidable
-    -   [Rice's theorem](https://en.wikipedia.org/wiki/Rice%27s_theorem) (1951)
+-   [Rice's theorem](https://en.wikipedia.org/wiki/Rice%27s_theorem) that all non-trivial semantic properties of programs are undecidable
+    -   First proved in Henry Gordon Rice's doctoral dissertation at Syracuse University (1951).
+    -   Rice, H.G. (1953). [Classes of recursively enumerable sets and their decision problems](https://www.jstor.org/stable/1990888). [^Rice1953]
 
 Chaitin:
 
@@ -1090,7 +1105,9 @@ See also:
 [^Goldstein2005]: @Goldstein_2005_Incompleteness_The_Proof_and_Paradox_of_Kurt\.
 [^Lloyd1993]: @Lloyd_1993_Quantum_mechanical_computers_and_uncomputability\.
 [^Raatikainen2020]: @Raatikainen_2020_Godels_incompleteness_theorems\.
+[^Rice1953]: @Rice_1953_Classes_of_recursively_enumerable_sets_and_their\.
 [^Smith2020b]: @Smith_2020_An_Introduction_Godels_Theorems\.
+[^Smith2020ch31]: @Smith_2020_An_Introduction_Godels_Theorems\, ch. 31, p. 233.
 [^Tarski1936]: @Tarski_1983_The_concept_of_truth_in_formalized_languages\.
 [^Tarski1969]: @Tarski_1969_Truth_and_proof\.
 [^Turing1937]: @Turing_1937_On_computable_numbers_with_an_application\.
