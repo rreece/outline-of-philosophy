@@ -3064,6 +3064,7 @@ See also:
 -   Huh, M., Cheung, B., Wang, T., & Isola, P. (2024). [The platonic representation hypothesis](https://arxiv.org/abs/2405.07987). [^Huh2024b]
 -   Musser, G. (2024). [Can an emerging field called neural systems understanding explain the brain](https://www.thetransmitter.org/neural-networks/can-an-emerging-field-called-neural-systems-understanding-explain-the-brain/)
 -   Jamali, M. et al. (2024). [Semantic encoding during language comprehension at single-cell resolution](https://www.nature.com/articles/s41586-024-07643-2). [^Jamali2024]
+-   [Inferential role semantics](https://en.wikipedia.org/wiki/Inferential_role_semantics)
 
 Wittgenstein in *PI*:
 
