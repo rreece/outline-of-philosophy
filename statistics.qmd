@@ -1628,6 +1628,7 @@ Deep learning
 
 -   Early contributions
     -   Gardner, M.W. & Dorling, S.R. (1998). Artificial neural networks (the multilayer perceptron)--a  review of applications in the atmospheric sciences. [^Gardner1998]
+    -   Schmidhuber, J. (2024). [A Nobel prize for plagiarism](https://people.idsia.ch/~juergen/physics-nobel-2024-plagiarism.html). [^Schmidhuber2024]
 -   Conceptual reviews of deep learning
     -   Lower to higher level representations [^Bengio2009]
     -   LeCun, Y., Bengio, Y., & Hinton, G. (2015). Review: Deep learning. [^LeCun2015]
@@ -1635,6 +1636,7 @@ Deep learning
     -   *Deep Learning* [^Goodfellow2016]
     -   Kaplan, J. (2019). [Notes on contemporary machine learning](https://sites.krieger.jhu.edu/jared-kaplan/files/2019/04/ContemporaryMLforPhysicists.pdf). [^Kaplan2019]
     -   Raissi, M. (2017). [Deep learning tutorial](https://maziarraissi.github.io/teaching/1_deep_learning_tutorial/).
+    -   Arora, S. (2023). [*Theory of Deep Learning*](https://www.cs.princeton.edu/~arora/TheoryDL.pdf).
 -   Backpropagation
     -   Rumelhart, D.E., Hinton, G.E., & Williams, R.J. (1986). [Learning representations by back-propagating errors](https://www.nature.com/articles/323533a0.pdf). [^Rumelhart1986]
     -   Amari, S. (1993). Backpropagation and stochastic gradient descent method. [^Amari1993]
@@ -1672,6 +1674,7 @@ Deep learning
 [^Norvig2011a]: @Norvig_2011_On_Chomsky_and_the_Two_Cultures_of_Statistical\.
 [^Rumelhart1986]: @Rumelhart_1986_Learning_representations_by_back_propagating\.
 [^Scardapane2024]: @Scardapane_2024_Alices_Adventures_in_a_Differentiable_Wonderland\.
+[^Schmidhuber2024]: @Schmidhuber_2024_A_Nobel_prize_for_plagiarism\.
 [^Sutskever2015]: @Sutskever_2015_A_brief_overview_of_deep_learning\.
 [^Sutton2019]: @Sutton_2019_The_bitter_lesson\.
 
