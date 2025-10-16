@@ -682,8 +682,6 @@ Soundness implies consistency: Sound $\Rightarrow$ Consistent.
         provability in first-order logic.
     -   Like Post proved for propositional logic, G&ouml;del proved that first-order logic is sound and complete.
     -   $\vDash P \quad \Leftrightarrow \quad \vdash P$
-    -   $T \vDash P \quad \nLeftrightarrow \quad T \vdash P$
-        -   Example: $T = \mathrm{PA}$ then incompleteness theorem
     -   G&ouml;del, K. (1929). *&Uuml;ber die Vollst&auml;ndigkeit des Logikkalk&uuml;ls*. [^Godel1929]
         -   His doctoral dissertation, University Of Vienna.
         -   The first proof of the completeness theorem.
@@ -757,6 +755,9 @@ See also:
 #### Incompleteness of second-order logic
 
 -   Second-order logic, just the deductive system, is incomplete.
+    -   $T \vDash P \quad \nLeftrightarrow \quad T \vdash P$
+    -   $T \vdash P \quad \Rightarrow \quad T \vDash P$ (soundness holds)
+    -   $T \vDash P \quad \nRightarrow \quad T \vdash P$ (completeness fails)
 -   Kleene, S.C. (1943). [Recursive predicates and quantifiers](https://www.jstor.org/stable/1990131). [^Kleene1943]
     -   The incompleteness of second-order logic is deeply related to recursion.
 -   Rossberg, M. (2004). [First-order logic, second-order logic, and completeness](http://logic.amu.edu.pl/images/4/46/Completenessrossberg.pdf). [^Rossberg2004]
@@ -1052,7 +1053,7 @@ Related to incompleteness:
 
 -   Tarski's undefinability theorem on the formal undefinability of truth
     -   Tarski, A. (1936). The concept of truth in formalized languages. [^Tarski1936]
-    -   Tarski, A. (1969). [Truth and proof](https://web.archive.org/web/20141229081319/http://people.scs.carleton.ca/~bertossi/logic/material/tarski.pdf) [^Tarski1969]
+    -   Tarski, A. (1969). [Truth and proof](https://web.archive.org/web/20141229081319/http://people.scs.carleton.ca/~bertossi/logic/material/tarski.pdf). [^Tarski1969]
 -   Church's proof that Hilbert's Entscheidungsproblem is unsolvable
     -   Church, A. (1936). A note on the Entscheidungsproblem. [^Church1936]
 -   Turing's theorem that there is no algorithm to solve the halting problem
