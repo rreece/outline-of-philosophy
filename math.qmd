@@ -1019,17 +1019,13 @@ $$ \neg \forall x \, \mathrm{Decidable}_{\mathrm{PA}}(x) $$
 
 Not all formulas are decidable in PA.
 
-My expression for the first incompleteness theorem:
+The first incompleteness theorem:
 
 $$ \mathrm{PA} \vdash \mathrm{Consistent(PA)} \rightarrow \exists x \, \neg \mathrm{Decidable}_{\mathrm{PA}}(x) $$
 
 If PA is consistent, then there exists an undecidable sentence.
 
-Also semantic consequence does not correspond with syntactic consequence.
-
-$$ T \vDash P \quad \nLeftrightarrow \quad T \vdash P $$
-
-My expression for the second incompleteness theorem:
+The second incompleteness theorem:
 
 $$ \mathrm{PA} \nvdash \mathrm{Consistent(PA)} $$
 
