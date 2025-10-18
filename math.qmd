@@ -682,8 +682,6 @@ Soundness implies consistency: Sound $\Rightarrow$ Consistent.
         provability in first-order logic.
     -   Like Post proved for propositional logic, G&ouml;del proved that first-order logic is sound and complete.
     -   $\vDash P \quad \Leftrightarrow \quad \vdash P$
-    -   $T \vDash P \quad \nLeftrightarrow \quad T \vdash P$
-        -   Example: $T = \mathrm{PA}$ then incompleteness theorem
     -   G&ouml;del, K. (1929). *&Uuml;ber die Vollst&auml;ndigkeit des Logikkalk&uuml;ls*. [^Godel1929]
         -   His doctoral dissertation, University Of Vienna.
         -   The first proof of the completeness theorem.
@@ -757,6 +755,9 @@ See also:
 #### Incompleteness of second-order logic
 
 -   Second-order logic, just the deductive system, is incomplete.
+    -   $T \vDash P \quad \nLeftrightarrow \quad T \vdash P$
+    -   $T \vdash P \quad \Rightarrow \quad T \vDash P$ (soundness holds)
+    -   $T \vDash P \quad \nRightarrow \quad T \vdash P$ (completeness fails)
 -   Kleene, S.C. (1943). [Recursive predicates and quantifiers](https://www.jstor.org/stable/1990131). [^Kleene1943]
     -   The incompleteness of second-order logic is deeply related to recursion.
 -   Rossberg, M. (2004). [First-order logic, second-order logic, and completeness](http://logic.amu.edu.pl/images/4/46/Completenessrossberg.pdf). [^Rossberg2004]
@@ -1018,17 +1019,13 @@ $$ \neg \forall x \, \mathrm{Decidable}_{\mathrm{PA}}(x) $$
 
 Not all formulas are decidable in PA.
 
-My expression for the first incompleteness theorem:
+The first incompleteness theorem:
 
 $$ \mathrm{PA} \vdash \mathrm{Consistent(PA)} \rightarrow \exists x \, \neg \mathrm{Decidable}_{\mathrm{PA}}(x) $$
 
 If PA is consistent, then there exists an undecidable sentence.
 
-Also semantic consequence does not correspond with syntactic consequence.
-
-$$ T \vDash P \quad \nLeftrightarrow \quad T \vdash P $$
-
-My expression for the second incompleteness theorem:
+The second incompleteness theorem:
 
 $$ \mathrm{PA} \nvdash \mathrm{Consistent(PA)} $$
 
@@ -1052,7 +1049,7 @@ Related to incompleteness:
 
 -   Tarski's undefinability theorem on the formal undefinability of truth
     -   Tarski, A. (1936). The concept of truth in formalized languages. [^Tarski1936]
-    -   Tarski, A. (1969). [Truth and proof](https://web.archive.org/web/20141229081319/http://people.scs.carleton.ca/~bertossi/logic/material/tarski.pdf) [^Tarski1969]
+    -   Tarski, A. (1969). [Truth and proof](https://web.archive.org/web/20141229081319/http://people.scs.carleton.ca/~bertossi/logic/material/tarski.pdf). [^Tarski1969]
 -   Church's proof that Hilbert's Entscheidungsproblem is unsolvable
     -   Church, A. (1936). A note on the Entscheidungsproblem. [^Church1936]
 -   Turing's theorem that there is no algorithm to solve the halting problem
@@ -1075,6 +1072,7 @@ Chaitin:
 More:
 
 -   G&ouml;del was a platonist, a (religious) realist.
+-   Hunter, G. (1988). [What computers can't do](https://www.jstor.org/stable/3750413). [^Hunter1988]
 -   Armstrong, S. (2012). [Completeness, incompleteness, and what it all means: first versus second order logic](https://www.lesswrong.com/posts/MLqhJ8eDy5smbtGrf/completeness-incompleteness-and-what-it-all-means-first).
 -   [Hilbert's program](#hilberts-program) is challenged by incompleteness.
 -   Discuss how incompleteness is overblown in overly epistemically defeatist ways.
@@ -1105,6 +1103,7 @@ See also:
 [^Franzen2005]: @Franzen_2005_Godels_Theorem_An_incomplete_guide_to_its\.
 [^Goldfarb2005]: @Goldfarb_2005_On_Godels_way_in_The_influence_of_Rudolf\.
 [^Goldstein2005]: @Goldstein_2005_Incompleteness_The_Proof_and_Paradox_of_Kurt\.
+[^Hunter1988]: @Hunter_1988_What_computers_cant_do\.
 [^Lloyd1993]: @Lloyd_1993_Quantum_mechanical_computers_and_uncomputability\.
 [^Raatikainen2020]: @Raatikainen_2020_Godels_incompleteness_theorems\.
 [^Rice1953]: @Rice_1953_Classes_of_recursively_enumerable_sets_and_their\.
@@ -1340,6 +1339,7 @@ Platonism
 -   The Academy (387 BCE - 529 CE): "Let no one ignorant of geometry enter"
 -   Mathematics is descriptive of a real but trans-empirical realm.
 -   Plato perhaps doubts Platonism in *Parmenides*
+-   Hunter, G. (1994). [Platonist manifesto](https://www.jstor.org/stable/3751342). [^Hunter1994]
 -   Aristotle on universals
 
 ![Detail of *School of Athens* by Raphael (1511), showing Plato and Aristotle
@@ -1365,9 +1365,12 @@ Platonism
 >   in seeking to see those others themselves that one cannot see except
 >   by means of thought. [^RepublicVI510c]
 
-[^RepublicVI510c]: Plato, *Republic VI* 510c, @Cooper_1997_Plato_Complete_works\, p. 1131.
+More:
 
 -   [A very platonist math documentary](https://www.youtube.com/watch?v=8gd-gUlBv_s)
+
+[^Hunter1994]: @Hunter_1994_Platonist_manifesto\.
+[^RepublicVI510c]: Plato, *Republic VI* 510c, @Cooper_1997_Plato_Complete_works\, p. 1131.
 
 
 ### Contemporary platonism
@@ -2105,7 +2108,7 @@ Links and encyclopedia articles
 -   Zach, Richard. (2015). [Quine's Paradox and G&ouml;del's Theorem](http://richardzach.org/2015/03/30/quines-paradox-and-godels-theorem/).
 -   Baez, J.C. (2018). [Nonstandard Integers as Complex Numbers](https://johncarlosbaez.wordpress.com/2018/03/03/nonstandard-integers-as-complex-numbers/).
 -   Baez, J.C. (2018). [Insanely Long Proofs](https://johncarlosbaez.wordpress.com/2012/10/19/insanely-long-proofs/).
--   Schwichtenberg, J. (XXXX). [Classification of Simple Lie Groups](http://jakobschwichtenberg.com/classification-of-simple-lie-groups/).
+-   Schwichtenberg, J. (2018). [Classification of simple Lie groups](https://web.archive.org/web/20230529023834/http://jakobschwichtenberg.com/classification-of-simple-lie-groups/).
 -   Tao, T. (2019). [Career advice](https://terrytao.wordpress.com/career-advice/).
 -   Trioni, S. (2020). [Cantor's attic](https://neugierde.github.io/cantors-attic/).
 

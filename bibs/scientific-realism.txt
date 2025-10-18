@@ -43,6 +43,7 @@ Hempel, C.G. (1950). Problems and changes in the empiricist criterion of meaning
 Hempel, C.G. (1974). Formulation and formalization of scientific theories. In  Suppe, F. (Ed.). *The Structure of Scientific Theories*. University of Illinois Press.
 Hennig, C. (2010). Mathematical models and reality: A constructivist perspective. *Foundations of Science*, 15(1), 29--48.
 Hennig, C. (2015). What are the true clusters? *Pattern Recognition Letters*, 64, 53--62. https://arxiv.org/abs/1502.02555
+Hunter, G. (1995). Quine's 'Two dogmas of empiricism': Or the power of bad logic. *Philosophical Investigations*, 18, 305--328. 
 Keyt, D. (1964). Wittgenstein's picture theory of language. *The Philosophical Review*, 73, 493--511. https://www.jstor.org/stable/2183303
 Khanna, P. (2018). Positivism and realism. In Liamputtong, P. (Ed.) *Handbook of Research Methods in Health Social Sciences*. Springer.
 Korzybski, A. (1933). *Science and Sanity*. New York: The Science Press Printing Co.

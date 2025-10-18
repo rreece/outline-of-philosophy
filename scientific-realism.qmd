@@ -1133,6 +1133,8 @@ TODO: Note any differences between:
     -   Ebbs, G. (2017). *Carnap, Quine, and Putnam on Methods of Inquiry*. [^Ebbs2017]
     -   Verhaegh, S. (2020). Coming to America: Carnap, Reichenbach and the great intellectual migration. [^Verhaegh2020]
     -   Richardson, A. & Tuboly, A.T. (2024). *Interpreting Carnap: Critical Essays*. [^Richardson2024]
+-   Waismann, F. (1956). How I see philosophy.
+    -   Morris, K.J. (2019). "How I see philosophy": An apple of discord among Wittgenstein scholars. [^Morris2019]
 
 [^Awodey2004]: @Awodey_2004_Carnap_Brought_Home_The_View_from_Jena\.
 [^Buck1971]: @Buck_1971_PSA_1970_In_Memory_of_Rudolf_Carnap_Proceedings\.
@@ -1145,6 +1147,7 @@ TODO: Note any differences between:
 [^Friedman2007]: @Friedman_2007_The_Cambridge_Companion_to_Carnap\.
 [^Hintikka1975]: @Hintikka_1975_Rudolf_Carnap_Logical_Empiricist\.
 [^Kazemier1962]: @Kazemier_1962_Logic_and_Language_Studies_Dedicated_to_Professor\.
+[^Morris2019]: @Morris_2019_How_I_see_philosophy_An_apple_of_discord_among\.
 [^Neurath1938]: @Neurath_1955_International_Encyclopedia_of_Unified_Science\.
 [^Richardson2024]: @Richardson_2024_Interpreting_Carnap_Critical_Essays\.
 [^Schilpp1963]: @Carnap_1963_The_Philosophy_of_Rudolf_Carnap\.
@@ -1312,7 +1315,7 @@ Reichenbach on probability:
 -   Richard Creath (b. 1947) - Editor of the *Quine-Carnap Correspondence* (1990)
 -   Ladyman, J. & Ross, D. (2007). *Every Thing Must Go: Metaphysics Naturalised*.
     -   Self-identify as neo-positivists [^Ladyman2007p303]
-    -   Ney, A. (2012). [Neo-positivist metaphysics](https://link.springer.com/article/10.1007/s11098-012-9912-9). [^Ney2012a]
+-   Ney, A. (2012). [Neo-positivist metaphysics](https://link.springer.com/article/10.1007/s11098-012-9912-9). [^Ney2012a]
 -   Leitgeb, H. (2023). [Vindicating the verifiability criterion](https://doi.org/10.1007/s11098-023-02071-w). [^Leitgeb2023]
 -   Richardson, A. (2023). [*Logical Empricism as Scientific Philosophy*](https://doi.org/10.1017/9781009471497) [^Richardson2023]
 
@@ -1408,6 +1411,7 @@ Various reactions to positivism.
 -   Quine, W.V.O. (1951). Two dogmas of empiricism.  [^Quine1951b]
     1.  Analytic/synthetic distinction
     2.  Reductionism (verification theory of meaning)
+-   Quine's critique is decribed well in Stalnaker, R.C. (2003). *Ways a World Might Be*. [^Stalnaker2003p1]
 
 Quine on our pale gray lore:
 
@@ -1418,6 +1422,8 @@ Quine on our pale gray lore:
 >   white with convention. But I have found no substantial reasons for
 >   concluding that there are any quite black threads in it, or any white
 >   ones. [^Quine1960bp374]
+
+#### Criticism
 
 Carnap remained optimistic about his views of analyticity, intension,
 and meaning:
@@ -1438,10 +1444,11 @@ Feigl:
 >   languages. [^Feigl1956p7]
 
 -   Grice, H.P. & Strawson, P.F. (1956). In defense of a dogma. [^Grice1956]
--   Quine's critique is decribed well in Stalnaker, R.C. (2003). *Ways a World Might Be*. [^Stalnaker2003p1]
+-   Hunter, G. (1995). Quine's 'Two dogmas of empiricism': Or the power of bad logic. [^Hunter1995]
 
 [^Feigl1956p7]: @Feigl_1956_Some_major_issues_and_developments\, p. 7--8.
 [^Grice1956]: @Grice_1956_In_defense_of_a_dogma\.
+[^Hunter1995]: @Hunter_1995_Quines_Two_dogmas_of_empiricism_Or_the_power\.
 [^Quine1951b]: @Quine_1951_Two_dogmas_of_empiricism\.
 [^Quine1960bp374]: @Quine_1960_Carnap_and_logical_truth\, p. 374.
 [^Stalnaker2003p1]: @Stalnaker_2003_Ways_a_World_Might_Be_Metaphysical_and_anti\, p. 1--6.
@@ -1911,6 +1918,7 @@ Postmodernism
 -   Social constructivism
 -   Incommensurability, impossibility of translation
 -   Critical theory
+-   Post-structuralism
 
 
 ### History
@@ -1918,6 +1926,7 @@ Postmodernism
 -   Relativism was previously clearly defended by the ancient Greek sophists
     -   "Man is the measure of all things" - Protagoras
     -   Gorgias
+-   Ren&eacute; Girard (1923-2015)
 -   Jean-Fran&ccedil;ois Lyotard (1924-1998)
     -   *The Postmodern Condition: A Report on Knowledge* (1979)
     -   "Simplifying to the extreme, I define postmodern as incredulity toward metanarratives."

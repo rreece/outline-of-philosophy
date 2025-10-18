@@ -101,9 +101,11 @@ See also:
 
 -   Simulation argument [^Bostrom2003] and patch [^Bostrom2011]
 -   [Simulation hypothesis](https://en.wikipedia.org/wiki/Simulation_hypothesis)
+-   Schmidhuber, J. (1997). [A computer scientist's view of life, the universe, and everything](https://arxiv.org/abs/quant-ph/9904050). [^Schmidhuber1997]
 
 [^Bostrom2003]: @Bostrom_2003_Are_you_living_in_a_computer_simulation\.
 [^Bostrom2011]: @Bostrom_2011_A_patch_for_the_simulation_argument\.
+[^Schmidhuber1997]: @Schmidhuber_1997_A_computer_scientists_view_of_life_the_universe\.
 
 
 Artificial intelligence

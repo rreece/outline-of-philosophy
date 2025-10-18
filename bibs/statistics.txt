@@ -8,6 +8,7 @@ Amari, S. (2016). *Information Geometry and Its Applications*. Springer Japan.
 Anderson, C. (2008). The End of Theory: The data deluge makes the scientific method obsolete. *Wired*. https://www.wired.com/2008/06/pb-theory/ [June 23, 2008.]
 Anderson, J.A. & Rosenfeld, E. (1998). *Talking Nets: An oral history of neural networks*. MIT Press.
 Andrews, M. (2023). The devil in the data: Machine learning & the theory-free ideal. https://philsci-archive.pitt.edu/22690/1/ML_Atheoreticity.pdf
+Arora, S. (2023). *Theory of Deep Learning*. https://www.cs.princeton.edu/~arora/TheoryDL.pdf
 Arras, K.O. (1998). An introduction to error propagation: Derivation, meaning and examples of $C_y= F_x C_x F_{x}^{\top}$. http://srl.informatik.uni-freiburg.de/papers/arrasTR98.pdf [EPFL-ASL-TR-98-01 R3.]
 Arulkumaran, K., Deisenroth, M.P., Brundage, M., & Bharath, A.A. (2017). Deep Reinforcement Learning: A Brief Survey. *IEEE Signal Processing Magazine*, 34, 26--38.
 Asch, M. et al. (2018). Big data and extreme-scale computing: Pathways to Convergence-Toward a shaping strategy for a future software and data ecosystem for scientific inquiry. *The International Journal of High Performance Computing Applications*, 32, 435--479.
@@ -382,6 +383,7 @@ Savage, L.J. (1954). *The Foundations of Statistics*. John Wiley & Sons.
 Scardapane, S. (2024). *Alice's Adventures in a Differentiable Wonderland, Vol. I: A Tour of the Land*. https://arxiv.org/abs/2404.17625
 Schaeffer, R. et al. (2023). Double descent demystified: Identifying, interpreting & ablating the sources of a deep learning puzzle. https://arxiv.org/abs/2303.14151
 Schmidhuber, J. (1997). A computer scientist's view of life, the universe, and everything. https://arxiv.org/abs/quant-ph/9904050
+Schmidhuber, J. (2024). A Nobel prize for plagiarism. https://people.idsia.ch/~juergen/physics-nobel-2024-plagiarism.html [IDSIA-24-24.]
 Schmid, M. et al. (2019). Variance reduction in Monte Carlo counterfactual regret minimization (VR-MCCFR) for extensive form games using baselines. https://ojs.aaai.org/index.php/AAAI/article/view/4048/3926
 Schmid, M. et al. (2021). Player of games. https://arxiv.org/abs/2112.03178
 Sellars, W. (1964). Induction as vindication. *Philosophy of Science*, 31, 197--231.
