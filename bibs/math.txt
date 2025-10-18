@@ -66,6 +66,8 @@ Hodges, W. (1997). *A Shorter Model Theory*. Cambridge University Press.
 Holm, D.D. (2011). *Geometric Mechanics - Part I: Dynamics And Symmetry* (2nd ed.). Imperial College Press.
 Holm, D.D. (2011). *Geometric Mechanics - Part II: Rotating, Translating, and Rolling* (2nd ed.). Imperial College Press.
 Hunter, G. (1971). *Metalogic: An Introduction to the Metatheory of Standard First-Order Logic*. University of California Press.
+Hunter, G. (1988). What computers can't do. *Philosophy*, 63, 175--189. https://www.jstor.org/stable/3750413
+Hunter, G. (1994). Platonist manifesto. *Philosophy*, 69, 151--162. https://www.jstor.org/stable/3751342
 Jerzak, E. (2009). Second-order logic, or: How I learned to stop worrying and love the incompleteness theorems. http://www.math.uchicago.edu/~may/VIGRE/VIGRE2009/REUPapers/Jerzak.pdf
 Kleene, S.C. (1943). Recursive predicates and quantifiers. *Transactions of the American Mathematical Society*, 53, 41--73. https://www.jstor.org/stable/1990131
 Kleene, S.C. (1952). *Introduction to Metamathematics*. North-Holland Publishing.
