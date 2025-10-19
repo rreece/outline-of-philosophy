@@ -1449,11 +1449,22 @@ $$
 A! \equiv \left[ \lambda x\ \neg \Diamond E! x \right]
 $$
 
-If possibly an abstract object encodes a property, then it does so necessarily: [^Leitgeb2025p129]
+If possibly an abstract object encodes a property, then it does so necessarily. [^Leitgeb2025p129]
+This is the axiom of the rigidity of encoding: [^Zalta2025aSec8_9]
 
 $$
 \Diamond x F \rightarrow \Box x F
 $$
+
+Axiom of the comprehension principle for abstract objects:
+
+$$
+\exists x \left( A!x \land \forall F (xF \leftrightarrow \phi(F) \right)
+$$
+
+For every formula (condition) $\phi$ on properties $F$ expressible in the language,
+there exists an abstract object $x$ that encodes just the properties
+$F$ such that $\phi$.
 
 See also:
 
@@ -1473,6 +1484,7 @@ See also:
 [^Zalta2007]: @Zalta_2007_Reflections_on_mathematics\.
 [^Zalta2011]: @Zalta_2011_Logic_and_metaphysics\.
 [^Zalta2025a]: @Zalta_2025_Principia_Logico_Metaphysica\.
+[^Zalta2025aSec8_9]: @Zalta_2025_Principia_Logico_Metaphysica\, &sect;8.9, p. 265.
 [^Zalta2025aSec15_2]: @Zalta_2025_Principia_Logico_Metaphysica\, &sect;15.2, p. 866.
 [^Zalta2025b]: @Zalta_2025_Unifying_and_validating_some_ideas_of_Kurt\.
 
