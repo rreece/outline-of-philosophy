@@ -69,6 +69,7 @@ Hunter, G. (1971). *Metalogic: An Introduction to the Metatheory of Standard Fir
 Hunter, G. (1988). What computers can't do. *Philosophy*, 63, 175--189. https://www.jstor.org/stable/3750413
 Hunter, G. (1994). Platonist manifesto. *Philosophy*, 69, 151--162. https://www.jstor.org/stable/3751342
 Jerzak, E. (2009). Second-order logic, or: How I learned to stop worrying and love the incompleteness theorems. http://www.math.uchicago.edu/~may/VIGRE/VIGRE2009/REUPapers/Jerzak.pdf
+Kirchner, D., Benzm{\"u}ller, C., & Zalta, E.N. (2019). Computer science and metaphysics: A cross-fertilization. https://arxiv.org/abs/1905.00787
 Kleene, S.C. (1943). Recursive predicates and quantifiers. *Transactions of the American Mathematical Society*, 53, 41--73. https://www.jstor.org/stable/1990131
 Kleene, S.C. (1952). *Introduction to Metamathematics*. North-Holland Publishing.
 Knuth, D. (1974). *Surreal Numbers: How two ex-students turned on to pure mathematics and found total happiness*. Addison Wesley.
@@ -143,4 +144,5 @@ Zalta, E.N. (2000). Neo-logicism? An ontological reduction of mathematics to met
 Zalta, E.N. (2007). Reflections on mathematics.  In V.F. Hendricks & H. Leitgeb (eds.), *Philosophy of Mathematics: 5 Questions* (pp. 313--328). New York: Automatic Press. https://mally.stanford.edu/Papers/reflections.pdf
 Zalta, E.N. (2011). Logic and metaphysics. *Logic and Philosophy Today*, 2, 153--172. https://mally.stanford.edu/Papers/logic-metaphysics.pdf
 Zalta, E.N. (2025). *Principia Logico-Metaphysica*. https://mally.stanford.edu/principia.pdf [(Draft May 16, 2025)]
+Zalta, E.N. (2025). Unifying and validating some ideas of Kurt G{\"o}del. https://mally.stanford.edu/Papers/goedel.pdf
 Zee, A. (2016). *Group Theory in a Nutshell for Physicists*. Princeton University Press.

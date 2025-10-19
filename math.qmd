@@ -1405,7 +1405,9 @@ More:
     -   Linsky, B. & Zalta, E.N. (1995). [Naturalized platonism versus platonized naturalism](https://www.jstor.org/stable/2940786) [^Linsky1995]
     -   Zalta, E.N. (2007). [Reflections on mathematics](https://mally.stanford.edu/Papers/reflections.pdf). [^Zalta2007]
     -   Zalta, E.N. (2011). [Logic and metaphysics](https://mally.stanford.edu/Papers/logic-metaphysics.pdf). [^Zalta2011]
-    -   Zalta, E.N. (2025). [*Principia Logico-Metaphysica*](https://mally.stanford.edu/principia.pdf) (Draft). [^Zalta2025]
+    -   Kirchner, D., Benzm&uuml;ller, C., & Zalta, E.N. (2019). [Computer science and metaphysics: A cross-fertilization](https://arxiv.org/abs/1905.00787). [^Kirchner2019]
+    -   Zalta, E.N. (2025). [*Principia Logico-Metaphysica*](https://mally.stanford.edu/principia.pdf) (Draft). [^Zalta2025a]
+    -   Zalta, E.N. (2025). [Unifying and validating some ideas of Kurt G&ouml;del](https://mally.stanford.edu/Papers/goedel.pdf). [^Zalta2025b]
 -   Neopythagoreanism
     -   Tegmark, M. (2008). "The mathmatical universe". [^Tegmark2008]
     -   Mathematical Universe Hypothesis (MUH)
@@ -1428,7 +1430,23 @@ F^{n} x_{1} \ldots x_{n} = x_{1} \ldots x_{n}\ \mathrm{exemplify\ property}\ F^{
 $$
 
 $$
-x F^{1} = \mathrm{individual}\ x\ \mathrm{encodes\ property}\ F^{1}
+x_{1} \ldots x_{n} F^{1} = x_{1} \ldots x_{n}\ \mathrm{encode\ property}\ F^{1}
+$$
+
+Ordinary objects possibly exist concretely; abstract objects do not possibly exist concretely. [^Zalta2025aSec15_2]
+
+Being concrete: $E!$
+
+Being ordinary:
+
+$$
+O! \equiv \left[ \lambda x\ \Diamond E! x \right]
+$$
+
+Being abstract:
+
+$$
+A! \equiv \left[ \lambda x\ \neg \Diamond E! x \right]
 $$
 
 If possibly an abstract object encodes a property, then it does so necessarily: [^Leitgeb2025p129]
@@ -1437,21 +1455,12 @@ $$
 \Diamond x F \rightarrow \Box x F
 $$
 
-Ordinary objects possibly exist concretely; abstract objects do not possibly exist concretely: [^Zalta2025Sec15_2]
-
-$$
-O! x \equiv \Diamond E! x
-$$
-
-$$
-A! x \equiv \neg \Diamond E! x
-$$
-
 See also:
 
 -   [Neologicism](#neologicism)
 
 [^DeCruz2016]: @DeCruz_2016_Numerical_cognition_and_mathematical_realism\.
+[^Kirchner2019]: @Kirchner_2019_Computer_science_and_metaphysics_A_cross\.
 [^Leitgeb2025p129]: @Leitgeb_2025_A_defense_of_logicism\, p. 129.
 [^Linsky1995]: @Linsky_1995_Naturalized_platonism_versus_platonized\.
 [^Quine1948b]: @Quine_1948_On_what_there_is\.
@@ -1463,8 +1472,9 @@ See also:
 [^Zalta1983p12]: @Zalta_1983_Abstract_Objects_An_Introduction_to_Axiomatic\, p. 12.
 [^Zalta2007]: @Zalta_2007_Reflections_on_mathematics\.
 [^Zalta2011]: @Zalta_2011_Logic_and_metaphysics\.
-[^Zalta2025]: @Zalta_2025_Principia_Logico_Metaphysica\.
-[^Zalta2025Sec15_2]: @Zalta_2025_Principia_Logico_Metaphysica\, &sect;15.2, p. 866.
+[^Zalta2025a]: @Zalta_2025_Principia_Logico_Metaphysica\.
+[^Zalta2025aSec15_2]: @Zalta_2025_Principia_Logico_Metaphysica\, &sect;15.2, p. 866.
+[^Zalta2025b]: @Zalta_2025_Unifying_and_validating_some_ideas_of_Kurt\.
 
 
 ### Visual proofs
