@@ -1225,8 +1225,8 @@ See also:
 -   [Feminism](ethics.html#feminism)
 -   [Feminist epistemology](scientific-realism.html#feminist-epistemology)
 
-[^Andrews2025]:
-[^French2025]:
+[^Andrews2025]: @Andrews_2025_The_great_feminization\.
+[^French2025]: @French_2025_How_women_destroyed_the_west\.
 [^Konnikova2012]: @Konnikova_2012_Humanities_arent_a_scienceStop_treating_them\.
 [^McCrea2019]: @McCrea_2019_The_magical_thinking_of_guys_who_love_logic\.
 [^McManus2020]: @McManus_2020_Myth_and_mayhem_A_leftist_critique_of_Jordan\.
