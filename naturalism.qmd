@@ -1216,12 +1216,17 @@ Dang & Bright:
     -   Weiss, B. (2018). [Meet the Renegades of the Intellectual Dark Web](https://web.archive.org/web/20200131000213/https://www.nytimes.com/2018/05/08/opinion/intellectual-dark-web.html). *The New York Times*.
     -   Paglia, C. & Peterson, J.B. (2018). Video: [Modern Times](https://www.youtube.com/watch?v=v-hIVnmUdXM).
     -   Kanelos, P. (2021). [We can't wait for universities to fix themselves. So we're starting a new one.](https://bariweiss.substack.com/p/we-cant-wait-for-universities-to) (Announcement of [The University of Austin](https://www.uaustin.org/).)
+-   Trump 2.0 (2025)
+    -   Andrews, H. (2025). [The great feminization](https://www.compactmag.com/article/the-great-feminization/). [^Andrews2025]
+    -   French, D. (2025). [How women destroyed the west](https://www.nytimes.com/2025/10/23/opinion/helen-andrews-feminization-compact.html). 2025-10-23 [^French2025]
 
 See also:
 
 -   [Feminism](ethics.html#feminism)
 -   [Feminist epistemology](scientific-realism.html#feminist-epistemology)
 
+[^Andrews2025]:
+[^French2025]:
 [^Konnikova2012]: @Konnikova_2012_Humanities_arent_a_scienceStop_treating_them\.
 [^McCrea2019]: @McCrea_2019_The_magical_thinking_of_guys_who_love_logic\.
 [^McManus2020]: @McManus_2020_Myth_and_mayhem_A_leftist_critique_of_Jordan\.
