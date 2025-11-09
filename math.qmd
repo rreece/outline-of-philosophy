@@ -1286,9 +1286,11 @@ Yanofsky, N.S. (2016). Why mathematics works so well:
 -   Endoscopic groups
 -   Local Langlands correspondence vs global
 -   Frenkel, E. (2005). [Lectures on the Langlands program and conformal field theory](https://arxiv.org/abs/hep-th/0512172). [^Frenkel2005]
+-   Fargues, L. & Scholze, P. (2021). [Geometrization of the local Langlands correspondence](https://arxiv.org/abs/2102.13459). [^Fargues2021]
 -   Gaitsgory, D., Raskin, S., et al. (2024). [Proof of the geometric Langlands conjecture](https://people.mpim-bonn.mpg.de/gaitsgde/GLC/). (May 2024).
 
 [^Frenkel2005]: @Frenkel_2005_Lectures_on_the_Langlands_program_and_conformal\.
+[^Fargues2021]: @Fargues_2021_Geometrization_of_the_local_Langlands\.
 
 
 ### Univalent foundations
