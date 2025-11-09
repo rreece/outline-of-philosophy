@@ -645,9 +645,13 @@ Economics
 -   [L&eacute;on Walras](https://en.wikipedia.org/wiki/L%C3%A9on_Walras) (1834-1910)
 -   [William Stanley Jevons](https://en.wikipedia.org/wiki/William_Stanley_Jevons) (1835-1882)
 -   [Carl Menger](https://en.wikipedia.org/wiki/Carl_Menger) (1840-1921)
+-   [Alfred Marshall](https://en.wikipedia.org/wiki/Alfred_Marshall) (1842-1924)
+    -   *Principles of Economics* (1890)
+    -   First to develop the standard supply and demand graph 
 -   [John Bates Clark](https://en.wikipedia.org/wiki/John_Bates_Clark) (1847-1938)
 -   [Vilfredo Pareto](https://en.wikipedia.org/wiki/Vilfredo_Pareto) (1848-1923)
 -   [John Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) (1883-1946)
+    -   *The General Theory of Employment, Interest and Money* (1936)
 -   [Keynesian economics](https://en.wikipedia.org/wiki/Keynesian_economics)
 -   [Neoclassical synthesis](https://en.wikipedia.org/wiki/Neoclassical_synthesis)
 
@@ -659,6 +663,7 @@ Economics
 -   [Carl Menger](https://en.wikipedia.org/wiki/Carl_Menger) (1840-1921)
 -   Eugen von B&ouml;hm-Bawerk (1851-1914)
 -   Friedrich von Wieser (1851-1926)
+    -   Opportunity costs
 -   [Ludwig von Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises) (1881-1973)
 -   [Friedrich Hayek](https://en.wikipedia.org/wiki/Friedrich_Hayek) (1899-1992)
 
@@ -787,6 +792,10 @@ Feminism
 -   [Margaret Sanger](https://en.wikipedia.org/wiki/Margaret_Sanger) (1879-1966)
 -   [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russell) (1872-1970)
     -   [*Marriage and Morals*](https://en.wikipedia.org/wiki/Marriage_and_Morals) (1929)
+-   [Bloomsbury Group](https://en.wikipedia.org/wiki/Bloomsbury_Group)
+    -   Influenced by Moore, G.E. (1903). *Principia Ethica*. [^Moore1903c]
+
+[^Moore1903c]: @Moore_1988_Principia_Ethica\.
 
 
 ### Women's liberation movement (1960s-1980s)
