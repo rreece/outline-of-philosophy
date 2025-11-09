@@ -38,6 +38,7 @@ Dwyer, P. S. (1967). Some applications of matrix derivatives in multivariate ana
 Eilenberg, S. & MacLane, S. (1945). General theory of natural equivalences.  *Transactions of the American Mathematical Society*, 58, 231--294. https://www.ams.org/journals/tran/1945-058-00/S0002-9947-1945-0013131-6/S0002-9947-1945-0013131-6.pdf
 Enderton, H.B. (2009). Second-order and higher-order logic. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/archives/sum2019/entries/logic-higher-order/
 Ewald, W. (2018). The emergence of first-order logic. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/logic-firstorder-emergence/
+Fargues, L. & Scholze, P. (2021). Geometrization of the local Langlands correspondence. https://arxiv.org/abs/2102.13459
 Field, H. (1989). *Realism, Mathematics, and Modality*. Oxford: Blackwell.
 Field, H. (2016). *Science Without Numbers* (2nd ed.). Oxford University Press. [(Originally published in 1980 by Princeton University Press).]
 Fong, B. & Spivak, D.I. (2018). Seven sketches in compositionality: An invitation to applied category theory. https://arxiv.org/abs/1803.05316
