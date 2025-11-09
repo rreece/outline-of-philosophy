@@ -558,6 +558,8 @@ TODO: Note that Everettian QM would argue the Born rule is secondary and derivab
     -   Jordan, P., von Neumann, J., & Wigner, E.P. (1934). [On an algebraic generalization of the quantum mechanical formalism](https://www.jstor.org/stable/1968117). [^Jordan1934]
     -   Baez, J.C. (2011). [Division algebras and quantum theory](https://arxiv.org/abs/1101.5690). [^Baez2011a]
     -   Morales, J.A.C & Zilber. B. (2014). [The geometric semantics of algebraic quantum mechanics](https://arxiv.org/abs/1410.7277). [^Morales2014]
+    -   Garisto, D. (2025). [Physicists take the imaginary numbers out of quantum mechanics](https://www.quantamagazine.org/physicists-take-the-imaginary-numbers-out-of-quantum-mechanics-20251107/).
+        -   TODO: References therein
 
 See also:
 
