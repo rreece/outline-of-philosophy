@@ -467,6 +467,26 @@ Hilbert:
 [^Trioni2020Omega]: Trioni, S. (2020). [Cantor's attic](https://neugierde.github.io/cantors-attic/Omega) - Omega.
 
 
+Combinatorics
+--------------------------------------------------------------------------------
+
+### Introduction
+
+-   TODO
+
+
+### Counting
+
+-   TODO
+
+
+### Graph theory
+
+-   [Graph theory](https://en.wikipedia.org/wiki/Graph_theory)
+-   [Ramsey's theorem](https://en.wikipedia.org/wiki/Ramsey%27s_theorem)
+-   [F.P. Ramsey](https://plato.stanford.edu/entries/ramsey) (1903-1930)
+
+
 Logic
 --------------------------------------------------------------------------------
 
