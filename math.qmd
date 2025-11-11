@@ -499,6 +499,9 @@ Pedagogy:
 -   Sullivan, B.W. (2013). [*Everything You Always Wanted To Know About Mathematics*](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf). [^Sullivan2013]
 -   Smith, P. (2020). *An Introduction to Formal Logic*. [^Smith2020a]
 -   Smith, P. (2022). *Beginning Mathematical Logic A Study Guide*. [^Smith2022]
+-   Zach, R. (2021). [*Sets, Logic, Computation: An Open Introduction to Metalogic*](https://slc.openlogicproject.org/archives/f21/slc-screen.pdf). [^Zach2021]
+-   Halvorson, H. (2016). [Introduction to metalogic](https://www.princeton.edu/~hhalvors/teaching/phi312_f2016/prop-meta-static.pdf).
+-   Martin, T. (2016). [Introduction to metalogic](https://www.math.ucla.edu/~dam/135.07w/135notes.pdf).
 
 More:
 
@@ -520,6 +523,7 @@ More:
 [^Smith2022]: @Smith_2022_Beginning_Mathematical_Logic_A_Study_Guide\.
 [^Sullivan2013]: @Sullivan_2013_Everything_You_Always_Wanted_To_Know_About\.
 [^Teller1989]: @Teller_1989_A_Modern_Formal_Logic_Primer\.
+[^Zach2021]: @Zach_2021_Sets_Logic_Computation_An_Open_Introduction\.
 
 
 ### History
