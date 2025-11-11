@@ -152,16 +152,20 @@ $$
 \end{align}
 $$
 
-
-### More
-
--   [Algebraic number theory](https://en.wikipedia.org/wiki/Algebraic_number_theory)
--   [Representation theory](https://en.wikipedia.org/wiki/Representation_theory)
 -   [Hurwitz's theorem](https://en.wikipedia.org/wiki/Hurwitz%27s_theorem_(composition_algebras))
     -   The real numbers, the complex numbers, the quaternions, and the octonions
         exhaust all the possible normed division algebras.
     -   Baez, J.C. (2002). [The octonions](https://arxiv.org/abs/math/0105155). [^Baez2002]
     -   Westbury, B.W. (2010). [Hurwitz' theorem on composition algebras](https://arxiv.org/abs/1011.6197). [^Westbury2010]
+
+[^Baez2002]: @Baez_2002_The_octonions\.
+[^Westbury2010]: @Westbury_2010_Hurwitz_theorem_on_composition_algebras\.
+
+
+### More
+
+-   [Algebraic number theory](https://en.wikipedia.org/wiki/Algebraic_number_theory)
+-   [Representation theory](https://en.wikipedia.org/wiki/Representation_theory)
 -   Jordan algebras
     -   McCrimmon, K. (2000). *A Taste of Jordan Algebras*. [^McCrimmon2000]
 
@@ -170,9 +174,7 @@ See also:
 -   [Foundations of QM](physics.html#foundations-of-qm)
 -   [Supersymmetry](physics.html#supersymmetry) in the Outline of [physics](physics.html)
 
-[^Baez2002]: @Baez_2002_The_octonions\.
 [^McCrimmon2000]: @McCrimmon_2000_A_Taste_of_Jordan_Algebras\.
-[^Westbury2010]: @Westbury_2010_Hurwitz_theorem_on_composition_algebras\.
 
 
 Analysis
