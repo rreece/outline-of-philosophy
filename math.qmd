@@ -152,16 +152,20 @@ $$
 \end{align}
 $$
 
-
-### More
-
--   [Algebraic number theory](https://en.wikipedia.org/wiki/Algebraic_number_theory)
--   [Representation theory](https://en.wikipedia.org/wiki/Representation_theory)
 -   [Hurwitz's theorem](https://en.wikipedia.org/wiki/Hurwitz%27s_theorem_(composition_algebras))
     -   The real numbers, the complex numbers, the quaternions, and the octonions
         exhaust all the possible normed division algebras.
     -   Baez, J.C. (2002). [The octonions](https://arxiv.org/abs/math/0105155). [^Baez2002]
     -   Westbury, B.W. (2010). [Hurwitz' theorem on composition algebras](https://arxiv.org/abs/1011.6197). [^Westbury2010]
+
+[^Baez2002]: @Baez_2002_The_octonions\.
+[^Westbury2010]: @Westbury_2010_Hurwitz_theorem_on_composition_algebras\.
+
+
+### More
+
+-   [Algebraic number theory](https://en.wikipedia.org/wiki/Algebraic_number_theory)
+-   [Representation theory](https://en.wikipedia.org/wiki/Representation_theory)
 -   Jordan algebras
     -   McCrimmon, K. (2000). *A Taste of Jordan Algebras*. [^McCrimmon2000]
 
@@ -170,9 +174,7 @@ See also:
 -   [Foundations of QM](physics.html#foundations-of-qm)
 -   [Supersymmetry](physics.html#supersymmetry) in the Outline of [physics](physics.html)
 
-[^Baez2002]: @Baez_2002_The_octonions\.
 [^McCrimmon2000]: @McCrimmon_2000_A_Taste_of_Jordan_Algebras\.
-[^Westbury2010]: @Westbury_2010_Hurwitz_theorem_on_composition_algebras\.
 
 
 Analysis
@@ -467,6 +469,26 @@ Hilbert:
 [^Trioni2020Omega]: Trioni, S. (2020). [Cantor's attic](https://neugierde.github.io/cantors-attic/Omega) - Omega.
 
 
+Combinatorics
+--------------------------------------------------------------------------------
+
+### Introduction
+
+-   TODO
+
+
+### Counting
+
+-   TODO
+
+
+### Graph theory
+
+-   [Graph theory](https://en.wikipedia.org/wiki/Graph_theory)
+-   [Ramsey's theorem](https://en.wikipedia.org/wiki/Ramsey%27s_theorem)
+-   [F.P. Ramsey](https://plato.stanford.edu/entries/ramsey) (1903-1930)
+
+
 Logic
 --------------------------------------------------------------------------------
 
@@ -479,6 +501,9 @@ Pedagogy:
 -   Sullivan, B.W. (2013). [*Everything You Always Wanted To Know About Mathematics*](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf). [^Sullivan2013]
 -   Smith, P. (2020). *An Introduction to Formal Logic*. [^Smith2020a]
 -   Smith, P. (2022). *Beginning Mathematical Logic A Study Guide*. [^Smith2022]
+-   Zach, R. (2021). [*Sets, Logic, Computation: An Open Introduction to Metalogic*](https://slc.openlogicproject.org/archives/f21/slc-screen.pdf). [^Zach2021]
+-   Halvorson, H. (2016). [Introduction to metalogic](https://www.princeton.edu/~hhalvors/teaching/phi312_f2016/prop-meta-static.pdf).
+-   Martin, T. (2016). [Introduction to metalogic](https://www.math.ucla.edu/~dam/135.07w/135notes.pdf).
 
 More:
 
@@ -500,6 +525,7 @@ More:
 [^Smith2022]: @Smith_2022_Beginning_Mathematical_Logic_A_Study_Guide\.
 [^Sullivan2013]: @Sullivan_2013_Everything_You_Always_Wanted_To_Know_About\.
 [^Teller1989]: @Teller_1989_A_Modern_Formal_Logic_Primer\.
+[^Zach2021]: @Zach_2021_Sets_Logic_Computation_An_Open_Introduction\.
 
 
 ### History
