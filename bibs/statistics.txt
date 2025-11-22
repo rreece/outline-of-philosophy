@@ -140,6 +140,7 @@ Edelman, B.L., Goel, S., Kakade, S., & Zhang, C. (2021). Inductive biases and va
 Edwards, A.W.F. (1974). The history of likelihood. *International Statistical Review*, 42(1), 9--15.
 Efron, B. & Hastie, T. (2016). *Computer Age Statistical Inference: Algorithms, evidence, and data science*. Cambridge University Press.
 Elhage, N. et al. (2022). Toy models of superposition. https://transformer-circuits.pub/2022/toy_model/index.html
+Erdogan, E. & Lucic, A. (2025). Group equivariance meets mechanistic interpretability: Equivariant sparse autoencoders. https://arxiv.org/abs/2511.09432
 Evans, M. (2013). What does the proof of Birnbaum's theorem prove? https://arxiv.org/abs/1302.5468
 Fang, Z. et al. (2022). Is out-of-distribution detection learnable? *NeurIPS 2022*. https://arxiv.org/abs/2210.14707
 Fefferman, C., Mitter, S., & Narayanan, H. (2016). Testing the manifold hypothesis. *Journal of the American Mathematical Society*, 29, 983--1049. https://www.ams.org/journals/jams/2016-29-04/S0894-0347-2016-00852-4/S0894-0347-2016-00852-4.pdf
@@ -226,6 +227,7 @@ Jaynes, E.T. (2003). *Probability Theory: The Logic of Science*. https://bayes.w
 Jevons, W.S. (1873). The philosophy of inductive inference. *Fortnightly Review*, 14. 457--476. London: Chapman and Hall.
 Jevons, W.S. (1873). The use of hypothesis. *Fortnightly Review*, 14, 778-788. London: Chapman and Hall.
 Jiao, L. et al. (2024). AI meets physics: A comprehensive survey. *Artificial Intelligence Review*, 57, 256. https://doi.org/10.1007/s10462-024-10874-4
+Jingyu Liu et al. (2025). TiDAR: Think in diffusion, talk in autoregression. https://arxiv.org/abs/2511.08923v1
 Johanson, M. (2013). Measuring the size of large no-limit poker games. https://arxiv.org/abs/1302.7008
 Johanson, M. (2016). *Robust Strategies and Counter-Strategies: From Superhuman to Optimal Play*. University of Alberta. http://johanson.ca/publications/theses/2016-johanson-phd-thesis/2016-johanson-phd-thesis.pdf  [(Ph.D. thesis)]
 Johanson, M., Bard, N., Lanctot, M., Gibson, R.G., & Bowling, M. (2012). Efficient Nash equilibrium approximation through Monte Carlo counterfactual regret minimization. *Proceedings of the 11th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2012)*, 2, 837--846. https://www.idi.ntnu.no/emner/it3105/materials/poker/monte-carlo-cfm-2012.pdf
