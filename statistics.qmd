@@ -2177,6 +2177,7 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K^\intercal}{\s
 -   Sun, Y. et al. (2024). [Learning to (learn at test time): RNNs with expressive hidden states](https://arxiv.org/abs/2407.04620).
 -   Dao, T. & Gu, A. (2024). [Transformers are SSMs: Generalized models and efficient algorithms through structured state space duality](https://arxiv.org/abs/2405.21060). [^Dao2024]
 -   Banerjee, S., Agarwal, A., & Singla, S. (2024). [LLMs will always hallucinate, and we need to live with this](https://arxiv.org/abs/2409.05746). [^Banerjee2024]
+-   Jingyu Liu et al. (2025). [TiDAR: Think in diffusion, talk in autoregression](https://arxiv.org/abs/2511.08923v1). [^Jingyu2025]
 
 [^Banerjee2024]: @Banerjee_2024_LLMs_will_always_hallucinate_and_we_need_to_live\.
 [^Bhargava2023]: @Bhargava_2023_Whats_the_magic_word\.
@@ -2186,6 +2187,7 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K^\intercal}{\s
 [^Dao2024]: @Dao_2024_Transformers_are_SSMs_Generalized_models\.
 [^Devlin2018]: @Devlin_2018_BERT_Pre_training_of_deep_bidirectional\.
 [^Edelman2021]: @Edelman_2021_Inductive_biases_and_variable_creation_in_self\.
+[^Jingyu2025]: @Jingyu_2025_TiDAR_Think_in_diffusion_talk_in_autoregression\.
 [^Gu2021]: @Gu_2021_Efficiently_modeling_long_sequences\.
 [^Gu2023]: @Gu_2023_Mamba_Linear_time_sequence_modeling\.
 [^Lan2019]: @Lan_2019_ALBERT_A_lite_BERT_for_self_supervised_learning\.
@@ -2876,12 +2878,14 @@ $$ f(g x) = g' f(x) $$
 -   [List of papers: Chen-Cai-OSU/awesome-equivariant-network](https://github.com/Chen-Cai-OSU/awesome-equivariant-network)
 -   Marchetti, G.L., Hillar, C., Kragic, D., & Sanborn. S. (2023). [Harmonics of learning: Universal fourier features emerge in invariant networks](https://arxiv.org/abs/2312.08550). [^Marchetti2023]
 -   Battiloro, C. et al. (2024). [E(n) equivariant topological neural networks](https://arxiv.org/abs/2405.15429). [^Battiloro2024]
+-   Erdogan, E. & Lucic, A. (2025). [Group equivariance meets mechanistic interpretability: Equivariant sparse autoencoders](https://arxiv.org/abs/2511.09432). [^Erdogan2025]
 
 [^Battiloro2024]: @Battiloro_2024_En_equivariant_topological_neural_networks\.
 [^Bogatskiy2023]: @Bogatskiy_2023_Explainable_equivariant_neural_networks\.
 [^Cohen2016a]: @Cohen_2016_Group_equivariant_convolutional_networks\.
 [^Cohen2019]: @Cohen_2019_Gauge_equivariant_convolutional_networks\.
 [^Dieleman2016]: @Dieleman_2016_Exploiting_cyclic_symmetry_in_convolutional_neural\.
+[^Erdogan2025]: @Erdogan_2025_Group_equivariance_meets_mechanistic\.
 [^Fuchs2020]: @Fuchs_2020_SE3_Transformers_3D_roto_translation\.
 [^Marchetti2023]: @Marchetti_2023_Harmonics_of_learning_Universal_fourier_features\.
 
