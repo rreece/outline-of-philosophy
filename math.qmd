@@ -489,6 +489,23 @@ Combinatorics
 -   [F.P. Ramsey](https://plato.stanford.edu/entries/ramsey) (1903-1930)
 
 
+Game theory
+--------------------------------------------------------------------------------
+
+### Introduction
+
+-   TODO
+-   von Neumann, J. & Morgenstern, O. (1944). *Theory of Games and Economic Behavior*. [^vonNeumann1944]
+-   Nash's theorem (1950)
+-   Pedagogy: Timothy Roughgarden
+
+See also:
+
+-   [Decision theory](statistics.html#decision-theory)
+
+[^vonNeumann1944]: @vonNeumann_1944_Theory_of_Games_and_Economic_Behavior\.
+
+
 Logic
 --------------------------------------------------------------------------------
 

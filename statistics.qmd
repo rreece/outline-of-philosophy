@@ -903,6 +903,7 @@ Support for using Bayes factors:
 
 See also:
 
+-   [Game theory](math.html#game-theory)
 -   ["Statistics Wars"](#statistics-wars)
 
 [^Goodman1999p995]: @Goodman_1999_Toward_evidence_based_medical_statistics_1_The_P\. p. 995.
