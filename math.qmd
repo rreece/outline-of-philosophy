@@ -1253,7 +1253,9 @@ See also:
 -   Baez, J.C. & Stay, M. (2009). [Physics, topology, logic, and computation: A Rosetta Stone](https://arxiv.org/abs/0903.0340). [^Baez2009a]
 -   Lurie, J. (2009). [On the classification of topological field theories](https://arxiv.org/abs/0905.0465).
 -   [Jacob Lurie's Home Page](https://www.math.ias.edu/~lurie/)
+-   Freed, D.S. (2012). [The cobordism hypothesis](https://www.ams.org/journals/bull/2013-50-01/S0273-0979-2012-01393-9/S0273-0979-2012-01393-9.pdf). [^Freed2012]
 -   Morton, J. (2013). [Blog on the cobordism hypothesis](https://theoreticalatlas.wordpress.com/2013/04/22/seminar-on-cob-hyp/).
+-   Grady, D. & Pavlov, D. (2021). [The geometric cobordism hypothesis](https://arxiv.org/abs/2111.01095). [^Grady2021]
 
 See also:
 
@@ -1261,6 +1263,8 @@ See also:
 
 [^Baez1995]: @Baez_1995_Higher_dimensional_algebra_and_topological_quantum\.
 [^Baez2009a]: @Baez_2009_Physics_topology_logic_and_computation\.
+[^Freed2012]: @Freed_2012_The_cobordism_hypothesis\.
+[^Grady2021]: @Grady_2021_The_geometric_cobordism_hypothesis\.
 
 
 ### Topos theory
