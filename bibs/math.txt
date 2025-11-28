@@ -44,6 +44,7 @@ Field, H. (2016). *Science Without Numbers* (2nd ed.). Oxford University Press. 
 Fong, B. & Spivak, D.I. (2018). Seven sketches in compositionality: An invitation to applied category theory. https://arxiv.org/abs/1803.05316
 Franz\'{e}n, T. (2005). *G{\"o}del's Theorem: An incomplete guide to its use and abuse*. A K Peters.
 Frankel, T. (1997). *The Geometry of Physics: An Introduction*. Cambridge University Press.
+Freed, D.S. (2012). The cobordism hypothesis. *Bulletin of the American Mathematical Society*, 50, 57--92. https://www.ams.org/journals/bull/2013-50-01/S0273-0979-2012-01393-9/S0273-0979-2012-01393-9.pdf
 Frenkel, E. (2005). Lectures on the Langlands program and conformal field theory. https://arxiv.org/abs/hep-th/0512172
 Girard, J.Y. (1987). Linear logic. *Theoretical Computer Science*, 50, 1--102. http://girard.perso.math.cnrs.fr/linear.pdf
 Gisin, N. (2020). Indeterminism in physics and intuitionistic mathematics. https://arxiv.org/abs/2011.02348
@@ -53,6 +54,7 @@ G{\"o}del, K. (1995). Some basic theorems on the foundations of mathematics and 
 Goldfarb, W. (2005). On G{\"o}del's way in: The influence of Rudolf Carnap. *Bulletin of Symbolic Logic*, 11, 185--193. https://www.jstor.org/stable/1556748
 Goldstein, R. (2005). *Incompleteness: The Proof and Paradox of Kurt G{\"o}del*. Norton.
 Goodman, N. & Quine, W.V.O. (1947). Steps toward a constructive nominalism. *The Journal of Symbolic Logic*, 12, 105--122.
+Grady, D. & Pavlov, D. (2021). The geometric cobordism hypothesis. https://arxiv.org/abs/2111.01095
 Hall, B.C. (2000). *An Elementary Introduction to Groups and Representations*. https://arxiv.org/abs/math-ph/0005032
 Hamming, R. W. (1980). The unreasonable effectiveness of mathematics. *The American Mathematical Monthly*, 87, 81--90.
 Hardy, G.H. (1940). *A Mathematician's Apology*. Cambridge University Press.
