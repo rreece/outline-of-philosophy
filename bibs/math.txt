@@ -54,6 +54,7 @@ G{\"o}del, K. (1931). {\"U}ber formal unentscheidbare S{\"a}tze der Principia Ma
 G{\"o}del, K. (1995). Some basic theorems on the foundations of mathematics and their implications. In S. Feferman (Ed.), *Kurt G{\"o}del Collected Works, Vol. III* (304--323). Oxford University Press. [(Originally published in 1951).]
 Goldfarb, W. (2005). On G{\"o}del's way in: The influence of Rudolf Carnap. *Bulletin of Symbolic Logic*, 11, 185--193. https://www.jstor.org/stable/1556748
 Goldstein, R. (2005). *Incompleteness: The Proof and Paradox of Kurt G{\"o}del*. Norton.
+Gonczarowski, Y.A. & Nisan, N. (2022). *Mathematical Logic through Python*. Cambridge University Press. https://www.logicthrupython.org
 Goodman, N. & Quine, W.V.O. (1947). Steps toward a constructive nominalism. *The Journal of Symbolic Logic*, 12, 105--122.
 Gorard, J. (2022). A functorial perspective on (multi)computational irreducibility. https://arxiv.org/abs/2301.04690
 Grady, D. & Pavlov, D. (2021). The geometric cobordism hypothesis. https://arxiv.org/abs/2111.01095
