@@ -1165,6 +1165,8 @@ See also:
 
 ### Complexity theory
 
+-   Algorithms
+    -   Morin, P. (2013). [*Open Data Structures*](https://opendatastructures.org). [^Morin2013]
 -   [Church-Turing thesis](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis)
     -   G&ouml;del-Church-Turing
     -   Ord, T. (2024). [Bounds on the rates of growth and convergence of all physical processes](https://arxiv.org/abs/2410.10928). [^Ord2024]
@@ -1180,6 +1182,7 @@ See also:
 
 [^Aaronson2011]: @Aaronson_2011_Why_philosophers_should_care_about_computational\.
 [^Gorard2022]: @Gorard_2022_A_functorial_perspective_on_multicomputational\.
+[^Morin2013]: @Morin_2013_Open_Data_Structures\.
 [^Ord2024]: @Ord_2024_Bounds_on_the_rates_of_growth_and_convergence\.
 
 
