@@ -521,6 +521,7 @@ Pedagogy:
 -   Zach, R. (2021). [*Sets, Logic, Computation: An Open Introduction to Metalogic*](https://slc.openlogicproject.org/archives/f21/slc-screen.pdf). [^Zach2021]
 -   Halvorson, H. (2016). [Introduction to metalogic](https://www.princeton.edu/~hhalvors/teaching/phi312_f2016/prop-meta-static.pdf).
 -   Martin, T. (2016). [Introduction to metalogic](https://www.math.ucla.edu/~dam/135.07w/135notes.pdf).
+-   Gonczarowski, Y.A. & Nisan, N. (2022). [*Mathematical Logic through Python*](https://www.logicthrupython.org). [^Gonczarowski2022]
 
 More:
 
@@ -534,6 +535,7 @@ More:
 
 [^Bonevac2003]: @Bonevac_2003_Deduction_Introductory_to_Symbolic_Logic\.
 [^Carnap1958]: @Carnap_1958_Introduction_to_Symbolic_Logic_and_its\.
+[^Gonczarowski2022]: @Gonczarowski_2022_Mathematical_Logic_through_Python\.
 [^Hunter1971]: @Hunter_1971_Metalogic_An_Introduction_to_the_Metatheory\.
 [^MacFarlane2021]: @MacFarlane_2021_Philosophical_Logic_A_contemporary_introduction\.
 [^Monk1976]: @Monk_1976_Mathematical_Logic\.

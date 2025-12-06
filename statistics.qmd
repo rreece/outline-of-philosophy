@@ -3052,27 +3052,22 @@ See also:
 
 ### Word meanings
 
--   Note that NLP has implications to the philosophy of language and realism
+-   [Inferential role semantics](https://en.wikipedia.org/wiki/Inferential_role_semantics)
+    -   Wilfrid Sellars
 -   Word vectors
+    -   Note that NLP has implications to the philosophy of language and realism
     -   [Distributional semantics](https://en.wikipedia.org/wiki/Distributional_semantics)
     -   Olah, C. (2014). [Deep learning, NLP, and representations](https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/).
     -   Kornai, A. (2023). *Vector Semantics*. [^Kornai2023]
--   [DisCoCat](https://en.wikipedia.org/wiki/DisCoCat)
-    -   Categorical Compositional Distributional (DisCoCat) is a mathematical framework for natural language processing which uses category theory to unify distributional semantics with the principle of compositionality.
-    -   Coecke, B., Sadrzadeh, M., & Clark, S. (2010). [Mathematical foundations for a compositional distributional model of meaning](https://arxiv.org/abs/1003.4394). [^Coecke2010]
-    -   Grefenstette, E., Sadrzadeh, M. (2011). [Experimental support for a categorical compositional distributional model of meaning](https://arxiv.org/abs/1106.4058). [^Grefenstette2011]
-    -   Balkir, E., Kartsaklis, D., & Sadrzadeh, M. (2015). [Sentence entailment in compositional distributional semantics](https://arxiv.org/abs/1512.04419). [^Balkir2015]
-    -   Tyrrell, B. (2018). [Applying distributional compositional categorical models of meaning to language translation](https://arxiv.org/abs/1811.03274). [^Tyrrell2018]
-    -   Kartsaklis, D. & Sadrzadeh, M. (2013). [Prior disambiguation of word tensors for constructing sentence vectors](https://aclanthology.org/D13-1166). [^Kartsaklis2013]
-    -   Grefenstette, E., Dinu, G., Zhang, Y.Z., Sadrzadeh, M., & Baroni, M. (2013). [Multi-step regression learning for compositional distributional semantics](https://arxiv.org/abs/1301.6939). [^Grefenstette2013]
-    -   de Felice, G., Meichanetzidis, K., & Toumi, A. (2019). [Functorial question answering](https://arxiv.org/abs/1905.07408). [^deFelice2019]
 -   NLP and Wittgenstein
     -   Perone, C.S. (2018). [NLP word representations and the Wittgenstein philosophy of language](http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/). [^Perone2018]
     -   Belloni, M. (2019). [Neural networks and philosophy of language: Why Wittgenstein’s theories are the basis of all modern NLP](https://towardsdatascience.com/neural-networks-and-philosophy-of-language-31c34c0796da).
     -   Goldhill, O. (2019). [Google Translate is a manifestation of Wittgenstein’s theory of language](https://qz.com/1549212/google-translate-is-a-manifestation-of-wittgensteins-theory-of-language).
     -   Skelac, I. & Jandric, A. (2020). Meaning as use: From Wittgenstein to Google’s Word2vec. [^Skelac2020]
--   Discussion
-    -   Grietzer, P. (2017). [A theory of vibe](https://www.glass-bead.org/article/a-theory-of-vibe/?lang=enview). [^Grietzer2017]
+-   Theory of Vibe
+    -   Grietzer, P. (2017). [*Ambient Meaning: Mood, Vibe, System*](https://dash.harvard.edu/entities/publication/cf8cf633-0e32-47de-933f-c779fa36023f). [^Grietzer2017a]
+    -   Grietzer, P. (2017). [A theory of vibe](https://www.glass-bead.org/article/a-theory-of-vibe/?lang=enview). [^Grietzer2017b]
+-   More discussion of NLP and meaning
     -   Tenney, I. et al. (2019). [What do you learn from context? Probing for sentence structure in contextualized word representations](https://arxiv.org/abs/1905.06316). [^Tenney2019]
     -   Nissim, M., van Noord, R., & van der Goot, R. (2019). Fair is better than sensational: Man is to doctor as woman is to doctor. [^Nissim2019]
     -   Bender, E.M. & Koller, A. (2020). [Climbing towards NLU: On meaning, form, and understanding in the age of data](https://aclanthology.org/2020.acl-main.463.pdf). [^Bender2020]
@@ -3086,7 +3081,15 @@ See also:
     -   Huh, M., Cheung, B., Wang, T., & Isola, P. (2024). [The platonic representation hypothesis](https://arxiv.org/abs/2405.07987). [^Huh2024b]
     -   Musser, G. (2024). [Can an emerging field called neural systems understanding explain the brain](https://www.thetransmitter.org/neural-networks/can-an-emerging-field-called-neural-systems-understanding-explain-the-brain/)
     -   Jamali, M. et al. (2024). [Semantic encoding during language comprehension at single-cell resolution](https://www.nature.com/articles/s41586-024-07643-2). [^Jamali2024]
--   [Inferential role semantics](https://en.wikipedia.org/wiki/Inferential_role_semantics)
+-   [DisCoCat](https://en.wikipedia.org/wiki/DisCoCat)
+    -   Categorical Compositional Distributional (DisCoCat) is a mathematical framework for natural language processing which uses category theory to unify distributional semantics with the principle of compositionality.
+    -   Coecke, B., Sadrzadeh, M., & Clark, S. (2010). [Mathematical foundations for a compositional distributional model of meaning](https://arxiv.org/abs/1003.4394). [^Coecke2010]
+    -   Grefenstette, E., Sadrzadeh, M. (2011). [Experimental support for a categorical compositional distributional model of meaning](https://arxiv.org/abs/1106.4058). [^Grefenstette2011]
+    -   Balkir, E., Kartsaklis, D., & Sadrzadeh, M. (2015). [Sentence entailment in compositional distributional semantics](https://arxiv.org/abs/1512.04419). [^Balkir2015]
+    -   Tyrrell, B. (2018). [Applying distributional compositional categorical models of meaning to language translation](https://arxiv.org/abs/1811.03274). [^Tyrrell2018]
+    -   Kartsaklis, D. & Sadrzadeh, M. (2013). [Prior disambiguation of word tensors for constructing sentence vectors](https://aclanthology.org/D13-1166). [^Kartsaklis2013]
+    -   Grefenstette, E., Dinu, G., Zhang, Y.Z., Sadrzadeh, M., & Baroni, M. (2013). [Multi-step regression learning for compositional distributional semantics](https://arxiv.org/abs/1301.6939). [^Grefenstette2013]
+    -   de Felice, G., Meichanetzidis, K., & Toumi, A. (2019). [Functorial question answering](https://arxiv.org/abs/1905.07408). [^deFelice2019]
 
 Wittgenstein in *PI*:
 
@@ -3121,7 +3124,8 @@ See also:
 [^Elhage2022]: @Elhage_2022_Toy_models_of_superposition\.
 [^Grefenstette2011]: @Grefenstette_2011_Experimental_support_for_a_categorical\.
 [^Grefenstette2013]: @Grefenstette_2013_Multi_step_regression_learning_for_compositional\.
-[^Grietzer2017]: @Grietzer_2017_A_theory_of_vibe\.
+[^Grietzer2017a]: @Grietzer_2017_Ambient_Meaning_Mood_Vibe_System\.
+[^Grietzer2017b]: @Grietzer_2017_A_theory_of_vibe\.
 [^Huh2024b]: @Huh_2024_The_platonic_representation_hypothesis\.
 [^Jamali2024]: @Jamali_2024_Semantic_encoding_during_language_comprehension_at\.
 [^Kartsaklis2013]: @Kartsaklis_2013_Prior_disambiguation_of_word_tensors\.
