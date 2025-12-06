@@ -3053,7 +3053,10 @@ See also:
 ### Word meanings
 
 -   Note that NLP has implications to the philosophy of language and realism
--   [Distributional semantics](https://en.wikipedia.org/wiki/Distributional_semantics)
+-   Word vectors
+    -   [Distributional semantics](https://en.wikipedia.org/wiki/Distributional_semantics)
+    -   Olah, C. (2014). [Deep learning, NLP, and representations](https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/).
+    -   Kornai, A. (2023). *Vector Semantics*. [^Kornai2023]
 -   [DisCoCat](https://en.wikipedia.org/wiki/DisCoCat)
     -   Categorical Compositional Distributional (DisCoCat) is a mathematical framework for natural language processing which uses category theory to unify distributional semantics with the principle of compositionality.
     -   Coecke, B., Sadrzadeh, M., & Clark, S. (2010). [Mathematical foundations for a compositional distributional model of meaning](https://arxiv.org/abs/1003.4394). [^Coecke2010]
@@ -3063,25 +3066,26 @@ See also:
     -   Kartsaklis, D. & Sadrzadeh, M. (2013). [Prior disambiguation of word tensors for constructing sentence vectors](https://aclanthology.org/D13-1166). [^Kartsaklis2013]
     -   Grefenstette, E., Dinu, G., Zhang, Y.Z., Sadrzadeh, M., & Baroni, M. (2013). [Multi-step regression learning for compositional distributional semantics](https://arxiv.org/abs/1301.6939). [^Grefenstette2013]
     -   de Felice, G., Meichanetzidis, K., & Toumi, A. (2019). [Functorial question answering](https://arxiv.org/abs/1905.07408). [^deFelice2019]
--   Olah, C. (2014). [Deep learning, NLP, and representations](https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/).
--   Perone, C.S. (2018). [NLP word representations and the Wittgenstein philosophy of language](http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/). [^Perone2018]
--   Belloni, M. (2019). [Neural networks and philosophy of language: Why Wittgenstein’s theories are the basis of all modern NLP](https://towardsdatascience.com/neural-networks-and-philosophy-of-language-31c34c0796da).
--   Goldhill, O. (2019). [Google Translate is a manifestation of Wittgenstein’s theory of language](https://qz.com/1549212/google-translate-is-a-manifestation-of-wittgensteins-theory-of-language).
--   Tenney, I. et al. (2019). [What do you learn from context? Probing for sentence structure in contextualized word representations](https://arxiv.org/abs/1905.06316). [^Tenney2019]
--   Nissim, M., van Noord, R., & van der Goot, R. (2019). Fair is better than sensational: Man is to doctor as woman is to doctor. [^Nissim2019]
--   Skelac, I. & Jandric, A. (2020). Meaning as use: From Wittgenstein to Google’s Word2vec. [^Skelac2020]
--   Bender, E.M. & Koller, A. (2020). [Climbing towards NLU: On meaning, form, and understanding in the age of data](https://aclanthology.org/2020.acl-main.463.pdf). [^Bender2020]
--   Boccelli, D. (2022). [Word embeddings align with Kandinsky’s theory of color](https://towardsdatascience.com/word-embeddings-align-with-kandinskys-theory-of-color-26288b864834).
--   Elhage, N. et al. (2022). [Toy models of superposition](https://transformer-circuits.pub/2022/toy_model/index.html). [^Elhage2022]
--   Patel, R. & Pavlick, E. (2022). [Mapping language models to grounded conceptual spaces](https://openreview.net/pdf?id=gJcEM8sxHK). [^Patel2022]
--   Lovering, C. & Pavlick, E. (2022). [Unit testing for concepts in neural networks](https://aclanthology.org/2022.tacl-1.69/). [^Lovering2022]
--   [Tweet by Joscha Bach, Mar 25, 2023](https://twitter.com/Plinz/status/1639629419881873410)
--   [Debate: Do language models need sensory grounding for meaning and understanding?](https://www.youtube.com/watch?v=x10964w00zk) (NYU).
--   Piantadosi, S. (2023). Talk: [Meaning in the age of large language models](https://www.youtube.com/watch?v=lA19zXgObKA).
--   Kornai, A. (2023). *Vector Semantics*. [^Kornai2023]
--   Huh, M., Cheung, B., Wang, T., & Isola, P. (2024). [The platonic representation hypothesis](https://arxiv.org/abs/2405.07987). [^Huh2024b]
--   Musser, G. (2024). [Can an emerging field called neural systems understanding explain the brain](https://www.thetransmitter.org/neural-networks/can-an-emerging-field-called-neural-systems-understanding-explain-the-brain/)
--   Jamali, M. et al. (2024). [Semantic encoding during language comprehension at single-cell resolution](https://www.nature.com/articles/s41586-024-07643-2). [^Jamali2024]
+-   NLP and Wittgenstein
+    -   Perone, C.S. (2018). [NLP word representations and the Wittgenstein philosophy of language](http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/). [^Perone2018]
+    -   Belloni, M. (2019). [Neural networks and philosophy of language: Why Wittgenstein’s theories are the basis of all modern NLP](https://towardsdatascience.com/neural-networks-and-philosophy-of-language-31c34c0796da).
+    -   Goldhill, O. (2019). [Google Translate is a manifestation of Wittgenstein’s theory of language](https://qz.com/1549212/google-translate-is-a-manifestation-of-wittgensteins-theory-of-language).
+    -   Skelac, I. & Jandric, A. (2020). Meaning as use: From Wittgenstein to Google’s Word2vec. [^Skelac2020]
+-   Discussion
+    -   Grietzer, P. (2017). [A theory of vibe](https://www.glass-bead.org/article/a-theory-of-vibe/?lang=enview). [^Grietzer2017]
+    -   Tenney, I. et al. (2019). [What do you learn from context? Probing for sentence structure in contextualized word representations](https://arxiv.org/abs/1905.06316). [^Tenney2019]
+    -   Nissim, M., van Noord, R., & van der Goot, R. (2019). Fair is better than sensational: Man is to doctor as woman is to doctor. [^Nissim2019]
+    -   Bender, E.M. & Koller, A. (2020). [Climbing towards NLU: On meaning, form, and understanding in the age of data](https://aclanthology.org/2020.acl-main.463.pdf). [^Bender2020]
+    -   Boccelli, D. (2022). [Word embeddings align with Kandinsky’s theory of color](https://towardsdatascience.com/word-embeddings-align-with-kandinskys-theory-of-color-26288b864834).
+    -   Elhage, N. et al. (2022). [Toy models of superposition](https://transformer-circuits.pub/2022/toy_model/index.html). [^Elhage2022]
+    -   Patel, R. & Pavlick, E. (2022). [Mapping language models to grounded conceptual spaces](https://openreview.net/pdf?id=gJcEM8sxHK). [^Patel2022]
+    -   Lovering, C. & Pavlick, E. (2022). [Unit testing for concepts in neural networks](https://aclanthology.org/2022.tacl-1.69/). [^Lovering2022]
+    -   [Tweet by Joscha Bach, Mar 25, 2023](https://twitter.com/Plinz/status/1639629419881873410)
+    -   [Debate: Do language models need sensory grounding for meaning and understanding?](https://www.youtube.com/watch?v=x10964w00zk) (NYU).
+    -   Piantadosi, S. (2023). Talk: [Meaning in the age of large language models](https://www.youtube.com/watch?v=lA19zXgObKA).
+    -   Huh, M., Cheung, B., Wang, T., & Isola, P. (2024). [The platonic representation hypothesis](https://arxiv.org/abs/2405.07987). [^Huh2024b]
+    -   Musser, G. (2024). [Can an emerging field called neural systems understanding explain the brain](https://www.thetransmitter.org/neural-networks/can-an-emerging-field-called-neural-systems-understanding-explain-the-brain/)
+    -   Jamali, M. et al. (2024). [Semantic encoding during language comprehension at single-cell resolution](https://www.nature.com/articles/s41586-024-07643-2). [^Jamali2024]
 -   [Inferential role semantics](https://en.wikipedia.org/wiki/Inferential_role_semantics)
 
 Wittgenstein in *PI*:
@@ -3117,6 +3121,7 @@ See also:
 [^Elhage2022]: @Elhage_2022_Toy_models_of_superposition\.
 [^Grefenstette2011]: @Grefenstette_2011_Experimental_support_for_a_categorical\.
 [^Grefenstette2013]: @Grefenstette_2013_Multi_step_regression_learning_for_compositional\.
+[^Grietzer2017]: @Grietzer_2017_A_theory_of_vibe\.
 [^Huh2024b]: @Huh_2024_The_platonic_representation_hypothesis\.
 [^Jamali2024]: @Jamali_2024_Semantic_encoding_during_language_comprehension_at\.
 [^Kartsaklis2013]: @Kartsaklis_2013_Prior_disambiguation_of_word_tensors\.
