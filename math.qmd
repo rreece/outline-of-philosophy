@@ -1166,12 +1166,14 @@ See also:
 -   Aaronson, S. (2011). [Why philosophers should care about computational complexity](https://arxiv.org/abs/1108.1791). [^Aaronson2011]
 -   Savage, J.E. (2008). [*Models of Computation: Exploring the Power of Computing*](https://cs.brown.edu/people/jsavage/book/pdfs/ModelsOfComputation.pdf).
 -   [Fagin's theorem](https://en.wikipedia.org/wiki/Fagin%27s_theorem)
+-   Gorard, J. (2022). [A functorial perspective on (multi)computational irreducibility](https://arxiv.org/abs/2301.04690). [^Gorard2022]
 
 See also:
 
 -   [Proof theory](#proof-theory)
 
 [^Aaronson2011]: @Aaronson_2011_Why_philosophers_should_care_about_computational\.
+[^Gorard2022]: @Gorard_2022_A_functorial_perspective_on_multicomputational\.
 [^Ord2024]: @Ord_2024_Bounds_on_the_rates_of_growth_and_convergence\.
 
 
@@ -1181,36 +1183,36 @@ Category theory
 ### Introduction
 
 -   [Category theory](https://ncatlab.org/nlab/show/category+theory) - nLab
--   Eilenberg, S. & MacLane, S. (1945). [General theory of natural equivalences](https://www.ams.org/journals/tran/1945-058-00/S0002-9947-1945-0013131-6/S0002-9947-1945-0013131-6.pdf). [^Eilenberg1945]
--   Rodin, A. (2012). [Axiomatic method and category theory](https://arxiv.org/abs/1210.1478). [^Rodin2012]
--   Spivak, D.I. (2013). [Category theory for scientists](https://arxiv.org/abs/1302.6946). [^Spivak2013b]
--   Fong, B. & Spivak, D.I. (2018). [Seven sketches in compositionality: An invitation to applied category theory](https://arxiv.org/abs/1803.05316). [^Fong2018]
--   Bradley, T.D. (2018). [What is applied category theory?](https://arxiv.org/abs/1809.05923) [^Bradley2018]
+-   Classes, objects, morphisms, categories, functors, sets, homsets, natural transformations
+-   [Yoneda lemma](https://en.wikipedia.org/wiki/Yoneda_lemma)
+    -   Related to: [Cayley's theorem](https://en.wikipedia.org/wiki/Cayley%27s_theorem), [Pragmatic maxim](https://en.wikipedia.org/wiki/Pragmatic_maxim), [Identity of indiscernibles](https://en.wikipedia.org/wiki/Identity_of_indiscernibles)
 -   [Categorical product](https://en.wikipedia.org/wiki/Product_(category_theory))
     -   Cook, J.D. (2016). [Categorical products](https://www.johndcook.com/blog/2016/03/22/categorical-products/).
     -   Zucker, P. (2020). [Computational category theory in python I: Dictionaries for FinSet](https://www.philipzucker.com/computational-category-theory-in-python-i-dictionaries-for-finset/).
     -   Zucker, P. (2020). [Computational category theory in python II: numpy for FinVect](https://www.philipzucker.com/computational-category-theory-in-python-ii-numpy-for-finvect/).
     -   Zucker, P. (2020). [Computational category theory in python III: Monoids, groups, and preorders](https://www.philipzucker.com/computational-category-theory-in-python-3-monoids-groups-and-preorders/).
     -   For the category of abelian groups, the coproduct is the direct sum.
--   Functors
--   [Yoneda lemma](https://en.wikipedia.org/wiki/Yoneda_lemma)
-    -   Related to: [Cayley's theorem](https://en.wikipedia.org/wiki/Cayley%27s_theorem), [Pragmatic maxim](https://en.wikipedia.org/wiki/Pragmatic_maxim), [Identity of indiscernibles](https://en.wikipedia.org/wiki/Identity_of_indiscernibles)
 -   Relation to set theory
 -   Relation to Russell type theory
--   Univalent foundations
-    -   Lawvere, F.W. (1963). [*Functorial Semantics of Algebraic Theories and Some Algebraic Problems in the context of Functorial Semantics of Algebraic Theories*](http://www.tac.mta.ca/tac/reprints/articles/5/tr5abs.html). [^Lawvere1963]
 -   Categories are semigroupoids.
+-   Mac Lane, S. (1971). *Categories for the Working Mathematician*. [^MacLane1971]
+-   Rodin, A. (2012). [Axiomatic method and category theory](https://arxiv.org/abs/1210.1478). [^Rodin2012]
+-   Spivak, D.I. (2013). [Category theory for scientists](https://arxiv.org/abs/1302.6946). [^Spivak2013b]
+-   Fong, B. & Spivak, D.I. (2018). [Seven sketches in compositionality: An invitation to applied category theory](https://arxiv.org/abs/1803.05316). [^Fong2018]
+-   Bradley, T.D. (2018). [What is applied category theory?](https://arxiv.org/abs/1809.05923) [^Bradley2018]
 -   [Curry-Howard-Lambek correspondence](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence#Curry%E2%80%93Howard%E2%80%93Lambek_correspondence)
     -   Three-way isomorphism between intuitionistic logic, typed lambda calculus, and cartesian closed categories
+-   Univalent foundations
+    -   Lawvere, F.W. (1963). [*Functorial Semantics of Algebraic Theories and Some Algebraic Problems in the context of Functorial Semantics of Algebraic Theories*](http://www.tac.mta.ca/tac/reprints/articles/5/tr5abs.html). [^Lawvere1963]
 
 See also:
 
 -   [Univalent foundations](math.html#univalent-foundations)
 
 [^Bradley2018]: @Bradley_2018_What_is_applied_category_theory\.
-[^Eilenberg1945]: @Eilenberg_1945_General_theory_of_natural_equivalences\.
 [^Fong2018]: @Fong_2018_Seven_sketches_in_compositionality_An_invitation\.
 [^Lawvere1963]: @Lawvere_1963_Functorial_Semantics_of_Algebraic_Theories\.
+[^MacLane1971]: @MacLane_1971_Categories_for_the_Working_Mathematician\.
 [^Rodin2012]: @Rodin_2012_Axiomatic_method_and_category_theory\.
 [^Spivak2013b]: @Spivak_2013_Category_theory_for_scientists\.
 
@@ -1218,6 +1220,7 @@ See also:
 ### History
 
 -   Samuel Eilenberg (1913-1998) and Saunders Mac Lane (1909-2005)
+-   Eilenberg, S. & MacLane, S. (1945). [General theory of natural equivalences](https://www.ams.org/journals/tran/1945-058-00/S0002-9947-1945-0013131-6/S0002-9947-1945-0013131-6.pdf). [^Eilenberg1945]
 -   [Alexander Grothendieck](https://en.wikipedia.org/wiki/Alexander_Grothendieck) (1928-2014)
 -   [Bill Lawvere](https://en.wikipedia.org/wiki/William_Lawvere) (b. 1937)
 
@@ -1228,9 +1231,10 @@ Grothendieck:
 >   always form. And among the thousand-and-one faces whereby form
 >   chooses to reveal itself to us, the one that fascinates me more than any
 >   other and continues to fascinate me, is the structure hidden in mathematical
->   things. [^Grothendieck]
+>   things. [^Grothendieck19XXpX]
 
-[^Grothendieck]: TODO
+[^Eilenberg1945]: @Eilenberg_1945_General_theory_of_natural_equivalences\.
+[^Grothendieck19XXpX]: TODO
 
 
 ### Homotopy type theory
