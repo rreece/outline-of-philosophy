@@ -50,7 +50,7 @@ book:
       - text: "About"
         href: about.qmd
     center:
-      - text: "&copy; 2025 Ryan Reece"
+      - text: "&copy; 2013-2026 Ryan Reece"
         href: license.qmd
     right:
       - text: "Made with quarto-example"

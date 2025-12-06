@@ -183,6 +183,7 @@ Gorard, S. & Gorard, J. (2016). What to do instead of significance testing? Calc
 Graves, A. (2013). Generating sequences with recurrent neural networks. https://arxiv.org/abs/1308.0850
 Grefenstette, E., Dinu, G., Zhang, Y.Z., Sadrzadeh, M., & Baroni, M. (2013). Multi-step regression learning for compositional distributional semantics. https://arxiv.org/abs/1301.6939
 Grefenstette, E., Sadrzadeh, M. (2011). Experimental support for a categorical compositional distributional model of meaning. https://arxiv.org/abs/1106.4058
+Grietzer, P. (2017). A theory of vibe. https://www.glass-bead.org/article/a-theory-of-vibe/?lang=enview
 Grinsztajn, L., Oyallon, E., & Varoquaux, G. (2022). Why do tree-based models still outperform deep learning on tabular data? https://arxiv.org/abs/2207.08815
 Gu, A. & Dao, T. (2023). Mamba: Linear-time sequence modeling with selective state spaces. https://arxiv.org/abs/2312.00752
 Gu, A., Goel, K., & R{\'e}, C. (2021). Efficiently modeling long sequences with structured state spaces. https://arxiv.org/abs/2111.00396
