@@ -47,6 +47,7 @@ Frankel, T. (1997). *The Geometry of Physics: An Introduction*. Cambridge Univer
 Freed, D.S. (2012). The cobordism hypothesis. *Bulletin of the American Mathematical Society*, 50, 57--92. https://www.ams.org/journals/bull/2013-50-01/S0273-0979-2012-01393-9/S0273-0979-2012-01393-9.pdf
 Frenkel, E. (2005). Lectures on the Langlands program and conformal field theory. https://arxiv.org/abs/hep-th/0512172
 Girard, J.Y. (1987). Linear logic. *Theoretical Computer Science*, 50, 1--102. http://girard.perso.math.cnrs.fr/linear.pdf
+Girard, J.Y., Lafont, Y., & Taylor, P. (1990). *Proofs and Types*. Cambridge University Press. https://www.paultaylor.eu/stable/prot.pdf
 Gisin, N. (2020). Indeterminism in physics and intuitionistic mathematics. https://arxiv.org/abs/2011.02348
 G{\"o}del, K. (1929). *{\"U}ber die Vollst{\"a}ndigkeit des Logikkalk{\"u}ls*. University Of Vienna. [(Doctoral dissertation. The first proof of the completeness theorem.)]
 G{\"o}del, K. (1931). {\"U}ber formal unentscheidbare S{\"a}tze der Principia Mathematica und verwandter Systeme, I. *Monatshefte f{\"u}r Mathematik und Physik*, 38, 173--198.
@@ -54,6 +55,7 @@ G{\"o}del, K. (1995). Some basic theorems on the foundations of mathematics and 
 Goldfarb, W. (2005). On G{\"o}del's way in: The influence of Rudolf Carnap. *Bulletin of Symbolic Logic*, 11, 185--193. https://www.jstor.org/stable/1556748
 Goldstein, R. (2005). *Incompleteness: The Proof and Paradox of Kurt G{\"o}del*. Norton.
 Goodman, N. & Quine, W.V.O. (1947). Steps toward a constructive nominalism. *The Journal of Symbolic Logic*, 12, 105--122.
+Gorard, J. (2022). A functorial perspective on (multi)computational irreducibility. https://arxiv.org/abs/2301.04690
 Grady, D. & Pavlov, D. (2021). The geometric cobordism hypothesis. https://arxiv.org/abs/2111.01095
 Hall, B.C. (2000). *An Elementary Introduction to Groups and Representations*. https://arxiv.org/abs/math-ph/0005032
 Hamming, R. W. (1980). The unreasonable effectiveness of mathematics. *The American Mathematical Monthly*, 87, 81--90.
@@ -85,6 +87,7 @@ Linsky, B. & Zalta, E.N. (1995). Naturalized platonism versus platonized natural
 Linsky, B. & Zalta, E.N. (2006). What is Neologicism? *Bulletin of Symbolic Logic*, 12, 60-99. http://mally.stanford.edu/Papers/neologicism2.pdf
 Lloyd, S. (1993). Quantum-mechanical computers and uncomputability. Physical Review Letters, 71, 943--46.
 MacFarlane, J. (2021). *Philosophical Logic: A contemporary introduction*. Routledge.
+Mac Lane, S. (1971). *Categories for the Working Mathematician*. New York: Springer-Verlag.
 Makowsky, J.A. (1995). The impact of model theory on theoretical computer science. *Studies in Logic and the Foundations of Mathematics*, 134, 239--262. https://doi.org/10.1016/S0049-237X(06)80047-9
 Marschall, B. (2021). Carnap and Beth on the limits of tolerance. *Canadian Journal of Philosophy*, 51, 282--300. https://doi.org/10.1017/can.2021.16
 Marschall, B. (2022). Carnap's philosophy of mathematics. *Philosophy Compass*, 17, 12884. https://doi.org/10.1111/phc3.12884

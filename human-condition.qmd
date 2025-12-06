@@ -1471,7 +1471,7 @@ Only Roman texts from the Late Stoa survive.
 
 [^Ricks2006]: @Ricks_2006_Fiasco\.
 [^Kellogg2009]: @Kellogg_2009_An_American_reader_Bill_Clinton\.
-[^MacSuibhne2009]: @Mac_2009_Wrestle_to_be_the_man_philosophy_wished_to_make\.
+[^MacSuibhne2009]: @MacSuibhne_2009_Wrestle_to_be_the_man_philosophy_wished_to_make\.
 [^Pigliucci2017]: @Pigliucci_2017_How_to_be_a_Stoic_Using_Ancient_Philosophy\.
 [^Pigliucci2017p224]: @Pigliucci_2017_How_to_be_a_Stoic_Using_Ancient_Philosophy\, p. 224.
 [^Seneca1997]: @Seneca_1997_On_the_Shortness_of_Life\.

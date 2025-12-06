@@ -349,7 +349,7 @@ See:
 [^Arras1998]: @Arras_1998_An_introduction_to_error_propagation_Derivation\.
 [^Cowan1998p20]: @Cowan_1998_Statistical_Data_Analysis\, p. 20-22.
 [^Doob1935]: @Doob_1935_The_limiting_distributions_of_certain_statistics\.
-[^VerHoef2012]: @Ver_2012_Who_invented_the_delta_method\.
+[^VerHoef2012]: @VerHoef_2012_Who_invented_the_delta_method\.
 
 
 ### Bayes' theorem
@@ -3053,6 +3053,16 @@ See also:
 ### Word meanings
 
 -   Note that NLP has implications to the philosophy of language and realism
+-   [Distributional semantics](https://en.wikipedia.org/wiki/Distributional_semantics)
+-   [DisCoCat](https://en.wikipedia.org/wiki/DisCoCat)
+    -   Categorical Compositional Distributional (DisCoCat) is a mathematical framework for natural language processing which uses category theory to unify distributional semantics with the principle of compositionality.
+    -   Coecke, B., Sadrzadeh, M., & Clark, S. (2010). [Mathematical foundations for a compositional distributional model of meaning](https://arxiv.org/abs/1003.4394). [^Coecke2010]
+    -   Grefenstette, E., Sadrzadeh, M. (2011). [Experimental support for a categorical compositional distributional model of meaning](https://arxiv.org/abs/1106.4058). [^Grefenstette2011]
+    -   Balkir, E., Kartsaklis, D., & Sadrzadeh, M. (2015). [Sentence entailment in compositional distributional semantics](https://arxiv.org/abs/1512.04419). [^Balkir2015]
+    -   Tyrrell, B. (2018). [Applying distributional compositional categorical models of meaning to language translation](https://arxiv.org/abs/1811.03274). [^Tyrrell2018]
+    -   Kartsaklis, D. & Sadrzadeh, M. (2013). [Prior disambiguation of word tensors for constructing sentence vectors](https://aclanthology.org/D13-1166). [^Kartsaklis2013]
+    -   Grefenstette, E., Dinu, G., Zhang, Y.Z., Sadrzadeh, M., & Baroni, M. (2013). [Multi-step regression learning for compositional distributional semantics](https://arxiv.org/abs/1301.6939). [^Grefenstette2013]
+    -   de Felice, G., Meichanetzidis, K., & Toumi, A. (2019). [Functorial question answering](https://arxiv.org/abs/1905.07408). [^deFelice2019]
 -   Olah, C. (2014). [Deep learning, NLP, and representations](https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/).
 -   Perone, C.S. (2018). [NLP word representations and the Wittgenstein philosophy of language](http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/). [^Perone2018]
 -   Belloni, M. (2019). [Neural networks and philosophy of language: Why Wittgenstein’s theories are the basis of all modern NLP](https://towardsdatascience.com/neural-networks-and-philosophy-of-language-31c34c0796da).
@@ -3100,10 +3110,16 @@ See also:
 -   [Natural language processing](statistics.html#natural-language-processing)
 -   [Ordinary language philosophy](scientific-realism.html#ordinary-language-philosophy)
 
+[^Balkir2015]: @Balkir_2015_Sentence_entailment_in_compositional\.
 [^Bender2020]: @Bender_2020_Climbing_towards_NLU_On_meaning_form\.
+[^Coecke2010]: @Coecke_2010_Mathematical_foundations_for_a_compositional\.
+[^deFelice2019]: @deFelice_2019_Functorial_question_answering\.
 [^Elhage2022]: @Elhage_2022_Toy_models_of_superposition\.
+[^Grefenstette2011]: @Grefenstette_2011_Experimental_support_for_a_categorical\.
+[^Grefenstette2013]: @Grefenstette_2013_Multi_step_regression_learning_for_compositional\.
 [^Huh2024b]: @Huh_2024_The_platonic_representation_hypothesis\.
 [^Jamali2024]: @Jamali_2024_Semantic_encoding_during_language_comprehension_at\.
+[^Kartsaklis2013]: @Kartsaklis_2013_Prior_disambiguation_of_word_tensors\.
 [^Kornai2023]: @Kornai_2023_Vector_Semantics\.
 [^Lovering2022]: @Lovering_2022_Unit_testing_for_concepts_in_neural_networks\.
 [^Nissim2019]: @Nissim_2019_Fair_is_better_than_sensational_Man_is_to_doctor\.
@@ -3112,6 +3128,7 @@ See also:
 [^Piantadosi2023p15]: @Piantadosi_2023_Modern_language_models_refute_Chomskys_approach\, p. 15.
 [^Skelac2020]: @Skelac_2020_Meaning_as_use_From_Wittgenstein_to_Googles\.
 [^Tenney2019]: @Tenney_2019_What_do_you_learn_from_context\.
+[^Tyrrell2018]: @Tyrrell_2018_Applying_distributional_compositional_categorical\.
 [^Wittgenstein2009Sec43]: @Wittgenstein_2009_Philosophical_Investigations\, &sect;43.
 [^Wittgenstein2009Sec340]: @Wittgenstein_2009_Philosophical_Investigations\, &sect;340.
 

@@ -23,6 +23,7 @@ Bahri, Y., Kadmon, J., Pennington, J., Schoenholz, S.S., Sohl-Dickstein, J., & G
 Balasubramanian, V. (1996). A geometric formulation of Occam's razor for inference of parametric distributions. https://arxiv.org/abs/adap-org/9601001
 Balasubramanian, V. (1996). Statistical inference, Occam's razor and statistical mechanics on the space of probability distributions. https://arxiv.org/abs/cond-mat/9601030
 Balestriero, R., Pesenti, J., & LeCun, Y. (2021). Learning in high dimension always amounts to extrapolation. https://arxiv.org/abs/2110.09485
+Balkir, E., Kartsaklis, D., & Sadrzadeh, M. (2015). Sentence entailment in compositional distributional semantics. https://arxiv.org/abs/1512.04419
 Banerjee, S., Agarwal, A., & Singla, S. (2024). LLMs will always hallucinate, and we need to live with this. https://arxiv.org/abs/2409.05746
 Batson, J., Haaf, C.G., Kahn, Y., & Roberts, D.A. (2021). Topological obstructions to autoencoding. https://arxiv.org/abs/2102.08380
 Battiloro, C. et al. (2024). E(n) equivariant topological neural networks. https://arxiv.org/abs/2405.15429
@@ -100,6 +101,7 @@ Ciresan, D., Meier, U. Masci, J. & Schmidhuber, J. (2012). Multi-column deep neu
 Clayton, A. (2021). *Bernoulli's Fallacy: Statistical Illogic and the Crisis of Modern Science*. Columbia University Press.
 Clopper, C.J. & Pearson, E.S. (1934). The use of confidence or fiducial limits illustrated in the case of the binomial. *Biometrika*, 26(4), 404--413.
 Coadou, Y. (2022). Boosted decision trees. https://arxiv.org/abs/2206.09645
+Coecke, B., Sadrzadeh, M., & Clark, S. (2010). Mathematical foundations for a compositional distributional model of meaning. https://arxiv.org/abs/1003.4394
 Cohen, J. (1992). A power primer. *Psychological Bulletin*, 112, 155--9. https://www2.psych.ubc.ca/~schaller/528Readings/Cohen1992.pdf
 Cohen, T.S., Weiler, M., Kicanaoglu, B., & Welling, M. (2019). Gauge equivariant convolutional networks and the icosahedral CNN. https://arxiv.org/abs/1902.04615
 Cohen, T.S. & Welling, M. (2016). Group equivariant convolutional networks. *Proceedings of International Conference on Machine Learning*, 2016, 2990--9. http://proceedings.mlr.press/v48/cohenc16.pdf
@@ -115,8 +117,8 @@ Cowan, G., Cranmer, K., Gross, E., & Vitells, O. (2012). Asymptotic distribution
 Cox, D.R. (2006). *Principles of Statistical Inference*. Cambridge University Press.
 Cram\'{e}r, H. (1946). A contribution to the theory of statistical estimation. *Skandinavisk Aktuarietidskrift*, 29, 85--94.
 Cranmer, K. (2015). Practical statistics for the LHC. https://arxiv.org/abs/1503.07622
-Cranmer, K., Pavez, J., & Louppe, G. (2015). Approximating likelihood ratios with calibrated discriminative classifiers. https://arxiv.org/abs/1506.02169
 Cranmer, K., Brehmer, J., & Louppe, G. (2019). The frontier of simulation-based inference. https://arxiv.org/abs/1911.01429
+Cranmer, K., Pavez, J., & Louppe, G. (2015). Approximating likelihood ratios with calibrated discriminative classifiers. https://arxiv.org/abs/1506.02169
 Cranmer, K., Seljak, U., & Terao, K. (2021). Machine learning. In P.A. Zyla et al. *Progress of Theoretical and Experimental Physics*, 2020, 083C01. https://pdg.lbl.gov/2021-rev/2021/reviews/contents_sports.html [(and 2021 update)] 
 Cranmer, K., Shibata, A., Verkerke, W., Moneta, L., & Lewis, G. (2012). HistFactory: A tool for creating statistical models for use with RooFit and RooStats. http://inspirehep.net/record/1236448/ [Technical Report: CERN-OPEN-2012-016]
 Cranmer, M. et al. (2020). Discovering symbolic models from deep learning with inductive biases. https://arxiv.org/abs/2006.11287
@@ -126,6 +128,7 @@ Dao, T. & Gu, A. (2024). Transformers are SSMs: Generalized models and efficient
 Dar, Y., Muthukumar, V., & Baraniuk, R.G. (2021). A farewell to the bias-variance tradeoff? An overview of the theory of overparameterized machine learning. https://arxiv.org/abs/2109.02355
 Dawid, A.P. (2014). Discussion of "On the Birnbaum Argument for the Strong Likelihood Principle". *Statistical Science*, 29, 240--241. https://projecteuclid.org/journals/statistical-science/volume-29/issue-2/Discussion-of-On-the-Birnbaum-Argument-for-the-Strong-Likelihood/10.1214/14-STS470.full
 de Carvalho, M., Page, G.L., & Barney, B.J. (2019). On the geometry of Bayesian inference. *Bayesian Analysis*, 14, 1013--1036. https://projecteuclid.org/journals/bayesian-analysis/volume-14/issue-4/On-the-Geometry-of-Bayesian-Inference/10.1214/18-BA1112.full
+de Felice, G., Meichanetzidis, K., & Toumi, A. (2019). Functorial question answering. https://arxiv.org/abs/1905.07408
 Denby, B. (1988). Neural networks and cellular automata in experimental high energy physics. *Computer Physics Communications*, 49(3), 429--448. https://inis.iaea.org/collection/NCLCollectionStore/_Public/20/013/20013339.pdf
 Denby, B. (1993). The use of neural networks in high-energy physics. *Neural Computation*, 5(4), 505--549. https://lss.fnal.gov/archive/1992/pub/Pub-92-215-E.pdf
 Dettmers, T., Pagnoni, A., Holtzman, A., & Zettlemoyer, L. (2023). QLoRA: Efficient finetuning of quantized LLMs. https://arxiv.org/abs/2305.14314
@@ -178,21 +181,23 @@ Goodman, S.N. (1999). Toward evidence-based medical statistics 1: The P value fa
 Goodman, S.N. (1999). Toward evidence-based medical statistics 2: The Bayes factor. *Annals of Internal Medicine*, 130(12), 1005--1013. https://courses.botany.wisc.edu/botany_940/06EvidEvol/papers/goodman2.pdf
 Gorard, S. & Gorard, J. (2016). What to do instead of significance testing? Calculating the 'number of counterfactual cases needed to disturb a finding'. *International Journal of Social Research Methodology*, 19, 481--490.
 Graves, A. (2013). Generating sequences with recurrent neural networks. https://arxiv.org/abs/1308.0850
+Grefenstette, E., Dinu, G., Zhang, Y.Z., Sadrzadeh, M., & Baroni, M. (2013). Multi-step regression learning for compositional distributional semantics. https://arxiv.org/abs/1301.6939
+Grefenstette, E., Sadrzadeh, M. (2011). Experimental support for a categorical compositional distributional model of meaning. https://arxiv.org/abs/1106.4058
 Grinsztajn, L., Oyallon, E., & Varoquaux, G. (2022). Why do tree-based models still outperform deep learning on tabular data? https://arxiv.org/abs/2207.08815
-Gu, A., Goel, K., & R{\'e}, C. (2021). Efficiently modeling long sequences with structured state spaces. https://arxiv.org/abs/2111.00396
 Gu, A. & Dao, T. (2023). Mamba: Linear-time sequence modeling with selective state spaces. https://arxiv.org/abs/2312.00752
+Gu, A., Goel, K., & R{\'e}, C. (2021). Efficiently modeling long sequences with structured state spaces. https://arxiv.org/abs/2111.00396
 Gurnee, W. et al. (2023). Finding neurons in a haystack: Case studies with sparse probing. https://arxiv.org/abs/2305.01610
 Gurnee, W. & Tegmark, M. (2023). Language models represent space and time. https://arxiv.org/abs/2310.02207
 Habara, K., Fukuda, E.H., & Yamashita, N. (2023). Convergence analysis and acceleration of the smoothing methods for solving extensive-form games. https://arxiv.org/abs/2303.11046
-Haber, E. & Ruthotto, L. (2017). Stable architectures for deep neural networks. https://arxiv.org/abs/1705.03341
 Haber, E. et al. (2018). Learning across scales: Multiscale methods for convolution neural networks. *AAAI Proceedings*, 32, 3142--3148. https://cdn.aaai.org/ojs/11680/11680-13-15208-1-2-20201228.pdf
+Haber, E. & Ruthotto, L. (2017). Stable architectures for deep neural networks. https://arxiv.org/abs/1705.03341
 Hacking, I. (1965). *Logic of Statistical Inference*. Cambridge University Press.
 Hacking, I. (1971). Jacques Bernoulli's Art of conjecturing. *The British Journal for the Philosophy of Science*, 22, 209--229.
 Hacking, I. (2001). *An Introduction to Probability and Inductive Logic*. Cambridge University Press.
 Halverson, J., Maiti, A., & Stoner, K. (2020). Neural networks and quantum field theory. https://arxiv.org/abs/2008.08601
 Hanley, J.A. & Lippman-Hand, A. (1983). If nothing goes wrong, is everything all right?: Interpreting zero numerators. *JAMA*, 249(13), 1743--1745.
-Hart, S. & Mas‐Colell, A. (2000). A simple adaptive procedure leading to correlated equilibrium. *Econometrica*, 68, 1127--1150. https://www.ma.imperial.ac.uk/~dturaev/Hart0.pdf
 Hartigan, J.A. (1985). Statistical theory in clustering. *Journal of Classification*, 2, 63--76. https://link.springer.com/article/10.1007/BF01908064
+Hart, S. & Mas‐Colell, A. (2000). A simple adaptive procedure leading to correlated equilibrium. *Econometrica*, 68, 1127--1150. https://www.ma.imperial.ac.uk/~dturaev/Hart0.pdf
 Hastie, T., Montanari, A., Rosset, S., & Tibshirani, R. J. (2022). Surprises in high-dimensional ridgeless least squares interpolation. *Annals of Statistics*, 50, 949. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9481183/
 Hastie, T., Tibshirani, R., & Friedman, J. (2009). *The Elements of Statistical Learning: Data Mining, Inference, and Prediction* (2nd ed.). Springer.
 Heinrich, J. & Lyons, L. (2007). Systematic errors. *Annual Reviews of Nuclear and Particle Science*, 57, 145--169. https://www.annualreviews.org/doi/abs/10.1146/annurev.nucl.57.090506.123052
@@ -207,9 +212,9 @@ Horacek, M. (2022). *Risk-Aversion in Algorithms for Poker*. https://is.muni.cz/
 Hornik, K., Stinchcombe, M., & White, H. (1989). Multilayer feedforward networks are universal approximators. *Neural Networks*, 2, 359--366. https://cognitivemedium.com/magic_paper/assets/Hornik.pdf
 Howard, A.G. et al. (2017). MobileNets: Efficient convolutional neural networks for mobile vision applications. https://arxiv.org/abs/1704.04861
 Howard, J.N., Mandt, S., Whiteson, D., & Yang, Y. (2021). Foundations of a fast, data-driven, machine-learned simulator. https://arxiv.org/abs/2101.08944
-Hu, E.J. et al (2021). LoRA: Low-rank adaptation of large language models. https://arxiv.org/abs/2106.09685
 Huang, L. et al. (2020). Normalization techniques in training DNNs: Methodology, analysis and application. https://arxiv.org/abs/2009.12836
 Huber, F. (2007). Confirmation and induction. *Internet Encyclopedia of Philosophy*. http://www.iep.utm.edu/conf-ind/
+Hu, E.J. et al (2021). LoRA: Low-rank adaptation of large language models. https://arxiv.org/abs/2106.09685
 Huh, M., Cheung, B., Wang, T., & Isola, P. (2024). The platonic representation hypothesis. https://arxiv.org/abs/2405.07987
 Huh, M. et al. (2024). Training neural networks from scratch with parallel low-rank adapters. https://arxiv.org/abs/2402.16828
 Hutchins, J. (2000). Yehoshua Bar-Hillel: A philosophers' contribution to machine translation.
@@ -239,6 +244,7 @@ Kaplan, J. et al. (2019). Notes on contemporary machine learning for physicists.
 Kaplan, J. et al. (2020). Scaling laws for neural language models. https://arxiv.org/abs/2001.08361
 Kardum, M. (2020). Rudolf Carnap--The grandfather of artificial neural networks: The influence of Carnap's philosophy on Walter Pitts. In S. Skansi (ed.), *Guide To Deep Learning Basics: Logical, Historical And Philosophical Perspectives* (pp. 55--66). Springer.
 Karniadakis, G.E. et al. (2021). Physics-informed machine learning. *Nature Reviews Physics*, 3, 422--440. https://doi.org/10.1038/s42254-021-00314-5
+Kartsaklis, D. & Sadrzadeh, M. (2013). Prior disambiguation of word tensors for constructing sentence vectors. https://aclanthology.org/D13-1166
 Kendall, M.G. (1946). *The Advanced Theory of Statistics, Vol.II*. London: Charles Griffin & Company.
 Keynes, J. M. (1921). *A Treatise on Probability*. London: Macmillan and Co.
 Kiani, B., Balestriero, R., Lecun, Y., & Lloyd, S. (2022). projUNN: efficient method for training deep networks with unitary matrices. https://arxiv.org/abs/2203.05483
@@ -256,10 +262,10 @@ Lanctot, M. et al. (2017). A unified game-theoretic approach to multiagent reinf
 Lanctot, M., Waugh, K., Zinkevich, M., & Bowling, M. (2009). Monte Carlo sampling for regret minimization in extensive games. *Advances in Neural Information Processing Systems*, 22, 1078--1086. https://proceedings.neurips.cc/paper/2009/file/00411460f7c92d2124a67ea0f4cb5f85-Paper.pdf
 Lan, Z., Chen, M., Goodman, S., Gimpel, K., Sharma, P., & Soricut, R. (2019). ALBERT: A lite BERT for self-supervised learning of language representations. https://arxiv.org/abs/1909.11942
 Lauc, D. (2020). Machine learning and the philosophical problems of induction. In S. Skansi (ed.), *Guide To Deep Learning Basics: Logical, Historical And Philosophical Perspectives* (pp. 93--106). Springer.
+LeCun, Y. (1989). Generalization and network design strategies. *Connectionism in Perspective*, 19, 18.
 LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. *Nature*, 521, 436-44.
 LeCun, Y. & Bottou, L. (1998). Efficient BackProp. In Orr, G.B. & Muller, K.R. (eds.), *Neural Networks: Tricks of the trade*. Springer. http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf
 LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). Gradient-based learning applied to document recognition. *Proceedings of the IEEE*, 86(11), 2278--2324. http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf
-LeCun, Y. (1989). Generalization and network design strategies. *Connectionism in Perspective*, 19, 18.
 LeCun, Y. et al. (1989). Backpropagation applied to handwritten zip code recognition. *Neural Computation*, 1(4), 541--551. https://web.archive.org/web/20150611222615/http://yann.lecun.com/exdb/publis/pdf/lecun-89e.pdf
 Leemis, L.M. & McQueston, J.T. (2008). Univariate distribution relationships. *The American Statistician*, 62(1), 45--53. http://www.stat.rice.edu/~dobelman/courses/texts/leemis.distributions.2008amstat.pdf
 Lei, N., Luo, Z., Yau, S., & Gu, D.X. (2018). Geometric understanding of deep learning. https://arxiv.org/abs/1805.10451
@@ -274,21 +280,21 @@ Lisy, V. & Bowling, M. (2016). Equilibrium approximation quality of current no-l
 Liu, H., Dai, Z., So, D.R., & Le, Q.V. (2021). Pay attention to MLPs. https://arxiv.org/abs/2105.08050
 Liu, Y. et al. (2019). RoBERTa: A robustly optimized BERT pretraining approach. https://arxiv.org/abs/1907.11692
 Liu, Y. et al. (2021). A survey of visual transformers. https://arxiv.org/abs/2111.06091
+Liu, Z. et al. (2024). KAN: Kolmogorov-Arnold Networks. https://arxiv.org/abs/2404.19756
 Liu, Z., Lin, Y., & Sun, M. (2023). *Representation Learning for Natural Language Processing*. Springer. https://link.springer.com/book/10.1007/978-981-99-1600-9
 Liu, Z., Madhavan, V., & Tegmark, M. (2022). AI Poincare 2: Machine learning conservation laws from differential equations. https://arxiv.org/abs/2203.12610
-Liu, Z. et al. (2024). KAN: Kolmogorov-Arnold Networks. https://arxiv.org/abs/2404.19756
 Loh, W.Y. (1987). Calibrating confidence coefficients. *Journal of the American Statistical Association*, 82, 155--162. https://www.tandfonline.com/doi/abs/10.1080/01621459.1987.10478408
 Lovering, C. & Pavlick, E. (2022). Unit testing for concepts in neural networks. *Transactions of the Association for Computational Linguistics*, 10, 1193--1208. https://aclanthology.org/2022.tacl-1.69/
 Lu, C. et al. (2024). The AI Scientist: Towards fully automated open-ended scientific discovery. https://arxiv.org/abs/2408.06292
-Lu, Z., Pu, H., Wang, F., Hu, Z., & Wang, L. (2017). The expressive power of neural networks: A view from the width. *Advances in Neural Information Processing Systems*, 30. https://proceedings.neurips.cc/paper/2017/file/32cbf687880eb1674a07bf717761dd3a-Paper.pdf
 Lundberg, I., Johnson, R., & Stewart, B.M. (2021). What is your estimand? Defining the target quantity connects statistical evidence to theory. *American Sociological Review*, 86, 532--565. https://journals.sagepub.com/doi/abs/10.1177/00031224211004187
+Lu, Z., Pu, H., Wang, F., Hu, Z., & Wang, L. (2017). The expressive power of neural networks: A view from the width. *Advances in Neural Information Processing Systems*, 30. https://proceedings.neurips.cc/paper/2017/file/32cbf687880eb1674a07bf717761dd3a-Paper.pdf
 Lyons, L. (2008). Open statistical issues in particle physics. *The Annals of Applied Statistics*, 2, 887--915. https://projecteuclid.org/journals/annals-of-applied-statistics/volume-2/issue-3/Open-statistical-issues-in-Particle-Physics/10.1214/08-AOAS163.full
-Ma, S. et al. (2024). The era of 1-bit LLMs: All large language models are in 1.58 bits. https://arxiv.org/abs/2402.17764
-Ma, X. et al. (2024). Megalodon: Efficient LLM pretraining and inference with unlimited context length. https://arxiv.org/abs/2404.08801
 MacFarlane, A. (2017). Rudolf Carnap (1891-1970). *Philosophy Now*, 118. https://philosophynow.org/issues/118/Rudolf_Carnap_1891-1970
 MacKay, D.J.C. (2003). *Information Theory, Inference, and Learning Algorithms*. Cambridge University Press.
 Maddox, W.J., Benton, G., & Wilson, A.G. (2023). Rethinking parameter counting in deep models: Effective dimensionality revisited. https://arxiv.org/abs/2003.02139
 Marchetti, G.L., Hillar, C., Kragic, D., & Sanborn, S. (2023). Harmonics of learning: Universal fourier features emerge in invariant networks. https://arxiv.org/abs/2312.08550
+Ma, S. et al. (2024). The era of 1-bit LLMs: All large language models are in 1.58 bits. https://arxiv.org/abs/2402.17764
+Ma, X. et al. (2024). Megalodon: Efficient LLM pretraining and inference with unlimited context length. https://arxiv.org/abs/2404.08801
 Mayo, D.G. (1981). In defense of the Neyman-Pearson theory of confidence intervals. *Philosophy of Science*, 48(2), 269--280.
 Mayo, D.G. (1996). *Error and the Growth of Experimental Knowledge*. Chicago University Press.
 Mayo, D.G. (2014). On the Birnbaum Argument for the Strong Likelihood Principle, *Statistical Science*, 29, 227--266.
@@ -429,6 +435,7 @@ Thuerey, N. et al. (2021). Physics-based deep learning. https://arxiv.org/abs/21
 Timbers, F. (2020). Approximate exploitability: Learning a best response in large games. https://arxiv.org/abs/2004.09677
 Tukey, J.W. (1962). The future of data analysis. *The Annals of Mathematical Statistics*, 33(1), 1--67.
 Tukey, J.W. (1977). *Exploratory Data Analysis*. Pearson.
+Tyrrell, B. (2018). Applying distributional compositional categorical models of meaning to language translation. https://arxiv.org/abs/1811.03274
 Udrescu, S. & Tegmark, M. (2020). Symbolic pregression: Discovering physical laws from raw distorted video. https://arxiv.org/abs/2005.11212
 van Handel, R. (2016). Probability in high dimensions. https://web.math.princeton.edu/~rvan/APC550.pdf [Lecture notes at Princeton.] 
 Vapnik, V., Levin, E., & LeCun, Y. (1994). Measuring the VC-dimension of a learning machine. *Neural Computation*, 6(5), 851--876.
@@ -464,8 +471,8 @@ Yang, Z. et al. (2019). XLNet: Generalized autoregressive pretraining for langua
 Zaheer, M. et al. (2020). Big Bird: Transformers for longer sequences. https://arxiv.org/abs/2007.14062
 Zech, G. (1995). Comparing statistical data to Monte Carlo simulation: Parameter fitting and unfolding. https://cds.cern.ch/record/284321 [(DESY-95-113). Deutsches Elektronen-Synchrotron (DESY)]
 Zhang, W. (1998). Complete anytime beam search. *AAAI Proceedings*, 98, 425--430. https://cdn.aaai.org/AAAI/1998/AAAI98-060.pdf
-Zhou, R. & Hansen, E. A. (2005). Beam-stack search: Integrating backtracking with beam search. *ICAPS*, 15, 90--98. https://cdn.aaai.org/ICAPS/2005/ICAPS05-010.pdf
 Zhao, J. et al (2024). GaLore: Memory-efficient LLM training by gradient low-rank projection. https://arxiv.org/abs/2403.03507
 Zhao, W.X. et al. (2023). A survey of large language models. https://arxiv.org/abs/2303.18223
 Zhao, Y. et al. (2023). DETRs beat YOLOs on real-time object detection. https://arxiv.org/abs/2304.08069
+Zhou, R. & Hansen, E. A. (2005). Beam-stack search: Integrating backtracking with beam search. *ICAPS*, 15, 90--98. https://cdn.aaai.org/ICAPS/2005/ICAPS05-010.pdf
 Zinkevich, M., Johanson, M., Bowling, M., & Piccione, C. (2007). Regret minimization in games with incomplete information. *Advances in Neural Information Processing Systems*, 20, 1729--1736. https://proceedings.neurips.cc/paper/2007/file/08d98638c6fcd194a4b1e6992063e944-Paper.pdf
