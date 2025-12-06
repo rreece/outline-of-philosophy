@@ -2425,6 +2425,8 @@ Complexity and emergence
 -   Thermodynamics, statistical mechanics, renormalization.
 -   Simon, H.A. (1962). The architecture of complexity. *Proceedings of the American Philosophical Society*, 106, 467--482. [^Simon1962]
 -   Anderson, P.W. (1972). More is different. [^Anderson1972]
+-   Berry, M. (1979). [Evolution of semiclassical quantum states in phase space](https://michaelberryphysics.wordpress.com/wp-content/uploads/2013/07/berry077.pdf). [^Berry1979]
+-   Berry, M. (1983). [Semiclassical mechanics of regular and irregular motion](https://michaelberryphysics.wordpress.com/wp-content/uploads/2013/07/berry115.pdf). [^Berry1983]
 -   Gell-Mann, M. (1988). [Simplicity and complexity in the description of nature](https://calteches.library.caltech.edu/53/2/Mann.pdf). [^GellMann1988]
 -   Bedau, M.A. (1997). Weak emergence. [^Bedau1997]
 -   Bunge, M. (2001). *Philosophy in Crisis: The Need for Reconstruction*.
@@ -2459,6 +2461,8 @@ See also:
 [^Anderson1972]: @Anderson_1972_More_is_different\.
 [^Anderson1972p393]: @Anderson_1972_More_is_different\, p. 393.
 [^Bedau1997]: @Bedau_1997_Weak_emergence\.
+[^Berry1979]: @Berry_1979_Evolution_of_semiclassical_quantum_states_in_phase\.
+[^Berry1983]: @Berry_1983_Semiclassical_mechanics_of_regular_and_irregular\.
 [^Bunge2001p72]: @Bunge_2001_Philosophy_in_Crisis_The_Need_for_Reconstruction\, p. 72.
 [^GellMann1988]: @Gell_Mann_1988_Simplicity_and_complexity_in_the_description\.
 [^Lisi2017]: @Lisi_2017_Emergence\.

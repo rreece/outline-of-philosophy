@@ -54,6 +54,8 @@ Bell, J.S. (1964). On the Einstein Podolsky Rosen paradox. *Physics*, 1, 195--20
 Bell, J.S. (1966). On the problem of hidden variables in quantum mechanics. *Reviews of Modern Physics*, 38(3), 447. http://fy.chalmers.se/~delsing/QI/Bell-RMP-66.pdf
 Bell, J.S. (2004). *Speakable and Unspeakable in Quantum Mechanics* (2nd ed.). Cambridge University Press. [(Originally published in 1987)]
 Bell, J.S. (2004). Are there quantum jumps? In *Speakable and Unspeakable in Quantum Mechanics* (2nd ed., pp. 201--212). Cambridge University Press. [(Originally published in 1987)]
+Berry, M. (1979). Evolution of semiclassical quantum states in phase space. *Journal of Physics A*, 12, 625--642. https://michaelberryphysics.wordpress.com/wp-content/uploads/2013/07/berry077.pdf
+Berry, M. (1983). Semiclassical mechanics of regular and irregular motion. *Les Houches Lecture Series*, 36, 171--271. https://michaelberryphysics.wordpress.com/wp-content/uploads/2013/07/berry115.pdf
 Bertolini, M. (2022). Lectures on supersymmetry. https://www.sissa.it/tpp/phdsection/OnlineResources/6/susycourse.pdf
 Bohm, D. (1952). A suggested interpretation of the quantum theory in terms of 'hidden' variables, I and II. *Physical Review*, 85, 166--193.
 Bohm, D. (1953). Proof that probability density approaches $|\psi|^2$ in causal interpretation of quantum theory. *Physical Review*, 89, 458--466.
