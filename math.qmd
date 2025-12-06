@@ -588,6 +588,8 @@ More:
         where all of the premises are true, the conclusion is always true.
     -   An argument is *sound* iff it is valid and all of its premises are true.
 -   [Sequent calculus](https://en.wikipedia.org/wiki/Sequent_calculus)
+    -   Introduced by Gerhard Gentzen
+    -   Girard, J.Y., Lafont, Y., & Taylor, P. (1990). [*Proofs and Types*](https://www.paultaylor.eu/stable/prot.pdf). [^Girard1990]
 -   Lecture notes on soundness and completeness:
     -   [Cornell](https://www.cs.cornell.edu/courses/cs2800/2016sp/lectures/lec39-sound-complete.html)
     -   [Waterloo](https://cs.uwaterloo.ca/~plragde/cs245old/03-propsem.pdf)
@@ -635,6 +637,8 @@ $$ A_{1}, \ldots, A_{n} \vdash B_{1}, \ldots, B_{n} $$
 is equivalent to
 
 $$ \vdash (A_{1} \land \ldots \land A_{n}) \rightarrow (B_{1} \lor \ldots \lor B_{n}) $$
+
+[^Girard1990]: @Girard_1990_Proofs_and_Types\.
 
 
 ### Propositional logic
