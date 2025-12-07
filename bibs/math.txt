@@ -1,4 +1,6 @@
 Aaronson, S. (2011). Why philosophers should care about computational complexity. https://arxiv.org/abs/1108.1791
+Aguilera, J.P., Bagaria, J., & L&uuml;cke, P. (2024). Large cardinals, structural reflection, and the HOD conjecture. https://arxiv.org/abs/2411.11568
+Aguilera, J.P., Bagaria, J., Goldberg, G., & L&uuml;cke, P. (2025). Large cardinals beyond HOD. https://arxiv.org/abs/2509.10254
 Aguirre, A., Foster, B., & Merali, Z. (2016). *Trick Or Truth?: The mysterious connection between physics and mathematics*. Springer.
 Atiyah, M. et al. (1994). Responses to "Theoretical Mathematics: Toward a cultural synthesis of mathematics and theoretical physics", by A. Jaffe and F. Quinn. *Bulletin of the American Mathematical Society*, 30, 178--207. https://arxiv.org/abs/math/9404229
 Awodey, S. & Forssell, H. (2013). First-order logical duality. *Annals of Pure and Applied Logic*, 164, 319--348.
