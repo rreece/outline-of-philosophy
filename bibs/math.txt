@@ -48,6 +48,7 @@ Freed, D.S. (2012). The cobordism hypothesis. *Bulletin of the American Mathemat
 Frenkel, E. (2005). Lectures on the Langlands program and conformal field theory. https://arxiv.org/abs/hep-th/0512172
 Girard, J.Y. (1987). Linear logic. *Theoretical Computer Science*, 50, 1--102. http://girard.perso.math.cnrs.fr/linear.pdf
 Girard, J.Y., Lafont, Y., & Taylor, P. (1990). *Proofs and Types*. Cambridge University Press. https://www.paultaylor.eu/stable/prot.pdf
+Girard, J.Y. (2006). Linear logic, its syntax and semantics. https://www.cs.brandeis.edu/~cs112/2006-cs112/docs/girard-intro.pdf
 Gisin, N. (2020). Indeterminism in physics and intuitionistic mathematics. https://arxiv.org/abs/2011.02348
 G{\"o}del, K. (1929). *{\"U}ber die Vollst{\"a}ndigkeit des Logikkalk{\"u}ls*. University Of Vienna. [(Doctoral dissertation. The first proof of the completeness theorem.)]
 G{\"o}del, K. (1931). {\"U}ber formal unentscheidbare S{\"a}tze der Principia Mathematica und verwandter Systeme, I. *Monatshefte f{\"u}r Mathematik und Physik*, 38, 173--198.
@@ -96,6 +97,7 @@ Mart{\'i}nez-Ordaz, M.R. (2021). The ignorance behind inconsistency toleration. 
 McCrimmon, K. (2000). *A Taste of Jordan Algebras*. Springer. http://old.math.nsc.ru/LBRT/a1/files/mccrimmon.pdf
 Mill, J.S. (1877). *An Examination of Sir William Hamilton's Philosophy, vol II*. New York: Henry Holt and Co.
 Monk, J.D. (1976). *Mathematical Logic*. Springer.
+Morin, P. (2013). *Open Data Structures*. https://opendatastructures.org/
 Needham, T. (1997). *Visual Complex Analysis*. Oxford University Press.
 Newstead, C. (2022). *An Infinite Descent into Pure Mathematics*. https://infinitedescent.xyz/dl/infdesc.pdf
 Nodelman, U. & Zalta, E.N. (2014). Foundations for mathematical structuralism. *Mind*, 123, 39--78. https://www.jstor.org/stable/24489523

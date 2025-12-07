@@ -1165,6 +1165,8 @@ See also:
 
 ### Complexity theory
 
+-   Algorithms
+    -   Morin, P. (2013). [*Open Data Structures*](https://opendatastructures.org). [^Morin2013]
 -   [Church-Turing thesis](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis)
     -   G&ouml;del-Church-Turing
     -   Ord, T. (2024). [Bounds on the rates of growth and convergence of all physical processes](https://arxiv.org/abs/2410.10928). [^Ord2024]
@@ -1180,6 +1182,7 @@ See also:
 
 [^Aaronson2011]: @Aaronson_2011_Why_philosophers_should_care_about_computational\.
 [^Gorard2022]: @Gorard_2022_A_functorial_perspective_on_multicomputational\.
+[^Morin2013]: @Morin_2013_Open_Data_Structures\.
 [^Ord2024]: @Ord_2024_Bounds_on_the_rates_of_growth_and_convergence\.
 
 
@@ -1820,8 +1823,10 @@ See also:
 ### Linear logic
 
 -   Girard, J.Y. (1987). [Linear logic](http://girard.perso.math.cnrs.fr/linear.pdf). [^Girard1987]
+-   Girard, J.Y. (2006). [Linear logic, its syntax and semantics](https://www.cs.brandeis.edu/~cs112/2006-cs112/docs/girard-intro.pdf). [^Girard2006]
 
 [^Girard1987]: @Girard_1987_Linear_logic\.
+[^Girard2006]: @Girard_2006_Linear_logic_its_syntax_and_semantics\.
 
 
 ### Criticism
