@@ -96,7 +96,7 @@ Mart{\'i}nez-Ordaz, M.R. (2021). The ignorance behind inconsistency toleration. 
 McCrimmon, K. (2000). *A Taste of Jordan Algebras*. Springer. http://old.math.nsc.ru/LBRT/a1/files/mccrimmon.pdf
 Mill, J.S. (1877). *An Examination of Sir William Hamilton's Philosophy, vol II*. New York: Henry Holt and Co.
 Monk, J.D. (1976). *Mathematical Logic*. Springer.
-Morin, P. (2025). *Open Data Structures*. https://opendatastructures.org/
+Morin, P. (2013). *Open Data Structures*. https://opendatastructures.org/
 Needham, T. (1997). *Visual Complex Analysis*. Oxford University Press.
 Newstead, C. (2022). *An Infinite Descent into Pure Mathematics*. https://infinitedescent.xyz/dl/infdesc.pdf
 Nodelman, U. & Zalta, E.N. (2014). Foundations for mathematical structuralism. *Mind*, 123, 39--78. https://www.jstor.org/stable/24489523
