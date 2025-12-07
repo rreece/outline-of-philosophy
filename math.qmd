@@ -1823,8 +1823,10 @@ See also:
 ### Linear logic
 
 -   Girard, J.Y. (1987). [Linear logic](http://girard.perso.math.cnrs.fr/linear.pdf). [^Girard1987]
+-   Girard, J.Y. (2006). [Linear logic, its syntax and semantics](https://www.cs.brandeis.edu/~cs112/2006-cs112/docs/girard-intro.pdf). [^Girard2006]
 
 [^Girard1987]: @Girard_1987_Linear_logic\.
+[^Girard2006]: @Girard_2006_Linear_logic_its_syntax_and_semantics\.
 
 
 ### Criticism
