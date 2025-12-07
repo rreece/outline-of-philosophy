@@ -1,4 +1,6 @@
 Aaronson, S. (2011). Why philosophers should care about computational complexity. https://arxiv.org/abs/1108.1791
+Aguilera, J.P., Bagaria, J., & L&uuml;cke, P. (2024). Large cardinals, structural reflection, and the HOD conjecture. https://arxiv.org/abs/2411.11568
+Aguilera, J.P., Bagaria, J., Goldberg, G., & L&uuml;cke, P. (2025). Large cardinals beyond HOD. https://arxiv.org/abs/2509.10254
 Aguirre, A., Foster, B., & Merali, Z. (2016). *Trick Or Truth?: The mysterious connection between physics and mathematics*. Springer.
 Atiyah, M. et al. (1994). Responses to "Theoretical Mathematics: Toward a cultural synthesis of mathematics and theoretical physics", by A. Jaffe and F. Quinn. *Bulletin of the American Mathematical Society*, 30, 178--207. https://arxiv.org/abs/math/9404229
 Awodey, S. & Forssell, H. (2013). First-order logical duality. *Annals of Pure and Applied Logic*, 164, 319--348.
@@ -101,6 +103,7 @@ Morin, P. (2013). *Open Data Structures*. https://opendatastructures.org/
 Needham, T. (1997). *Visual Complex Analysis*. Oxford University Press.
 Newstead, C. (2022). *An Infinite Descent into Pure Mathematics*. https://infinitedescent.xyz/dl/infdesc.pdf
 Nodelman, U. & Zalta, E.N. (2014). Foundations for mathematical structuralism. *Mind*, 123, 39--78. https://www.jstor.org/stable/24489523
+{Open Logic Project}. (2020). *The Open Logic Text*. https://openlogicproject.org/
 Ord, T. (2024). Bounds on the rates of growth and convergence of all physical processes. https://arxiv.org/abs/2410.10928
 Post, E.L. (1921). Introduction to the general theory of elementary propositions. *American Journal of Mathematics*, 43, 163--185.
 Priest, G. (1998). What is so bad about contradictions? *Journal of Philosophy*, 95, 410--426. 
@@ -117,7 +120,7 @@ Rossberg, M. (2004). First-order logic, second-order logic, and completeness. In
 Russell, B. (1905). On denoting. *Mind*, 14(56), 479--493. https://www.finophd.eu/wp-content/uploads/2018/11/russell_on_denoting.pdf
 Russell, B. (1908). Mathematical logic as based on the theory of types. *American journal of mathematics*, 30, 222--262. https://www.jstor.org/stable/2369948
 Russell, G. (2015). The justification of the basic laws of logic. *Journal of Philosophical Logic*, 44(6), 793--803.
-{Open Logic Project}. (2020). *The Open Logic Text*. https://openlogicproject.org/
+Scott, D.S. (1961). Measurable cardinals and constructible sets. *Bulletin de L'Academie Polonaise des Sciences*, 9, 521--524.
 Shapiro, S. (1990). Second-order logic, foundations, and rules. *The Journal of Philosophy*, 87, 234--261.
 Shapiro, S. (1991). *Foundations without Foundationalism: A Case for Second-Order Logic*. Oxford University Press.
 Shapiro, S. (2000). *Thinking about Mathematics: The Philosophy of Mathematics*. Oxford University Press.

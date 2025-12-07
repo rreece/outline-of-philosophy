@@ -55,6 +55,7 @@ TODO
     is an eigendecomposition of $A$, where the column vectors of $U$
     are the eigenvectors of $A$ with corresponding eigenvalues on the
     diagonal of $D$.
+-   [Cayley-Hamilton theorem](https://en.wikipedia.org/wiki/Cayley%E2%80%93Hamilton_theorem)
 -   [Principal Component Analysis (PCA)](https://en.wikipedia.org/wiki/Principal_component_analysis)
 -   [Rayleigh quotient](https://en.wikipedia.org/wiki/Rayleigh_quotient)
 
@@ -157,6 +158,7 @@ $$
         exhaust all the possible normed division algebras.
     -   Baez, J.C. (2002). [The octonions](https://arxiv.org/abs/math/0105155). [^Baez2002]
     -   Westbury, B.W. (2010). [Hurwitz' theorem on composition algebras](https://arxiv.org/abs/1011.6197). [^Westbury2010]
+    -   [Frobenius theorem](https://en.wikipedia.org/wiki/Frobenius_theorem_(real_division_algebras))
 
 [^Baez2002]: @Baez_2002_The_octonions\.
 [^Westbury2010]: @Westbury_2010_Hurwitz_theorem_on_composition_algebras\.
@@ -389,6 +391,7 @@ $$ \left\{ x : P(x) \right\} = \left\{ x | x \in U \land P(x) \right\} $$
     -   A power set, $P(A)$, of a set, $A$, is the set of all subsets of $A$.
     -   The cardinality of a power set is $|P(A)| = 2^{|A|}$
     -   The cardinality of a power set is strictly larger than the set: $|A| < |P(A)|$
+    -   [Von Neumann_universe](https://en.wikipedia.org/wiki/Von_Neumann_universe), $V$
 -   [Cantor-Bernstein-Schr&ouml;eder theorem](https://en.wikipedia.org/wiki/Schr%C3%B6der%E2%80%93Bernstein_theorem)
     -   Not accepted in intuitionism
     -   [Hume's principle](https://en.wikipedia.org/wiki/Hume%27s_principle)
@@ -434,9 +437,14 @@ $$ \left\{ x : P(x) \right\} = \left\{ x | x \in U \land P(x) \right\} $$
         -   Knuth, D. (1974). *Surreal Numbers: How two ex-students turned on to pure mathematics and found total happiness*. [^Knuth1974]
     -   The surreal number system is the largest ordered field.
     -   Related: [Construction of the real numbers](https://en.wikipedia.org/wiki/Construction_of_the_real_numbers) and [Dedekind cuts](https://en.wikipedia.org/wiki/Dedekind_cut)
--   Pedagogy
-    -   Bajnok, B. (2013). [*An Invitation to Abstract Mathematics*](https://link.springer.com/book/10.1007/978-1-4614-6636-9). [^Bajnok2013]
- 
+    -   Pedagogy
+       -   Bajnok, B. (2013). [*An Invitation to Abstract Mathematics*](https://link.springer.com/book/10.1007/978-1-4614-6636-9). [^Bajnok2013]
+    -   Scott's inconsistency theorem
+        -   Scott, D.S. (1961). Measurable cardinals and constructible sets. *Bulletin de L'Academie Polonaise des Sciences*, 9, 521--524. [^Scott1961]
+-   Ultraexacting cardinals
+    -   Aguilera, J.P., Bagaria, J., & L&uuml;cke, P. (2024). [Large cardinals, structural reflection, and the HOD conjecture](https://arxiv.org/abs/2411.11568). [^Aguilera2024]
+    -   Aguilera, J.P., Bagaria, J., Goldberg, G., & L&uuml;cke, P. (2025). [Large cardinals beyond HOD](https://arxiv.org/abs/2509.10254). [^Aguilera2025]
+
 Hilbert:
 
 >   There is, however, a completely satisfactory way of avoiding the paradoxes
@@ -452,6 +460,8 @@ Hilbert:
 >       which no one doubts and where contradictions and paradoxes
 >       arise only through our own carelessness. [^Hilbert1926p191]
 
+[^Aguilera2024]: @Aguilera_2024_Large_cardinals_structural_reflection\.
+[^Aguilera2025]: @Aguilera_2025_Large_cardinals_beyond_HOD\.
 [^Bajnok2013]: @Bajnok_2013_An_Invitation_to_Abstract_Mathematics\.
 [^Conway1976]: @Conway_2001_On_Numbers_and_Games\.
 [^ConwayKeats]: At [31:18--33:37](https://www.youtube.com/watch?v=1eAmxgINXrE&t=1878s),
@@ -463,9 +473,9 @@ Hilbert:
     it was actually [Vasco N&uacute;&ntilde;ez de Balboa](https://en.wikipedia.org/wiki/Vasco_N%C3%BA%C3%B1ez_de_Balboa) in 1513.
     When Conway says, "I was monarch of all; I surveyed", he's actually referencing another poem,
     "[Verses Supposed To Be Written by Alexander Selkirk](https://en.wikisource.org/wiki/Verses_Supposed_To_Be_Written_by_Alexander_Selkirk)" (1782) by William Cowper.
-
 [^Hilbert1926p191]: @Hilbert_1926_Uber_das_Unendliche\, p. 191.
 [^Knuth1974]: @Knuth_1974_Surreal_Numbers_How_two_ex_students_turned_on\.
+[^Scott1961]: @Scott_1961_Measurable_cardinals_and_constructible_sets\.
 [^Trioni2020Omega]: Trioni, S. (2020). [Cantor's attic](https://neugierde.github.io/cantors-attic/Omega) - Omega.
 
 
