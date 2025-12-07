@@ -1175,6 +1175,7 @@ See also:
 -   Savage, J.E. (2008). [*Models of Computation: Exploring the Power of Computing*](https://cs.brown.edu/people/jsavage/book/pdfs/ModelsOfComputation.pdf).
 -   [Fagin's theorem](https://en.wikipedia.org/wiki/Fagin%27s_theorem)
 -   Gorard, J. (2022). [A functorial perspective on (multi)computational irreducibility](https://arxiv.org/abs/2301.04690). [^Gorard2022]
+    -   Why does Gorard not cite Girard's linear logic?
 
 See also:
 
@@ -1824,6 +1825,7 @@ See also:
 
 -   Girard, J.Y. (1987). [Linear logic](http://girard.perso.math.cnrs.fr/linear.pdf). [^Girard1987]
 -   Girard, J.Y. (2006). [Linear logic, its syntax and semantics](https://www.cs.brandeis.edu/~cs112/2006-cs112/docs/girard-intro.pdf). [^Girard2006]
+-   [Affine logic](https://en.wikipedia.org/wiki/Affine_logic)
 
 [^Girard1987]: @Girard_1987_Linear_logic\.
 [^Girard2006]: @Girard_2006_Linear_logic_its_syntax_and_semantics\.
