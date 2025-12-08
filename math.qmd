@@ -391,7 +391,7 @@ $$ \left\{ x : P(x) \right\} = \left\{ x | x \in U \land P(x) \right\} $$
     -   A power set, $P(A)$, of a set, $A$, is the set of all subsets of $A$.
     -   The cardinality of a power set is $|P(A)| = 2^{|A|}$
     -   The cardinality of a power set is strictly larger than the set: $|A| < |P(A)|$
-    -   [Von Neumann universe](https://en.wikipedia.org/wiki/Von_Neumann_universe): $V$
+    -   [Von Neumann universe](https://en.wikipedia.org/wiki/Von_Neumann_universe): $V_{0} = \varnothing$, $V_{\alpha+1} = P(V_{\alpha})$
 -   [Cantor-Bernstein-Schr&ouml;eder theorem](https://en.wikipedia.org/wiki/Schr%C3%B6der%E2%80%93Bernstein_theorem)
     -   Not accepted in intuitionism
     -   [Hume's principle](https://en.wikipedia.org/wiki/Hume%27s_principle)
