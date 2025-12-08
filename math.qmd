@@ -391,7 +391,7 @@ $$ \left\{ x : P(x) \right\} = \left\{ x | x \in U \land P(x) \right\} $$
     -   A power set, $P(A)$, of a set, $A$, is the set of all subsets of $A$.
     -   The cardinality of a power set is $|P(A)| = 2^{|A|}$
     -   The cardinality of a power set is strictly larger than the set: $|A| < |P(A)|$
-    -   [Von Neumann_universe](https://en.wikipedia.org/wiki/Von_Neumann_universe), $V$
+    -   [Von Neumann universe](https://en.wikipedia.org/wiki/Von_Neumann_universe): $V_{0} = \varnothing$, $V_{\alpha+1} = P(V_{\alpha})$
 -   [Cantor-Bernstein-Schr&ouml;eder theorem](https://en.wikipedia.org/wiki/Schr%C3%B6der%E2%80%93Bernstein_theorem)
     -   Not accepted in intuitionism
     -   [Hume's principle](https://en.wikipedia.org/wiki/Hume%27s_principle)
@@ -438,10 +438,10 @@ $$ \left\{ x : P(x) \right\} = \left\{ x | x \in U \land P(x) \right\} $$
     -   The surreal number system is the largest ordered field.
     -   Related: [Construction of the real numbers](https://en.wikipedia.org/wiki/Construction_of_the_real_numbers) and [Dedekind cuts](https://en.wikipedia.org/wiki/Dedekind_cut)
     -   Pedagogy
-       -   Bajnok, B. (2013). [*An Invitation to Abstract Mathematics*](https://link.springer.com/book/10.1007/978-1-4614-6636-9). [^Bajnok2013]
-    -   Scott's inconsistency theorem
-        -   Scott, D.S. (1961). Measurable cardinals and constructible sets. *Bulletin de L'Academie Polonaise des Sciences*, 9, 521--524. [^Scott1961]
--   Ultraexacting cardinals
+        -   Bajnok, B. (2013). [*An Invitation to Abstract Mathematics*](https://link.springer.com/book/10.1007/978-1-4614-6636-9). [^Bajnok2013]
+-   Scott's inconsistency theorem
+    -   Scott, D.S. (1961). Measurable cardinals and constructible sets. *Bulletin de L'Academie Polonaise des Sciences*, 9, 521--524. [^Scott1961]
+-   Exacting and ultraexacting cardinals
     -   Aguilera, J.P., Bagaria, J., & L&uuml;cke, P. (2024). [Large cardinals, structural reflection, and the HOD conjecture](https://arxiv.org/abs/2411.11568). [^Aguilera2024]
     -   Aguilera, J.P., Bagaria, J., Goldberg, G., & L&uuml;cke, P. (2025). [Large cardinals beyond HOD](https://arxiv.org/abs/2509.10254). [^Aguilera2025]
 
@@ -507,13 +507,30 @@ Game theory
 -   TODO
 -   von Neumann, J. & Morgenstern, O. (1944). *Theory of Games and Economic Behavior*. [^vonNeumann1944]
 -   Nash's theorem (1950)
--   Pedagogy: Timothy Roughgarden
+
+Pedagogy:
+
+-   Roughgarden, T. (2013). Video: [Twenty Lectures on Algorithmic Game Theory](https://www.youtube.com/watch?v=ssAEgJKRe9o).
+-   Roughgarden, T. (2016). *Twenty Lectures on Algorithmic Game Theory*. [^Roughgarden2016b]
 
 See also:
 
 -   [Decision theory](statistics.html#decision-theory)
+-   [Reinforcement learning](statistics.html#reinforcement-learning)
 
+[^Roughgarden2016b]: @Roughgarden_2016_Twenty_Lectures_on_Algorithmic_Game_Theory\.
 [^vonNeumann1944]: @vonNeumann_1944_Theory_of_Games_and_Economic_Behavior\.
+
+### Nash's theorem
+
+-   Nash equilibrium
+-   TODO: Coarse correlated equilibria [^Roughgarden2016pX]
+
+See also:
+
+-   [Regret minimization](statistics.html#regret-minimization)
+
+[^Roughgarden2016pX]: @Roughgarden_2016_Twenty_Lectures_on_Algorithmic_Game_Theory\, p. TODO.
 
 
 Logic
