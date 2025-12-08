@@ -2326,6 +2326,10 @@ More:
 -   Silver, D., Singh, S., Precup, D., & Sutton, R.S. (2024). [Reward is enough](https://www.sciencedirect.com/science/article/pii/S0004370221000862). [^Silver2024]
 -   Javed, K. & Sutton, R.S. (2024). [The big world hypothesis and its ramifications for artificial intelligence](http://incompleteideas.net/papers/The_Big_World_Hypothesis.pdf). [^Javed2024]
 
+See also:
+
+-   [Game theory](math.html#game-theory)
+
 
 [^Arulkumaran2017]: @Arulkumaran_2017_Deep_Reinforcement_Learning_A_Brief_Survey\.
 [^CesaBianchi2006]: @Cesa_Bianchi_2006_Prediction_Learning_and_Games\.
@@ -2405,15 +2409,12 @@ but the average strategy over all time steps:
 
 $$ \bar{\sigma}^{T}(a) = \frac{1}{T} \sum_{t=1}^{T} \sigma^{t}(a) $$
 
-TODO: explain the convergence of $\bar{\sigma}^{t}$ to an $\varepsilon$-Nash equilibrium.
-
--   Roughgarden, T. (2013). Video: [Twenty Lectures on Algorithmic Game Theory](https://www.youtube.com/watch?v=ssAEgJKRe9o).
--   Roughgarden, T. (2016). *Twenty Lectures on Algorithmic Game Theory*. [^Roughgarden2016]
-    -   TODO: Coarse correlated equilibria
+-   TODO: explain the convergence of $\bar{\sigma}^{t}$ to an $\varepsilon$-Nash equilibrium.
+-   Roughgarden, T. (2016). *Twenty Lectures on Algorithmic Game Theory*. [^Roughgarden2016a]
 
 [^Brown2020thesisp12]: @Brown_2020_Equilibrium_finding_for_large_adversarial\, p. 12.
 [^Hart2000]: @Hart_2000_A_simple_adaptive_procedure_leading_to_correlated\.
-[^Roughgarden2016]: @Roughgarden_2016_Twenty_Lectures_on_Algorithmic_Game_Theory\.
+[^Roughgarden2016a]: @Roughgarden_2016_Twenty_Lectures_on_Algorithmic_Game_Theory\.
 
 
 **Counterfactual regret minimization (CFR)**
