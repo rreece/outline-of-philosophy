@@ -2037,6 +2037,8 @@ TODO: Find Dawkins on multiple instances of convergent evolution of eyes.
 -   Christopher Hitchens (1949-2011)
     -   *Mortality* [^Hitchens2012]
 -   [Cancer](https://plato.stanford.edu/entries/cancer/)
+-   Aghori
+    -   Suri, R. & Pitchford, D.B. (2010). [The gift of life: Death as teacher in the Aghori sect](http://dx.doi.org/10.24972/ijts.2010.29.1.128). [^Suri2010]
 
 Bertrand Russell:
 
@@ -2057,6 +2059,7 @@ See also:
 [^Hitchens2012]: @Hitchens_2012_Mortality\.
 [^Kagan2012]: @Kagan_2012_Death\.
 [^Russell2004p19]: @Russell_2004_Sceptical_Essays\.
+[^Suri2010]: @Suri_2010_The_gift_of_life_Death_as_teacher_in_the_Aghori\.
 
 
 Psychology
