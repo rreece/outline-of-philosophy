@@ -25,6 +25,7 @@ Balasubramanian, V. (1996). Statistical inference, Occam's razor and statistical
 Balestriero, R., Pesenti, J., & LeCun, Y. (2021). Learning in high dimension always amounts to extrapolation. https://arxiv.org/abs/2110.09485
 Balkir, E., Kartsaklis, D., & Sadrzadeh, M. (2015). Sentence entailment in compositional distributional semantics. https://arxiv.org/abs/1512.04419
 Banerjee, S., Agarwal, A., & Singla, S. (2024). LLMs will always hallucinate, and we need to live with this. https://arxiv.org/abs/2409.05746
+Bareinboim, E., Correa, J.D., Ibeling, D., & Icard, T. (2021). On Pearl's hierarchy and the foundations of causal inference. In H. Geffner, R. Dechter, & J.Y. Halpern (Eds.), *Probabilistic and Causal Inference: The Works of Judea Pearl*. Association for Computing Machinery. https://ftp.cs.ucla.edu/pub/stat_ser/bareinboim-etal-ch27-acm-2021.pdf
 Batson, J., Haaf, C.G., Kahn, Y., & Roberts, D.A. (2021). Topological obstructions to autoencoding. https://arxiv.org/abs/2102.08380
 Battiloro, C. et al. (2024). E(n) equivariant topological neural networks. https://arxiv.org/abs/2405.15429
 Baydin, A.G. et al. (2019). Etalumis: Bringing probabilistic programming to scientific simulators at scale. https://arxiv.org/abs/1907.03382

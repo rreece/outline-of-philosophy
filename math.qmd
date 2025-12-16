@@ -440,7 +440,7 @@ $$ \left\{ x : P(x) \right\} = \left\{ x | x \in U \land P(x) \right\} $$
     -   Pedagogy
         -   Bajnok, B. (2013). [*An Invitation to Abstract Mathematics*](https://link.springer.com/book/10.1007/978-1-4614-6636-9). [^Bajnok2013]
 -   Scott's inconsistency theorem
-    -   Scott, D.S. (1961). Measurable cardinals and constructible sets. *Bulletin de L'Academie Polonaise des Sciences*, 9, 521--524. [^Scott1961]
+    -   Scott, D.S. (1961). Measurable cardinals and constructible sets. [^Scott1961]
 -   Exacting and ultraexacting cardinals
     -   Aguilera, J.P., Bagaria, J., & L&uuml;cke, P. (2024). [Large cardinals, structural reflection, and the HOD conjecture](https://arxiv.org/abs/2411.11568). [^Aguilera2024]
     -   Aguilera, J.P., Bagaria, J., Goldberg, G., & L&uuml;cke, P. (2025). [Large cardinals beyond HOD](https://arxiv.org/abs/2509.10254). [^Aguilera2025]

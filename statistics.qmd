@@ -1004,12 +1004,14 @@ Causal inference
 -   Rubin, D. B. (1974). [Estimating causal effects of treatments in randomized and nonrandomized studies](https://psycnet.apa.org/fulltext/1975-06502-001.pdf). [^Rubin1974]
 -   Lewis, D. (1981). [Causal decision theory](https://www.andrewmbailey.com/dkl/Causal_Decision_Theory.pdf). [^Lewis1981]
 -   Pearl, J. (2018). *The Book of Why: The new science of cause and effect*. [^Pearl2018]
+-   Bareinboim, E., Correa, J.D., Ibeling, D., & Icard, T. (2021). [On Pearl's hierarchy and the foundations of causal inference](https://ftp.cs.ucla.edu/pub/stat_ser/bareinboim-etal-ch27-acm-2021.pdf). [^Bareinboim2021]
 
 See also:
 
 -   [Causation](scientific-method.html#causation)
 -   [Induction](scientific-method.html#induction)
 
+[^Bareinboim2021]: @Bareinboim_2021_On_Pearls_hierarchy_and_the_foundations_of_causal\.
 [^Lewis1981]: @Lewis_1981_Causal_decision_theory\.
 [^Pearl2018]: @Pearl_2018_The_Book_of_Why_The_new_science_of_cause\.
 [^Rubin1974]: @Rubin_1974_Estimating_causal_effects_of_treatments\.
@@ -3080,7 +3082,7 @@ See also:
     -   [Debate: Do language models need sensory grounding for meaning and understanding?](https://www.youtube.com/watch?v=x10964w00zk) (NYU).
     -   Piantadosi, S. (2023). Talk: [Meaning in the age of large language models](https://www.youtube.com/watch?v=lA19zXgObKA).
     -   Huh, M., Cheung, B., Wang, T., & Isola, P. (2024). [The platonic representation hypothesis](https://arxiv.org/abs/2405.07987). [^Huh2024b]
-    -   Musser, G. (2024). [Can an emerging field called neural systems understanding explain the brain](https://www.thetransmitter.org/neural-networks/can-an-emerging-field-called-neural-systems-understanding-explain-the-brain/)
+    -   Musser, G. (2024). [Can an emerging field called neural systems understanding explain the brain](https://www.thetransmitter.org/neural-networks/can-an-emerging-field-called-neural-systems-understanding-explain-the-brain/).
     -   Jamali, M. et al. (2024). [Semantic encoding during language comprehension at single-cell resolution](https://www.nature.com/articles/s41586-024-07643-2). [^Jamali2024]
 -   [DisCoCat](https://en.wikipedia.org/wiki/DisCoCat)
     -   Categorical Compositional Distributional (DisCoCat) is a mathematical framework for natural language processing which uses category theory to unify distributional semantics with the principle of compositionality.
