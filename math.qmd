@@ -275,9 +275,13 @@ $$ \iint_{\partial V} \vec{F} \cdot \mathrm{d}\vec{S} = \iiint_V (\nabla \cdot \
 
 ### Differential equations
 
+-   Fast Fourier Transform (FFT)
+    -   Cooley, J.W. & Tukey, J.W. (1965). An algorithm for the machine calculation of complex fourier series. [^Cooley1965]
+    -   Reduces DFT complexity from $O(n^2)$ to $O(n \log n)$
 -   Burgess, C. (1990). [PDEs, ODEs, analytic continuation, special functions, Sturm-Liouville problems and all that](https://physics.mcmaster.ca/~cburgess/Notes/mathphys.pdf). [^Burgess1990]
 
 [^Burgess1990]: @Burgess_1990_PDEs_ODEs_analytic_continuation_special\.
+[^Cooley1965]: @Cooley_1965_An_algorithm_for_the_machine_calculation\.
 
 
 ### Differential geometry
