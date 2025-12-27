@@ -1245,6 +1245,7 @@ See also:
 ### Abduction
 
 -   Peirce
+-   Fann, K.T. (1970). *Peirce’s Theory of Abduction*. [^Fann1970]
 -   Douven, I. (2011). [Abduction](http://plato.stanford.edu/entries/abduction/). *SEP*. [^Douven2011]
 -   Ockham, parsimony
 -   Karl Popper
@@ -1292,6 +1293,7 @@ See also:
 [^Bhaskar2008pX]: @Bhaskar_2008_A_Realist_Theory_of_Science\.
 [^Douven2011]: @Douven_2011_Abduction\.
 [^Doyle1890]: @Doyle_1890_The_Sign_of_the_Four\, ch. 6.
+[^Fann1970]: @Fann_1970_Peirces_Theory_of_Abduction\.
 [^Schurz2019p3]: @Schurz_2019_Humes_Problem_Solved_The_optimality_of_meta\, p. 3.
 [^WikipediaAbductiveReasoning1]: [en.wikipedia.org/wiki/Abductive_reasoning](https://en.wikipedia.org/wiki/Abductive_reasoning)
 [^WikipediaAbductiveReasoning2]: Ibid.
