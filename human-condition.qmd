@@ -2415,12 +2415,15 @@ Bertrand Russell:
     -   *The Fall* / *La Chute* (1956)
 -   [Paul Tillich](https://en.wikipedia.org/wiki/Paul_Tillich) (1886-1965)
     -   *The Courage to Be* (1952)
+     1955b). "What is Truth?" (PDF). The Canadian Journal of Theology. I (2): 117–122
+    -   Tillich, P. (1955). [What is truth?](https://biblicalstudies.org.uk/pdf/cjt/01-2_117.pdf). [^Tillich1955]
 
 [^Camus1988]: @Camus_1988_The_Stranger\.
 [^Heidegger1966]: @Heidegger_1966_Discourse_on_Thinking\.
 [^Russell1989p303]: @Russell_1989_Wisdom_of_the_West\, p. 303.
 [^Sartre1946]: @Sartre_2007_Existentialism_is_a_Humanism\.
 [^Sartre1964]: @Sartre_1964_Nausea\.
+[^Tillich1955]: @Tillich_1955_What_is_truth\.
 
 
 ### Artworks
