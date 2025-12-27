@@ -2950,6 +2950,13 @@ Information geometry
 Automation
 --------------------------------------------------------------------------------
 
+### Cybernetics
+
+-   [Cybernetics](https://en.wikipedia.org/wiki/Cybernetics)
+-   [Control theory](https://en.wikipedia.org/wiki/Control_theory)
+-   [Norbert Wiener](https://en.wikipedia.org/wiki/Norbert_Wiener) (1894-1964)
+
+
 ### AutoML
 
 -   Neural Architecture Search (NAS)
