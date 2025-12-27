@@ -45,16 +45,17 @@ TODO
 ### Linear algebra
 
 -   Linear equations and transformation
--   Vector spaces and dual spaces
-    -   For an infinite dimensional vector space, V, while elements of V must have
-        "finite support" (only finitely many nonzero coordinates in any basis representation),
-        elements of V* can have "infinite support."
 -   Axler, S. (2024). [*Linear Algebra Done Right*](https://link.springer.com/content/pdf/10.1007/978-3-031-41026-0.pdf).
 -   [Spectral theorem](https://en.wikipedia.org/wiki/Spectral_theorem):
     $A$ is normal, $A A^\dagger = A^\dagger A \iff A = U D U^\dagger$
     is an eigendecomposition of $A$, where the column vectors of $U$
     are the eigenvectors of $A$ with corresponding eigenvalues on the
     diagonal of $D$.
+-   Vector spaces and dual spaces
+    -   For an infinite dimensional vector space, V, while elements of V must have
+        "finite support" (only finitely many nonzero coordinates in any basis representation),
+        elements of V* can have "infinite support."
+    -   See: [Foundations of QM](physics.html#foundations-of-qm)
 -   [Cayley-Hamilton theorem](https://en.wikipedia.org/wiki/Cayley%E2%80%93Hamilton_theorem)
 -   [Principal Component Analysis (PCA)](https://en.wikipedia.org/wiki/Principal_component_analysis)
 -   [Rayleigh quotient](https://en.wikipedia.org/wiki/Rayleigh_quotient)

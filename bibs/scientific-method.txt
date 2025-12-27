@@ -44,6 +44,7 @@ Frigg, R. & Hartmann, S. (2020). Models in science *Stanford Encyclopedia of Phi
 Geanakoplos, J.D. & Polemarchakis, H.M. (1982). We can't disagree forever. *Journal of Economic Theory*, 28, 192--200.
 Gettier, E.L. (1963). Is justified true belief knowledge? *Analysis*, 23, 121--3.
 Gould, S.J. (1965). Is uniformitarianism necessary? *American Journal of Science*, 263, 223--228.
+Hamming, R.W. (1997). *The Art of Doing Science and Engineering: Learning to Learn*. Gordon and Breach Science Publishers.
 Hansson, S.O. & Hendricks, V.F. (2018). *Introduction to Formal Philosophy*. Springer.
 Heesen, R. (2017). Communism and the incentive to share in science. *Philosophy of Science*, 84, 698--716. 
 Hempel, C.G. & Oppenheim, P. (1948). Studies in the logic of explanation. *Philosophy of Science*, 15(2), 135--175.

@@ -368,9 +368,13 @@ See also:
 -   [Alonzo Church](https://en.wikipedia.org/wiki/Alonzo_Church) (1903-1995)
 -   [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) (1912-1954)
 -   [Konrad Zuse](https://en.wikipedia.org/wiki/Konrad_Zuse) (1910-1995)
--   [ENIAC](https://en.wikipedia.org/wiki/ENIAC) (1945)
+-   [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming) (1915-1998)
+    -   Hamming, R.W. (1997). *The Art of Doing Science and Engineering: Learning to Learn*. [^Hamming1997]
 -   [Herbert A. Simon](https://en.wikipedia.org/wiki/Herbert_A._Simon) (1916-2001)
+-   [ENIAC](https://en.wikipedia.org/wiki/ENIAC) (1945)
 -   TODO
+
+[^Hamming1997]: @Hamming_1997_The_Art_of_Doing_Science_and_Engineering_Learning\.
 
 
 Rationalism vs empiricism
