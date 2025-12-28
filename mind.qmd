@@ -340,7 +340,7 @@ Hamming:
 >   behind a facade of words, but the intention is the same!
 >   
 >   Physics regards you as a collection of molecules in a radiant energy field and there is, in strict physics,
->   nothing else. Democritus (b. around 460 B.C.) said in ancient Greek times, “All is atoms and void”. This is
+>   *nothing else*. Democritus (b. around 460 B.C.) said in ancient Greek times, “All is atoms and void”. This is
 >   the stance of the hard AI people; there is no essential difference between machines and humans, hence by
 >   suitably programming machines then machines can do anything humans can do. Their failures to produce
 >   thinking in significant detail is, they believe, merely the failure of programmers to understand what they are
