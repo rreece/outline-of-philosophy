@@ -45,16 +45,17 @@ TODO
 ### Linear algebra
 
 -   Linear equations and transformation
--   Vector spaces and dual spaces
-    -   For an infinite dimensional vector space, V, while elements of V must have
-        "finite support" (only finitely many nonzero coordinates in any basis representation),
-        elements of V* can have "infinite support."
 -   Axler, S. (2024). [*Linear Algebra Done Right*](https://link.springer.com/content/pdf/10.1007/978-3-031-41026-0.pdf).
 -   [Spectral theorem](https://en.wikipedia.org/wiki/Spectral_theorem):
     $A$ is normal, $A A^\dagger = A^\dagger A \iff A = U D U^\dagger$
     is an eigendecomposition of $A$, where the column vectors of $U$
     are the eigenvectors of $A$ with corresponding eigenvalues on the
     diagonal of $D$.
+-   Vector spaces and dual spaces
+    -   For an infinite dimensional vector space, V, while elements of V must have
+        "finite support" (only finitely many nonzero coordinates in any basis representation),
+        elements of V* can have "infinite support."
+    -   See: [Foundations of QM](physics.html#foundations-of-qm)
 -   [Cayley-Hamilton theorem](https://en.wikipedia.org/wiki/Cayley%E2%80%93Hamilton_theorem)
 -   [Principal Component Analysis (PCA)](https://en.wikipedia.org/wiki/Principal_component_analysis)
 -   [Rayleigh quotient](https://en.wikipedia.org/wiki/Rayleigh_quotient)
@@ -275,9 +276,13 @@ $$ \iint_{\partial V} \vec{F} \cdot \mathrm{d}\vec{S} = \iiint_V (\nabla \cdot \
 
 ### Differential equations
 
+-   Fast Fourier Transform (FFT)
+    -   Cooley, J.W. & Tukey, J.W. (1965). An algorithm for the machine calculation of complex fourier series. [^Cooley1965]
+    -   Reduces DFT complexity from $O(n^2)$ to $O(n \log n)$
 -   Burgess, C. (1990). [PDEs, ODEs, analytic continuation, special functions, Sturm-Liouville problems and all that](https://physics.mcmaster.ca/~cburgess/Notes/mathphys.pdf). [^Burgess1990]
 
 [^Burgess1990]: @Burgess_1990_PDEs_ODEs_analytic_continuation_special\.
+[^Cooley1965]: @Cooley_1965_An_algorithm_for_the_machine_calculation\.
 
 
 ### Differential geometry

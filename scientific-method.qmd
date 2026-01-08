@@ -368,9 +368,13 @@ See also:
 -   [Alonzo Church](https://en.wikipedia.org/wiki/Alonzo_Church) (1903-1995)
 -   [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) (1912-1954)
 -   [Konrad Zuse](https://en.wikipedia.org/wiki/Konrad_Zuse) (1910-1995)
--   [ENIAC](https://en.wikipedia.org/wiki/ENIAC) (1945)
+-   [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming) (1915-1998)
+    -   Hamming, R.W. (1997). *The Art of Doing Science and Engineering: Learning to Learn*. [^Hamming1997]
 -   [Herbert A. Simon](https://en.wikipedia.org/wiki/Herbert_A._Simon) (1916-2001)
+-   [ENIAC](https://en.wikipedia.org/wiki/ENIAC) (1945)
 -   TODO
+
+[^Hamming1997]: @Hamming_1997_The_Art_of_Doing_Science_and_Engineering_Learning\.
 
 
 Rationalism vs empiricism
@@ -1241,6 +1245,7 @@ See also:
 ### Abduction
 
 -   Peirce
+-   Fann, K.T. (1970). *Peirce’s Theory of Abduction*. [^Fann1970]
 -   Douven, I. (2011). [Abduction](http://plato.stanford.edu/entries/abduction/). *SEP*. [^Douven2011]
 -   Ockham, parsimony
 -   Karl Popper
@@ -1288,6 +1293,7 @@ See also:
 [^Bhaskar2008pX]: @Bhaskar_2008_A_Realist_Theory_of_Science\.
 [^Douven2011]: @Douven_2011_Abduction\.
 [^Doyle1890]: @Doyle_1890_The_Sign_of_the_Four\, ch. 6.
+[^Fann1970]: @Fann_1970_Peirces_Theory_of_Abduction\.
 [^Schurz2019p3]: @Schurz_2019_Humes_Problem_Solved_The_optimality_of_meta\, p. 3.
 [^WikipediaAbductiveReasoning1]: [en.wikipedia.org/wiki/Abductive_reasoning](https://en.wikipedia.org/wiki/Abductive_reasoning)
 [^WikipediaAbductiveReasoning2]: Ibid.

@@ -318,6 +318,7 @@ Moore & Kelle:
     -   [Isma'ilism](https://en.wikipedia.org/wiki/Isma%27ilism)
     -   [Safavid conversion of Iran to Shia Islam](https://en.wikipedia.org/wiki/Safavid_conversion_of_Iran_to_Shia_Islam)
 -   [Sufism](https://en.wikipedia.org/wiki/Sufism) - Islamic mysticism
+    -   [Rumi](https://en.wikipedia.org/wiki/Rumi) (1207-1273)
     -   [Hazrat Babajan](https://en.wikipedia.org/wiki/Hazrat_Babajan) (d. 1931)
     -   [Meher Baba](https://en.wikipedia.org/wiki/Meher_Baba) (1894-1969)
     -   [George Gurdjieff](https://en.wikipedia.org/wiki/George_Gurdjieff) (d. 1949)
@@ -2075,6 +2076,15 @@ TODO:
 -   ...
 
 
+### Existential therapy
+
+-   [Existential therapy](https://en.wikipedia.org/wiki/Existential_therapy)
+-   [Otto Rank](https://en.wikipedia.org/wiki/Otto_Rank) (1884–1939)
+-   [Karl Jaspers](https://en.wikipedia.org/wiki/Karl_Jaspers) (1883-1969)
+-   [Rollo Reece May](https://en.wikipedia.org/wiki/Rollo_May) (1909-1994)
+    -   *The Courage to Create* (1975)
+
+
 ### Neurobiology
 
 -   Dopamine and anticipation
@@ -2415,12 +2425,16 @@ Bertrand Russell:
     -   *The Fall* / *La Chute* (1956)
 -   [Paul Tillich](https://en.wikipedia.org/wiki/Paul_Tillich) (1886-1965)
     -   *The Courage to Be* (1952)
+    -   *Biblical Religion and the Search for Ultimate Reality* (1955)
+    -   Tillich, P. (1955). [What is truth?](https://biblicalstudies.org.uk/pdf/cjt/01-2_117.pdf). [^Tillich1955]
+    -   [*Christianity and the Encounter of the World Religions*](https://web.archive.org/web/20051126185238/http://www.religion-online.org/showbook.asp?title=1557) (1963)
 
 [^Camus1988]: @Camus_1988_The_Stranger\.
 [^Heidegger1966]: @Heidegger_1966_Discourse_on_Thinking\.
 [^Russell1989p303]: @Russell_1989_Wisdom_of_the_West\, p. 303.
 [^Sartre1946]: @Sartre_2007_Existentialism_is_a_Humanism\.
 [^Sartre1964]: @Sartre_1964_Nausea\.
+[^Tillich1955]: @Tillich_1955_What_is_truth\.
 
 
 ### Artworks

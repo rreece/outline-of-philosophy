@@ -329,7 +329,26 @@ See also:
 
 ### Counter criticism
 
+Hamming:
+
+>   Even if you believe in evolution, still there can be a moment when God, or the gods, stepped in and gave
+>   man special properties which distinguish him from the rest of living things. This belief in an essential
+>   difference between man and the rest of the world is what makes many people believe machines can never,
+>   unless we ourselves become like the gods, be the same as a human in such details as thinking, for example.
+>   Such people are forced, like the above mentioned Jesuit trained engineer, to make the definition of thinking
+>   to be what machines cannot do. Usually it is not so honestly stated as he did, rather it is disguised somehow
+>   behind a facade of words, but the intention is the same!
+>   
+>   Physics regards you as a collection of molecules in a radiant energy field and there is, in strict physics,
+>   *nothing else*. Democritus (b. around 460 B.C.) said in ancient Greek times, “All is atoms and void”. This is
+>   the stance of the hard AI people; there is no essential difference between machines and humans, hence by
+>   suitably programming machines then machines can do anything humans can do. Their failures to produce
+>   thinking in significant detail is, they believe, merely the failure of programmers to understand what they are
+>   doing, and not an essential limitation. [^Hamming1997p43]
+
 -   [Comic by Dennett](https://web.archive.org/web/20220219043643/https://ase.tufts.edu/cogstud/assets/searle.jpg)
+
+[^Hamming1997p43]: @Hamming_1997_The_Art_of_Doing_Science_and_Engineering_Learning\, p. 43.
 
 
 ### Computer vision and mind

@@ -548,11 +548,6 @@ TODO: Note that Everettian QM would argue the Born rule is secondary and derivab
     -   Carcassi, G., Maccone, L., & Aidala, C.A. (2020). [The four postulates of quantum mechanics are three](https://arxiv.org/abs/2003.11007). [^Carcassi2020]
 -   Too much focus on NRQM
     -   Wallace, D. (2020). [Lessons from realistic physics for the metaphysics of quantum theory](https://link.springer.com/article/10.1007/s11229-018-1706-y). [^Wallace2020]
--   Hilbert spaces
-    -   R&eacute;dei, M. (1996). Why John von Neumann did not like the Hilbert space formalism of quantum mechanics (and what he liked instead). [^Redei1996]
-    -   de la Madrid, R. (2005). [The role of the rigged Hilbert space in quantum mechanics](https://arxiv.org/abs/quant-ph/0502053). [^Madrid2005]
-    -   Carcassi, G., Calderon, F., & Aidala, C.A. (2023). [The unphysicality of Hilbert spaces](https://arxiv.org/abs/2308.06669). [^Carcassi2023]
-    -   Kronz, F. & Lupher, T. (2024). [Quantum theory and mathematical rigor](https://plato.stanford.edu/entries/qt-nvd/). - *SEP*
 -   Somehow, QM is about complex numbers:
     -   [Riesz representation theorem](https://en.wikipedia.org/wiki/Riesz_representation_theorem)
     -   Jordan, P., von Neumann, J., & Wigner, E.P. (1934). [On an algebraic generalization of the quantum mechanical formalism](https://www.jstor.org/stable/1968117). [^Jordan1934]
@@ -560,6 +555,12 @@ TODO: Note that Everettian QM would argue the Born rule is secondary and derivab
     -   Morales, J.A.C & Zilber. B. (2014). [The geometric semantics of algebraic quantum mechanics](https://arxiv.org/abs/1410.7277). [^Morales2014]
     -   Garisto, D. (2025). [Physicists take the imaginary numbers out of quantum mechanics](https://www.quantamagazine.org/physicists-take-the-imaginary-numbers-out-of-quantum-mechanics-20251107/).
         -   TODO: References therein
+-   Hilbert spaces
+    -   R&eacute;dei, M. (1996). Why John von Neumann did not like the Hilbert space formalism of quantum mechanics (and what he liked instead). [^Redei1996]
+    -   de la Madrid, R. (2005). [The role of the rigged Hilbert space in quantum mechanics](https://arxiv.org/abs/quant-ph/0502053). [^Madrid2005]
+    -   Carcassi, G., Calderon, F., & Aidala, C.A. (2023). [The unphysicality of Hilbert spaces](https://arxiv.org/abs/2308.06669). [^Carcassi2023]
+    -   Kronz, F. & Lupher, T. (2024). [Quantum theory and mathematical rigor](https://plato.stanford.edu/entries/qt-nvd/). - *SEP*
+    -   [Erd&#337;s-Kaplansky theorem](https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Kaplansky_theorem)
 
 See also:
 

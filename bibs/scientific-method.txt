@@ -33,6 +33,7 @@ Earman, J. (2000). *Hume's Abject Failure: The argument against miracles*. Oxfor
 Earnshaw, E. (2017). How I solved Hume's problem and why nobody will believe me. *Philosophy Now*. https://philosophynow.org/issues/119/How_I_Solved_Humes_Problem_and_Why_Nobody_Will_Believe_Me
 Eells, E. (1988). On the alleged impossibility of inductive probability. *The British Journal for the Philosophy of Science*, 39, 111--116. https://fitelson.org/probability/eells_pm.pdf
 Einstein, A. (1922). Geometry and Experience. London: Methuen & Co. http://www-history.mcs.st-andrews.ac.uk/Extras/Einstein_geometry.html [Address given to the Prussian Academy of Sciences on January 27, 1921]
+Fann, K.T. (1970). *Peirce’s Theory of Abduction*. Springer.
 Feyerabend, P. (1974). *Against Method*. Verso.
 Feynman, R.P. (1974). Cargo cult science. http://calteches.library.caltech.edu/51/2/CargoCult.pdf
 Feynman, R.P. (1998). *The Meaning of It All*. Addison-Wesley.
@@ -44,6 +45,7 @@ Frigg, R. & Hartmann, S. (2020). Models in science *Stanford Encyclopedia of Phi
 Geanakoplos, J.D. & Polemarchakis, H.M. (1982). We can't disagree forever. *Journal of Economic Theory*, 28, 192--200.
 Gettier, E.L. (1963). Is justified true belief knowledge? *Analysis*, 23, 121--3.
 Gould, S.J. (1965). Is uniformitarianism necessary? *American Journal of Science*, 263, 223--228.
+Hamming, R.W. (1997). *The Art of Doing Science and Engineering: Learning to Learn*. Gordon and Breach Science Publishers.
 Hansson, S.O. & Hendricks, V.F. (2018). *Introduction to Formal Philosophy*. Springer.
 Heesen, R. (2017). Communism and the incentive to share in science. *Philosophy of Science*, 84, 698--716. 
 Hempel, C.G. & Oppenheim, P. (1948). Studies in the logic of explanation. *Philosophy of Science*, 15(2), 135--175.
