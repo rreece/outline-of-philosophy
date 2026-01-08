@@ -2224,6 +2224,7 @@ Links and encyclopedia articles
 -   Baez, J.C. (2018). [Nonstandard Integers as Complex Numbers](https://johncarlosbaez.wordpress.com/2018/03/03/nonstandard-integers-as-complex-numbers/).
 -   Baez, J.C. (2018). [Insanely Long Proofs](https://johncarlosbaez.wordpress.com/2012/10/19/insanely-long-proofs/).
 -   Schwichtenberg, J. (2018). [Classification of simple Lie groups](https://web.archive.org/web/20230529023834/http://jakobschwichtenberg.com/classification-of-simple-lie-groups/).
+-   Starbird, M. (2016). [Who invented calculus?](https://www.thegreatcoursesdaily.com/invented-calculus-newton-leibniz/)
 -   Tao, T. (2019). [Career advice](https://terrytao.wordpress.com/career-advice/).
 -   Trioni, S. (2020). [Cantor's attic](https://neugierde.github.io/cantors-attic/).
 

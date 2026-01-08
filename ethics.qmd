@@ -95,9 +95,6 @@ Consequentialism
 -   J.S. Mill
 -   G.E.M. Anscombe (1919-2001)
 -   Game theory
--   [Von Neumann-Morgenstern utility theorem](https://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Morgenstern_utility_theorem)
--   Binmore
--   J.J.C. Smart
 -   Portmore
     -   *Commonsense Consequentialism* [^Portmore2011]
 -   Tyler Cowen
@@ -119,6 +116,20 @@ See also:
 -   De Quincey, T. (1821). *Confessions of an English Opium-Eater*.
 -   Hunter S. Thompson
 -   Christopher Hitchens. (2003). [Living proof](https://www.vanityfair.com/news/2003/03/hitchens-200303). *Vanity Fair*.
+-   J.J.C. Smart
+    -   Smart, J.J.C. (1956). [Extreme and restricted utilitarianism](https://www.jstor.org/stable/2216786). [^Smart1956]
+
+[^Smart1956]: @Smart_1956_Extreme_and_restricted_utilitarianism\.
+
+
+### Game theory
+
+-   [Von Neumann-Morgenstern utility theorem](https://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Morgenstern_utility_theorem)
+-   Brian Skyrms
+-   Ken Binmore
+-   D'Arms, J., Batterman, R., & G&oacute;rny, K. (1998). [Game theoretic explanations and the evolution of justice](https://doi.org/10.1086/392627). [^DArms1998]
+
+[^DArms1998]: @DArms_1998_Game_theoretic_explanations_and_the_evolution\.
 
 
 ### Effective altruism
