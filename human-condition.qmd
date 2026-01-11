@@ -1130,7 +1130,8 @@ Online Suttas:
 
 -   [Dzogchen](https://en.wikipedia.org/wiki/Dzogchen) - "Great Perfection"
     -   a practice with great emphasis on introspection and meditation
--   [*Bardo Thodol*](https://en.wikipedia.org/wiki/Bardo_Thodol) - *The Tibetan Book of the Dead*
+-   [Bardo](https://en.wikipedia.org/wiki/Bardo) - intermediate state between death and rebirth
+    -   [*Bardo Thodol*](https://en.wikipedia.org/wiki/Bardo_Thodol) - *The Tibetan Book of the Dead*
 -   [Tantra](https://en.wikipedia.org/wiki/Tantra) - esoteric teachings in Hinduism and Buddhism
     -   literally: "loom, weave, system"
     -   [Mahasiddha](https://en.wikipedia.org/wiki/Mahasiddha)
