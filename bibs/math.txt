@@ -85,6 +85,7 @@ Kleene, S.C. (1952). *Introduction to Metamathematics*. North-Holland Publishing
 Knuth, D. (1974). *Surreal Numbers: How two ex-students turned on to pure mathematics and found total happiness*. Addison Wesley.
 Kripke, S.A. (1959). A completeness theorem in modal logic. *The Journal of Symbolic Logic*, 24, 1--14. http://naturalthinker.net/trl/texts/Kripke,Saul/Kripke%20S.%20-%20A%20Completeness%20Theorem%20in%20Modal%20Logic.pdf
 Lawvere, F.W. (1963). *Functorial Semantics of Algebraic Theories and Some Algebraic Problems in the context of Functorial Semantics of Algebraic Theories*. Columbia University. http://www.tac.mta.ca/tac/reprints/articles/5/tr5abs.html [(Ph.D. thesis)]
+Lawvere, F.W. & Schanuel, S.H. (2009). *Conceptual Mathematics: A first introduction to categories* (2nd ed.). Cambridge University Press.
 Lewis, C.I. (1917). The issues concerning material implication. *The Journal of Philosophy, Psychology and Scientific Methods*, 14, 350-356. https://www.jstor.org/stable/2940255
 Lewis, D. (1986). *On the Plurality of Worlds*. Oxford: Blackwell.
 Leitgeb, H., Nodelman, U., & Zalta, E.N. (2025). A defense of logicism. *Bulletin of Symbolic Logic*, 31, 88--152. https://www.cambridge.org/core/journals/bulletin-of-symbolic-logic/article/defense-of-logicism/A7F3DFF29C85BE044C6DDBBBB81CA6B4

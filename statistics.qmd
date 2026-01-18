@@ -421,6 +421,9 @@ Statistical models
 -   Data: $x_i$
 -   Parameters: $\theta_j$
 -   Model: $f(\vec{x} ; \vec{\theta})$
+-   McCullagh, P. (2002). [What is a statistical model?](https://www.stat.uchicago.edu/~pmcc/pubs/AOS023.pdf). [^McCullagh2002]
+
+[^McCullagh2002]: @McCullagh_2002_What_is_a_statistical_model\.
 
 
 ### Canonical distributions

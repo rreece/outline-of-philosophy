@@ -1238,6 +1238,7 @@ Category theory
 -   Relation to Russell type theory
 -   Categories are semigroupoids.
 -   Mac Lane, S. (1971). *Categories for the Working Mathematician*. [^MacLane1971]
+-   Lawvere, F.W. & Schanuel, S.H. (2009). *Conceptual Mathematics: A first introduction to categories*. [^Lawvere2009]
 -   Rodin, A. (2012). [Axiomatic method and category theory](https://arxiv.org/abs/1210.1478). [^Rodin2012]
 -   Spivak, D.I. (2013). [Category theory for scientists](https://arxiv.org/abs/1302.6946). [^Spivak2013b]
 -   Fong, B. & Spivak, D.I. (2018). [Seven sketches in compositionality: An invitation to applied category theory](https://arxiv.org/abs/1803.05316). [^Fong2018]
@@ -1254,6 +1255,7 @@ See also:
 [^Bradley2018]: @Bradley_2018_What_is_applied_category_theory\.
 [^Fong2018]: @Fong_2018_Seven_sketches_in_compositionality_An_invitation\.
 [^Lawvere1963]: @Lawvere_1963_Functorial_Semantics_of_Algebraic_Theories\.
+[^Lawvere2009]: @Lawvere_2009_Conceptual_Mathematics_A_first_introduction\.
 [^MacLane1971]: @MacLane_1971_Categories_for_the_Working_Mathematician\.
 [^Rodin2012]: @Rodin_2012_Axiomatic_method_and_category_theory\.
 [^Spivak2013b]: @Spivak_2013_Category_theory_for_scientists\.
