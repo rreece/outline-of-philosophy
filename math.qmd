@@ -292,6 +292,7 @@ $$ \iint_{\partial V} \vec{F} \cdot \mathrm{d}\vec{S} = \iiint_V (\nabla \cdot \
     -   W.V.D. Hodge (1903-1975)
 -   Differential forms
     -   Manifold, tangent and cotangent spaces, vector bundle, fiber bundle
+    -   Exterior calculus
     -   Burke, W.L. (1985). *Applied Differential Geometry*. [^Burke1985]
     -   Frankel, T. (1997). *The Geometry of Physics: An Introduction*. [^Frankel1997]
     -   Review by Fr&egrave; [^Fre2013v1ch2]
@@ -300,6 +301,7 @@ $$ \iint_{\partial V} \vec{F} \cdot \mathrm{d}\vec{S} = \iiint_V (\nabla \cdot \
     -   Sussman, G.J. & Wisdom, J. (2013). [*Functional Differential Geometry*](https://mitpress.mit.edu/books/functional-differential-geometry). [^Sussman2013]
     -   Tu, L.W. (2017). *Differential Geometry: Connections, Curvature, and Characteristic Classes*. [^Tu2017]
     -   Bronstein, M.M. et al. (2021). [Geometric deep learning: Grids, groups, graphs, geodesics, and gauges](https://arxiv.org/abs/2104.13478). [^Bronstein2021p56]
+    -   Wang, S., Nabizadeh, M.S., & Chern, A. (2023). [Exterior Calculus in Graphics](https://stephaniewang.page/files/ECIG_notes_v1.00.pdf). [^Wang2023]
 -   [De Rham cohomology](https://en.wikipedia.org/wiki/De_Rham_cohomology)
 -   [Chern-Simons theory](https://en.wikipedia.org/wiki/Chern%E2%80%93Simons_theory)
 -   Non-commutative
@@ -322,6 +324,7 @@ See also:
 [^Tao2007]: @Tao_2007_Differential_forms_and_integration\.
 [^Tu2017]: @Tu_2017_Differential_Geometry_Connections_Curvature\.
 [^Varadarajan2003]: @Varadarajan_2003_Vector_bundles_and_connections_in_physics\.
+[^Wang2023]: @Wang_2023_Exterior_Calculus_in_Graphics_Course_notes\.
 
 
 ### Complex analysis

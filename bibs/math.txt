@@ -151,6 +151,7 @@ Viteri, S. & DeDeo, S. (2022). Epistemic phase transitions in mathematical proof
 von Fintel, K. (2011). Conditionals. https://dspace.mit.edu/handle/1721.1/95781
 von Neumann, J. & Morgenstern, O. (1944). *Theory of Games and Economic Behavior*. Princeton University Press.
 Wall, C.T.C. (1964). Graded Brauer groups. *Journal f{\"u}r die reine und angewandte Mathematik*, 213, 187--199.
+Wang, S., Nabizadeh, M.S., & Chern, A. (2023). Exterior Calculus in Graphics: Course notes for a SIGGRAPH 2023 course. https://stephaniewang.page/files/ECIG_notes_v1.00.pdf
 Weiss, W. & D'Mello, C. (2015). *Fundamentals of Model Theory*. https://www.math.toronto.edu/weiss/model_theory.pdf
 Westbury, B.W. (2010). Hurwitz' theorem on composition algebras. https://arxiv.org/abs/1011.6197
 Wigner, E.P. (1960). The unreasonable effectiveness of mathematics in the natural sciences. *Communications on pure and applied mathematics*, 13, 1--14. http://www.dartmouth.edu/~matc/MathDrama/reading/Wigner.html [Richard courant lecture in mathematical sciences delivered at New York University, May 11, 1959]
