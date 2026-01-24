@@ -700,32 +700,38 @@ Meditation:
         but may not have reached full Buddhahood.
 -   [Buddhahood](https://en.wikipedia.org/wiki/Buddhahood)
 -   [Pratyekabuddhay&amacr;na](https://en.wikipedia.org/wiki/Pratyekabuddhay%C4%81na) - "solitary buddha"
--   [Parinirvana](https://en.wikipedia.org/wiki/Parinirvana) - nirvana-after-death
 
 
 #### Buddhist philosophy
 
 -   [Buddhist philosophy](https://en.wikipedia.org/wiki/Buddhist_philosophy)
--   Siderits, M (2021). *Buddhism As Philosophy*. [^Siderits2021]
+-   Siderits, M. (2021). *Buddhism As Philosophy*. [^Siderits2021]
+-   Bartley, C. (2015). *An Introduction to Indian Philosophy: Hindu and Buddhist Ideas from Original Sources*. [^Bartley2015]
 
-**Epistemology and metaphysics**
+**Metaphysics**
 
+-   [&sacute;&umacr;nyat&amacr;/su&ntilde;&ntilde;at&amacr;](https://en.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81) - emptiness
+-   [an&amacr;tman/anatta](https://en.wikipedia.org/wiki/Anatman)  - non-self
 -   [Prat&imacr;tyasamut&amacr;da](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da) - dependent origination
--   [Reality in Buddhism](https://en.wikipedia.org/wiki/Reality_in_Buddhism)
 -   [Pudgalavada](https://en.wikipedia.org/wiki/Pudgalavada) - philosophy of pudgala (personhood)
--   [Buddhist logico-epistemology](https://en.wikipedia.org/wiki/Buddhist_logico-epistemology)
-    -   [Pram&amacr;nav&amacr;da](https://en.wikipedia.org/wiki/Pramana) - "proof" or "means of knowledge"
-    -   Kalama Sutta ([AN 3.65](https://www.accesstoinsight.org/tipitaka/an/an03/an03.065.than.html))
-    -   Bhikkhu Bodhi (1998). [A look at the Kalama Sutta](https://www.accesstoinsight.org/lib/authors/bodhi/bps-essay_09.html).
+-   [Reality in Buddhism](https://en.wikipedia.org/wiki/Reality_in_Buddhism)
 -   [Buddhist cosmology](https://en.wikipedia.org/wiki/Buddhist_cosmology)
     -   [Mara](https://en.wikipedia.org/wiki/Mara_(demon)) - demon of desire and temptation
     -   [Mount Meru](https://en.wikipedia.org/wiki/Mount_Meru)
 
+**Epistemology**
+
+-   [Buddhist logico-epistemology](https://en.wikipedia.org/wiki/Buddhist_logico-epistemology)
+    -   [Pram&amacr;nav&amacr;da](https://en.wikipedia.org/wiki/Pramana) - proof, means of knowledge
+    -   Kalama Sutta ([AN 3.65](https://www.accesstoinsight.org/tipitaka/an/an03/an03.065.than.html))
+    -   Bhikkhu Bodhi (1998). [A look at the Kalama Sutta](https://www.accesstoinsight.org/lib/authors/bodhi/bps-essay_09.html).
+
 **Ethics**
 
 -   [Buddhist ethics](https://en.wikipedia.org/wiki/Buddhist_ethics)
+-   [Ahimsa](https://en.wikipedia.org/wiki/Ahimsa) - non-violence
+-   [Aparigraha](https://en.wikipedia.org/wiki/Non-possession) - non-possession
 -   [Women in Buddhism](https://en.wikipedia.org/wiki/Women_in_Buddhism)
--   [Ahimsa](https://en.wikipedia.org/wiki/Ahimsa) (nonviolence)
 
 **Atheism**
 
@@ -783,6 +789,7 @@ See also:
 
 -   [Compassion](ethics.html#compassion) in the [Outline on Ethics](ethics.html)
 
+[^Bartley2015]: @Bartley_2015_An_Introduction_to_Indian_Philosophy_Hindu\.
 [^Batchelor1998]: @Batchelor_1998_Buddhism_Without_Beliefs\.
 [^Contestabile2018]: @Contestabile_2018_Secular_Buddhism_and_Justice\.
 [^Hayes1988]: @Hayes_1988_Principled_atheism_in_the_Buddhist_scholastic\.
@@ -872,7 +879,9 @@ See also:
             -   stories of past Buddhas including Prince Vipass&imacr;
         -   *Mah&amacr;nid&amacr;na Sutta* ([DN 15](https://suttacentral.net/dn15/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin)) - "The Great Discourse on Causation"
             -   dependent origination; non-self
-        -   [*Mah&amacr;parinibb&amacr;na Sutta*](https://en.wikipedia.org/wiki/Mahaparinibbana_Sutta) ([DN 16](https://suttacentral.net/dn16/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin)) - about the end of the Buddha's life
+        -   [*Mah&amacr;parinibb&amacr;na Sutta*](https://en.wikipedia.org/wiki/Mahaparinibbana_Sutta) ([DN 16](https://suttacentral.net/dn16/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin))
+            -   About the end of the Buddha's life
+            -   [Parinirvana](https://en.wikipedia.org/wiki/Parinirvana) - the state entered after death by someone who has attained nirvana during their lifetime
         -   *Mah&amacr;satipatth&amacr;na Sutta* (DN 22) - "The Great Discourse on the Establishing of Mindfulness"
     2.  [*Majjhima Nik&amacr;ya*](https://en.wikipedia.org/wiki/Majjhima_Nik%C4%81ya) (MN) - "collection of middle-length discourses"
         -   *Satipatthana Sutta* (MN 10) - "The Discourse on the Establishing of Mindfulness"
@@ -1002,6 +1011,14 @@ Online Suttas:
         -   [San Francisco Zen Center](https://en.wikipedia.org/wiki/San_Francisco_Zen_Center)
         -   [Alan Watts](https://en.wikipedia.org/wiki/Alan_Watts) (1915-1973)
         -   [Institute of Buddhist Studies](https://www.shin-ibs.edu/about/history/), Berkeley, CA
+
+Seems that N&amacr;g&amacr;rjuna was aligned with antirealist, post-modern, deconstructualist views about truth:
+
+>   The method is one of deconstruction, and N&amacr;g&amacr;rjuna wants to show that the reifying and
+>   polarizing work of conceptualization, not to say the din of chatter, conceals the truth.[^Bartley2015p85]
+
+[^Bartley2015p85]: @Bartley_2015_An_Introduction_to_Indian_Philosophy_Hindu\, p. 85.
+
 
 #### Doctrines
 
