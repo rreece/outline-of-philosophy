@@ -727,10 +727,10 @@ likens the Four Noble Truths to a medical diagnosis of the human condition:
 
 **Metaphysics**
 
--   [&sacute;&umacr;nyat&amacr;/su&ntilde;&ntilde;at&amacr;](https://en.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81) - emptiness
--   [an&amacr;tman/anatta](https://en.wikipedia.org/wiki/Anatman)  - non-self
--   [Prat&imacr;tyasamut&amacr;da](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da) - dependent origination
--   [Pudgalavada](https://en.wikipedia.org/wiki/Pudgalavada) - philosophy of pudgala (personhood)
+-   [_&sacute;&umacr;nyat&amacr;/su&ntilde;&ntilde;at&amacr;_](https://en.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81) - emptiness
+-   [_an&amacr;tman/anatta_](https://en.wikipedia.org/wiki/Anatman)  - non-self
+-   [_prat&imacr;tyasamut&amacr;da/paticcasamupp&amacr;da_](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da) - dependent origination
+-   [pudgalavada/puggalav&amacr;da](https://en.wikipedia.org/wiki/Pudgalavada) - personhood
 -   [Reality in Buddhism](https://en.wikipedia.org/wiki/Reality_in_Buddhism)
 -   [Buddhist cosmology](https://en.wikipedia.org/wiki/Buddhist_cosmology)
     -   [Mara](https://en.wikipedia.org/wiki/Mara_(demon)) - demon of desire and temptation
@@ -739,15 +739,15 @@ likens the Four Noble Truths to a medical diagnosis of the human condition:
 **Epistemology**
 
 -   [Buddhist logico-epistemology](https://en.wikipedia.org/wiki/Buddhist_logico-epistemology)
-    -   [Pram&amacr;nav&amacr;da](https://en.wikipedia.org/wiki/Pramana) - proof, means of knowledge
+    -   [_pram&amacr;nav&amacr;da_](https://en.wikipedia.org/wiki/Pramana) (Sanskrit) - proof, means of knowledge
     -   Kalama Sutta ([AN 3.65](https://www.accesstoinsight.org/tipitaka/an/an03/an03.065.than.html))
     -   Bhikkhu Bodhi (1998). [A look at the Kalama Sutta](https://www.accesstoinsight.org/lib/authors/bodhi/bps-essay_09.html).
 
 **Ethics**
 
 -   [Buddhist ethics](https://en.wikipedia.org/wiki/Buddhist_ethics)
--   [Ahimsa](https://en.wikipedia.org/wiki/Ahimsa) - non-violence
--   [Aparigraha](https://en.wikipedia.org/wiki/Non-possession) - non-possession
+-   [_ahimsa_](https://en.wikipedia.org/wiki/Ahimsa) - non-violence
+-   [_parigraha_](https://en.wikipedia.org/wiki/Non-possession) (Sanskrit) - non-possession
 -   [Women in Buddhism](https://en.wikipedia.org/wiki/Women_in_Buddhism)
 
 **Atheism**
@@ -880,16 +880,16 @@ See also:
 #### Doctrines
 
 -   Focus on the Noble Eightfold Path
--   [Vipassan&amacr;](https://en.wikipedia.org/wiki/Vipassan%C4%81) - "special seeing" or "insight"
+-   [_Vipassan&amacr;_](https://en.wikipedia.org/wiki/Vipassan%C4%81) - "special seeing" or "insight"
     -   [Vipassan&amacr; movement](https://en.wikipedia.org/wiki/Vipassana_movement)
     -   branch of modern Burmese Therav&amacr;da Buddhism with widespread popularity since the 1950s
     -   begat the western "Mindfullness movement"
--   [Dhy&amacr;na/Jh&amacr;na](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism) - meditation
--   [Acinteyya](https://en.wikipedia.org/wiki/Acinteyya) - the four imponderable or incomprehensible issues
+-   [_Dhy&amacr;na/Jh&amacr;na_](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism) - meditation
+-   [_Acinteyya_](https://en.wikipedia.org/wiki/Acinteyya) - the four imponderable or incomprehensible issues
 
 #### Primary texts
 
-[Tripitaka](https://en.wikipedia.org/wiki/Tripitaka) - "The Three Baskets" of the [Pali Canon](https://en.wikipedia.org/wiki/P%C4%81li_Canon):
+[*Tripitaka*](https://en.wikipedia.org/wiki/Tripitaka) - "The Three Baskets" of the [*Pali Canon*](https://en.wikipedia.org/wiki/P%C4%81li_Canon):
 
 1.  [*Vinaya Pitaka*](https://en.wikipedia.org/wiki/Vinaya_Pitaka) - "Basket of Discipline"
 2.  [*Sutta Pitaka*](https://en.wikipedia.org/wiki/Sutta_Pitaka) - "Basket of Discourse"
