@@ -621,7 +621,7 @@ Emptiness ([&sacute;&umacr;nyat&amacr;/su&ntilde;&ntilde;at&amacr;](https://en.w
 
 1.  Suffering ([duhkha/dukkha](https://en.wikipedia.org/wiki/Duhkha)) is part of existence.
 2.  The origins or causes ([samudaya/samudaya](https://encyclopediaofbuddhism.org/wiki/Samudaya)) of suffering are
-    craving ([trsn&amacr;(trishna)/tanha](https://encyclopediaofbuddhism.org/wiki/Tanha)),
+    craving (trishna/tanha](https://encyclopediaofbuddhism.org/wiki/Tanha)),
     ignorance/delusion ([avidy&amacr;/avijja](https://encyclopediaofbuddhism.org/wiki/Avidya)), 
     attachment ([r&amacr;ga/lobha](https://encyclopediaofbuddhism.org/wiki/Raga)), and
     anger/aversion ([dvesha/dosa](https://encyclopediaofbuddhism.org/wiki/Dvesha)).
@@ -654,6 +654,8 @@ likens the Four Noble Truths to a medical diagnosis of the human condition:
 1.  S&imacr;la - "discipline" or "moral conduct"
 2.  Samadhi - "meditation"
 3.  Praj&ntilde;a - "wisdom"
+
+-   [&Sacute;raddh&amacr;](https://en.wikipedia.org/wiki/Faith_in_Buddhism) - faith
 
 
 #### Five aggregates of clinging
@@ -695,8 +697,10 @@ likens the Four Noble Truths to a medical diagnosis of the human condition:
 #### Meditation
 
 -   Arbel, K. (2017). *Early Buddhist Meditation: The Four Jhanas as the Actualization of Insight*. [^Arbel2017]
+-   [Dhy&amacr;na/Jh&amacr;na](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism) - meditation
+-   [Sam&amacr;dhi](https://en.wikipedia.org/wiki/Samadhi)
 
-[^Arbel2017]: HERE
+[^Arbel2017]: @Arbel_2017_Early_Buddhist_Meditation_The_Four_Jhanas_as\.
 
 
 #### Buddhist paths to liberation
@@ -1111,11 +1115,11 @@ Seems that N&amacr;g&amacr;rjuna was aligned with antirealist, post-modern, deco
 
 #### Secondary texts
 
--   Williams, P. (2009). *Mah&amacr;y&amacr;na Buddhism: The doctrinal foundations*. [^Williams2009]
+-   Williams, P. (2009). *Mah&amacr;y&amacr;na Buddhism: The Doctrinal Foundations*. [^Williams2009]
 -   [Fundamentals of Jodo Shinshu Buddhism Workbook](https://sites.google.com/view/jodo-shinshu-fundamentals/home) by [Mountain View Buddhist Temple](https://www.mvbuddhisttemple.org/)
 -   [UrbanDharma.org](http://www.urbandharma.org/index6.html) & [kusala.org](http://www.kusala.org/) - resources on Buddhism by Kusala Ratana Karuna
 
-[^Williams2009]: @Williams_2009_Mahayana_Buddhism_The_doctrinal_foundations\.
+[^Williams2009]: @Williams_2009_Mahayana_Buddhism_The_Doctrinal_Foundations\.
 
 
 ![*Blind monks examining an elephant*, an ukiyo-e print by Hanabusa Itcho (1652-1724)
