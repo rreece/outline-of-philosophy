@@ -574,8 +574,6 @@ Buddhism
 -   Sadakata, A. (1997). *Buddhist Cosmology: Philosophy and Origins*. [^Sadakata1997]
 -   Harvey, P. (2013). *An Introduction to Buddhism*. [^Harvey2013]
 -   Epstein, R. (2004). [Resources for the study of Buddhism](http://online.sfsu.edu/rone/Buddhism/Buddhism.htm).
--   Hatcher, B. (2013). [A Bibliography of Buddhism (and Recovery)](https://www.hermetica.info/BuddBib.htm). - hermetica.info
--   O'Brien, B. (2018). [Buddhist teachings on the self](https://www.learnreligions.com/self-no-self-whats-a-self-450190).
 -   [BPS Online Library](http://www.bps.lk/library.php)
 -   [Buddhist eLibrary.org](http://www.buddhistelibrary.org/en/index.php)
 
@@ -613,6 +611,7 @@ Emptiness ([&sacute;&umacr;nyat&amacr;/su&ntilde;&ntilde;at&amacr;](https://en.w
 -   In Mah&amacr;y&amacr;na, &sacute;&umacr;nyat&amacr; refers the emptiness
     doctrine that all things are empty of intrinsic existence,
     refuting essentialism.
+-   O'Brien, B. (2018). [Buddhist teachings on the self](https://www.learnreligions.com/self-no-self-whats-a-self-450190).
 
 
 #### Four Noble Truths
@@ -1922,6 +1921,7 @@ Comparative studies
     -   Derek Parfit (b. 1942)
         -   Smith, D. (2013). [Gotama and Parfit on the self](https://secularbuddhism.org/gotama-and-parfit-on-the-self/).
     -   McMahan, D.L. (2004). [Modernity and the early discourse of scientific Buddhism](https://www.jstor.org/stable/40005933). [^McMahan2004]
+    -   McMahan, D.L. (2008). *The Making of Buddhist Modernism*. [^McMahan2008]
 
 Nietzsche:
 
@@ -1941,6 +1941,7 @@ Nietzsche:
 >   "the struggle against suffering." [^Nietzsche1895Sec20]
 
 [^McMahan2004]: @McMahan_2004_Modernity_and_the_early_discourse_of_scientific\.
+[^McMahan2008]: @McMahan_2008_The_Making_of_Buddhist_Modernism\.
 [^Nelson2011]: @Nelson_2011_The_Yijing_and_philosophy_From_Leibniz\.
 [^Nietzsche1895Sec20]: @Nietzsche_2004_Ecce_Homo_How_One_Becomes_What_One_Is\, &sect;20\.
 [^Nietzsche1895Sec20to30]: @Nietzsche_2004_Ecce_Homo_How_One_Becomes_What_One_Is\, &sect;20--23\.
@@ -1960,6 +1961,7 @@ Nietzsche:
 -   [Syncretism](https://en.wikipedia.org/wiki/Syncretism)
 
 [^Huxley1945]: @Huxley_1945_The_Perennial_Philosophy\.
+
 
 #### Criticism
 
