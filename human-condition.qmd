@@ -346,6 +346,7 @@ Hinduism
         -   forms the theoretical foundation that influenced Yoga
     2.  [Yoga](https://en.wikipedia.org/wiki/Yoga)
         -   emphasizes a personal god ([Ishvara](https://en.wikipedia.org/wiki/Ishvara))
+        -   [Patanjali](https://en.wikipedia.org/wiki/Patanjali)
     3.  [Ny&amacr;ya](https://en.wikipedia.org/wiki/Nyaya)
         -   direct realism and logic
     4.  [Vaisheshika](https://en.wikipedia.org/wiki/Vaisheshika)
@@ -510,7 +511,7 @@ Others:
 -   [&Amacr;tman](https://en.wikipedia.org/wiki/%C4%80tman_(Hinduism)) - self/soul
 -   [Atheism in Hinduism](https://en.wikipedia.org/wiki/Hindu_atheism) - [Ch&amacr;rv&amacr;ka/Lokayata](https://en.wikipedia.org/wiki/Charvaka)
 -   [Carnatic music](https://en.wikipedia.org/wiki/Carnatic_music)
--   [Dhyana](https://en.wikipedia.org/wiki/Dhyana_in_Hinduism) - meditation
+-   [Dhy&amacr;na](https://en.wikipedia.org/wiki/Dhyana_in_Hinduism) - meditation
 -   [Hatha yoga](https://en.wikipedia.org/wiki/Hatha_yoga)
 -   [Kalpa](https://en.wikipedia.org/wiki/Kalpa_(aeon)) - aeon
 -   [Karma](https://en.wikipedia.org/wiki/Karma_in_Hinduism)
@@ -648,6 +649,23 @@ likens the Four Noble Truths to a medical diagnosis of the human condition:
 7.  Right Mindfulness
 8.  Right Unification
 
+[Three Trainings](https://en.wikipedia.org/wiki/Threefold_Training):
+
+1.  S&imacr;la - "discipline" or "moral conduct"
+2.  Samadhi - "meditation"
+3.  Praj&ntilde;a - "wisdom"
+
+
+#### Five aggregates of clinging
+
+-   [Skandhas/Khandhas](https://en.wikipedia.org/wiki/Skandha) - aggregates, groups, heaps
+
+1. Form or matter: (r&umacr;pa)
+2. Sensation or feeling: (vedan&amacr;)
+3. Perception (samj&ntilde;&amacr;/sa&ntilde;&ntilde;&amacr;)
+4. Mental formations (samsk&amacr;ra/sankh&amacr;ra)
+5. Consciousness (vij&ntilde;&amacr;na/vi&ntilde;&ntilde;&amacr;na)
+
 
 #### Refuge in the Three Jewels
 
@@ -674,15 +692,11 @@ likens the Four Noble Truths to a medical diagnosis of the human condition:
 -   Bodhi. (1998). [A Discipline of Sobriety](https://www.accesstoinsight.org/lib/authors/bodhi/bps-essay_36.html).
 
 
-#### The Three Trainings
+#### Meditation
 
-1.  S&imacr;la - "discipline" or "moral conduct"
-2.  Samadhi - "meditation"
-3.  Praj&ntilde;a - "wisdom"
+-   Arbel, K. (2017). *Early Buddhist Meditation: The Four Jhanas as the Actualization of Insight*. [^Arbel2017]
 
-Meditation:
-
--   [Dhy&amacr;na in Buddhism](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism) - meditation
+[^Arbel2017]: HERE
 
 
 #### Buddhist paths to liberation
@@ -865,7 +879,7 @@ See also:
     -   [Vipassan&amacr; movement](https://en.wikipedia.org/wiki/Vipassana_movement)
     -   branch of modern Burmese Therav&amacr;da Buddhism with widespread popularity since the 1950s
     -   begat the western "Mindfullness movement"
--   Jh&amacr;nas - states of meditation. See [Dhy&amacr;na in Buddhism](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism).
+-   [Dhy&amacr;na/Jh&amacr;na](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism) - meditation
 -   [Acinteyya](https://en.wikipedia.org/wiki/Acinteyya) - the four imponderable or incomprehensible issues
 
 #### Primary texts
