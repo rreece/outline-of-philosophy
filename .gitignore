@@ -2,3 +2,5 @@ bibs/mybib.bib
 _site/
 .quarto/
 **/*.quarto_ipynb
+
+/.quarto/
