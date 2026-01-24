@@ -1096,11 +1096,11 @@ Seems that N&amacr;g&amacr;rjuna was aligned with antirealist, post-modern, deco
 
 #### Secondary texts
 
--   Williams, P. (2009). *Mah&amacr;y&amacr;na Buddhism: The doctrinal foundations*. [^Williams2009]
+-   Williams, P. (2009). *Mah&amacr;y&amacr;na Buddhism: The Doctrinal Foundations*. [^Williams2009]
 -   [Fundamentals of Jodo Shinshu Buddhism Workbook](https://sites.google.com/view/jodo-shinshu-fundamentals/home) by [Mountain View Buddhist Temple](https://www.mvbuddhisttemple.org/)
 -   [UrbanDharma.org](http://www.urbandharma.org/index6.html) & [kusala.org](http://www.kusala.org/) - resources on Buddhism by Kusala Ratana Karuna
 
-[^Williams2009]: @Williams_2009_Mahayana_Buddhism_The_doctrinal_foundations\.
+[^Williams2009]: @Williams_2009_Mahayana_Buddhism_The_Doctrinal_Foundations\.
 
 
 ![*Blind monks examining an elephant*, an ukiyo-e print by Hanabusa Itcho (1652-1724)
