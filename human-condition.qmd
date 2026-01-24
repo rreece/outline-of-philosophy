@@ -620,7 +620,7 @@ Emptiness ([&sacute;&umacr;nyat&amacr;/su&ntilde;&ntilde;at&amacr;](https://en.w
 
 1.  Suffering ([duhkha/dukkha](https://en.wikipedia.org/wiki/Duhkha)) is part of existence.
 2.  The origins or causes ([samudaya/samudaya](https://encyclopediaofbuddhism.org/wiki/Samudaya)) of suffering are
-    craving ([trsn&amacr;(trishna)/tanha](https://encyclopediaofbuddhism.org/wiki/Tanha)),
+    craving (trishna/tanha](https://encyclopediaofbuddhism.org/wiki/Tanha)),
     ignorance/delusion ([avidy&amacr;/avijja](https://encyclopediaofbuddhism.org/wiki/Avidya)), 
     attachment ([r&amacr;ga/lobha](https://encyclopediaofbuddhism.org/wiki/Raga)), and
     anger/aversion ([dvesha/dosa](https://encyclopediaofbuddhism.org/wiki/Dvesha)).
