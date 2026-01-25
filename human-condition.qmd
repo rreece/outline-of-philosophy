@@ -620,7 +620,7 @@ Emptiness ([&sacute;&umacr;nyat&amacr;/su&ntilde;&ntilde;at&amacr;](https://en.w
 
 1.  Suffering ([duhkha/dukkha](https://en.wikipedia.org/wiki/Duhkha)) is part of existence.
 2.  The origins or causes ([samudaya/samudaya](https://encyclopediaofbuddhism.org/wiki/Samudaya)) of suffering are
-    craving (trishna/tanha](https://encyclopediaofbuddhism.org/wiki/Tanha)),
+    craving ([trishna/tanha](https://encyclopediaofbuddhism.org/wiki/Tanha)),
     ignorance/delusion ([avidy&amacr;/avijja](https://encyclopediaofbuddhism.org/wiki/Avidya)), 
     attachment ([r&amacr;ga/lobha](https://encyclopediaofbuddhism.org/wiki/Raga)), and
     anger/aversion ([dvesha/dosa](https://encyclopediaofbuddhism.org/wiki/Dvesha)).
@@ -1051,7 +1051,7 @@ Seems that N&amacr;g&amacr;rjuna was aligned with antirealist, post-modern, deco
 -   [Madhyamaka](https://en.wikipedia.org/wiki/Madhyamaka) - "Middle Way"
     -   AKA &Sacute;&umacr;nyav&amacr;da - "the emptiness doctrine"
     -   Founded in N&amacr;g&amacr;rjuna's work
-        [M&umacr;lamadhyamakak&amacr;rik&amacr;](https://en.wikipedia.org/wiki/Mulamadhyamakakarika) - *Fundamental Verses on the Middle Way*
+        [*M&umacr;lamadhyamakak&amacr;rik&amacr;*](https://en.wikipedia.org/wiki/Mulamadhyamakakarika) - *Fundamental Verses on the Middle Way*
 -   Six [P&amacr;ramit&amacr;s](https://en.wikipedia.org/wiki/Paramita) - "Six Perfections"
     1.  D&amacr;na p&amacr;ramit&amacr;: generosity, the attitude of giving
     2.  S&imacr;la p&amacr;ramit&amacr;: virtue, morality, discipline, proper conduct
