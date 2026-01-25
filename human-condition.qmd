@@ -650,9 +650,9 @@ likens the Four Noble Truths to a medical diagnosis of the human condition:
 
 [Three Trainings](https://en.wikipedia.org/wiki/Threefold_Training):
 
-1.  S&imacr;la - "discipline" or "moral conduct"
-2.  Samadhi - "meditation"
-3.  Praj&ntilde;a - "wisdom"
+1.  s&imacr;la - virtue, ethics
+2.  samadhi - "meditation"
+3.  praj&ntilde;a - wisdom, insight
 
 -   [&Sacute;raddh&amacr;](https://en.wikipedia.org/wiki/Faith_in_Buddhism) - faith
 
@@ -666,6 +666,13 @@ likens the Four Noble Truths to a medical diagnosis of the human condition:
 3. Perception (samj&ntilde;&amacr;/sa&ntilde;&ntilde;&amacr;)
 4. Mental formations (samsk&amacr;ra/sankh&amacr;ra)
 5. Consciousness (vij&ntilde;&amacr;na/vi&ntilde;&ntilde;&amacr;na)
+
+Four types of clinging (_up&amacr;d&amacr;na_):
+
+-   clinging to sense pleasures (k&amacr;mop&amacr;d&amacr;na)
+-   clinging to wrong views (drstyup&amacr;d&amacr;na)
+-   clinging to rites-and-rituals (&sacute;&imacr;lavratop&amacr;d&amacr;na)
+-   clinging to a doctrine of self (&amacr;tmav&amacr;dop&amacr;d&amacr;na)
 
 
 #### Refuge in the Three Jewels
@@ -700,6 +707,12 @@ likens the Four Noble Truths to a medical diagnosis of the human condition:
 -   [Sam&amacr;dhi](https://en.wikipedia.org/wiki/Samadhi)
 
 [^Arbel2017]: @Arbel_2017_Early_Buddhist_Meditation_The_Four_Jhanas_as\.
+
+
+#### Four right exertions
+
+-   [Four right_exertions](https://www.encyclopediaofbuddhism.org/wiki/)
+-   [Five hindrances](https://www.encyclopediaofbuddhism.org/wiki/Five_hindrances)
 
 
 #### Buddhist paths to liberation
@@ -928,12 +941,16 @@ See also:
 [Abhidhamma](https://en.wikipedia.org/wiki/Visuddhimagga) - systematic pedagogical presentations:
 
 -   [*Visuddhimagga*](https://en.wikipedia.org/wiki/Visuddhimagga) by Buddhaghosa
+-   Bodhi. (2007). [*A Comprehensive Manual of Abhidhamma*](https://www.abhidhamma.org/wp-content/uploads/2025/05/bp304s_Bfodhi_Comprehensive_Manual_of_Abhidhamma.pdf). [^Bodhi2007]
 
 Online Suttas:
 
 -   [Access to Insight: Readings in Therav&amacr;da Buddhism](https://www.accesstoinsight.org/)
 -   [SuttaCentral.net](https://suttacentral.net/)
 -   [Selected Therav&amacr;da Suttas](http://www.ibmc-la.org/buddhist-teachings.html) at IMBC, Los Angeles
+
+[^Bodhi2007]: @Bodhi_2007_A_Comprehensive_Manual_of_Abhidhamma\.
+
 
 #### Secondary texts
 
