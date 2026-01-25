@@ -511,7 +511,7 @@ through its respect for science and skepticism of *a priori* metaphysics,
 but naturalism is a more general distinction,
 being a more much longer thread throughout the history of philosophy and science.
 
-![A version of the "distracted boyfriend meme" maligning  *a priori* metaphysics.](img/distracted-boyfriend-meme-intuitions-data.png){#fig-distracted-boyfriend-meme-intuitions-data}
+![A version of the "distracted boyfriend meme" criticizing *a priori* metaphysics.](img/distracted-boyfriend-meme-intuitions-data.png){#fig-distracted-boyfriend-meme-intuitions-data}
 
 Quine in "Natural kinds":
 
