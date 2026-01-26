@@ -773,6 +773,7 @@ Four types of clinging (_up&amacr;d&amacr;na_):
 -   [Secular Buddhism](https://en.wikipedia.org/wiki/Secular_Buddhism)
     -   Batchelor, S. (1998). *Buddhism Without Beliefs*. [^Batchelor1998]
     -   Contestabile, B. (2018). Secular Buddhism and Justice. [^Contestabile2018]
+    -   Payne, R.K. (2021). *Secularizing Buddhism: New perspectives on a Dynamic Tradition*. [^Payne2021]
 -   Brahmaj&amacr;la Sutta - "The all-embracing net of views" ([DN 1](https://www.accesstoinsight.org/tipitaka/dn/dn.01.0.bodh.html))
 -   [Kevatta Sutta](https://en.wikipedia.org/wiki/Kevatta_Sutta) ([DN 11](https://suttacentral.net/dn11/en/sujato))
 -   Tevijja Sutta - "The Three Knowledges" ([DN 13](https://suttacentral.net/dn13/en/sujato))
@@ -829,6 +830,7 @@ See also:
 [^Hayes1988]: @Hayes_1988_Principled_atheism_in_the_Buddhist_scholastic\.
 [^Harris2014]: @Harris_2014_Waking_Up_A_Guide_to_Spirituality_Without\.
 [^Harvey2000]: @Harvey_2000_An_Introduction_to_Buddhist_Ethics\.
+[^Payne2021]: HERE
 [^Siderits2021]: @Siderits_2021_Buddhism_As_Philosophy\.
 [^Wright2017]: @Wright_2017_Why_Buddhism_is_True_The_Science_and_Philosophy\.
 
@@ -1140,8 +1142,8 @@ Seems that N&amacr;g&amacr;rjuna was aligned with antirealist, post-modern, deco
     -   [*Longer Sukh&amacr;vat&imacr;y&umacr;ha  Sutra*](https://en.wikipedia.org/wiki/Longer_Sukh%C4%81vat%C4%ABvy%C5%ABha_S%C5%ABtra) - "Infinite Life Sutra"
     -   [*Amit&amacr;yurdhy&amacr;na Sutra*](https://en.wikipedia.org/wiki/Amitayurdhyana_Sutra) - "Contemplation Sutra" 
     -   [*Shorter Sukh&amacr;vat&imacr;y&umacr;ha  Sutra*](https://en.wikipedia.org/wiki/Shorter_Sukh%C4%81vat%C4%ABvy%C5%ABha_S%C5%ABtra) - "Amitabha Sutra"
--   [*Bodhicary&amacr;vat&amacr;ra](https://en.wikipedia.org/wiki/Bodhisattvacary%C4%81vat%C4%81ra)
-    -   Written c. 700 CE in Sanskrit verse by Shantideva
+-   [*Bodhicary&amacr;vat&amacr;ra*](https://en.wikipedia.org/wiki/Bodhisattvacary%C4%81vat%C4%81ra)
+    -   Written by Shantideva
 
 [^Nagarjuna1995]: @Nagarjuna_1995_The_Fundamental_Wisdom_of_the_Middle_Way\.
 
