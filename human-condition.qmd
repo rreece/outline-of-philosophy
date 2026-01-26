@@ -993,14 +993,16 @@ Online Suttas:
 
 #### History
 
--   [N&amacr;g&amacr;rjuna](https://en.wikipedia.org/wiki/Nagarjuna) (c. 150-250 CE)
--   [&Amacr;ryadeva](https://en.wikipedia.org/wiki/Aryadeva) (fl. 3rd century CE)
--   [Kum&amacr;raj&imacr;va](https://en.wikipedia.org/wiki/Kum%C4%81raj%C4%ABva) (344-413 CE)
--   [Asanga](https://en.wikipedia.org/wiki/Asanga) (fl. 4th century CE)
--   [Vasubandhu](https://en.wikipedia.org/wiki/Vasubandhu) (fl. 4th to 5th century CE)
--   [Dign&amacr;ga](https://en.wikipedia.org/wiki/Dign%C4%81ga) (c. 480-540 CE)
-    -   Indian philosopher that developed Buddhist logic and empiricism.
-    -   Dharmottara (c. 740-800)
+-   Early Mah&amacr;y&amacr;na in India
+    -   [N&amacr;g&amacr;rjuna](https://en.wikipedia.org/wiki/Nagarjuna) (c. 150-250 CE)
+    -   [&Amacr;ryadeva](https://en.wikipedia.org/wiki/Aryadeva) (fl. 3rd century CE)
+    -   [Kum&amacr;raj&imacr;va](https://en.wikipedia.org/wiki/Kum%C4%81raj%C4%ABva) (344-413 CE)
+    -   [Asanga](https://en.wikipedia.org/wiki/Asanga) (fl. 4th century CE)
+    -   [Vasubandhu](https://en.wikipedia.org/wiki/Vasubandhu) (fl. 4th to 5th century CE)
+    -   [Dign&amacr;ga](https://en.wikipedia.org/wiki/Dign%C4%81ga) (c. 480-540 CE)
+        -   Indian philosopher that developed Buddhist logic and empiricism.
+        -   Dharmottara (c. 740-800)
+    -   [Shantideva](https://en.wikipedia.org/wiki/Shantideva) (c. 685-763)
 -   [Buddhism in China](https://en.wikipedia.org/wiki/Buddhism_in_China)
     -   [Silk Road transmission of Buddhism](https://en.wikipedia.org/wiki/Silk_Road_transmission_of_Buddhism)
     -   [Pure Land Buddhism](https://en.wikipedia.org/wiki/Pure_Land_Buddhism) (introduced in China in 147 CE)
@@ -1138,6 +1140,8 @@ Seems that N&amacr;g&amacr;rjuna was aligned with antirealist, post-modern, deco
     -   [*Longer Sukh&amacr;vat&imacr;y&umacr;ha  Sutra*](https://en.wikipedia.org/wiki/Longer_Sukh%C4%81vat%C4%ABvy%C5%ABha_S%C5%ABtra) - "Infinite Life Sutra"
     -   [*Amit&amacr;yurdhy&amacr;na Sutra*](https://en.wikipedia.org/wiki/Amitayurdhyana_Sutra) - "Contemplation Sutra" 
     -   [*Shorter Sukh&amacr;vat&imacr;y&umacr;ha  Sutra*](https://en.wikipedia.org/wiki/Shorter_Sukh%C4%81vat%C4%ABvy%C5%ABha_S%C5%ABtra) - "Amitabha Sutra"
+-   [*Bodhicary&amacr;vat&amacr;ra](https://en.wikipedia.org/wiki/Bodhisattvacary%C4%81vat%C4%81ra)
+    -   Written c. 700 CE in Sanskrit verse by Shantideva
 
 [^Nagarjuna1995]: @Nagarjuna_1995_The_Fundamental_Wisdom_of_the_Middle_Way\.
 
