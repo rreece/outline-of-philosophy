@@ -2176,11 +2176,25 @@ TODO:
 -   Moss, S. (2016). [Analytical rumination hypothesis](https://www.sicotests.com/psyarticle.asp?id=355).
 -   [Evolutionary approaches to depression](https://en.wikipedia.org/wiki/Evolutionary_approaches_to_depression)
 
+Models of grief:
+
+-   Five stages model
+    -   K&uuml;bler-Ross, E. (1969). *On Death and Dying*. [^KublerRoss1969]
+    -   This is where she introduced the five stages (denial, anger, bargaining, depression, acceptance) based on her work with terminally ill patients.
+    -   The model was originally about how people face their own impending death, not bereavement, though it's widely (and controversially) applied to grief more broadly.
+    -   It's also been criticized for lacking empirical support and implying a linear progression that most people don't experience.
+-   Dual process model
+    -   Stroebe, M. & Schut, H. (1999). The dual process model of coping with bereavement: Rationale and description. [^Stroebe1999]
+    -   Proposes oscillation between loss-oriented coping (processing grief) and restoration-oriented coping (adapting to life changes, new roles).
+        This back-and-forth is healthy, not a failure to "move on."
+
 See also:
 
 -   [Regret](ethics.html#regret) in the [Outline on Ethics](ethics.html)
 
 [^Andrews2009]: @Andrews_2009_The_bright_side_of_being_blue_Depression_as\.
+[^KublerRoss1969]: @Kubler_Ross_1969_On_Death_and_Dying\.
+[^Stroebe1999]: @Stroebe_1999_The_dual_process_model_of_coping_with_bereavement\.
 
 
 ### Cognitive behavioral therapy
