@@ -590,9 +590,9 @@ otherwise usually showing Sanskrit if only one translation is given.
 
 #### Important initial concepts
 
--   [Prat&imacr;tyasamut&amacr;da/prat&imacr;tyasamutp&amacr;da](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da) - dependent origination: all phenomena (dharmas/dhammas) arise in dependence upon other phenomena.
--   [Sams&amacr;ra](https://en.wikipedia.org/wiki/Sa%E1%B9%83s%C4%81ra_(Buddhism)) - cycle of reincarnation
--   [Samvega](https://en.wikipedia.org/wiki/Sa%E1%B9%83vega) - sense of shock, dismay, and spiritual urgency to reach liberation and escape the suffering of samsara
+-   [prat&imacr;tyasamut&amacr;da/prat&imacr;tyasamutp&amacr;da](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da) - dependent origination: all phenomena (dharmas/dhammas) arise in dependence upon other phenomena.
+-   [sams&amacr;ra](https://en.wikipedia.org/wiki/Sa%E1%B9%83s%C4%81ra_(Buddhism)) - cycle of reincarnation
+-   [samvega](https://en.wikipedia.org/wiki/Sa%E1%B9%83vega) - sense of shock, dismay, and spiritual urgency to reach liberation and escape the suffering of samsara
 -   [Middle Way](https://en.wikipedia.org/wiki/Middle_Way) (Madhyam&amacr;pratipada)
 -   [Sangha](https://en.wikipedia.org/wiki/Sangha) - (monastic) "community"; called _parisa_ if including lay followers.
 
@@ -654,12 +654,12 @@ likens the Four Noble Truths to a medical diagnosis of the human condition:
 2.  samadhi - "meditation"
 3.  praj&ntilde;a - wisdom, insight
 
--   [&Sacute;raddh&amacr;](https://en.wikipedia.org/wiki/Faith_in_Buddhism) - faith
+-   [&sacute;raddh&amacr;](https://en.wikipedia.org/wiki/Faith_in_Buddhism) - faith
 
 
 #### Five aggregates of clinging
 
--   [Skandhas/Khandhas](https://en.wikipedia.org/wiki/Skandha) - aggregates, groups, heaps
+-   [skandhas/khandhas](https://en.wikipedia.org/wiki/Skandha) - aggregates, groups, heaps
 
 1. Form or matter: (r&umacr;pa)
 2. Sensation or feeling: (vedan&amacr;)
@@ -748,6 +748,8 @@ Four types of clinging (_up&amacr;d&amacr;na_):
 -   [Buddhist cosmology](https://en.wikipedia.org/wiki/Buddhist_cosmology)
     -   [Mara](https://en.wikipedia.org/wiki/Mara_(demon)) - demon of desire and temptation
     -   [Mount Meru](https://en.wikipedia.org/wiki/Mount_Meru)
+-   [sams&amacr;ra](https://en.wikipedia.org/wiki/Sa%E1%B9%83s%C4%81ra_(Buddhism)) - cycle of reincarnation
+    -   Bodhi. (2005). [Does Rebirth Make Sense?](https://www.accesstoinsight.org/lib/authors/bodhi/bps-essay_46.html)
 
 **Epistemology**
 
@@ -759,6 +761,7 @@ Four types of clinging (_up&amacr;d&amacr;na_):
 **Ethics**
 
 -   [Buddhist ethics](https://en.wikipedia.org/wiki/Buddhist_ethics)
+-   Harvey, P. (2000). *An Introduction to Buddhist Ethics*. [^Harvey2000]
 -   [_ahimsa_](https://en.wikipedia.org/wiki/Ahimsa) - non-violence
 -   [_parigraha_](https://en.wikipedia.org/wiki/Non-possession) (Sanskrit) - non-possession
 -   [Women in Buddhism](https://en.wikipedia.org/wiki/Women_in_Buddhism)
@@ -824,6 +827,7 @@ See also:
 [^Contestabile2018]: @Contestabile_2018_Secular_Buddhism_and_Justice\.
 [^Hayes1988]: @Hayes_1988_Principled_atheism_in_the_Buddhist_scholastic\.
 [^Harris2014]: @Harris_2014_Waking_Up_A_Guide_to_Spirituality_Without\.
+[^Harvey2000]: @Harvey_2000_An_Introduction_to_Buddhist_Ethics\.
 [^Siderits2021]: @Siderits_2021_Buddhism_As_Philosophy\.
 [^Wright2017]: @Wright_2017_Why_Buddhism_is_True_The_Science_and_Philosophy\.
 
@@ -873,6 +877,7 @@ See also:
     -   [Henry Steel Olcott](https://en.wikipedia.org/wiki/Henry_Steel_Olcott) (1832-1907) 
     -   [Anag&amacr;rika Dharmap&amacr;la](https://en.wikipedia.org/wiki/Anagarika_Dharmapala) (1864-1933)
     -   [Charles Henry Allan Bennett](https://en.wikipedia.org/wiki/Charles_Henry_Allan_Bennett) (1872-1923)
+    -   [Richard Gombrich](https://en.wikipedia.org/wiki/Richard_Gombrich) (b. 1937)
     -   [Bhikkhu Bodhi](https://en.wikipedia.org/wiki/Bhikkhu_Bodhi) (b. 1944)
     -   [Bhikkhu Th&amacr;nissaro](https://en.wikipedia.org/wiki/%E1%B9%ACh%C4%81nissaro_Bhikkhu) (b. 1949)
     -   [Joseph Goldstein](https://en.wikipedia.org/wiki/Joseph_Goldstein_(writer)) (b. 1944)
@@ -882,6 +887,8 @@ See also:
         -   Fronsdal, G. (1998). [Insight meditation in the United States: Life, liberty, and the pursuit of happiness](https://www.insightmeditationcenter.org/books-articles/insight-meditation-in-the-united-states-life-liberty-and-the-pursuit-of-happiness/).
         -   Fronsdal, G. (2001). [*The Issue at Hand: Essays on Buddhist Mindfulness Practice*](https://www.insightmeditationcenter.org/wp-content/uploads/documents/iah/IssueAtHand4thEd.pdf). [^Fronsdal2001]
         -   Fronsdal, G. (2015). [The Fifth Precept and The Power of Renunciation](https://www.insightmeditationcenter.org/2015/07/the-fifth-precept-and-the-power-of-renunciation/).
+    -   [Kate Crosby](https://en.wikipedia.org/wiki/Kate_Crosby)
+    -   [Chuang Yen Monastery](https://en.wikipedia.org/wiki/Chuang_Yen_Monastery), Kent, NY, USA
     -   [Insight Meditation Society](https://en.wikipedia.org/wiki/Insight_Meditation_Society), Barre, MA, USA
     -   [Insight Meditation Center](https://www.insightmeditationcenter.org), Redwood City, CA, USA
     -   [Spirit Rock Meditation Center](https://en.wikipedia.org/wiki/Spirit_Rock_Meditation_Center), Woodacre, CA, USA
@@ -955,11 +962,13 @@ Online Suttas:
 #### Secondary texts
 
 -   Bodhi. (2005). *In the Buddha's Words: An anthology of discourses from the Pali Canon*. [^Bodhi2005]
+-   Crosby, K. (2013). *Theravada Buddhism : Continuity, Diversity, and Identity*. [^Crosby2013]
 -   Thanissaro. (1997). [Affirming the Truths of the Heart: The Buddhist teachings on samvega & pasada](https://www.accesstoinsight.org/lib/authors/thanissaro/affirming.html).
 -   Bodhi. (1999). [*The Noble Eightfold Path: The Way to the End of Suffering*](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html).
 -   Bodhi. (2013). [I teach only suffering and the end of suffering: Nope, Buddha didn't quite say that](https://tricycle.org/magazine/i-teach-only-suffering-and-end-suffering/).
 
 [^Bodhi2005]: @Bodhi_2005_In_the_Buddhas_Words_An_anthology_of_discourses\.
+[^Crosby2013]: @Crosby_2013_Theravada_Buddhism__Continuity_Diversity\.
 
 
 ### Mah&amacr;y&amacr;na Buddhism
