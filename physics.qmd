@@ -138,6 +138,7 @@ Dimensional analysis:
     a spacetime manifold, $M$. Because the bundle projection, $\pi$, is trivial,
     $\pi: M \times \mathbb{R}^{n_1} \times \mathbb{R}^{n_2} \times \cdots \rightarrow M$,
     vectors in each vector space can be directly compared.
+-   Carcassi, G. (2025). Video: [Manifold, units and differential geometry (actually topology)](https://www.youtube.com/watch?v=ZPoa97VRvcw).
 
 See also:
 
