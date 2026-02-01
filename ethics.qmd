@@ -853,12 +853,15 @@ Feminism
     -   Richards, J.R. (1980). *The Sceptical Feminist: A Philosophical Enquiry*. [^Richards1980]
 -   Gender and identity
     -   Judith Butler (b. 1956)
-        -   *Gender Trouble* (1990)
-            -   Gender is performative
+        -   Gender is performative
+        -   Butler, J. (1988). Performative acts and gender constitution: An essay in phenomenology and feminist theory. [^Butler1988]
+        -   Butler, J. (1990). *Gender Trouble*. [^Butler1990]
     -   Sally Haslanger
         -   Haslanger, S. (2000). [Gender and race: (What) are they? (What) do we want them to be?](https://onlinelibrary.wiley.com/doi/10.1111/0029-4624.00201) [^Haslanger2000]
         -   Mikkola, M. (2009). [Gender concepts and intuitions](https://www.jstor.org/stable/27822065). [^Mikkola2009]
 
+[^Butler1988]: @Butler_1988_Performative_acts_and_gender_constitution\.
+[^Butler1990]: @Butler_1990_Gender_Trouble\.
 [^Haslanger2000]: @Haslanger_2000_Gender_and_Race_What_Are_They_What_Do_We\.
 [^Mikkola2009]: @Mikkola_2009_Gender_concepts_and_intuitions\.
 [^Richards1980]: @Richards_1980_The_Sceptical_Feminist_A_Philosophical_Enquiry\.
