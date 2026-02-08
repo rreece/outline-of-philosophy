@@ -831,7 +831,7 @@ See also:
 [^Hayes1988]: @Hayes_1988_Principled_atheism_in_the_Buddhist_scholastic\.
 [^Harris2014]: @Harris_2014_Waking_Up_A_Guide_to_Spirituality_Without\.
 [^Harvey2000]: @Harvey_2000_An_Introduction_to_Buddhist_Ethics\.
-[^Payne2021]: HERE
+[^Payne2021]: @Payne_2021_Secularizing_Buddhism_New_perspectives_on\.
 [^Siderits2021]: @Siderits_2021_Buddhism_As_Philosophy\.
 [^Wright2017]: @Wright_2017_Why_Buddhism_is_True_The_Science_and_Philosophy\.
 
@@ -1647,6 +1647,8 @@ My personal summary of the most important Stoic theses:
 
 --Marcus Aurelius, *Meditations*, 5.23
 
+-   Whillans, A.V., Weidman, A.C., & Dunn, E.W. (2016). Valuing time over money is associated with greater happiness. [^Whillans2016]
+
 More:
 
 -   TODO: virtue ethics
@@ -1687,6 +1689,8 @@ See also:
 
 -   [Buddhism and Stoicism](#buddhism-and-stoicism) in the section on [Comparative studies](#comparitive-studies)
 -   [Cognitive behavioral therapy](#cognitive-behavioral-therapy) in the section on [psychology](#psychology)
+
+[^Whillans2016]: @Whillans_2016_Valuing_time_over_money_is_associated_with_greater\.
 
 
 ### Related movements
