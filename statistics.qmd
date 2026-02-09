@@ -1359,6 +1359,11 @@ From "The ASA president's task force statement on statistical significance and r
 >   important tools that have advanced science through their proper
 >   application. [^Benjamini2021]
 
+More:
+
+-   Bassily, R., Nissim, K., Smith, A., Steinke, T., Stemmer, U., & Ullman, J. (2015). [Algorithmic stability for adaptive data analysis](https://arxiv.org/abs/1511.02513). [^Bassily2015]
+
+[^Bassily2015]: @Bassily_2015_Algorithmic_stability_for_adaptive_data_analysis\.
 [^Benjamin2017]: @Benjamin_2017_Redefine_statistical_significance\.
 [^Benjamini2021]: @Benjamini_2021_The_ASA_presidents_task_force_statement_on\, p. 1.
 [^Fisher1935p13]: @Fisher_1935_The_Design_of_Experiments\, p. 13--14.
