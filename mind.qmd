@@ -194,6 +194,7 @@ Neuroscience
 
 ### Computational neuroscience
 
+-   [David Marr](https://en.wikipedia.org/wiki/David_Marr_(scientist)) (1945-1980)
 -   Blue Brain Project
     -   Markram, H. et al. (2017). [Blue Brain team discovers a multi-dimensional universe in brain networks](https://blog.frontiersin.org/2017/06/12/blue-brain-team-discovers-a-multi-dimensional-universe-in-brain-networks/).
     -   Reimann, M.W. et al. (2017). [Cliques of neurons bound into cavities provide a missing link between structure and function](https://www.frontiersin.org/articles/10.3389/fncom.2017.00048/full). [^Reimann2017]
