@@ -1019,16 +1019,19 @@ Criticisms of naturalism
     -   Gefter, A. & Hoffman, D.D. (2016). [The case against reality](https://www.theatlantic.com/science/archive/2016/04/the-illusion-of-reality/479559/).
 -   Decolonizing science
     -   Descoping the success/objectivity of science
-    -   [Decolonization of knowledge](https://en.wikipedia.org/wiki/Decolonization_of_knowledge)
-    -   Prescod-Weinstein, C. (2015). [Decolonising science reading list](https://medium.com/@chanda/decolonising-science-reading-list-339fb773d51f).
-    -   Prescod-Weinstein, C. (2017). [Scientists must challenge what makes studies scientific](https://www.americanscientist.org/blog/macroscope/scientists-must-challenge-what-makes-studies-scientific). *American Scientist*. [^PrescodWeinstein2017]
+    -   Highlights the epistemic threats of limiting participation of marginalized people
     -   Boisselle, L.N. (2016). [Decolonizing science and science education in a postcolonial space (Trinidad, a developing Caribbean nation, illustrates)](https://doi.org/10.1177/2158244016635257). [^Boisselle2016]
     -   Broadbent, A. (2017). [It will take critical, thorough scrutiny to truly decolonise knowledge](https://web.archive.org/web/20220712104319/https://theconversation.com/it-will-take-critical-thorough-scrutiny-to-truly-decolonise-knowledge-78477).
-    -   Roy, R.D. (2018). [Decolonise science: Time to end another imperial era](https://theconversation.com/decolonise-science-time-to-end-another-imperial-era-89189).
+    -   Prescod-Weinstein, C. (2015). [Decolonising science reading list](https://medium.com/@chanda/decolonising-science-reading-list-339fb773d51f).
+    -   Prescod-Weinstein, C. (2017). [Scientists must challenge what makes studies scientific](https://www.americanscientist.org/blog/macroscope/scientists-must-challenge-what-makes-studies-scientific). *American Scientist*. [^PrescodWeinstein2017]
+    -   Prescod-Weinstein, C. (2020). [Making black women scientists under white empiricism: The racialization of epistemology in physics](https://www.journals.uchicago.edu/doi/full/10.1086/704991). [^PrescodWeinstein2020]
+    -   Arif, S. et al. (2021). [Ten simple rules for supporting historically underrepresented students in science](https://doi.org/10.1371/journal.pcbi.1009313). [^Arif2021]
     -   Poskett, J. (2022). *Horizons: The Global Origins of Modern Science*. [^Poskett2022]
+    -   Roy, R.D. (2018). [Decolonise science: Time to end another imperial era](https://theconversation.com/decolonise-science-time-to-end-another-imperial-era-89189).
     -   Dunn, W. (2022). [The myth of the white male scientific genius---and why its time is up](https://www.newstatesman.com/culture/books/book-of-the-day/2022/05/horizons-global-history-science-james-poskett-review).
     -   Ca&ntilde;izares-Esguerra, J. (2022). [Rethinking the "Western" revolution in science](https://www.science.org/doi/full/10.1126/science.abo5229). [^CanizaresEsguerra2022]
 -   Decolonizing philosophy
+    -   [Decolonization of knowledge](https://en.wikipedia.org/wiki/Decolonization_of_knowledge)
     -   Garfield, J.L. & Van Norden, B.W. (2016). [If philosophy won't diversify, let's call it what it really is](https://www.nytimes.com/2016/05/11/opinion/if-philosophy-wont-diversify-lets-call-it-what-it-really-is.html). [^Garfield2016a]
     -   Van Norden, B.W. (2017). *Taking Back Philosophy: A Multicultural Manifesto*. [^VanNorden2017]
     -   Alpert, A. (2020). [Philosophy's systemic racism](https://aeon.co/essays/racism-is-baked-into-the-structure-of-dialectical-philosophy).
@@ -1053,6 +1056,8 @@ See also:
 [^Garfield2016a]: @Garfield_2016_If_philosophy_wont_diversify_lets_call_it_what\.
 [^Poskett2022]: @Poskett_2022_Horizons_The_Global_Origins_of_Modern_Science\.
 [^PrescodWeinstein2017]: @Prescod_Weinstein_2017_Scientists_must_challenge_what_makes_studies\.
+[^PrescodWeinstein2020]: @Prescod_Weinstein_2020_Making_black_women_scientists_under_white\.
+[^Arif2021]: @Arif_2021_Ten_simple_rules_for_supporting_historically\.
 [^Raleigh2023]: @Raleigh_2023_The_emptiness_of_naturalism\.
 [^VanNorden2017]: @VanNorden_2017_Taking_Back_Philosophy_A_Multicultural_Manifesto\.
 [^Winburn2021]: @Winburn_2021_Objectivity_is_a_myth_that_harms_the_practice\.
@@ -1088,6 +1093,7 @@ See also:
     -   Pluckrose, H., Lindsay, J.A., & Boghossian, P. (2018). [Academic grievance studies and the corruption of scholarship](https://areomagazine.com/2018/10/02/academic-grievance-studies-and-the-corruption-of-scholarship/). *Areo*.
     -   [Grievance studies hoax](https://rationalwiki.org/wiki/Grievance_studies_hoax) - rationalwiki.org
 -   Criticism of diversity and inclusion efforts
+    -   Ceci, S.J., Ginther, D.K., Kahn, S., & Williams, W.M. (2014). [Women in academic science: A changing landscape](https://sites.bu.edu/shulamitkahn/files/2016/03/Psychological-Science-in-the-Public-Interest-2014-Ceci-75-141.pdf). [^Ceci2014]
     -   Tampio, N. (2016). [Not all things wise and good are philosophy](https://aeon.co/ideas/not-all-things-wise-and-good-are-philosophy).
     -   Damore, J. (2017). [Google’s ideological echo chamber](https://s3.documentcloud.org/documents/3914586/Googles-Ideological-Echo-Chamber.pdf).
     -   Lewis, P. (2017). ['I see things differently': James Damore on his autism and the Google memo](https://www.theguardian.com/technology/2017/nov/16/james-damore-google-memo-interview-autism-regrets).
@@ -1114,6 +1120,7 @@ See also:
 [^Bloom1994]: @Bloom_1994_The_Western_Canon\.
 [^Boghossian2006]: @Boghossian_2006_Fear_of_Knowledge\.
 [^Cadwalladr2017]: @Cadwalladr_2017_Daniel_Dennett_I_begrudge_every_hour_I_have\.
+[^Ceci2014]: @Ceci_2014_Women_in_academic_science_A_changing_landscape\.
 [^Gross1994]: @Gross_1994_Higher_Superstition_The_Academic_Left_and_Its\.
 [^Heer2017]: @Heer_2017_Americas_first_postmodern_president\.
 [^Hicks2011]: @Hicks_2011_Explaining_Postmodernism_Skepticism_and_socialism\.
