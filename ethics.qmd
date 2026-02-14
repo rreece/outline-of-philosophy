@@ -29,6 +29,7 @@ Virtue ethics
 -   Stoicism
 -   G.E.M. Anscombe (1919-2001)
 -   Philippa Foot (1920-2010)
+-   Rosalind Hursthouse (b. 1943)
 
 
 ### Discussion
@@ -143,14 +144,18 @@ See also:
 
 ### Criticism
 
--   Bernard Williams
+-   Philippa Foot (1920-2010)
+    -   Invented [the trolley problem](https://en.wikipedia.org/wiki/Trolley_problem)
+-   Rosalind Hursthouse (b. 1943)
+    -   Coined and further developed [the trolley problem](https://en.wikipedia.org/wiki/Trolley_problem)
+-   Bernard Williams (1929-2003)
     -   Smart, J.J.C. & Williams, B. (1973). [*Utilitarianism: For and against*](https://www.utilitarianism.com/utilitarianism-for-and-against.pdf). [^SmartWilliams1973]
--   Robert Nozick
-    -   The experience machine
+-   Robert Nozick (1938-2002)
     -   Nozick, R. (1974). *Anarchy, State, and Utopia*. [^Nozick2013pTODO]
--   Derek Parfit
-    -   The Repugnant Conclusion
+    -   The experience machine
+-   Derek Parfit (1942-2017)
     -   Parfit, D. (1984). *Reasons and Pearsons*. [^Parfit1984]
+    -   The repugnant conclusion
 
 [^Nozick2013pTODO]: @Nozick_2013_Anarchy_State_and_Utopia\, p. TODO.
 [^Parfit1984]: @Parfit_1984_Reasons_and_Pearsons\.

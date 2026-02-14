@@ -1,5 +1,6 @@
 Aaronson, S. (2001). Letter to James Randi. https://www.scottaaronson.com/writings/randi.html
 Andrews, H. (2025). The great feminization. https://www.compactmag.com/article/the-great-feminization/
+Arif, S. et al. (2021). Ten simple rules for supporting historically underrepresented students in science. *PLOS Computational Biology*, 17, 1009313.  https://doi.org/10.1371/journal.pcbi.1009313
 Azzouni, J. (2000). *Knowledge and Reference in Empirical Science*. Routledge.
 Baggini, J. (2003). *Atheism: A Very Short Introduction*. Oxford University Press.
 Bennett, K. (2015). There is no special problem with metaphysics. *Philosophical Studies*, 173, 21--37.
@@ -18,6 +19,7 @@ Bunge, M. (2012). *Evaluating Philosophies*. Springer.
 Cadwalladr, C. (2017). Daniel Dennett: I begrudge every hour I have to spend worrying about politics. *The Guardian*. https://www.theguardian.com/science/2017/feb/12/daniel-dennett-politics-bacteria-bach-back-dawkins-trump-interview [February 12, 2017]
 Ca\~{n}izares-Esguerra, J. (2022). Rethinking the "Western" revolution in science. *Science*, 376(6592), 467. https://www.science.org/doi/full/10.1126/science.abo5229
 Carnap, R. (1934). On the character of philophical problems. *Philosophy of Science*, 1, 5--19.
+Ceci, S.J., Ginther, D.K., Kahn, S., & Williams, W.M. (2014). Women in academic science: A changing landscape. *Psychological Science in the Public Interest*, 15, 75--141. https://sites.bu.edu/shulamitkahn/files/2016/03/Psychological-Science-in-the-Public-Interest-2014-Ceci-75-141.pdf
 Costa, C.F. (2012). Philosophy as a protoscience. *Disputatio*, 4, 591--608. https://sciendo.com/pdf/10.2478/disp-2012-0022
 Dang, H. & Bright, L.K. (2021). How to make sense of contradictory science papers. *Nautilus*. https://nautil.us/issue/100/outsiders/how-to-make-sense-of-contradictory-science-papers [June 2, 2021]
 Descartes, R. (1982). *Principles of Philosophy* (V.R. Miller & R.P. Miller, Trans.). Kluwer Academic Publishers. [(Originally published in 1644 as \emph{Principia Philosophi{\ae}})]
@@ -79,6 +81,7 @@ Popper, K.R. (1952). The nature of philosophical problems and their roots in sci
 Poskett, J. (2022). *Horizons: The Global Origins of Modern Science*. Mariner Books.
 Prasetya, Y. (2021). Methodological naturalism and scientific success: Lessons from the scientific realism debate. *European Journal for Philosophy of Religion*. https://philpapers.org/rec/PRAMNA [(forthcoming)]
 Prescod-Weinstein, C. (2017). Scientists must challenge what makes studies scientific. *American Scientist*. https://www.americanscientist.org/blog/macroscope/scientists-must-challenge-what-makes-studies-scientific [August 15, 2017]
+Prescod-Weinstein, C. (2020). Making black women scientists under white empiricism: The racialization of epistemology in physics. *Signs: Journal of Women in Culture and Society*, 45, 421--447. https://www.journals.uchicago.edu/doi/full/10.1086/704991
 Priest, G. (2020). Philosophy and its history: An essay in the philosophy of philosophy. *Analytic Philosophy*, 61(4), 297--303.
 Putnam, H. (1997). A half century of philosophy, viewed from within. *Daedalus*, 126, 175--208.
 Putnam, H. (2016). *Naturalism, Realism, and Normativity*. Harvard University Press.
