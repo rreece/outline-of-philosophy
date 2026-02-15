@@ -924,6 +924,22 @@ Michael Atiyah:
 [^Wilson1979]: @Wilson_1979_Problems_in_physics_with_many_scales_of_length\.
 
 
+### Yang-Mills theory
+
+-   Non-abelian gauge theories
+-   Gross, D.J. & Wilczek, F. (1973). Ultraviolet behavior of non-abelian gauge theories. *Physical Review Letters*, 30, 1343. [^Gross1973]
+-   Politzer, H.D. (1973). Reliable perturbative results for strong interactions? *Physical Review Letters*, 30, 1346. [^Politzer1973]
+    -   Asymptotic freedom
+-   Coleman, S. & Gross, D.J. (1973). Price of asymptotic freedom. *Physical Review Letters*, 31, 851. [^Coleman1973]
+    -   No theory involving only scalars and fermions (without non-Abelian gauge fields) can be asymptotically free in four dimensions. Together with the positive result for Yang-Mills, this established that non-Abelian gauge theories are essentially the unique route to asymptotic freedom---and hence UV completeness---for quantum field theories in 4D.
+    -   QED has a positive beta function → Landau pole → not UV complete (it's an effective theory that must be embedded in something larger, like the electroweak theory).
+    -   Yang-Mills theories (like QCD) have a negative beta function → asymptotic freedom → no Landau pole → UV complete as quantum field theories.
+
+[^Coleman1973]: @Coleman_1973_Price_of_asymptotic_freedom\.
+[^Gross1973]: @Gross_1973_Ultraviolet_behavior_of_non_abelian_gauge\.
+[^Politzer1973]: @Politzer_1973_Reliable_perturbative_results_for_strong\.
+
+
 ### Effective field theory
 
 -   Effective field theory (EFT)
@@ -2054,7 +2070,7 @@ a key to explaining electroweak symmetry breaking in the Standard Model of parti
 
 -   QCD: SU(3)
 -   SU(3) $\times$ SU(2) $\times$ U(1)
--   Asymptotic freedom
+-   Asymptotic freedom, again
 -   Anzivino, C., Vaibhav, V. & Zaccone, A. (2024). [Random close packing of binary hard spheres predicts the stability of atomic nuclei](https://arxiv.org/abs/2405.11268). [^Anzivino2024]
 
 [^Anzivino2024]: @Anzivino_2024_Random_close_packing_of_binary_hard_spheres\.

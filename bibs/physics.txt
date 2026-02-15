@@ -108,6 +108,7 @@ Clowe, D. et al. (2006). A direct empirical proof of the existence of dark matte
 Coecke, B. & Kissinger, A. (2017). *Picturing Quantum Processes: A first course in quantum theory and diagrammatic reasoning*. Cambridge University Press.
 Cohen, M.L. (2015). Explaining and predicting the properties of materials using quantum theory. *MRS Bulletin*, 40, 516--525. https://www.cambridge.org/core/journals/mrs-bulletin/article/explaining-and-predicting-the-properties-of-materials-using-quantum-theory/0BAF1A2783D41470AAE666F6B916ECE5
 Coleman, S. (2020). Sidney Coleman's Dirac Lecture "Quantum Mechanics in Your Face". https://arxiv.org/abs/2011.12671
+Coleman, S. & Gross, D.J. (1973). Price of asymptotic freedom. *Physical Review Letters*, 31, 851.
 Coleman, S. & Mandula, J. (1967). All possible symmetries of the $S$ matrix. *Physical Review*, 159(5), 1251--1256.
 Conway, J. & Kochen, S. (2006). The free will theorem. *Foundations of Physics*, 36, 1441--1473. https://arxiv.org/abs/quant-ph/0604079
 Cramer, J.G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58, 647.
@@ -201,6 +202,7 @@ Greaves, H. & Thomas, T. (2012). The CPT theorem. https://arxiv.org/abs/1204.467
 Greaves, H. & Wallace, D. (2011). Empirical consequences of symmetries. https://arxiv.org/abs/1111.4309
 Greenberger, D., Horne, M.A., & Zeilinger, A. (1989). Going beyond Bell's theorem. https://arxiv.org/abs/0712.0921
 Greenberger, D., Horne, M.A., Shimony, A., & Zeilinger, A. (1990). Bell's theorem without inequalities. *American Journal of Physics*, 58, 1131.
+Gross, D.J. & Wilczek, F. (1973). Ultraviolet behavior of non-abelian gauge theories. *Physical Review Letters*, 30, 1343.
 Gross, D.J. (1996). The role of symmetry in fundamental physics. *Proceedings of the National Academy of Sciences*, 93(25), 14256--14259. https://www.pnas.org/doi/pdf/10.1073/pnas.93.25.14256
 Guralnik, G.S., Hagen, C.R., & Kibble, T.W.B. (1964). Global conservation laws and massless particles. *Physical Review Letters*, 13, 585--587. https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.13.585
 Guth, A.H. (1981). Inflationary universe: A possible solution to the horizon and flatness problems. *Physical Review D*, 23, 347--356. https://journals.aps.org/prd/abstract/10.1103/PhysRevD.23.347
@@ -313,6 +315,7 @@ Phillips, P.W. (2023). Fifty years of Wilsonian renormalization and counting. ht
 {Pierre Auger Collaboration}. (2010). Measurement of the depth of maximum of extensive air showers above $10^{18}$ eV. *Physical Review Letters*, 104, 091101.
 {Pierre Auger Collaboration}. (2020). Features of the energy spectrum of cosmic rays above $2.5 \times 10^{18}$ eV using the Pierre Auger Observatory. *Physical Review Letters*, 125, 121106. https://arxiv.org/abs/2008.06488
 {Pierre Auger Collaboration}. (2020). Measurement of the cosmic ray energy spectrum above $2.5 \times 10^{18}$ eV using the Pierre Auger Observatory. *Physical Review D*, 102, 062005. https://arxiv.org/abs/2008.06486
+Politzer, H.D. (1973). Reliable perturbative results for strong interactions? *Physical Review Letters*, 30, 1346.
 Polyakov, A.M. (2008). From quarks to strings. https://arxiv.org/abs/0812.0183
 Preskill, J. (2013). We are all Wilsonians now. https://quantumfrontiers.com/2013/06/18/we-are-all-wilsonians-now/
 Preskill, J. (2018). Quantum computing in the NISQ era and beyond. https://arxiv.org/abs/1801.00862
