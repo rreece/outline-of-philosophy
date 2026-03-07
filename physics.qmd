@@ -260,10 +260,12 @@ TODO:
 
 ### Thermodynamics
 
+The Second Law of Thermodynamics:
+
+$$ \frac{dS}{dt} \geq 0 $$
+
 -   Denker, J. (2021). [*Modern Thermodynamics*](http://www.av8n.com/physics/thermo/).
 -   The 2nd Law of Thermodynamics said simply: Things tend to happen in ways for which there are many ways to happen like that.
-
-$$ \frac{\partial S}{\partial t} \geq 0 $$
 
 
 ### Statistical mechanics
