@@ -252,6 +252,7 @@ TODO:
 
 ### History
 
+-   [Rudolf Clausius](https://en.wikipedia.org/wiki/Rudolf_Clausius) (1822-1888)
 -   [James Clerk Maxwell](http://en.wikipedia.org/wiki/James_Clerk_Maxwell) (1831-1879)
 -   [Josiah Willard Gibbs](https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs) (1839-1903)
 -   [Ludwig Boltzmann](http://en.wikipedia.org/wiki/Ludwig_Boltzmann) (1844-1906)
@@ -262,10 +263,20 @@ TODO:
 -   Denker, J. (2021). [*Modern Thermodynamics*](http://www.av8n.com/physics/thermo/).
 -   The 2nd Law of Thermodynamics said simply: Things tend to happen in ways for which there are many ways to happen like that.
 
+$$ \frac{\partial S}{\partial t} \geq 0 $$
 
-### Canonical ensemble 
 
+### Statistical mechanics
+
+-   Entropy
+    -   Boltzmann (1877): $S = k \log \Omega$
+    -   R.V.L. Hartley: $H = n \log s$
+    -   Claude Shannon:  $H = - \sum p \log p$
 -   Canonical ensemble
+-   Maxwell-Boltzmann distribution
+-   Fermi-Dirac distribution
+-   Bose-Einstein distribution
+-   Grand canonical ensemble
 
 
 ### Phase translations
