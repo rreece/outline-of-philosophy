@@ -94,6 +94,7 @@ Linsky, B. & Zalta, E.N. (2006). What is Neologicism? *Bulletin of Symbolic Logi
 Lloyd, S. (1993). Quantum-mechanical computers and uncomputability. Physical Review Letters, 71, 943--46.
 MacFarlane, J. (2021). *Philosophical Logic: A contemporary introduction*. Routledge.
 Mac Lane, S. (1971). *Categories for the Working Mathematician*. New York: Springer-Verlag.
+Magnus, J.R. (2024). A gentle introduction to matrix calculus. *Journal of Econometrics*, 244, 105862. https://www.janmagnus.nl/papers/gentle.pdf
 Makowsky, J.A. (1995). The impact of model theory on theoretical computer science. *Studies in Logic and the Foundations of Mathematics*, 134, 239--262. https://doi.org/10.1016/S0049-237X(06)80047-9
 Marschall, B. (2021). Carnap and Beth on the limits of tolerance. *Canadian Journal of Philosophy*, 51, 282--300. https://doi.org/10.1017/can.2021.16
 Marschall, B. (2022). Carnap's philosophy of mathematics. *Philosophy Compass*, 17, 12884. https://doi.org/10.1111/phc3.12884
