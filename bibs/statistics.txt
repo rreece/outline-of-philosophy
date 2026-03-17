@@ -447,7 +447,8 @@ Vapnik, V., Levin, E., & LeCun, Y. (1994). Measuring the VC-dimension of a learn
 Vaswani, A. et al. (2017). Attention is all you need. *Advances in Neural Information Processing Systems*, 2017, 5998--6008. https://arxiv.org/abs/1706.03762
 Venn, J. (1888). *The Logic of Chance*. London: MacMillan and Co. [(Originally published in 1866)]
 Ver Hoef, J.M. (2012). Who invented the delta method? *American Statistician*, 66, 124--127. https://www.jstor.org/stable/23339471
-Vershynin, R. (2018). *High-Dimensional Probability: An Introduction with Applications in Data Science*. Cambridge University Press. https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.pdf
+#Vershynin, R. (2018). *High-Dimensional Probability: An Introduction with Applications in Data Science*. Cambridge University Press. https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.pdf
+Vershynin, R. (2026). *High-Dimensional Probability: An Introduction with Applications in Data Science* (2nd ed.). Cambridge University Press. https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-2.pdf
 Wagenmakers, E.J. (2021). Review: Bernoulli’s Fallacy. *Chance*, 34, 37--38. https://www.tandfonline.com/doi/full/10.1080/09332480.2021.2003642
 Wainer, H. (2007). The most dangerous equation. *American Scientist*, 95, 249--256. https://sites.stat.washington.edu/people/peter/498.Sp16/Equation.pdf
 Wakefield, J. (2013). *Bayesian and Frequentist Regression Methods*. Springer.

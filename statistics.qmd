@@ -405,12 +405,12 @@ Fisher:
     -   James, W. & Stein, C. (1961). [Estimation with quadratic loss](https://projecteuclid.org/accountAjax/Download?urlId=bsmsp%2F1200512173&downloadType=presschapter&isResultClick=True). [^James1961]
     -   [Proof of Stein's example](https://en.wikipedia.org/wiki/Proof_of_Stein%27s_example)
 -   van Handel, R. (2016). [Probability in high dimensions](https://web.math.princeton.edu/~rvan/APC550.pdf). [^vanHandel2016]
--   Vershynin, R. (2018). *High-Dimensional Probability: An Introduction with Applications in Data Dcience*. [^Vershynin2018]
+-   Vershynin, R. (2026). *High-Dimensional Probability: An Introduction with Applications in Data Dcience*. [^Vershynin2026]
 
 [^James1961]: @James_1961_Estimation_with_quadratic_loss\.
 [^Stein1956]: @Stein_1956_Inadmissibility_of_the_usual_estimator\.
 [^vanHandel2016]: @vanHandel_2016_Probability_in_high_dimensions\.
-[^Vershynin2018]: @Vershynin_2018_High_Dimensional_Probability_An_Introduction\.
+[^Vershynin2026]: @Vershynin_2026_High_Dimensional_Probability_An_Introduction\.
 
 
 Statistical models
