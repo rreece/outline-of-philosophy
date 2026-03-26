@@ -30,11 +30,18 @@ TODO
 
 ### History
 
--   roots from Babylonians
+-   Roots from Babylonians
+-   [Brahmagupta](https://en.wikipedia.org/wiki/Brahmagupta) (c. 598-668)
+-   [Al-Khwarizmi](https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi) (c. 780-850)
 -   [Al-Karaji](https://en.wikipedia.org/wiki/Al-Karaji) (c. 953-1029)
 -   [Gerolamo Cardano](https://en.wikipedia.org/wiki/Gerolamo_Cardano) (1501-1576)
+    -   *Ars Magna* (1545) - *The Great Art*
+-   [François Viète](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Vi%C3%A8te) (1540-1603)
+    -   Symbolic algebra
+-   [Ren&eacute; Descartes](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) (1596-1650)
+    -   Analytic geometry and algebraic geometry
 -   [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss) (1777-1855)
-    -   published a proof of the fundamental theorem of algebra (1797)
+    -   Published a proof of the fundamental theorem of algebra (1797)
     -   The theorem states that the field of complex numbers is algebraically closed.
 -   [&Eacute;variste Galois](https://en.wikipedia.org/wiki/%C3%89variste_Galois) (1811-1832)
 -   [Arthur Cayley](https://en.wikipedia.org/wiki/Arthur_Cayley) (1821-1895)
@@ -191,8 +198,11 @@ TODO
 
 ### History
 
+-   Archimedes (c. 287-212 BCE)
+    -   [Method of exhaustion](https://en.wikipedia.org/wiki/Method_of_exhaustion)
+-   [Kerala school of astronomy and mathematics](https://en.wikipedia.org/wiki/Kerala_school_of_astronomy_and_mathematics) (flourished between the 14th and 16th centuries CE)
 -   Ren&eacute; Descartes (1596-1650)
-    -   Geometry and coordinates, modern notation, geometric problems forumalted with algebra
+    -   Geometry and coordinates, modern notation, geometric problems forumalted with algebra, analytic geometry, algebraic geometry
     -   *La G&eacute;om&eacute;trie* (1637)
 -   Isaac Newton (1642-1726/7)
 -   Gottfried Wilhelm Leibniz (1646-1716)
