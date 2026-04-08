@@ -667,6 +667,8 @@ Economics
     -   First to develop the standard supply and demand graph 
 -   [John Bates Clark](https://en.wikipedia.org/wiki/John_Bates_Clark) (1847-1938)
 -   [Vilfredo Pareto](https://en.wikipedia.org/wiki/Vilfredo_Pareto) (1848-1923)
+-   [Irving Fisher](https://en.wikipedia.org/wiki/Irving_Fisher) (1867-1947)
+    -   *The Theory of Interest* (1930)
 -   [John Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) (1883-1946)
     -   *The General Theory of Employment, Interest and Money* (1936)
 -   [Keynesian economics](https://en.wikipedia.org/wiki/Keynesian_economics)
@@ -679,6 +681,7 @@ Economics
 -   heterodox
 -   [Carl Menger](https://en.wikipedia.org/wiki/Carl_Menger) (1840-1921)
 -   Eugen von B&ouml;hm-Bawerk (1851-1914)
+    -   *Capital and Interest* (1884)
 -   Friedrich von Wieser (1851-1926)
     -   Opportunity costs
 -   [Ludwig von Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises) (1881-1973)
