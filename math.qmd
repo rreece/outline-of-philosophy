@@ -75,16 +75,6 @@ See also:
 -   [Convex optimization](https://rreece.github.io/finance-notes/convex-optimization.html)
 
 
-### Operator theory
-
--   operator
--   operator algebra
-
-Spectral theorem:
-
-$$ [Tf](x) = \int K(x, y) f(y) dy $$
-
-
 ### Lie groups
 
 -   [Lie group](https://en.wikipedia.org/wiki/Lie_group)
@@ -363,6 +353,17 @@ See also:
 
 [^Needham1997]: @Needham_1997_Visual_Complex_Analysis\.
 [^Reece2006]: @Reece_2006_Primer_on_complex_analysis\.
+
+
+### Operator theory
+
+-   Operator
+-   Operator algebra
+
+Spectral theorem:
+
+$$ [Tf](x) = \int K(x, y) f(y) dy $$
+
 
 
 Number theory
