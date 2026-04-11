@@ -75,6 +75,16 @@ See also:
 -   [Convex optimization](https://rreece.github.io/finance-notes/convex-optimization.html)
 
 
+### Operator theory
+
+-   operator
+-   operator algebra
+
+Spectral theorem:
+
+$$ [Tf](x) = \int K(x, y) f(y) dy $$
+
+
 ### Lie groups
 
 -   [Lie group](https://en.wikipedia.org/wiki/Lie_group)
@@ -151,9 +161,10 @@ Summarizing the classification of finite simple groups:
 -   A *ring* is an abelian group (under addition) with a second closed, associative, binary operation (multiplication) that distributes over the first.
 -   A *division ring* is a ring where every non-zero element has a multiplicative inverse.
 -   A *field* is a commutative division ring (where multiplication commutes).
--   A vector space is an abelian group with a compatible scalar multiplication by a field.
--   A module is an abelian group with a compatible scalar multiplication by a ring.
--   Modules are to rings as vector spaces are to fields. The scalars for modules need not have inverses or commute.
+-   A *vector space* is an abelian group with a compatible scalar multiplication by a field.
+-   A *module* is an abelian group with a compatible scalar multiplication by a ring.
+    -   Modules are to rings as vector spaces are to fields. The scalars for modules need not have inverses or commute.
+-   An *algebra* is a vector space equipped with a bilinear product.
 
 $$ 
 \begin{align}
