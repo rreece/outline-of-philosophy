@@ -2134,6 +2134,7 @@ Poincar&eacute;:
     -   Polemic against metaphysics.
     -   Rainforest realism: Scale-relative ontology
 -   Frigg, R. & Votsis, I. (2011). Everything you always wanted to know about structural realism but were afraid to ask. [^Frigg2011]
+-   Nounou, A.M. (2015). For or against structural realism? A verdict from high energy physics. [^Nounou2015]
 
 More:
 
@@ -2149,6 +2150,7 @@ More:
 [^Dennett1991b]: @Dennett_1991_Real_patterns\.
 [^Frigg2011]: @Frigg_2011_Everything_you_always_wanted_to_know_about\. 
 [^Ladyman2007c]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
+[^Nounou2015]: @Nounou_2015_For_or_against_structural_realism_A_verdict_from\.
 [^Poincare1913p347]: @Poincare_1913_The_Foundations_of_Science_Science\, p. 347--8.
 [^Redhead1975]: @Redhead_1975_Symmetry_in_intertheory_relations\.
 [^Redhead2001]: @Redhead_2001_The_intelligibility_of_the_universe\.
