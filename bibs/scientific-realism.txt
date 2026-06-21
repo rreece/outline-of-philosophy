@@ -60,6 +60,7 @@ Moore, G.E. (1939). Proof of an external world. *Proceedings of the British Acad
 Nado, J. (2024). Truth in philosophy: a conceptual engineering approach. https://link.springer.com/article/10.1007/s44204-024-00151-0
 Ney, A. (2014). *Metaphysics: An introduction*. Routledge.
 Neuber, M. (2014). Critical realism in perspective: Remarks on a neglected current in Neo-Kantian epistemology. In M.C. Galavotti et al (eds.), *The Philosophy of Science in a European Perspective: New Directions in the Philosophy of Science* (pp. 657--673). Springer. https://philpapers.org/rec/NEUCRI
+Nounou, A.M. (2015). For or against structural realism? A verdict from high energy physics. *Studies in History and Philosophy of Modern Physics*, 49, 84--101. https://doi.org/10.1016/j.shpsb.2015.01.003 
 Nozick, R. (2001). *Invariances*. Harvard University Press.
 Ogden, C.K. & Richards, I.A. (1989). *The Meaning of Meaning*. Harcourt Brace Jovanovich. [(Original published in 1923 by Kegan Paul)]
 O'Neill, J. & Uebel, T. (2004). Horkheimer and Neurath: Restarting a disrupted debate. *European Journal of Philosophy*, 12, 75--105.
