@@ -305,6 +305,8 @@ $$ \iint_{\partial V} \vec{F} \cdot \mathrm{d}\vec{S} = \iiint_V (\nabla \cdot \
 -   History
     -   &Eacute;lie Cartan (1869-1951)
     -   W.V.D. Hodge (1903-1975)
+-   Algebraic geometry
+    -   [*The Stacks Project*](https://stacks.math.columbia.edu/)
 -   Differential forms
     -   Manifold, tangent and cotangent spaces, vector bundle, fiber bundle
     -   Exterior calculus
@@ -1317,6 +1319,7 @@ Grothendieck:
     -   Per Martin-L&ouml;f (b. 1942)
 -   [Homotopy type theory](https://ncatlab.org/nlab/show/homotopy+type+theory) - nLab
 -   [*Homotopy Type Theory: Univalent Foundations of Mathematics*](https://homotopytypetheory.org/book/) (2013)
+-   [*Kerodon*](https://kerodon.net/)
 
 See also:
 
