@@ -540,9 +540,10 @@ Game theory
 
 ### Introduction
 
--   TODO
 -   von Neumann, J. & Morgenstern, O. (1944). *Theory of Games and Economic Behavior*. [^vonNeumann1944]
--   Nash's theorem (1950)
+-   Nash, J. (1950). Equilibrium points in n-person games. *Proceedings of the National Academy of Sciences*, 36, 48--49.
+-   Nash, J. (1951). Non-cooperative games. *The Annals of Mathematics*, 54, 286--295.
+-   Shannon, C.E. (1950). [Programming a computer for playing chess](https://archive.computerhistory.org/projects/chess/related_materials/text/2-0%20and%202-1.Programming_a_computer_for_playing_chess.shannon/2-0%20and%202-1.Programming_a_computer_for_playing_chess.shannon.062303002.pdf). [^Shannon1950]
 
 Pedagogy:
 
@@ -556,6 +557,10 @@ See also:
 
 [^Roughgarden2016b]: @Roughgarden_2016_Twenty_Lectures_on_Algorithmic_Game_Theory\.
 [^vonNeumann1944]: @vonNeumann_1944_Theory_of_Games_and_Economic_Behavior\.
+[^Nash1950]: @Nash_1950_Equilibrium_points_in_n_person_games\.
+[^Nash1951]: @Nash_1951_Non_cooperative_games\.
+[^Shannon1950]: @Shannon_1950_Programming_a_computer_for_playing_chess\.
+
 
 ### Nash's theorem
 
