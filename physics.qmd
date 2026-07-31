@@ -225,6 +225,7 @@ Pedagogy:
 -   Carnap, R. (1966). *Philosophical Foundations of Physics*. [^Carnap1966b]
 -   Maudlin [^Maudlin2012pX]
 -   Schroeder, D.V. (2022). [Relativity in five lessons](https://physics.weber.edu/schroeder/r5/).
+-   Kinney, W.H. (2026). [Special relativity boot camp](https://www.acsu.buffalo.edu/~whkinney/SpecialRelativityBootCamp/).
 
 See also:
 
