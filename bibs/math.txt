@@ -75,6 +75,7 @@ Hodges, W. (1985). Truth in a structure. *Proceedings of the Aristotelian Societ
 Hodges, W. (1997). *A Shorter Model Theory*. Cambridge University Press.
 Holm, D.D. (2011). *Geometric Mechanics - Part I: Dynamics And Symmetry* (2nd ed.). Imperial College Press.
 Holm, D.D. (2011). *Geometric Mechanics - Part II: Rotating, Translating, and Rolling* (2nd ed.). Imperial College Press.
+Huang, X. et al. (2026). The Mathieu group M23 is a Galois group over Q. https://arxiv.org/abs/2608.08538
 Hunter, G. (1971). *Metalogic: An Introduction to the Metatheory of Standard First-Order Logic*. University of California Press.
 Hunter, G. (1988). What computers can't do. *Philosophy*, 63, 175--189. https://www.jstor.org/stable/3750413
 Hunter, G. (1994). Platonist manifesto. *Philosophy*, 69, 151--162. https://www.jstor.org/stable/3751342
