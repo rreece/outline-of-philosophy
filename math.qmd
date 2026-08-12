@@ -137,8 +137,10 @@ Summarizing the classification of finite simple groups:
 -   26 Sporadic groups
     -   20 groups in the Happy Family
     -   6 Pariahs
+    -   All Sporadic groups are Galois groups. [^Huang2026]
 
 [^Carter2009]: @Carter_2009_Visual_Group_Theory\.
+[^Huang2026]: @Huang_2026_The_Mathieu_group_M23_is_a_Galois_group_over_Q\.
 
 
 ### Abstract algebra
