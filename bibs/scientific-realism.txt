@@ -4,6 +4,7 @@ Auspitz, J.L. (1994). The wasp leaves the bottle: Charles Sanders Peirce. *The A
 Ayer, A.J. (1936). *Language, Truth, and Logic*. London: Victor Gollancz Ltd.
 Ayer, A.J. & Magee, B. (1978). Logical positivism and its legacy. *Men of Ideas*. https://www.youtube.com/watch?v=4cnRJGs08hE [(BBC television seires)]
 Baggott, J. (2005). *A Beginners Guide to Reality*. Penguin Group.
+Bar-Hillel, Y. (1954). Logical syntax and semantics. *Language*, 30, 230--237. https://www.jstor.org/stable/410265
 Barrett, J. (2004). On the cognitive status of our best physical theories. http://faculty.sites.uci.edu/jeffreybarrett/articles/
 Boghossian, P. (2006). *Fear of Knowledge*. Oxford University Press.
 Borg, E. (2007). *Minimal Semantics*. Oxford University Press.
