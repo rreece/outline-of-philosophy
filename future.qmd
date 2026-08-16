@@ -31,22 +31,30 @@ See also:
 
 ### Existential threats
 
--   Bostrom, N. (2013). [Existential risk prevention as global priority](https://www.existential-risk.org/concept.pdf). [^Bostrom2013]
 -   Climate change
 -   WMDs
 -   Pandemics
 -   Asteroids
 -   AI
 -   ...
+
+Discussion:
+
+-   Leslie, J.A. (1996). *The End of the World: The Science and Ethics of Human Extinction*. [^Leslie1996]
+-   Bostrom, N. (2002). [Existential risks analyzing human extinction scenarios and related hazards](https://nickbostrom.com/papers/existential-risks/existential-risks.pdf). [^Bostrom2002]
+-   Bostrom, N. (2013). [Existential risk prevention as global priority](https://www.existential-risk.org/concept.pdf). [^Bostrom2013]
 -   [Doomsday argument](https://en.wikipedia.org/wiki/Doomsday_argument)
 -   Hanson, R. (1998). [Critiquing the doomsday argument](https://web.archive.org/web/20050405210231/http://hanson.gmu.edu/nodoom.html).
 -   Baum, S.D. et al. (2019). Long-term trajectories of human civilization. [^Baum2019]
 -   Bostrom, N. (2019). [The vulnerable world hypothesis](https://nickbostrom.com/papers/vulnerable.pdf). [^Bostrom2019]
 -   Aschenbrenner, L. (2020). [Existential risk and growth](https://globalprioritiesinstitute.org/leopold-aschenbrenner-existential-risk-and-growth/).
+-   Torres, E.P. (2026). [Nick Bostrom took many of his "best" ideas from other people](https://www.realtimetechpocalypse.com/p/nick-bostrom-took-many-of-his-best).
 
 [^Baum2019]: @Baum_2019_Long_term_trajectories_of_human_civilization\.
+[^Bostrom2002]: @Bostrom_2002_Existential_risks_analyzing_human_extinction\.
 [^Bostrom2013]: @Bostrom_2013_Existential_risk_prevention_as_global_priority\.
 [^Bostrom2019]: @Bostrom_2019_The_vulnerable_world_hypothesis\.
+[^Leslie1996]: @Leslie_1996_The_End_of_the_World_The_Science_and_Ethics\.
 
 
 ### Fermi paradox
@@ -200,6 +208,13 @@ Transhumanism
 -   Huxley, Julian (1957). [Transhumanism](https://web.archive.org/web/20160625132722/http://www.transhumanism.org/index.php/WTA/more/huxley).
 -   Moravec, H. (1998). [When will computer hardware match the human brain?](https://jetpress.org/volume1/moravec.htm). [^Moravec1998]
 -   Bostrom, N. (2005). [The fable of the dragon-tyrant](https://www.nickbostrom.com/fable/dragon.html). [^Bostrom2005]
+-   Ray Kurzweil
+    -   *The Age of Intelligent Machines* (1990)
+    -   *The Age of Spiritual Machines* (1999)
+    -   *The Singularity Is Near* (2005)
+    -   *How to Create a Mind* (2012)
+    -   *The Singularity Is Nearer* (2024)
+-   Modis, T. (2006). The singularity myth. [^Modis2006]
 -   Related terms:
     -   Extropianism
     -   (New) rationalism
@@ -216,9 +231,10 @@ Transhumanism
     -   Andreessen, M. (2023). [The techno-optimist manifesto](https://a16z.com/the-techno-optimist-manifesto/).
 
 [^Barbrook1996]: @Barbrook_1996_The_Californian_ideology\.
-[^Uluorta2022]: @Uluorta_2022_The_Californian_ideology_revisited\.
 [^Bostrom2005]: @Bostrom_2005_The_fable_of_the_dragon_tyrant\.
+[^Modis2006]: @Modis_2006_The_singularity_myth\.
 [^Moravec1998]: @Moravec_1998_When_will_computer_hardware_match_the_human_brain\.
+[^Uluorta2022]: @Uluorta_2022_The_Californian_ideology_revisited\.
 
 
 My thoughts

@@ -4,6 +4,7 @@ Barbrook, R. & Cameron, A. (1996). The Californian ideology. *Science and Cultur
 Baum, S.D. et al. (2019). Long-term trajectories of human civilization. *Foresight*, 21, 55--83.
 Bengio, Y. et al. (2025). International AI Safety Report. https://arxiv.org/abs/2501.17805
 Bostrom, N. (2002). *Anthropic Bias: Observation selection effects in science and philosophy*. Routledge.
+Bostrom, N. (2002). Existential risks analyzing human extinction scenarios and related hazards. *Journal of Evolution and Technology*, 9. https://nickbostrom.com/papers/existential-risks/existential-risks.pdf
 Bostrom, N. (2003). Are you living in a computer simulation? *Philosophical Quarterly*, 53, 243--255.
 Bostrom, N. (2005). The fable of the dragon-tyrant. *Journal of Medical Ethics*, 31, 273--277. https://www.nickbostrom.com/fable/dragon.html
 Bostrom, N. (2011). A patch for the simulation argument. *Analysis*, 71, 54--61*.
@@ -16,10 +17,12 @@ Gabriel, I. et al. (2024). The ethics of advanced AI assistants. https://storage
 Good, I.J. (1965). Speculations concerning the first ultraintelligent machine. *Advances in Computers*, 6, 31--88. https://blog.biocomm.ai/wp-content/uploads/2023/05/IJ-Good.-Speculations-Concerning-the-First-Ultraintelligent-Machine.pdf
 Hanson, R., Martin, D., McCarter, C., & Paulson, J. (2021). If loud aliens explain human earliness, quiet aliens are also rare. *The Astrophysical Journal*, 922, 182. https://iopscience.iop.org/article/10.3847/1538-4357/ac2369
 Kubrick, S. (1968). Playboy Interview: Stanley Kubrick. *Playboy Magazine*, 9, 94. https://galacticjourney.org/stories/PB_1968-09_Kubrik-Interview.pdf
+Leslie, J.A. (1996). *The End of the World: The Science and Ethics of Human Extinction*. Routledge.
 Longpre, S. (2024). Consent in crisis: The rapid decline of the AI data commons. https://www.dataprovenance.org/Consent_in_Crisis.pdf
 Marcus, G. (2018). Deep learning: A critical appraisal. https://arxiv.org/abs/1801.00631
 Maslej, N. et al. (2023). The AI Index 2023 Annual Report. https://aiindex.stanford.edu/wp-content/uploads/2023/04/HAI_AI-Index-Report_2023.pdf
 Maslej, N. et al. (2024). The AI Index 2024 Annual Report. https://aiindex.stanford.edu/wp-content/uploads/2024/05/HAI_AI-Index-Report-2024.pdf
+Modis, T. (2006). The singularity myth. *Technological Forecasting & Social Change*, 73, 104--112. http://www.growth-dynamics.com/articles/Kurzweil_critique.pdf
 Moravec, H. (1998). When will computer hardware match the human brain? *Journal of Evolution and Technology*, 1. https://jetpress.org/volume1/moravec.htm
 O'Neill, G.K. (1974). The colonization of space. *Physics Today*, 27, 32--40. https://pubs.aip.org/physicstoday/article/27/9/32/429507/The-colonization-of-spaceCareful-engineering-and
 Perrault, R. et al. (2025). Artificial Intelligence Index Report 2025. Human-Centered Artificial Intelligence, Stanford University. https://hai-production.s3.amazonaws.com/files/hai_ai_index_report_2025.pdf
