@@ -33,6 +33,7 @@ McKay, S. (2020). The marvel of language: Knowns, unknowns, and maybes. *Rocky M
 Montero, B. (1999). The Body Problem. *Nous*, 33(2), 183--200.
 Nagel, T. (1974). What is it like to be a bat? *The Philosophical Review*, 83(4), 435--450. https://warwick.ac.uk/fac/cross_fac/iatl/study/ugmodules/humananimalstudies/lectures/32/nagel_bat.pdf
 Norvig, P. (2011). On Chomsky and the Two Cultures of Statistical Learning. https://norvig.com/chomsky.html
+Piantadosi, S.T. & Hill, F. (2022). Meaning without reference in large language models. https://arxiv.org/abs/2208.02957
 Piantadosi, S.T. (2023). Modern language models refute Chomsky’s approach to language. https://lingbuzz.net/lingbuzz/007180
 Reimann, M.W. et al. (2017). Cliques of neurons bound into cavities provide a missing link between structure and function. *Frontiers in Computational Neuroscience*, 11. https://www.frontiersin.org/articles/10.3389/fncom.2017.00048/full
 Ross, D. (2000). *Dennett's Philosophy: A comprehensive assessment*. MIT Press.

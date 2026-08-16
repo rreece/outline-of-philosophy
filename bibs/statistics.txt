@@ -200,6 +200,7 @@ Hacking, I. (1971). Jacques Bernoulli's Art of conjecturing. *The British Journa
 Hacking, I. (2001). *An Introduction to Probability and Inductive Logic*. Cambridge University Press.
 Halverson, J., Maiti, A., & Stoner, K. (2020). Neural networks and quantum field theory. https://arxiv.org/abs/2008.08601
 Hanley, J.A. & Lippman-Hand, A. (1983). If nothing goes wrong, is everything all right?: Interpreting zero numerators. *JAMA*, 249(13), 1743--1745.
+Harris, Z.S. (1954). Distributional structure. *Word*, 10, 146--162.
 Hartigan, J.A. (1985). Statistical theory in clustering. *Journal of Classification*, 2, 63--76. https://link.springer.com/article/10.1007/BF01908064
 Hart, S. & Mas‐Colell, A. (2000). A simple adaptive procedure leading to correlated equilibrium. *Econometrica*, 68, 1127--1150. https://www.ma.imperial.ac.uk/~dturaev/Hart0.pdf
 Hastie, T., Montanari, A., Rosset, S., & Tibshirani, R. J. (2022). Surprises in high-dimensional ridgeless least squares interpolation. *Annals of Statistics*, 50, 949. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9481183/
