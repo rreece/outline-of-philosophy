@@ -214,6 +214,7 @@ Transhumanism
     -   *The Singularity Is Near* (2005)
     -   *How to Create a Mind* (2012)
     -   *The Singularity Is Nearer* (2024)
+-   Modis, T. (2006). The singularity myth. [^Modis2006]
 -   Related terms:
     -   Extropianism
     -   (New) rationalism
@@ -230,9 +231,10 @@ Transhumanism
     -   Andreessen, M. (2023). [The techno-optimist manifesto](https://a16z.com/the-techno-optimist-manifesto/).
 
 [^Barbrook1996]: @Barbrook_1996_The_Californian_ideology\.
-[^Uluorta2022]: @Uluorta_2022_The_Californian_ideology_revisited\.
 [^Bostrom2005]: @Bostrom_2005_The_fable_of_the_dragon_tyrant\.
+[^Modis2006]: @Modis_2006_The_singularity_myth\.
 [^Moravec1998]: @Moravec_1998_When_will_computer_hardware_match_the_human_brain\.
+[^Uluorta2022]: @Uluorta_2022_The_Californian_ideology_revisited\.
 
 
 My thoughts
