@@ -1,5 +1,6 @@
 Armstrong, S., Sotala, K., & OhEigeartaigh, S. S. (2014). The errors, insights and lessons of famous AI predictions--and what they mean for the future. *Journal of Experimental & Theoretical Artificial Intelligence*, 26(3), 317--342. https://www.fhi.ox.ac.uk/wp-content/uploads/FAIC.pdf
 Aschenbrenner, L. (2024). Situational Awareness: The decade ahead. https://situational-awareness.ai/wp-content/uploads/2024/06/situationalawareness.pdf
+Barbrook, R. & Cameron, A. (1996). The Californian ideology. *Science and Culture*, 6, 44--72.
 Baum, S.D. et al. (2019). Long-term trajectories of human civilization. *Foresight*, 21, 55--83.
 Bengio, Y. et al. (2025). International AI Safety Report. https://arxiv.org/abs/2501.17805
 Bostrom, N. (2002). *Anthropic Bias: Observation selection effects in science and philosophy*. Routledge.
@@ -9,6 +10,7 @@ Bostrom, N. (2011). A patch for the simulation argument. *Analysis*, 71, 54--61*
 Bostrom, N. (2013). Existential risk prevention as global priority. *Global Policy*, 4, 15--31. https://www.existential-risk.org/concept.pdf
 Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press.
 Bostrom, N. (2019). The vulnerable world hypothesis, *Global Policy*, 10, 455--476. https://nickbostrom.com/papers/vulnerable.pdf
+Bostrom, N. & Yudkowsky, E. (2014). The ethics of artificial intelligence. In K. Frankish & W. Ramsey (eds.). *The Cambridge Handbook of Artificial Intelligence*. Cambridge University Press. https://intelligence.org/files/EthicsofAI.pdf
 Feynman, R.P. (1959). There's plenty of room at the bottom. https://calteches.library.caltech.edu/1976/1/1960Bottom.pdf
 Gabriel, I. et al. (2024). The ethics of advanced AI assistants. https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/ethics-of-advanced-ai-assistants/the-ethics-of-advanced-ai-assistants-2024-i.pdf
 Good, I.J. (1965). Speculations concerning the first ultraintelligent machine. *Advances in Computers*, 6, 31--88. https://blog.biocomm.ai/wp-content/uploads/2023/05/IJ-Good.-Speculations-Concerning-the-First-Ultraintelligent-Machine.pdf
@@ -21,8 +23,10 @@ Maslej, N. et al. (2024). The AI Index 2024 Annual Report. https://aiindex.stanf
 Moravec, H. (1998). When will computer hardware match the human brain? *Journal of Evolution and Technology*, 1. https://jetpress.org/volume1/moravec.htm
 O'Neill, G.K. (1974). The colonization of space. *Physics Today*, 27, 32--40. https://pubs.aip.org/physicstoday/article/27/9/32/429507/The-colonization-of-spaceCareful-engineering-and
 Perrault, R. et al. (2025). Artificial Intelligence Index Report 2025. Human-Centered Artificial Intelligence, Stanford University. https://hai-production.s3.amazonaws.com/files/hai_ai_index_report_2025.pdf
+Riemens, R. (2024). Fixing the earth: Whole-systems thinking in Silicon Valley's environmental ideology. *Internet Histories*, 8, 294--311.
 Russell, S. & Norvig, P. (1995). *Artificial Intelligence: A modern approach* (3rd ed.). Pearson.
 Sandberg, A., Drexler, E., & Ord, T. (2018). Dissolving the Fermi paradox. https://arxiv.org/abs/1806.02404
+Uluorta, H.M. & Quill, L. (2022). The Californian ideology revisited. In *Digital Platforms and Algorithmic Subjectivities* (pp. 21--31). London: University of Westminster Press. https://library.oapen.org/bitstream/handle/20.500.12657/59166/digital-platforms-and-algorithmic-subjectivities.pdf?sequence=1#page=32
 Urban, T. (2015). The AI Revolution: The Road to Superintelligence. https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html
 Vincent, J. (2019). OpenAI’s new multitalented AI writes, translates, and slanders: A step forward in AI text-generation that also spells trouble. https://www.theverge.com/2019/2/14/18224704/ai-machine-learning-language-models-read-write-openai-gpt2
 Vinge, V. (1993). The coming technological singularity. https://edoras.sdsu.edu/~vinge/misc/singularity.html

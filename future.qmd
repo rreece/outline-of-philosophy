@@ -20,6 +20,7 @@ Risk
 
 -   [*The Limits to Growth* (1972)](https://en.wikipedia.org/wiki/The_Limits_to_Growth)
 -   O'Neill, G.K. (1974). [The colonization of space](https://pubs.aip.org/physicstoday/article/27/9/32/429507/The-colonization-of-spaceCareful-engineering-and). [^ONeill1974]
+-   Riemens, R. (2024). Fixing the earth: Whole-systems thinking in Silicon Valley's environmental ideology. [^Riemens2024]
 
 See also:
 
@@ -161,6 +162,8 @@ See also:
 >   We have the technology to totally fill Twitter, email, and the web up with reasonable-sounding,
 >   context-appropriate prose, which would drown out all other speech and be impossible to filter. [^Vincent2019]
 
+-   Bostrom, N. & Yudkowsky, E. (2014). [The ethics of artificial intelligence](https://intelligence.org/files/EthicsofAI.pdf). [^BostromYudkowsky2014]
+-   Future of Life Institute. (2015). [Research priorities for robust and beneficial artificial intelligence: An open letter](https://futureoflife.org/open-letter/ai-open-letter/).
 -   Carroll, S. & Russell, S. (2020). Video: [Stuart Russell on making artificial intelligence compatible with humans](https://www.youtube.com/watch?v=txGYG60TICA). Mindscape 94.
     -   Russell: AI gives us the Midas touch
 -   Kokotajlo, D. (2021). [What 2026 looks like](https://www.lesswrong.com/posts/6Xgy6CAf2jqHhynHL/what-2026-looks-like/).
@@ -177,9 +180,11 @@ See also:
 -   Kokotajlo, D., Alexander, S., Larsen, T., Lifland, E., & Dean, R. (2025). [AI 2027](https://ai-2027.com/).
 -   Bengio, Y. et al. (2025). [International AI Safety Report](https://arxiv.org/abs/2501.17805). [^Bengio2025]
 -   Sadeddine, Z., Maxwell, W., Varoquaux, G., & Suchanek, F.M. (2025). [Large language models as search engines: Societal challenges](https://suchanek.name/work/publications/sigir-forum-2025.pdf).
+-   Amodei, D. (2026). [The adolescence of technology: Confronting and overcoming the risks of powerful AI](https://darioamodei.com/essay/the-adolescence-of-technology).
 
 [^Aschenbrenner2024]: @Aschenbrenner_2024_Situational_Awareness_The_decade_ahead\.
 [^Bengio2025]: @Bengio_2025_International_AI_Safety_Report\.
+[^BostromYudkowsky2014]: @Bostrom_2014_The_ethics_of_artificial_intelligence\.
 [^Gabriel2024]: @Gabriel_2024_The_ethics_of_advanced_AI_assistants\.
 [^Longpre2024]: @Longpre_2024_Consent_in_crisis_The_rapid_decline_of_the_AI\.
 [^Vincent2019]: @Vincent_2019_OpenAIs_new_multitalented_AI_writes_translates\.
@@ -195,7 +200,23 @@ Transhumanism
 -   Huxley, Julian (1957). [Transhumanism](https://web.archive.org/web/20160625132722/http://www.transhumanism.org/index.php/WTA/more/huxley).
 -   Moravec, H. (1998). [When will computer hardware match the human brain?](https://jetpress.org/volume1/moravec.htm). [^Moravec1998]
 -   Bostrom, N. (2005). [The fable of the dragon-tyrant](https://www.nickbostrom.com/fable/dragon.html). [^Bostrom2005]
+-   Related terms:
+    -   Extropianism
+    -   (New) rationalism
+    -   Effective altruism
+    -   Effective accelerationism
+    -   Longtermism
+    -   Transhumanism
+    -   Singularitarianism
+    -   [TESCREAL](https://en.wikipedia.org/wiki/TESCREAL) - Timnit Gebru and &Eacute;mile P. Torres
+    -   Torres, E.P. (2026). [Skeptical of the TESCREAL acronym? Read this](https://www.realtimetechpocalypse.com/p/skeptical-of-the-tescreal-acronym).
+-   Silicon Valley thought
+    -   Barbrook, R. & Cameron, A. (1996). The Californian ideology. [^Barbrook1996]
+    -   Uluorta, H.M. & Quill, L. (2022). The Californian ideology revisited. [^Uluorta2022]
+    -   Andreessen, M. (2023). [The techno-optimist manifesto](https://a16z.com/the-techno-optimist-manifesto/).
 
+[^Barbrook1996]: @Barbrook_1996_The_Californian_ideology\.
+[^Uluorta2022]: @Uluorta_2022_The_Californian_ideology_revisited\.
 [^Bostrom2005]: @Bostrom_2005_The_fable_of_the_dragon_tyrant\.
 [^Moravec1998]: @Moravec_1998_When_will_computer_hardware_match_the_human_brain\.
 
