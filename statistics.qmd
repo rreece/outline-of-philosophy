@@ -3129,6 +3129,7 @@ Piantadosi:
 
 See also:
 
+-   [Language models and mind](mind.html#language-models-and-mind)
 -   [Natural language processing](statistics.html#natural-language-processing)
 -   [Ordinary language philosophy](scientific-realism.html#ordinary-language-philosophy)
 
