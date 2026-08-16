@@ -1190,12 +1190,14 @@ Carnap in ESO:
 
 Discussion:
 
+-   Bar-Hillel, Y. (1954). Logical syntax and semantics. [^BarHillel1954]
 -   Chomsky, N. (1955). Logical syntax and semantics. [^Chomsky1955]
 -   Quine, W.V.O. (1960). Carnap and logical truth. [^Quine1960b]
 -   Steinberger, F. (2016). How tolerant can you be? Carnap on rationality. [^Steinberger2016]
 -   Leitgeb, H. & Carus, A. (2020). [Rudolf Carnap](https://plato.stanford.edu/entries/carnap/index.html). *SEP*. [^Leitgeb2020]
 -   Baker, K. (2023). Video: [Metaphysics - Carnap on Ontology](https://www.youtube.com/watch?v=e4eOtMn2me0).
 
+[^BarHillel1954]: @Bar_Hillel_1954_Logical_syntax_and_semantics\.
 [^Carnap1937LSL]: @Carnap_1937_Logical_Syntax_of_Language\.
 [^Carnap1937LSLSec17a]: @Carnap_1937_Logical_Syntax_of_Language\, &sect;17.
 [^Carnap1937LSLSec17b]: @Carnap_1937_Logical_Syntax_of_Language\, &sect;17.

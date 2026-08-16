@@ -1993,19 +1993,12 @@ Resources:
 #### Introduction
 
 -   Natural Language Processing (NLP)
--   History
-    -   Firth, J.R. (1957): "You shall know a word by the company it keeps." [^Firth1957]
-    -   Nirenburg, S. (1996). [Bar Hillel and Machine Translation: Then and Now](https://web.archive.org/web/20120414235847/http://ilit.umbc.edu/SergeiPub/bar-hillel.pdf). [^Nirenburg1996]
-    -   Hutchins, J. (2000). [Yehoshua Bar-Hillel: A philosophers' contribution to machine translation](https://web.archive.org/web/20190702192948/http://www.hutchinsweb.me.uk/Bar-Hillel-2000.pdf). [^Hutchins2000]
 -   Textbooks
     -   Jurafsky, D. & Martin, J.H. (2022). [*Speech and Language Processing: An introduction to natural language processing, computational linguistics, and speech recognition*](https://web.stanford.edu/~jurafsky/slp3/ed3book_jan122022.pdf). [^Jurafsky2022]
     -   Liu, Z., Lin, Y., & Sun, M. (2023). [*Representation Learning for Natural Language Processing*](https://link.springer.com/book/10.1007/978-981-99-1600-9). [^Liu2023]
 
-[^Firth1957]: @Firth_1957_A_synopsis_of_linguistic_theory_1930_1955\.
-[^Hutchins2000]: @Hutchins_2000_Yehoshua_Bar_Hillel_A_philosophers_contribution\.
 [^Jurafsky2022]: @Jurafsky_2022_Speech_and_Language_Processing_An_introduction\.
 [^Liu2023]: @Liu_2023_Representation_Learning_for_Natural_Language\.
-[^Nirenburg1996]: @Nirenburg_1996_Bar_Hillel_and_Machine_Translation_Then_and_Now\.
 
 
 #### word2vec
@@ -3072,9 +3065,13 @@ See also:
 
 -   [Inferential role semantics](https://en.wikipedia.org/wiki/Inferential_role_semantics)
     -   Wilfrid Sellars
+-   [Distributional semantics](https://en.wikipedia.org/wiki/Distributional_semantics)
+    -   Harris, Z.S. (1954). Distributional structure. [^Harris1954]
+    -   Firth, J.R. (1957): "You shall know a word by the company it keeps." [^Firth1957]
+    -   Nirenburg, S. (1996). [Bar Hillel and Machine Translation: Then and Now](https://web.archive.org/web/20120414235847/http://ilit.umbc.edu/SergeiPub/bar-hillel.pdf). [^Nirenburg1996]
+    -   Hutchins, J. (2000). [Yehoshua Bar-Hillel: A philosophers' contribution to machine translation](https://web.archive.org/web/20190702192948/http://www.hutchinsweb.me.uk/Bar-Hillel-2000.pdf). [^Hutchins2000]
 -   Word vectors
     -   Note that NLP has implications to the philosophy of language and realism
-    -   [Distributional semantics](https://en.wikipedia.org/wiki/Distributional_semantics)
     -   Olah, C. (2014). [Deep learning, NLP, and representations](https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/).
     -   Kornai, A. (2023). *Vector Semantics*. [^Kornai2023]
 -   NLP and Wittgenstein
@@ -3132,6 +3129,7 @@ Piantadosi:
 
 See also:
 
+-   [Language models and mind](mind.html#language-models-and-mind)
 -   [Natural language processing](statistics.html#natural-language-processing)
 -   [Ordinary language philosophy](scientific-realism.html#ordinary-language-philosophy)
 
@@ -3140,15 +3138,19 @@ See also:
 [^Coecke2010]: @Coecke_2010_Mathematical_foundations_for_a_compositional\.
 [^deFelice2019]: @deFelice_2019_Functorial_question_answering\.
 [^Elhage2022]: @Elhage_2022_Toy_models_of_superposition\.
+[^Firth1957]: @Firth_1957_A_synopsis_of_linguistic_theory_1930_1955\.
 [^Grefenstette2011]: @Grefenstette_2011_Experimental_support_for_a_categorical\.
 [^Grefenstette2013]: @Grefenstette_2013_Multi_step_regression_learning_for_compositional\.
 [^Grietzer2017a]: @Grietzer_2017_Ambient_Meaning_Mood_Vibe_System\.
 [^Grietzer2017b]: @Grietzer_2017_A_theory_of_vibe\.
+[^Harris1954]: @Harris_1954_Distributional_structure\.
 [^Huh2024b]: @Huh_2024_The_platonic_representation_hypothesis\.
+[^Hutchins2000]: @Hutchins_2000_Yehoshua_Bar_Hillel_A_philosophers_contribution\.
 [^Jamali2024]: @Jamali_2024_Semantic_encoding_during_language_comprehension_at\.
 [^Kartsaklis2013]: @Kartsaklis_2013_Prior_disambiguation_of_word_tensors\.
 [^Kornai2023]: @Kornai_2023_Vector_Semantics\.
 [^Lovering2022]: @Lovering_2022_Unit_testing_for_concepts_in_neural_networks\.
+[^Nirenburg1996]: @Nirenburg_1996_Bar_Hillel_and_Machine_Translation_Then_and_Now\.
 [^Nissim2019]: @Nissim_2019_Fair_is_better_than_sensational_Man_is_to_doctor\.
 [^Patel2022]: @Patel_2022_Mapping_language_models_to_grounded_conceptual\.
 [^Perone2018]: @Perone_2018_NLP_word_representations_and_the_Wittgenstein\.

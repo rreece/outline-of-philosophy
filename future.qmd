@@ -27,6 +27,7 @@ See also:
 -   [Ecology](ethics.html#ecology) in the [Outline on Ethics](ethics.html)
 
 [^ONeill1974]: @ONeill_1974_The_colonization_of_space\.
+[^Riemens2024]: @Riemens_2024_Fixing_the_earth_Whole_systems_thinking\.
 
 
 ### Existential threats
