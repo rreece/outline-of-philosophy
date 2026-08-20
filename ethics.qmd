@@ -659,6 +659,7 @@ Economics
 
 -   Marginal Revolution
     -   [Marginalism](https://en.wikipedia.org/wiki/Marginalism)
+    -   Cowen, T. (2026). [*The Marginal Revolution*](https://tylercowen.com/marginal-revolution-generative-book/). [^Cowen2026]
 -   [L&eacute;on Walras](https://en.wikipedia.org/wiki/L%C3%A9on_Walras) (1834-1910)
 -   [William Stanley Jevons](https://en.wikipedia.org/wiki/William_Stanley_Jevons) (1835-1882)
 -   [Carl Menger](https://en.wikipedia.org/wiki/Carl_Menger) (1840-1921)
@@ -673,6 +674,8 @@ Economics
     -   *The General Theory of Employment, Interest and Money* (1936)
 -   [Keynesian economics](https://en.wikipedia.org/wiki/Keynesian_economics)
 -   [Neoclassical synthesis](https://en.wikipedia.org/wiki/Neoclassical_synthesis)
+
+[^Cowen2026]: @Cowen_2026_The_Marginal_Revolution\.
 
 
 ### Austrian school of economics
