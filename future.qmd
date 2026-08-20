@@ -143,6 +143,7 @@ Artificial intelligence
 -   Zuckerberg, M. (2024). [Open source AI is the path forward](https://www.facebook.com/4/posts/10115716861061241/).
 -   Perrault, R. et al. (2025). [Artificial Intelligence Index Report 2025](https://hai-production.s3.amazonaws.com/files/hai_ai_index_report_2025.pdf). [^Perrault2025]
 -   Silver, D. & Sutton. R.S. (2025). [Welcome to the Era of Experience](https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf).
+-   Rubin, R. & Cowen, T. (2026). Video: [Tetragrammaton: Why is Tyler Cowen optimistic about AI?](https://www.youtube.com/watch?v=HGkoxpyo-cs).
 
 See also:
 
