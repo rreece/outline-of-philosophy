@@ -555,6 +555,7 @@ Pedagogy:
 See also:
 
 -   [Decision theory](statistics.html#decision-theory)
+-   [Mechanism design](https://en.wikipedia.org/wiki/Mechanism_design)
 -   [Reinforcement learning](statistics.html#reinforcement-learning)
 
 [^Roughgarden2016b]: @Roughgarden_2016_Twenty_Lectures_on_Algorithmic_Game_Theory\.
