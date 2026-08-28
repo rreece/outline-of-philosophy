@@ -273,6 +273,15 @@ TODO
 -   Josiah Willard Gibbs (1839-1903)
 -   Oliver Heaviside (1850-1925)
 
+#### Matrix calculus
+
+-   [Matrix calculus](https://explained.ai/matrix-calculus/)
+-   Dwyer, P.S. (1967). [Some applications of matrix derivatives in multivariate analysis](https://www.tandfonline.com/doi/abs/10.1080/01621459.1967.10482934). [^Dwyer1967]
+-   Magnus, J.R. (2024). [A gentle introduction to matrix calculus](https://www.janmagnus.nl/papers/gentle.pdf). [^Magnus2024]
+
+[^Dwyer1967]: @Dwyer_1967_Some_applications_of_matrix_derivatives\.
+[^Magnus2024]: @Magnus_2024_A_gentle_introduction_to_matrix_calculus\.
+
 #### Stokes' theorem
 
 $$ \int_{\partial M} \omega = \int_{M} \mathrm{d}\omega $$
@@ -294,16 +303,6 @@ $$ \oint_{C} \vec{F} \cdot \mathrm{d}\vec{r} = \iint_S (\nabla \times \vec{F}) \
 Divergence Theorem (2D boundary, 3D region):
 
 $$ \iint_{\partial V} \vec{F} \cdot \mathrm{d}\vec{S} = \iiint_V (\nabla \cdot \vec{F}) \mathrm{d}V $$
-
-
-#### Matrix calculus
-
--   [Matrix calculus](https://explained.ai/matrix-calculus/)
--   Dwyer, P.S. (1967). [Some applications of matrix derivatives in multivariate analysis](https://www.tandfonline.com/doi/abs/10.1080/01621459.1967.10482934). [^Dwyer1967]
--   Magnus, J.R. (2024). [A gentle introduction to matrix calculus](https://www.janmagnus.nl/papers/gentle.pdf). [^Magnus2024]
-
-[^Dwyer1967]: @Dwyer_1967_Some_applications_of_matrix_derivatives\.
-[^Magnus2024]: @Magnus_2024_A_gentle_introduction_to_matrix_calculus\.
 
 
 ### Differential equations
