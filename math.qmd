@@ -43,6 +43,7 @@ TODO
 -   [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss) (1777-1855)
     -   Published a proof of the fundamental theorem of algebra (1797)
     -   The theorem states that the field of complex numbers is algebraically closed.
+-   [Benjamin Peirce](https://en.wikipedia.org/wiki/Benjamin_Peirce) (1809-1880)
 -   [&Eacute;variste Galois](https://en.wikipedia.org/wiki/%C3%89variste_Galois) (1811-1832)
 -   [Arthur Cayley](https://en.wikipedia.org/wiki/Arthur_Cayley) (1821-1895)
 -   [Leopold Kronecker](https://en.wikipedia.org/wiki/Leopold_Kronecker) (1823-1891)
@@ -73,36 +74,6 @@ See also:
 
 -   [Covariance estimation](https://rreece.github.io/finance-notes/covariance-estimation.html)
 -   [Convex optimization](https://rreece.github.io/finance-notes/convex-optimization.html)
-
-
-### Lie groups
-
--   [Lie group](https://en.wikipedia.org/wiki/Lie_group)
-    -   [Sophus Lie](https://en.wikipedia.org/wiki/Sophus_Lie) (1842-1899)
-    -   [Wilhelm Killing](https://en.wikipedia.org/wiki/Wilhelm_Killing) (1847-1923)
-    -   [&Eacute;lie Cartan](https://en.wikipedia.org/wiki/%C3%89lie_Cartan) (1869-1951)
-    -   [Eugene Dynkin](https://en.wikipedia.org/wiki/Eugene_Dynkin) (1924-2014)
-    -   [Dynkin diagrams](https://en.wikipedia.org/wiki/Dynkin_diagram)
-    -   Ramond, P. (1976). [Introduction to exceptional Lie groups and algebras](https://inspirehep.net/literature/111550). [^Ramond1976]
-    -   Hall, B.C. (2000). [*An Elementary Introduction to Groups and Representations*](https://arxiv.org/abs/math-ph/0005032). [^Hall2000]
-    -   Schwichtenberg, J. (2016). [Classification of simple Lie groups](http://jakobschwichtenberg.com/classification-of-simple-lie-groups/).
-    -   Zee, A. (2016). *Group Theory in a Nutshell for Physicists*. [^Zee2016]
--   [ADE classification](https://en.wikipedia.org/wiki/ADE_classification)
-    -   Simply-laced Dynkin diagrams correspond to the ADE families of groups
-    -   Siegel, K. (2014). [The ubiquity of ADE classifications in nature](https://kylersiegel.xyz/notes/ADEClassifications.pdf). [^Siegel2014]
-
-Cartan's classification:
-
--   $\mathrm{A}_{n} = \mathrm{SU}(n+1)$
--   $\mathrm{B}_{n} = \mathrm{SO}(2n+1)$
--   $\mathrm{C}_{n} = \mathrm{Sp}(n)$
--   $\mathrm{D}_{n} = \mathrm{SO}(2n)$
--   Exceptional groups: $\mathrm{E}_6$, $\mathrm{E}_7$, $\mathrm{E}_8$, $\mathrm{F}_4$, $\mathrm{G}_2$
-
-[^Hall2000]: @Hall_2000_An_Elementary_Introduction_to_Groups\.
-[^Ramond1976]: @Ramond_1976_Introduction_to_exceptional_Lie_groups\.
-[^Siegel2014]: @Siegel_2014_The_ubiquity_of_ADE_classifications_in_nature\.
-[^Zee2016]: @Zee_2016_Group_Theory_in_a_Nutshell_for_Physicists\.
 
 
 ### Finite groups
@@ -141,6 +112,50 @@ Summarizing the classification of finite simple groups:
 
 [^Carter2009]: @Carter_2009_Visual_Group_Theory\.
 [^Huang2026]: @Huang_2026_The_Mathieu_group_M23_is_a_Galois_group_over_Q\.
+
+
+### Infinite groups
+
+-   Infinite groups cannote be completely classified. There exist uncountably infinite many non-isomorphic infinite groups, meaning no finite list or system could ever enumerate them all.
+-   Lie group are a subset of infinite groups. Lie groups are completely classified.
+-   Talambutsa, A. (2025). [On the word problem for just infinite groups](https://arxiv.org/abs/2512.24266).
+
+Examples:
+
+-   (Z, +), the group of integers with addition is infinite, as is (Q, +) the group of rational numbers with addition
+-   Non-discrete Lie groups are infinite. For example, (R, +), the group of real numbers with addition is an infinite group
+-   [GL(n, R)](https://en.wikipedia.org/wiki/General_linear_group) - The general linear group of order n > 0 over an infinite field (e.g. R)
+-   [SL(2, Z)](https://en.wikipedia.org/wiki/SL(2,Z))
+
+
+### Lie groups
+
+-   [Lie group](https://en.wikipedia.org/wiki/Lie_group)
+    -   [Sophus Lie](https://en.wikipedia.org/wiki/Sophus_Lie) (1842-1899)
+    -   [Wilhelm Killing](https://en.wikipedia.org/wiki/Wilhelm_Killing) (1847-1923)
+    -   [&Eacute;lie Cartan](https://en.wikipedia.org/wiki/%C3%89lie_Cartan) (1869-1951)
+    -   [Eugene Dynkin](https://en.wikipedia.org/wiki/Eugene_Dynkin) (1924-2014)
+    -   [Dynkin diagrams](https://en.wikipedia.org/wiki/Dynkin_diagram)
+    -   Ramond, P. (1976). [Introduction to exceptional Lie groups and algebras](https://inspirehep.net/literature/111550). [^Ramond1976]
+    -   Hall, B.C. (2000). [*An Elementary Introduction to Groups and Representations*](https://arxiv.org/abs/math-ph/0005032). [^Hall2000]
+    -   Schwichtenberg, J. (2016). [Classification of simple Lie groups](http://jakobschwichtenberg.com/classification-of-simple-lie-groups/).
+    -   Zee, A. (2016). *Group Theory in a Nutshell for Physicists*. [^Zee2016]
+-   [ADE classification](https://en.wikipedia.org/wiki/ADE_classification)
+    -   Simply-laced Dynkin diagrams correspond to the ADE families of groups
+    -   Siegel, K. (2014). [The ubiquity of ADE classifications in nature](https://kylersiegel.xyz/notes/ADEClassifications.pdf). [^Siegel2014]
+
+Cartan's classification:
+
+-   $\mathrm{A}_{n} = \mathrm{SU}(n+1)$
+-   $\mathrm{B}_{n} = \mathrm{SO}(2n+1)$
+-   $\mathrm{C}_{n} = \mathrm{Sp}(n)$
+-   $\mathrm{D}_{n} = \mathrm{SO}(2n)$
+-   Exceptional groups: $\mathrm{E}_6$, $\mathrm{E}_7$, $\mathrm{E}_8$, $\mathrm{F}_4$, $\mathrm{G}_2$
+
+[^Hall2000]: @Hall_2000_An_Elementary_Introduction_to_Groups\.
+[^Ramond1976]: @Ramond_1976_Introduction_to_exceptional_Lie_groups\.
+[^Siegel2014]: @Siegel_2014_The_ubiquity_of_ADE_classifications_in_nature\.
+[^Zee2016]: @Zee_2016_Group_Theory_in_a_Nutshell_for_Physicists\.
 
 
 ### Abstract algebra
