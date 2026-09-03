@@ -103,6 +103,7 @@ Marschall, B. (2021). Carnap and Beth on the limits of tolerance. *Canadian Jour
 Marschall, B. (2022). Carnap's philosophy of mathematics. *Philosophy Compass*, 17, 12884. https://doi.org/10.1111/phc3.12884
 Mart{\'i}nez-Ordaz, M.R. (2021). The ignorance behind inconsistency toleration. *Synthese*, 198, 8665--8686. http://philsci-archive.pitt.edu/19672/
 McCrimmon, K. (2000). *A Taste of Jordan Algebras*. Springer. http://old.math.nsc.ru/LBRT/a1/files/mccrimmon.pdf
+Miguel-G\'{o}mez, A. (2025). On stable Kim-forking and rosy theories. https://arxiv.org/abs/2503.23936
 Mill, J.S. (1877). *An Examination of Sir William Hamilton's Philosophy, vol II*. New York: Henry Holt and Co.
 Monk, J.D. (1976). *Mathematical Logic*. Springer.
 Morin, P. (2013). *Open Data Structures*. https://opendatastructures.org/
@@ -114,6 +115,7 @@ Nodelman, U. & Zalta, E.N. (2014). Foundations for mathematical structuralism. *
 {Open Logic Project}. (2020). *The Open Logic Text*. https://openlogicproject.org/
 Ord, T. (2024). Bounds on the rates of growth and convergence of all physical processes. https://arxiv.org/abs/2410.10928
 Post, E.L. (1921). Introduction to the general theory of elementary propositions. *American Journal of Mathematics*, 43, 163--185.
+Pourmahdian, M. (2003). The stable forking conjecture and generic structures. *Archive for Mathematical Logic*, 42, 415--421.
 Priest, G. (1998). What is so bad about contradictions? *Journal of Philosophy*, 95, 410--426. 
 Putnam, H. (1971). *Philosophy of Logic*. New York: Harper & Row.
 Putnam, H. (1975). What is mathematical truth? *Historia Mathematica*, 2(4), 529--543.

@@ -557,8 +557,8 @@ Game theory
 ### Introduction
 
 -   von Neumann, J. & Morgenstern, O. (1944). *Theory of Games and Economic Behavior*. [^vonNeumann1944]
--   Nash, J. (1950). Equilibrium points in n-person games. *Proceedings of the National Academy of Sciences*, 36, 48--49.
--   Nash, J. (1951). Non-cooperative games. *The Annals of Mathematics*, 54, 286--295.
+-   Nash, J. (1950). Equilibrium points in n-person games. [^Nash1950]
+-   Nash, J. (1951). Non-cooperative games. [^Nash1951]
 -   Shannon, C.E. (1950). [Programming a computer for playing chess](https://archive.computerhistory.org/projects/chess/related_materials/text/2-0%20and%202-1.Programming_a_computer_for_playing_chess.shannon/2-0%20and%202-1.Programming_a_computer_for_playing_chess.shannon.062303002.pdf). [^Shannon1950]
 
 Pedagogy:
@@ -1083,6 +1083,8 @@ More:
 -   Makowsky, J.A. (1995). [The impact of model theory on theoretical computer science](https://doi.org/10.1016/S0049-237X(06)80047-9). [^Makowsky1995]
 -   Kim, B. & Pillay, A. (1997). Simple theories. [^Kim1997]
 -   Kim, B. (1998). Forking in simple unstable theories. [^Kim1998]
+-   Pourmahdian, M. (2003). The stable forking conjecture and generic structures. [^Pourmahdian2003]
+-   Miguel-G&oacute;mez, A. (2025). [On stable Kim-forking and rosy theories](https://arxiv.org/abs/2503.23936). [^MiguelGomez2025]
 
 See also:
 
@@ -1094,6 +1096,8 @@ See also:
 [^Kim1997]: @Kim_1997_Simple_theories\.
 [^Kim1998]: @Kim_1998_Forking_in_simple_unstable_theories\.
 [^Makowsky1995]: @Makowsky_1995_The_impact_of_model_theory_on_theoretical_computer\.
+[^MiguelGomez2025]: @Miguel_Gomez_2025_On_stable_Kim_forking_and_rosy_theories\.
+[^Pourmahdian2003]: @Pourmahdian_2003_The_stable_forking_conjecture_and_generic\.
 [^Weiss2015]: @Weiss_2015_Fundamentals_of_Model_Theory\.
 [^Weiss2015p1]: @Weiss_2015_Fundamentals_of_Model_Theory\, p. 1.
 
