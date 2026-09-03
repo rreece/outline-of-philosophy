@@ -42,7 +42,7 @@ See also:
 Discussion:
 
 -   Leslie, J.A. (1996). *The End of the World: The Science and Ethics of Human Extinction*. [^Leslie1996]
--   Bostrom, N. (2002). [Existential risks analyzing human extinction scenarios and related hazards](https://nickbostrom.com/papers/existential-risks/existential-risks.pdf). [^Bostrom2002]
+-   Bostrom, N. (2002). [Existential risks analyzing human extinction scenarios and related hazards](https://nickbostrom.com/papers/existential-risks/existential-risks.pdf). [^Bostrom2002a]
 -   Bostrom, N. (2013). [Existential risk prevention as global priority](https://www.existential-risk.org/concept.pdf). [^Bostrom2013]
 -   [Doomsday argument](https://en.wikipedia.org/wiki/Doomsday_argument)
 -   Hanson, R. (1998). [Critiquing the doomsday argument](https://web.archive.org/web/20050405210231/http://hanson.gmu.edu/nodoom.html).
@@ -52,7 +52,7 @@ Discussion:
 -   Torres, E.P. (2026). [Nick Bostrom took many of his "best" ideas from other people](https://www.realtimetechpocalypse.com/p/nick-bostrom-took-many-of-his-best).
 
 [^Baum2019]: @Baum_2019_Long_term_trajectories_of_human_civilization\.
-[^Bostrom2002]: @Bostrom_2002_Existential_risks_analyzing_human_extinction\.
+[^Bostrom2002a]: @Bostrom_2002_Existential_risks_analyzing_human_extinction\.
 [^Bostrom2013]: @Bostrom_2013_Existential_risk_prevention_as_global_priority\.
 [^Bostrom2019]: @Bostrom_2019_The_vulnerable_world_hypothesis\.
 [^Leslie1996]: @Leslie_1996_The_End_of_the_World_The_Science_and_Ethics\.
@@ -62,7 +62,7 @@ Discussion:
 
 -   [Fermi paradox](https://en.wikipedia.org/wiki/Fermi_paradox)
 -   Freitas, R.A. (1983). [Extraterrestrial intelligence in the solar system: Resolving the Fermi paradox](http://www.rfreitas.com/Astro/ResolvingFermi1983.htm).
--   Bostrom, N. (2002). *Anthropic Bias: Observation selection effects in science and philosophy*. [^Bostrom2002]
+-   Bostrom, N. (2002). *Anthropic Bias: Observation selection effects in science and philosophy*. [^Bostrom2002b]
 -   Sandberg, A., Drexler, E., & Ord, T. (2018). [Dissolving the Fermi paradox](https://arxiv.org/abs/1806.02404). [^Sandberg2018]
 -   Hanson, R., Martin, D., McCarter, C., & Paulson, J. (2021). [If loud aliens explain human earliness, quiet aliens are also rare](https://iopscience.iop.org/article/10.3847/1538-4357/ac2369). [^Hanson2021]
 -   Wong, M.L. & Bartlett, S. (2022). [Asymptotic burnout and homeostatic awakening: A possible solution to the Fermi paradox?](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2022.0029) [^Wong2022]
@@ -71,7 +71,7 @@ Stanley Kubrick interviewed by Playboy Magazine in 1968:
 
 >   I will say that the God concept is at the heart of *2001*---but not any traditional, anthropomorphic image of God. I don't believe in any of Earth's monotheistic religions, but I do believe that one can construct an intriguing *scientific* definition of God, once you accept the fact that there are approximately 100 billion stars in our galaxy alone, that its star is a life-giving sun and that there are approximately 100 billion galaxies in just the *visible* universe. Given a planet in stable orbit, not too hot and not too cold, and given a few billion years of chance chemical reactions created by the interaction of sun's energy on the planet's chemicals, it's fairly certain that life in one form or another will eventually emerge. It's reasonable to assume that there must be, in fact, countless *billions* of such planets where biological life has arisen, and the odds of some proportion of such life developing intelligence are high. Now, the sun is by no means an old star, and its planets are mere children in cosmic age, so it seems likely that there are billions of planets in the universe not only where intelligent life is on a lower scale than man but other billions where it is approximately equal and others still where it is hundreds of thousands of years in advance of us. When you think of the giant technological strides that man has made in a few millennia---less than a microsecond in the cosmology of the universe---can you imagine the evolutionary development that much older life forms have taken? They may have progressed from biological species, which are fragile shells for the mind at best, into immortal machine entities—and then, over innumerable eons, they could emerge from the chrysalis of matter transformed into beings of pure energy and spirit. Their potentialities would be limitless and their intelligence ungraspable by humans. [^Kubrick1968]
 
-[^Bostrom2002]: @Bostrom_2002_Anthropic_Bias_Observation_selection_effects\.
+[^Bostrom2002b]: @Bostrom_2002_Anthropic_Bias_Observation_selection_effects\.
 [^Hanson2021]: @Hanson_2021_If_loud_aliens_explain_human_earliness_quiet\.
 [^Kubrick1968]: @Kubrick_1968_Playboy_Interview_Stanley_Kubrick\.
 [^Sandberg2018]: @Sandberg_2018_Dissolving_the_Fermi_paradox\.
@@ -192,6 +192,7 @@ See also:
 -   Sadeddine, Z., Maxwell, W., Varoquaux, G., & Suchanek, F.M. (2025). [Large language models as search engines: Societal challenges](https://suchanek.name/work/publications/sigir-forum-2025.pdf).
 -   Amodei, D. (2026). [The adolescence of technology: Confronting and overcoming the risks of powerful AI](https://darioamodei.com/essay/the-adolescence-of-technology).
 -   Olah, C. (2026). [Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical "Magnifica humanitas"](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical).
+-   Patel, D. (2026). [The rise and fall of agent civilizations: The whole OpenAI/HuggingFace story in plain English](https://www.dwarkesh.com/p/openai-huggingface). 2026/08/29.
 
 [^Aschenbrenner2024]: @Aschenbrenner_2024_Situational_Awareness_The_decade_ahead\.
 [^Bengio2025]: @Bengio_2025_International_AI_Safety_Report\.
