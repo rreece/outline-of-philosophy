@@ -192,6 +192,7 @@ See also:
 -   Sadeddine, Z., Maxwell, W., Varoquaux, G., & Suchanek, F.M. (2025). [Large language models as search engines: Societal challenges](https://suchanek.name/work/publications/sigir-forum-2025.pdf).
 -   Amodei, D. (2026). [The adolescence of technology: Confronting and overcoming the risks of powerful AI](https://darioamodei.com/essay/the-adolescence-of-technology).
 -   Olah, C. (2026). [Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical "Magnifica humanitas"](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical).
+-   Patel, D. (2026). [The rise and fall of agent civilizations: The whole OpenAI/HuggingFace story in plain English](https://www.dwarkesh.com/p/openai-huggingface). 2026/08/29.
 
 [^Aschenbrenner2024]: @Aschenbrenner_2024_Situational_Awareness_The_decade_ahead\.
 [^Bengio2025]: @Bengio_2025_International_AI_Safety_Report\.
