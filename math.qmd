@@ -116,16 +116,16 @@ Summarizing the classification of finite simple groups:
 
 ### Infinite groups
 
--   Infinite groups cannote be completely classified. There exist uncountably infinite many non-isomorphic infinite groups, meaning no finite list or system could ever enumerate them all.
--   Lie group are a subset of infinite groups. Lie groups are completely classified.
+-   Infinite groups cannot be completely classified. There exist uncountably infinite many non-isomorphic infinite groups, meaning no finite list or system could ever enumerate them all.
+-   Lie groups are a subset of infinite groups. Lie groups are completely classified.
 -   Talambutsa, A. (2025). [On the word problem for just infinite groups](https://arxiv.org/abs/2512.24266).
 
 Examples:
 
--   (Z, +), the group of integers with addition is infinite, as is (Q, +) the group of rational numbers with addition
--   Non-discrete Lie groups are infinite. For example, (R, +), the group of real numbers with addition is an infinite group
--   [GL(n, R)](https://en.wikipedia.org/wiki/General_linear_group) - The general linear group of order n > 0 over an infinite field (e.g. R)
--   [SL(2, Z)](https://en.wikipedia.org/wiki/SL(2,Z))
+-   ($\mathbb{Z}$, +), the group of integers with addition is infinite, as is (\mathbb{Q}, +) the group of rational numbers with addition
+-   Non-discrete Lie groups are infinite. For example, ($\mathbb{R}$, +), the group of real numbers with addition is an infinite group
+-   [$\mathrm{GL}(n, \mathbb{R})$](https://en.wikipedia.org/wiki/General_linear_group) - The general linear group of order n > 0 over an infinite field (e.g. $\mathbb{R}$)
+-   [$\mathrm{SL}(2, \mathbb{Z})$](https://en.wikipedia.org/wiki/SL(2,Z))
 
 
 ### Lie groups
