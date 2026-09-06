@@ -36,6 +36,7 @@ Connes, A. (1985). Non-commutative differential geometry. *Publications Math\'{e
 Conway, J.H. (2001). *On Numbers and Games*. Natick, MA: AK Peters. [(Originally published in 1976).]
 Cooley, J.W. & Tukey, J.W. (1965). An algorithm for the machine calculation of complex fourier series. *Mathematics of Computation*, 19, 297--301.
 De Cruz, H. (2016). Numerical cognition and mathematical realism. *Philosopher's Imprint*, 16, 1--13. http://hdl.handle.net/2027/spo.3521354.0016.016
+Dorr, C. (2008). There are no abstract objects. In Sider, T. (ed.), *Contemporary Debates in Metaphysics* (pp. 32--64). Blackwell. https://pages.nyu.edu/dorr/papers/NoAbstractObjects.pdf
 Drake, S. (1957). *Discoveries and Opinions of Galileo*. New York: Doubleday and Co.
 Dwyer, P. S. (1967). Some applications of matrix derivatives in multivariate analysis. *Journal of the American Statistical Association*, 62, 607--625. https://www.tandfonline.com/doi/abs/10.1080/01621459.1967.10482934
 Eilenberg, S. & MacLane, S. (1945). General theory of natural equivalences.  *Transactions of the American Mathematical Society*, 58, 231--294. https://www.ams.org/journals/tran/1945-058-00/S0002-9947-1945-0013131-6/S0002-9947-1945-0013131-6.pdf
@@ -138,6 +139,7 @@ Shapiro, S. (2000). *Thinking about Mathematics: The Philosophy of Mathematics*.
 Sheffer, H.M. (1913). A set of five independent postulates for Boolean algebras, with application to logical constants. *Transactions of the American Mathematical Society*, 14, 481--488. https://www.ams.org/journals/tran/1913-014-04/S0002-9947-1913-1500960-1/
 Sider, T. (2022). Crash course on higher-order logic. https://tedsider.org/teaching/higher_order_20/higher_order_crash_course.pdf
 Siegel, K. (2014). The ubiquity of ADE classifications in nature. https://kylersiegel.xyz/notes/ADEClassifications.pdf
+Simons, P. (1989). Determinacy of abstract objects: The Platonist's dilemma. *Topoi*, 8, 35--42. https://link.springer.com/article/10.1007/BF00138677
 Smith, P. (2020). *An Introduction G{\"o}del's Theorems* (2nd ed.). Cambridge University Press. https://www.logicmatters.net/resources/pdfs/godelbook/GodelBookLM.pdf
 Smith, P. (2020). *An Introduction to Formal Logic* (2nd ed.). Cambridge University Press.
 Smith, P. (2022). *Beginning Mathematical Logic: A Study Guide*. https://www.logicmatters.net/resources/pdfs/LogicStudyGuide.pdf
@@ -166,6 +168,8 @@ Westbury, B.W. (2010). Hurwitz' theorem on composition algebras. https://arxiv.o
 Wigner, E.P. (1960). The unreasonable effectiveness of mathematics in the natural sciences. *Communications on pure and applied mathematics*, 13, 1--14. http://www.dartmouth.edu/~matc/MathDrama/reading/Wigner.html [Richard courant lecture in mathematical sciences delivered at New York University, May 11, 1959]
 Zach, R. (2021). *Sets, Logic, Computation: An Open Introduction to Metalogic*. https://slc.openlogicproject.org/archives/f21/slc-screen.pdf
 Zalta, E.N. (1983). *Abstract Objects: An Introduction to Axiomatic Metaphysics*. Dordrecht: Reidel. https://mally.stanford.edu/abstract-objects.pdf
+Zalta, E.N. (1989). *Intensional Logic and the Metaphysics of Intentionality*. MIT Press.
+Zalta, E.N. (2000). A (Leibnizian) theory of concepts. https://mally.stanford.edu/Papers/leibniz.pdf
 Zalta, E.N. (2000). Neo-logicism? An ontological reduction of mathematics to metaphysics. *Erkenntnis*, 53, 219--265. https://www.jstor.org/stable/20013013
 Zalta, E.N. (2007). Reflections on mathematics.  In V.F. Hendricks & H. Leitgeb (eds.), *Philosophy of Mathematics: 5 Questions* (pp. 313--328). New York: Automatic Press. https://mally.stanford.edu/Papers/reflections.pdf
 Zalta, E.N. (2011). Logic and metaphysics. *Logic and Philosophy Today*, 2, 153--172. https://mally.stanford.edu/Papers/logic-metaphysics.pdf

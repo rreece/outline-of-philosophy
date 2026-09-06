@@ -1167,6 +1167,7 @@ TODO: Note any differences between:
 -   Carnap, R. (1950). [Empiricism, semantics, and ontology](https://www.phil.cmu.edu/projects/carnap/editorial/latex_pdf/1956-ESO.pdf). (ESO) [^Carnap1950]
     -   Lavers, G. (2004). Carnap, semantics and ontology. [^Lavers2004]
     -   Lavers, G. (2015). Carnap, Quine, quantification and ontology. [^Lavers2015]
+    -   Leng, M. (2020). Is there a fact of the matter about the existence of abstract objects? [^Leng2020]
     -   Nado, J. (2024). [Truth in philosophy: a conceptual engineering approach](https://link.springer.com/article/10.1007/s44204-024-00151-0). [^Nado2024]
 
 Carnap's principle of tolerance:
@@ -1211,6 +1212,7 @@ Discussion:
 [^Lavers2015]: @Lavers_2015_Carnap_Quine_quantification_and_ontology\.
 [^Leitgeb2020]: @Leitgeb_2020_Rudolf_Carnap\.
 [^Leitgeb2020G]: @Leitgeb_2020_Rudolf_Carnap\, [Supplement G: Logical Syntax of Language](https://plato.stanford.edu/entries/carnap/syntax.html).
+[^Leng2020]: @Leng_2020_Is_there_a_fact_of_the_matter_about_the_existence\.
 [^Murzi2001]: @Murzi_2001_Rudolf_Carnap_1891_1970\. <https://iep.utm.edu/carnap/>
 [^Nado2024]: @Nado_2024_Truth_in_philosophy_a_conceptual_engineering\.
 [^Quine1960b]: @Quine_1960_Carnap_and_logical_truth\.

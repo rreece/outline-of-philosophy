@@ -52,6 +52,7 @@ Korzybski, A. (1933). *Science and Sanity*. New York: The Science Press Printing
 Ladyman, J., Ross, D., Spurrett, D., & Collier, J. (2007). *Every Thing Must Go: Metaphysics Naturalised*. Oxford University Press.
 Lavers, G. (2004). Carnap, semantics and ontology. *Erkenntnis*, 60, 295--316.
 Lavers, G. (2015). Carnap, Quine, quantification and ontology. In *Quantifiers, Quantifiers, and Quantifiers: Themes in logic, metaphysics, and language* (pp. 271--299). Springer.
+Leng, M. (2020). Is there a fact of the matter about the existence of abstract objects? In Falguera, J.L., Martínez-Vidal, C. (eds.), *Abstract Objects: For and against*. Springer.
 Lewis, D. (1970). How to define theoretical terms. *The Journal of Philosophy*, 67, 427--446. https://www.jstor.org/stable/2023861
 Loewer, B. (2019). Humean laws and explanation. *Principia: an international journal of epistemology*, 23, 373--385.
 Maxwell, G. (1968). Scientific methodology and the causal theory of perception. *Studies in Logic and the Foundations of Mathematics*, 49, 148--177.
