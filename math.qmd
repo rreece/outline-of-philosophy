@@ -1561,7 +1561,9 @@ More:
     -   Edward N. Zalta (b. 1952)
     -   [The Metaphysics Research Lab](https://mally.stanford.edu/index.html) - Stanford, CA
     -   Zalta, E.N. (1983). [*Abstract Objects: An Introduction to Axiomatic Metaphysics*](https://mally.stanford.edu/abstract-objects.pdf). [^Zalta1983]
+    -   Zalta, E.N. (1989). *Intensional Logic and the Metaphysics of Intentionality*. [^Zalta1989]
     -   Linsky, B. & Zalta, E.N. (1995). [Naturalized platonism versus platonized naturalism](https://www.jstor.org/stable/2940786) [^Linsky1995]
+    -   Zalta, E.N. (2000). [A (Leibnizian) theory of concepts](https://mally.stanford.edu/Papers/leibniz.pdf). [^Zalta2000a]
     -   Zalta, E.N. (2007). [Reflections on mathematics](https://mally.stanford.edu/Papers/reflections.pdf). [^Zalta2007]
     -   Zalta, E.N. (2011). [Logic and metaphysics](https://mally.stanford.edu/Papers/logic-metaphysics.pdf). [^Zalta2011]
     -   Kirchner, D., Benzm&uuml;ller, C., & Zalta, E.N. (2019). [Computer science and metaphysics: A cross-fertilization](https://arxiv.org/abs/1905.00787). [^Kirchner2019]
@@ -1575,6 +1577,7 @@ More:
     -   John Conway (1937-2020)
     -   TODO: Surreals motivate Platonism
 -   More
+    -   Simons, P. (1989). [Determinacy of abstract objects: The Platonist's dilemma](https://link.springer.com/article/10.1007/BF00138677). [^Simons1989]
     -   De Cruz, H. (2016). [Numerical cognition and mathematical realism](http://hdl.handle.net/2027/spo.3521354.0016.016). [^DeCruz2016]
     -   Carroll, S. (2021). [Mindscape 127: Justin Clarke-Doane on Mathematics, Morality, Objectivity, and Reality](https://www.youtube.com/watch?v=3tvfq8ehHOk).
     -   Clearly Ed Witten is a platonist. Video: [How is mathematics truth and beauty?](https://www.youtube.com/watch?v=O3isFuQ2q2A) *Closer To Truth*.
@@ -1636,10 +1639,13 @@ See also:
 [^Quine1948b]: @Quine_1948_On_what_there_is\.
 [^Quine1948p7]: @Quine_1948_On_what_there_is\, p. 7.
 [^Quine1948p9]: @Quine_1948_On_what_there_is\, p. 9.
+[^Simons1989]: @Simons_1989_Determinacy_of_abstract_objects_The_Platonists\.
 [^Tegmark2008]: @Tegmark_2008_The_mathematical_universe\.
 [^Tegmark2014]: @Tegmark_2014_Our_Mathematical_Universe\.
 [^Zalta1983]: @Zalta_1983_Abstract_Objects_An_Introduction_to_Axiomatic\.
+[^Zalta1989]: @Zalta_1989_Intensional_Logic_and_the_Metaphysics\.
 [^Zalta1983p12]: @Zalta_1983_Abstract_Objects_An_Introduction_to_Axiomatic\, p. 12.
+[^Zalta2000a]: @Dorr_2008_There_are_no_abstract_objects\.
 [^Zalta2007]: @Zalta_2007_Reflections_on_mathematics\.
 [^Zalta2011]: @Zalta_2011_Logic_and_metaphysics\.
 [^Zalta2025a]: @Zalta_2025_Principia_Logico_Metaphysica\.
@@ -1702,10 +1708,13 @@ Johwn Stuart Mill:
 >   Nominalists, who, repudiating Universal Substances, held that
 >   there is nothing general except names. [^Mill1877]
 
+Discussion:
+
 -   Positivism, Carnap, ESO
 -   Goodman & Quine [^Goodman1947]
 -   Henkin, L. (1953). [Some notes on nominalism](https://doi.org/10.2307/2266323). [^Henkin1953]
 -   Azzouni, J. (2015). Nominalism, the nonexistence of mathematical objects. [^Azzouni2015]
+-   Dorr, C. (2008). There are no abstract objects. [^Dorr2008]
 
 See also:
 
@@ -1866,7 +1875,7 @@ Logicism
 -   [Edward N. Zalta](https://en.wikipedia.org/wiki/Edward_N._Zalta) (b. 1952)
     -   Alexius Meinong (1853-1920)
     -   Ernst Mally (1879-1944)
--   Zalta, E.N. (2000). [Neo-logicism? An ontological reduction of mathematics to metaphysics](https://www.jstor.org/stable/20013013). [^Zalta2000]
+-   Zalta, E.N. (2000). [Neo-logicism? An ontological reduction of mathematics to metaphysics](https://www.jstor.org/stable/20013013). [^Zalta2000b]
 -   Linsky, B. & Zalta, E.N. (2006). [What is Neologicism?](http://mally.stanford.edu/Papers/neologicism2.pdf) [^Linsky2006]
 -   Leitgeb, H., Nodelman, U., & Zalta, E.N. (2025). [A defense of logicism](https://www.cambridge.org/core/journals/bulletin-of-symbolic-logic/article/defense-of-logicism/A7F3DFF29C85BE044C6DDBBBB81CA6B4). [^Leitgeb2025]
 
@@ -1877,7 +1886,7 @@ Zalta:
 >   metaphysical theory. This thesis appears to be a version of mathematical
 >   platonism, for if correct, it would make a certain simple and intuitive
 >   philosophical position about mathematics much more rigorous, namely,
->   that mathematics describes a realm of abstract objects. [^Zalta2000p219]
+>   that mathematics describes a realm of abstract objects. [^Zalta2000bp219]
 
 Linsky & Zalta:
 
@@ -1892,8 +1901,8 @@ See also:
 [^Leitgeb2025]: @Leitgeb_2025_A_defense_of_logicism\.
 [^Linsky2006]: @Linsky_2006_What_is_Neologicism\.
 [^Linsky2006p43]: @Linsky_2006_What_is_Neologicism\, p. 43.
-[^Zalta2000]: @Zalta_2000_Neo_logicism_An_ontological_reduction\.
-[^Zalta2000p219]: @Zalta_2000_Neo_logicism_An_ontological_reduction\, p. 219.
+[^Zalta2000b]: @Zalta_2000_Neo_logicism_An_ontological_reduction\.
+[^Zalta2000bp219]: @Zalta_2000_Neo_logicism_An_ontological_reduction\, p. 219.
 
 
 Intuitionism
