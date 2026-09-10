@@ -1651,6 +1651,7 @@ Criticisms:
 -   Bohm, D. (1953). Proof that probability density approaches $|\psi|^2$ in causal interpretation of quantum theory. [^Bohm1953]
 -   Sch&ouml;nberg, M. (1954). On the hydrodynamical model of the quantum mechanics. [^Schonberg1954]
 -   Bohm, D. & Hiley, B.J. (1993). *The Undivided Universe*. [^Bohm1993]
+-   [Implicate and explicate_order](https://en.wikipedia.org/wiki/Implicate_and_explicate_order)
 
 Discussion:
 
