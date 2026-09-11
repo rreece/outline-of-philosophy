@@ -439,7 +439,7 @@ $$ \left\{ x : P(x) \right\} = \left\{ x | x \in U \land P(x) \right\} $$
     -   Proved that the real numbers are uncountably infinite.
     -   The cardinalities of $\mathbb{R}$ and $\mathbb{R}^n$ are both $C$.
 -   [Cantor's theorem](https://en.wikipedia.org/wiki/Cantor%27s_theorem)
-    -   Let $|A| \equiv \mathrm{card}(A)$ denote the cardinality (i.e size) of a set, $A$.
+    -   Let $|A| \equiv \mathrm{card}(A)$ denote the cardinality (i.e. size) of a set, $A$.
     -   A power set, $P(A)$, of a set, $A$, is the set of all subsets of $A$.
     -   The cardinality of a power set is $|P(A)| = 2^{|A|}$
     -   The cardinality of a power set is strictly larger than the set: $|A| < |P(A)|$
@@ -1445,7 +1445,7 @@ Yanofsky, N.S. (2016). Why mathematics works so well:
 -   Frenkel, E. (2005). [Lectures on the Langlands program and conformal field theory](https://arxiv.org/abs/hep-th/0512172). [^Frenkel2005]
 -   Fargues, L. & Scholze, P. (2021). [Geometrization of the local Langlands correspondence](https://arxiv.org/abs/2102.13459). [^Fargues2021]
 -   Gaitsgory, D., Raskin, S., et al. (2024). [Proof of the geometric Langlands conjecture](https://people.mpim-bonn.mpg.de/gaitsgde/GLC/). (May 2024).
--   Wolchover, N. (2026). [What is math’s mysterious Langlands program really about?](https://www.quantamagazine.org/what-is-maths-mysterious-langlands-program-really-about-20260909/).
+-   Wolchover, N. (2026). [What is math’s mysterious Langlands program really about?](https://www.quantamagazine.org/what-is-maths-mysterious-langlands-program-really-about-20260909/)
 
 [^Frenkel2005]: @Frenkel_2005_Lectures_on_the_Langlands_program_and_conformal\.
 [^Fargues2021]: @Fargues_2021_Geometrization_of_the_local_Langlands\.
@@ -1704,7 +1704,7 @@ Bayes:
 >   but supposing things to be in a certain way, what are the consequences
 >   to be deduced from them. [^Bayes1736p9]
 
-Johwn Stuart Mill:
+John Stuart Mill:
 
 >   Nominalists, who, repudiating Universal Substances, held that
 >   there is nothing general except names. [^Mill1877]
