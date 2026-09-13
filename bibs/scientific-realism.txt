@@ -79,6 +79,7 @@ Putnam, H. (1975). The meaning of "meaning". In *Mind, Language and Reality. Phi
 Putnam, H. (1975). *Mathematics, Matter, and Method*. Cambridge University Press.
 Quine, W.V.O. (1936). Truth by convention. In *Philosophical Essays for Alfred North Whitehead* (pp. 90--124). Longmans, Green, & Co.
 Quine, W.V.O. (1948). On what there is. *Review of Metaphysics*, 2, 21--38.
+Quine, W.V.O. (1953). Mr. Strawson on logical theory. *Mind*, 62, 433--451. https://www.jstor.org/stable/2251091
 Quine, W.V.O. (1960). Carnap and logical truth. *Synthese*, 12, 350--374.
 Quine, W.V.O. (1960). *Word and Object*. MIT Press.
 Quine, W.V.O. (1963). On simple theories of a complex world. *Synthese*, 15, 103--106.

@@ -1725,7 +1725,9 @@ and
 >   disagreed he was still setting the theme; the line of my thought was largely
 >   determined by problems that I felt his position presented. [^Quine1970pxxiii]
 
+-   Quine, W.V.O. (1953). Mr. Strawson on logical theory. [^Quine1953]
 -   TODO: Positivism affects the structure of education and law
+-   Ladyman, J. & Ross, D. (2007). [^Ladyman2007p8]
 -   Whetsell, T.A. & Shields, P.M. (2013). The dynamics of positivism in the study of public administration. [^Whetsell2013]
 -   TODO: Connection to the projects of Dewey and pragmatism
 -   "Positivism and progress" in the *Proceedings of the 25th Solvay Conference on Physics* (2011) [^Heilbron2013]
@@ -1736,6 +1738,8 @@ See also:
 
 [^Friedman1999pxii]: @Friedman_1999_Reconsidering_Logical_Positivism\, p. xii.
 [^Heilbron2013]: @Heilbron_2013_The_first_Solvay_council_A_sort_of_private\, p. 5.
+[^Ladyman2007p8]: See imaginary quote from Quine on @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. 8.
+[^Quine1953]: @Quine_1953_MrStrawson_on_logical_theory\.
 [^Quine1970pxxii]: @Quine_1970_Homage_to_Rudolf_Carnap\, p. xxii.
 [^Quine1970pxxiii]: @Quine_1970_Homage_to_Rudolf_Carnap\, p. xxiii.
 [^Whetsell2013]: @Whetsell_2013_The_dynamics_of_positivism_in_the_study_of_public\.
