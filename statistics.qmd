@@ -3049,11 +3049,19 @@ Implications for the realism debate
 -   Williamson [^Williamson2009]
 -   Bensusan [^Bensusan2000]
 
+[Valeriy Manokhin](https://x.com/predict_addict/status/2099536248499015897) claims this is
+the most quoted sentence in probability theory was written by two Soviet mathematicians, 
+Gnedenko and Kolmogorov (1954):
+
+>   All epistemologic value of the theory of probability is based on this: that large-scale
+>   random phenomena in their collective action create strict, nonrandom regularity. [^Gnedenko1954p1]
+
 See also:
 
 -   [Outline on scientific realism](scientific-realism.html)
 
 [^Bensusan2000]: @Bensusan_2000_Is_machine_learning_experimental_philosophy\.
+[^Gnedenko1954p1]: @Gnedenko_1954_Limit_Distributions_for_Sums_of_Independent_Random\, p. 1.
 [^Korb2001]: @Korb_2001_Machine_learning_as_philosophy_of_science\.
 [^Williamson2009]: @Williamson_2009_The_philosophy_of_science_and_its_relation\.
 

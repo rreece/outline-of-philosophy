@@ -174,6 +174,7 @@ Gelman, A. & Vehtari, A. (2021). What are the most important statistical ideas o
 Geshkovski, B., Letrouit, C., Polyanskiy, Y., & Rigollet, P. (2023). A mathematical perspective on Transformers. https://arxiv.org/abs/2312.10794
 Ghosh, N. & Belkin, M. (2022). A universal trade-off between the model size, test loss, and training loss of linear predictors. https://arxiv.org/abs/2207.11621
 Gibson, R. (2014). *Regret minimization in games and the development of champion multiplayer computer poker-playing agents*. University of Alberta. https://era.library.ualberta.ca/items/15d28cbf-49d4-42e5-a9c9-fc55b1d816af/view/5ee708c7-6b8b-4b96-b1f5-23cdd95b6a46/Gibson_Richard_Spring-202014.pdf [(Ph.D. thesis)]
+Gnedenko, B.V. & Kolmogorov, A.N. (1954). *Limit Distributions for Sums of Independent Random Variables*. Addison-Wesley.
 Goldreich, O. & Ron, D. (1997). On universal learning algorithms. *Information Processing Letters*, 63(3), 131--136. https://www.wisdom.weizmann.ac.il/~oded/p_ul.html
 Golovneva, O., Wang, T., Weston, J., & Sukhbaatar, S. (2024). Contextual position encoding: Learning to count what's important. https://arxiv.org/abs/2405.18719
 Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*. MIT Press. http://www.deeplearningbook.org
