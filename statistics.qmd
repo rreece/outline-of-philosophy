@@ -2294,7 +2294,7 @@ See also:
 Linear probes:
 
 -   Alain, G. & Bengio, Y. (2016). [Understanding intermediate layers using linear classifier probes](https://arxiv.org/abs/1610.01644). [^Alain2016]
--   Belinkov, Y. (2022). Probing classifiers: Promises, shortcomings, and advances. [^Belinkov2022]
+-   Belinkov, Y. (2022). [Probing classifiers: Promises, shortcomings, and advances](https://aclanthology.org/2022.cl-1.7/). [^Belinkov2022]
 -   Gurnee, W. & Tegmark, M. (2023). [Language models represent space and time](https://arxiv.org/abs/2310.02207). [^Gurnee2023b]
 
 [^Alain2016]: @Alain_2016_Understanding_intermediate_layers_using_linear\.
