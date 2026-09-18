@@ -991,10 +991,12 @@ Statistical classification
 
 ### Introduction
 
--   Precision vs recall
--   Recall is sensitivity
--   Sensitivity vs specificity
--   Accuracy
+-   precision = purity = TP / (TP + FP)
+-   recall = sensitivity = true positive rate = efficiency = TP / (TP + FN)
+-   specificity = true negative rate = 1 - background efficiency = TN / (TN + FP)
+-   1 - specificity = false positive rate = background efficiency = 1 / (background rejection) = FP / (FP + TN)
+-   accuracy = (TP + TN) / (P + N)
+-   Receiver Operating Characteristic (ROC) = (true positive rate) vs (false positive rate) = recall vs (1 - specificity) = efficiency vs background efficiency
 
 
 ### Examples
