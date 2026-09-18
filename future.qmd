@@ -212,13 +212,15 @@ Transhumanism
 -   Russell, B. (1924). [Icarus, or the future of science](http://bactra.org/Icarus.html).
 -   Huxley, Julian (1957). [Transhumanism](https://web.archive.org/web/20160625132722/http://www.transhumanism.org/index.php/WTA/more/huxley).
 -   Moravec, H. (1998). [When will computer hardware match the human brain?](https://jetpress.org/volume1/moravec.htm). [^Moravec1998]
--   Bostrom, N. (2005). [The fable of the dragon-tyrant](https://www.nickbostrom.com/fable/dragon.html). [^Bostrom2005]
--   Ray Kurzweil
+-   Ray Kurzweil (b. 1948)
     -   *The Age of Intelligent Machines* (1990)
     -   *The Age of Spiritual Machines* (1999)
     -   *The Singularity Is Near* (2005)
     -   *How to Create a Mind* (2012)
     -   *The Singularity Is Nearer* (2024)
+-   Nick Bostrom (1979)
+    -   Bostrom, N. (2005). [The fable of the dragon-tyrant](https://www.nickbostrom.com/fable/dragon.html). [^Bostrom2005]
+-   Eliezer Yudkowsky (b. 1979)
 -   Modis, T. (2006). The singularity myth. [^Modis2006]
 -   Related terms:
     -   Extropianism
@@ -234,6 +236,20 @@ Transhumanism
     -   Barbrook, R. & Cameron, A. (1996). The Californian ideology. [^Barbrook1996]
     -   Uluorta, H.M. & Quill, L. (2022). The Californian ideology revisited. [^Uluorta2022]
     -   Andreessen, M. (2023). [The techno-optimist manifesto](https://a16z.com/the-techno-optimist-manifesto/).
+    -   [LessWrong](https://www.lesswrong.com/)
+-   Organizations
+    -   [Machine Intelligence Research Institute](https://en.wikipedia.org/wiki/Machine_Intelligence_Research_Institute), Berkeley, CA (est. 2005)
+        -   Eliezer Yudkowsky, Founder
+        -   Bensinger, R. (2016). [AI and Effective Altruism](https://intelligence.org/2015/08/28/ai-and-effective-altruism/).
+    -   [Future of Life Institute](https://futureoflife.org) (est. 2014)
+        -   Max Tegmark, President
+    -   [Future of Humanity Institute](https://en.wikipedia.org/wiki/Future_of_Humanity_Institute), Oxford University (2005-2024)
+        -   Nick Bostrom, Director
+    -   [Coefficient Giving (formerly Open Philanthropy)[(https://en.wikipedia.org/wiki/Coefficient_Giving)
+
+See also:
+
+-   [Effective altruism](ethics.html#effective-altruism) in the [Outline on Ethics](ethics.html)
 
 [^Barbrook1996]: @Barbrook_1996_The_Californian_ideology\.
 [^Bostrom2005]: @Bostrom_2005_The_fable_of_the_dragon_tyrant\.
