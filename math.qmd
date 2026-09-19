@@ -617,6 +617,7 @@ More:
 -   [*The Open Logic Text*](https://openlogicproject.org/) [^OpenLogicText]
 -   [logicinaction.org](http://www.logicinaction.org/)
 -   [logicmatters.net](https://www.logicmatters.net/)
+-   [carnap.io/book](https://carnap.io/book)
 
 [^Bonevac2003]: @Bonevac_2003_Deduction_Introductory_to_Symbolic_Logic\.
 [^Carnap1958]: @Carnap_1958_Introduction_to_Symbolic_Logic_and_its\.
@@ -1455,13 +1456,57 @@ Yanofsky, N.S. (2016). Why mathematics works so well:
 
 -   [Univalent foundations](https://en.wikipedia.org/wiki/Univalent_foundations)
 -   Proposed by Vladimir Voevodsky, 2006-2009.
+-   Martin-L&ouml;f type theory
+-   Homotopy type theory
 -   Category theory
 -   [Introduction to Univalent Foundations of Mathematics with Agda](https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/index.html)
+-   Awodey, S. (2014). Structuralism, invariance, and univalence. [^Awodey2014a]
 
 See also:
 
 -   [Category theory](#category-theory)
 -   [Hilbert's program](#hilberts-program)
+-   [Homotopy type theory](#homotopy-type-theory)
+
+[^Awodey2014a]: @Awodey_2014_Structuralism_invariance_and_univalence\.
+
+
+Formal verification
+--------------------------------------------------------------------------------
+
+### Introduction
+
+TODO
+
+
+### Frameworks
+
+**Dependent type theory**
+
+- **Rocq (formerly Coq)** - Implemented in OCaml on the Calculus of Inductive Constructions; small kernel, tactic-driven. Behind CompCert and the Four Color Theorem.
+- **Lean** - CIC-variant type theory with a small C++ kernel under a self-hosted Lean frontend. Home of Mathlib and a focal point for AI-assisted proving.
+- **Agda** - Haskell implementation of Martin-Löf type theory; term-first, no separate kernel, strong in type-theory research. Cubical Agda implements cubical type theory.
+- **Idris** - Dependently typed language leaning toward general-purpose programming rather than proving; Agda-like spirit with practical language features.
+- **NuPRL** - Cornell's system implementing an extensional, computational Martin-Löf type theory; historically influential.
+
+**Higher-order logic (LCF family)**
+
+- **Isabelle/HOL** - Standard ML implementation; a generic logical framework with classical HOL on top. Known for Sledgehammer automation and the Isar declarative proof language; verified the seL4 microkernel.
+- **HOL Light** - John Harrison's minimalist OCaml system with an extremely tiny kernel; used for much of Flyspeck (Kepler conjecture) and Intel floating-point verification.
+- **HOL4** - The mainline descendant of Gordon's original HOL, in Standard ML.
+- **PVS** - SRI's classical HOL with predicate subtyping and strong automation; widely used at NASA.
+
+**Set theory / minimalist foundations**
+
+- **Mizar** - Tarski–Grothendieck set theory with a declarative proof style; its Mizar Mathematical Library was the first large formal corpus.
+- **Metamath** - An extremely minimal substitution-based foundation whose verifier is tiny enough to have many independent implementations.
+
+**Automation-heavy (first-order / SMT-backed)**
+
+- **ACL2** - First-order, heavily automated, in Common Lisp; a workhorse of industrial hardware verification (AMD, Intel/Centaur).
+- **F\*** - Microsoft/Inria language combining dependent and refinement types with SMT (Z3) automation; produced verified cryptography (HACL\*).
+- **Dafny** - Verification-oriented programming language backed almost entirely by SMT solvers.
+- **Why3** - Platform for deductive program verification that dispatches goals to multiple external provers.
 
 
 Platonism
@@ -1962,10 +2007,10 @@ Structuralism
 --------------------------------------------------------------------------------
 
 -   Realist
--   Awodey, S. (2014). Structuralism, invariance, and univalence. [^Awodey2014]
+-   Awodey, S. (2014). Structuralism, invariance, and univalence. [^Awodey2014b]
 -   Nodelman, U. & Zalta, E.N. (2014). [Foundations for mathematical structuralism](https://www.jstor.org/stable/24489523). [^Nodelman2014]
 
-[^Awodey2014]: @Awodey_2014_Structuralism_invariance_and_univalence\.
+[^Awodey2014b]: @Awodey_2014_Structuralism_invariance_and_univalence\.
 [^Nodelman2014]: @Nodelman_2014_Foundations_for_mathematical_structuralism\.
 
 

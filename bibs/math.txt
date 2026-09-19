@@ -4,7 +4,7 @@ Aguilera, J.P., Bagaria, J., Goldberg, G., & L{\"u}cke, P. (2025). Large cardina
 Aguirre, A., Foster, B., & Merali, Z. (2016). *Trick Or Truth?: The mysterious connection between physics and mathematics*. Springer.
 Atiyah, M. et al. (1994). Responses to "Theoretical Mathematics: Toward a cultural synthesis of mathematics and theoretical physics", by A. Jaffe and F. Quinn. *Bulletin of the American Mathematical Society*, 30, 178--207. https://arxiv.org/abs/math/9404229
 Awodey, S. & Forssell, H. (2013). First-order logical duality. *Annals of Pure and Applied Logic*, 164, 319--348.
-Awodey, S. (2014). Structuralism, invariance, and univalence. *Philosophia Mathematica*, 22, 1--11.
+Awodey, S. (2014). Structuralism, invariance, and univalence. *Philosophia Mathematica*, 22, 1--11. https://www.andrew.cmu.edu/user/awodey/preprints/siu.pdf
 Azzouni, J. (2015). Nominalism, the nonexistence of mathematical objects. In Davis, E. & Davis, P. (eds.), *Mathematics, Substance and Surmise* (pp. 133-145). Springer.
 Baez, J.C. (2002). The octonions. *Bulletin of the American Mathematical Society*, 39, 145--205. https://arxiv.org/abs/math/0105155
 Baez, J.C. & Dolan, J. (1995). Higher‐dimensional algebra and topological quantum field theory. *Journal of Mathematical Physics*, 36, 6073--6105. https://arxiv.org/abs/q-alg/9503002
