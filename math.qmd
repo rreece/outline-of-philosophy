@@ -1485,9 +1485,9 @@ TODO
 
 - **Rocq (formerly Coq)** - Implemented in OCaml on the Calculus of Inductive Constructions; small kernel, tactic-driven. Behind CompCert and the Four Color Theorem.
 - **Lean** - CIC-variant type theory with a small C++ kernel under a self-hosted Lean frontend. Home of Mathlib and a focal point for AI-assisted proving.
-- **Agda** - Haskell implementation of Martin-Löf type theory; term-first, no separate kernel, strong in type-theory research. Cubical Agda implements cubical type theory.
+- **Agda** - Haskell implementation of Martin-L&ouml;f type theory; term-first, no separate kernel, strong in type-theory research. Cubical Agda implements cubical type theory.
 - **Idris** - Dependently typed language leaning toward general-purpose programming rather than proving; Agda-like spirit with practical language features.
-- **NuPRL** - Cornell's system implementing an extensional, computational Martin-Löf type theory; historically influential.
+- **NuPRL** - Cornell's system implementing an extensional, computational Martin-L&ouml;f type theory; historically influential.
 
 **Higher-order logic (LCF family)**
 
