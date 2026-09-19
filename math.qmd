@@ -1497,6 +1497,7 @@ TODO
 
 - **Isabelle/HOL** - Standard ML implementation; a generic logical framework with classical HOL on top. Known for Sledgehammer automation and the Isar declarative proof language; verified the seL4 microkernel.
     -   [Archive of Formal Proofs](https://isa-afp.org)
+    -   Applied to Zalta's [Abstract Object Theory](#abstract-object-theory)
 - **HOL Light** - John Harrison's minimalist OCaml system with an extremely tiny kernel; used for much of Flyspeck (Kepler conjecture) and Intel floating-point verification.
 - **HOL4** - The mainline descendant of Gordon's original HOL, in Standard ML.
 - **PVS** - SRI's classical HOL with predicate subtyping and strong automation; widely used at NASA.
@@ -1588,6 +1589,7 @@ More:
 -   Quine's "reluctant platonism"
     -   Indispensability argument
     -   Quine, W.V.O. (1948). On what there is. [^Quine1948b]
+    -   Plato's beard
     -   distinction between *meaning* and *naming*
 
 >   Whatever we say with the help of names can be said in a language which shuns names
@@ -1608,6 +1610,7 @@ More:
     -   Barry Smith (b. 1952)
 -   [Abstract object theory](https://en.wikipedia.org/wiki/Abstract_object_theory) (AOT)
     -   Alexius Meinong (1853-1920)
+    -   Nonexistent objects: dual copula strategy, AKA the dual predication approach
     -   Ernst Mally (1879-1944)
     -   Edward N. Zalta (b. 1952)
     -   [The Metaphysics Research Lab](https://mally.stanford.edu/index.html) - Stanford, CA
