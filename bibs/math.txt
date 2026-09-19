@@ -2,6 +2,7 @@ Aaronson, S. (2011). Why philosophers should care about computational complexity
 Aguilera, J.P., Bagaria, J., & L{\"u}cke, P. (2024). Large cardinals, structural reflection, and the HOD conjecture. https://arxiv.org/abs/2411.11568
 Aguilera, J.P., Bagaria, J., Goldberg, G., & L{\"u}cke, P. (2025). Large cardinals beyond HOD. https://arxiv.org/abs/2509.10254
 Aguirre, A., Foster, B., & Merali, Z. (2016). *Trick Or Truth?: The mysterious connection between physics and mathematics*. Springer.
+Alama, J., Oppenheimer, P.E., & Zalta, E.N. (2015). Automating Leibniz's theory of concepts. In A. Felty & A. Middeldorp (eds.), *Automated Deduction - CADE 25: Proceedings of the 25th International Conference on Automated Deduction, (pp. 73--97). Springer. https://mally.stanford.edu/Papers/cade.pdf
 Atiyah, M. et al. (1994). Responses to "Theoretical Mathematics: Toward a cultural synthesis of mathematics and theoretical physics", by A. Jaffe and F. Quinn. *Bulletin of the American Mathematical Society*, 30, 178--207. https://arxiv.org/abs/math/9404229
 Awodey, S. & Forssell, H. (2013). First-order logical duality. *Annals of Pure and Applied Logic*, 164, 319--348.
 Awodey, S. (2014). Structuralism, invariance, and univalence. *Philosophia Mathematica*, 22, 1--11. https://www.andrew.cmu.edu/user/awodey/preprints/siu.pdf
@@ -45,6 +46,7 @@ Ewald, W. (2018). The emergence of first-order logic. *Stanford Encyclopedia of 
 Fargues, L. & Scholze, P. (2021). Geometrization of the local Langlands correspondence. https://arxiv.org/abs/2102.13459
 Field, H. (1989). *Realism, Mathematics, and Modality*. Oxford: Blackwell.
 Field, H. (2016). *Science Without Numbers* (2nd ed.). Oxford University Press. [(Originally published in 1980 by Princeton University Press).]
+Fitelson, B. & Zalta, E.N. (2007). Steps toward a computational metaphysics. *Journal of Philosophical Logic*, 36, 227--247. https://mally.stanford.edu/Papers/computation.pdf
 Fong, B. & Spivak, D.I. (2018). Seven sketches in compositionality: An invitation to applied category theory. https://arxiv.org/abs/1803.05316
 Franz\'{e}n, T. (2005). *G{\"o}del's Theorem: An incomplete guide to its use and abuse*. A K Peters.
 Frankel, T. (1997). *The Geometry of Physics: An Introduction*. Cambridge University Press.
@@ -83,6 +85,7 @@ Hunter, G. (1994). Platonist manifesto. *Philosophy*, 69, 151--162. https://www.
 Jerzak, E. (2009). Second-order logic, or: How I learned to stop worrying and love the incompleteness theorems. http://www.math.uchicago.edu/~may/VIGRE/VIGRE2009/REUPapers/Jerzak.pdf
 Kim, B. (1998). Forking in simple unstable theories. *Journal of the London Mathematical Society*, 57, 257--267.
 Kim, B. & Pillay, A. (1997). Simple theories. *Annals of Pure and Applied Logic*, 88, 149--164.
+Kirchner, D., Benzm{\"u}ller, C. & Zalta, E.N. (2018). Mechanizing principia logico-metaphysica in functional type-theory. *Review of Symbolic Logic*, 13, 206--218. https://mally.stanford.edu/Papers/mechanizing-principia.pdf
 Kirchner, D., Benzm{\"u}ller, C., & Zalta, E.N. (2019). Computer science and metaphysics: A cross-fertilization. https://arxiv.org/abs/1905.00787
 Kleene, S.C. (1943). Recursive predicates and quantifiers. *Transactions of the American Mathematical Society*, 53, 41--73. https://www.jstor.org/stable/1990131
 Kleene, S.C. (1952). *Introduction to Metamathematics*. North-Holland Publishing.

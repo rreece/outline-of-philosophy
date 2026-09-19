@@ -1483,8 +1483,12 @@ TODO
 
 **Dependent type theory**
 
-- **Rocq (formerly Coq)** - Implemented in OCaml on the Calculus of Inductive Constructions; small kernel, tactic-driven. Behind CompCert and the Four Color Theorem.
 - **Lean** - CIC-variant type theory with a small C++ kernel under a self-hosted Lean frontend. Home of Mathlib and a focal point for AI-assisted proving.
+    -   [mathlib.org](https://mathlib.org)
+    -   [mathlib-initiative.org](https://mathlib-initiative.org)
+    -   [leanprover-community.github.io](https://leanprover-community.github.io)
+    -   [github.com/leanprover-community/mathlib4](https://github.com/leanprover-community/mathlib4)
+- **Rocq (formerly Coq)** - Implemented in OCaml on the Calculus of Inductive Constructions; small kernel, tactic-driven. Behind CompCert and the Four Color Theorem.
 - **Agda** - Haskell implementation of Martin-L&ouml;f type theory; term-first, no separate kernel, strong in type-theory research. Cubical Agda implements cubical type theory.
 - **Idris** - Dependently typed language leaning toward general-purpose programming rather than proving; Agda-like spirit with practical language features.
 - **NuPRL** - Cornell's system implementing an extensional, computational Martin-L&ouml;f type theory; historically influential.
@@ -1492,6 +1496,7 @@ TODO
 **Higher-order logic (LCF family)**
 
 - **Isabelle/HOL** - Standard ML implementation; a generic logical framework with classical HOL on top. Known for Sledgehammer automation and the Isar declarative proof language; verified the seL4 microkernel.
+    -   [Archive of Formal Proofs](https://isa-afp.org)
 - **HOL Light** - John Harrison's minimalist OCaml system with an extremely tiny kernel; used for much of Flyspeck (Kepler conjecture) and Intel floating-point verification.
 - **HOL4** - The mainline descendant of Gordon's original HOL, in Standard ML.
 - **PVS** - SRI's classical HOL with predicate subtyping and strong automation; widely used at NASA.
@@ -1601,7 +1606,7 @@ More:
 
 -   [Basic formal ontology](https://en.wikipedia.org/wiki/Basic_Formal_Ontology)
     -   Barry Smith (b. 1952)
--   [Abstract object theory](https://en.wikipedia.org/wiki/Abstract_object_theory)
+-   [Abstract object theory](https://en.wikipedia.org/wiki/Abstract_object_theory) (AOT)
     -   Alexius Meinong (1853-1920)
     -   Ernst Mally (1879-1944)
     -   Edward N. Zalta (b. 1952)
@@ -1611,7 +1616,10 @@ More:
     -   Linsky, B. & Zalta, E.N. (1995). [Naturalized platonism versus platonized naturalism](https://www.jstor.org/stable/2940786) [^Linsky1995]
     -   Zalta, E.N. (2000). [A (Leibnizian) theory of concepts](https://mally.stanford.edu/Papers/leibniz.pdf). [^Zalta2000a]
     -   Zalta, E.N. (2007). [Reflections on mathematics](https://mally.stanford.edu/Papers/reflections.pdf). [^Zalta2007]
+    -   Fitelson, B. & Zalta, E.N. (2007). [Steps toward a computational metaphysics](https://mally.stanford.edu/Papers/computation.pdf). [^Fitelson2007]
     -   Zalta, E.N. (2011). [Logic and metaphysics](https://mally.stanford.edu/Papers/logic-metaphysics.pdf). [^Zalta2011]
+    -   Alama, J., Oppenheimer, P.E., & Zalta, E.N. (2015). [Automating Leibniz's theory of concepts](https://mally.stanford.edu/Papers/cade.pdf). [^Alama2015]
+    -   Kirchner, D., Benzm&uuml;ller, C., & Zalta, E.N. (2018). [Mechanizing principia logico-metaphysica in functional type-theory](). [^Kirchner2018]
     -   Kirchner, D., Benzm&uuml;ller, C., & Zalta, E.N. (2019). [Computer science and metaphysics: A cross-fertilization](https://arxiv.org/abs/1905.00787). [^Kirchner2019]
     -   Zalta, E.N. (2025). [*Principia Logico-Metaphysica*](https://mally.stanford.edu/principia.pdf) (Draft). [^Zalta2025a]
     -   Zalta, E.N. (2025). [Unifying and validating some ideas of Kurt G&ouml;del](https://mally.stanford.edu/Papers/goedel.pdf). [^Zalta2025b]
@@ -1678,7 +1686,10 @@ See also:
 
 -   [Neologicism](#neologicism)
 
+[^Alama2015]: @Alama_2015_Automating_Leibnizs_theory_of_concepts\.
 [^DeCruz2016]: @DeCruz_2016_Numerical_cognition_and_mathematical_realism\.
+[^Fitelson2007]: @Fitelson_2007_Steps_toward_a_computational_metaphysics\.
+[^Kirchner2018]: @Kirchner_2018_Mechanizing_principia_logico_metaphysica\.
 [^Kirchner2019]: @Kirchner_2019_Computer_science_and_metaphysics_A_cross\.
 [^Leitgeb2025p129]: @Leitgeb_2025_A_defense_of_logicism\, p. 129.
 [^Linsky1995]: @Linsky_1995_Naturalized_platonism_versus_platonized\.
@@ -1853,6 +1864,7 @@ Hilbert wanted math to be
 
 See also:
 
+-   [Formal verification](#formal-verification)
 -   [Incompleteness](#incompleteness)
 -   [Proof theory](#proof-theory)
 
