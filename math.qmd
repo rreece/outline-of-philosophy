@@ -984,6 +984,15 @@ $$ \Diamond P = \lnot \Box \lnot P $$
 
 $$ \Box P = \lnot \Diamond \lnot P $$
 
+Barcan formula:
+
+$$ \forall x \Box F x \rightarrow \Box \forall x F x $$
+
+If every $x$ is necessarily $F$, then it is necessary that every $x$ is $F$.
+It is equivalent to
+
+$$ \Diamond \exists x F x \rightarrow \exists x \Diamond F x $$
+
 More:
 
 -   [Security logic](https://www.johndcook.com/blog/2018/10/30/modal-logic-security/)
@@ -1610,8 +1619,8 @@ More:
     -   Barry Smith (b. 1952)
 -   [Abstract object theory](https://en.wikipedia.org/wiki/Abstract_object_theory) (AOT)
     -   Alexius Meinong (1853-1920)
-    -   Nonexistent objects: dual copula strategy, AKA the dual predication approach
     -   Ernst Mally (1879-1944)
+    -   Nonexistent objects: dual copula strategy, AKA the dual predication approach
     -   Edward N. Zalta (b. 1952)
     -   [The Metaphysics Research Lab](https://mally.stanford.edu/index.html) - Stanford, CA
     -   Zalta, E.N. (1983). [*Abstract Objects: An Introduction to Axiomatic Metaphysics*](https://mally.stanford.edu/abstract-objects.pdf). [^Zalta1983]
@@ -1934,8 +1943,6 @@ Logicism
 -   [Crispin Wright](https://en.wikipedia.org/wiki/Crispin_Wright) (b. 1942)
 -   [Bob Hale](https://en.wikipedia.org/wiki/Bob_Hale_(philosopher)) (1945-2017)
 -   [Edward N. Zalta](https://en.wikipedia.org/wiki/Edward_N._Zalta) (b. 1952)
-    -   Alexius Meinong (1853-1920)
-    -   Ernst Mally (1879-1944)
 -   Zalta, E.N. (2000). [Neo-logicism? An ontological reduction of mathematics to metaphysics](https://www.jstor.org/stable/20013013). [^Zalta2000b]
 -   Linsky, B. & Zalta, E.N. (2006). [What is Neologicism?](http://mally.stanford.edu/Papers/neologicism2.pdf) [^Linsky2006]
 -   Leitgeb, H., Nodelman, U., & Zalta, E.N. (2025). [A defense of logicism](https://www.cambridge.org/core/journals/bulletin-of-symbolic-logic/article/defense-of-logicism/A7F3DFF29C85BE044C6DDBBBB81CA6B4). [^Leitgeb2025]
