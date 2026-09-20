@@ -974,6 +974,10 @@ See also:
 
 $\Box$ means necessarily. $\Diamond$ means possibly.
 
+If necessarily $P$, then $P$:
+
+$$ \Box P \rightarrow P $$
+
 If necessarily $P$, then necessarily necessarily $P$:
 
 $$ \Box P \rightarrow \Box \Box P $$
@@ -996,7 +1000,7 @@ $$ \Diamond \exists x F x \rightarrow \exists x \Diamond F x $$
 More:
 
 -   [Security logic](https://www.johndcook.com/blog/2018/10/30/modal-logic-security/)
--   [*De dicto* and *de_re*](https://en.wikipedia.org/wiki/De_dicto_and_de_re)
+-   [*De dicto* and *de re*](https://en.wikipedia.org/wiki/De_dicto_and_de_re)
 
 [^Carnap1947b]: @Carnap_1947_Meaning_and_Necessity\.
 [^Kripke1959]: @Kripke_1959_A_completeness_theorem_in_modal_logic\.
