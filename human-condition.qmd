@@ -931,6 +931,11 @@ See also:
 [*Tripitaka*](https://en.wikipedia.org/wiki/Tripitaka) - "The Three Baskets" of the [*Pali Canon*](https://en.wikipedia.org/wiki/P%C4%81li_Canon):
 
 1.  [*Vinaya Pitaka*](https://en.wikipedia.org/wiki/Vinaya_Pitaka) - "Basket of Discipline"
+    1.  *Suttavibhanga* - P&amacr;timokkha, basic code of monastic discipline, and commentary
+        1.  *Mah&amacr;vibhanga* - rules for monks
+        2.  *Bhikkhun&imacr;vibhanga* - rules for nuns
+    2.  *Khandhaka* - 22 chapters on various topics
+    3.  *Pariv&amacr;ra* - analyses of rules from various points of view
 2.  [*Sutta Pitaka*](https://en.wikipedia.org/wiki/Sutta_Pitaka) - "Basket of Discourse"
     1.  [*D&imacr;gha Nik&amacr;ya*](https://en.wikipedia.org/wiki/Digha_Nikaya) (DN) - "collection of long discourses"
         -   *Mah&amacr;pad&amacr;na Sutta* ([DN 14](https://suttacentral.net/dn14/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin)) - "The Great Discourse on Traces Left Behind"
@@ -960,9 +965,14 @@ See also:
         -   [*Ud&amacr;na*](https://en.wikipedia.org/wiki/Udana)
             -   [The parable of the blind men and an elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant) ([Ud 6.4](https://www.accesstoinsight.org/tipitaka/kn/ud/ud.6.04.than.html))
         -   [*Itivuttaka*](https://en.wikipedia.org/wiki/Itivuttaka)
-3.  [*Abhidhamma Pitaka*](https://en.wikipedia.org/wiki/Abhidharma_Pitaka) - "Basket of Higher Doctrine"
-    -   compendium of Buddhist psychology
-    -   [*Kath&amacr;vatthu*](https://en.wikipedia.org/wiki/Kath%C4%81vatthu) - "Points of Controversy"
+3.  [*Abhidhamma Pitaka*](https://en.wikipedia.org/wiki/Abhidharma_Pitaka) - "Basket of Higher Doctrine", compendium of Buddhist psychology
+    1.  *Dhammasangan&imacr;*
+    2.  *Vibhanga*
+    3.  *Dh&amacr;tukath&amacr;*
+    4.  *Puggalapa&ntilde;&ntilde;atti*
+    5.  [*Kath&amacr;vatthu*](https://en.wikipedia.org/wiki/Kath%C4%81vatthu) - "Points of Controversy"
+    6.  *Yamaka*
+    7.  *Patth&amacr;na*
 
 [Abhidhamma](https://en.wikipedia.org/wiki/Visuddhimagga) - systematic pedagogical presentations:
 
