@@ -630,6 +630,11 @@ Emptiness ([&sacute;&umacr;nyat&amacr;/su&ntilde;&ntilde;at&amacr;](https://en.w
 4.  The path (m&amacr;rga/magga) to the cessation of suffering is the [Noble Eightfold Path](https://encyclopediaofbuddhism.org/wiki/Noble_Eightfold_Path) (&amacr;ry&amacr;st&amacr;ngam&amacr;rga/ariy&amacr;tthangikamagga).
 
 -   [SN 56.11](https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html)
+-   Thanissaro pairs _samvega_: shock, dismay, and an urgent sense of needing a way
+    out---with _pas&amacr;da_: the clarity and serene confidence that keeps _samvega_ from
+    collapsing into despair. _Samvega_ is the response to the first noble truth,
+    _pas&amacr;da_ the confidence that the fourth offers a way out. Both terms are canonical, but
+    the pairing is Thanissaro's framing rather than a formula of the Canon.[^Thanissaro1997]
 
 [Graham Priest](https://www.youtube.com/watch?v=DFzF9RlYEz4)
 likens the Four Noble Truths to a medical diagnosis of the human condition:
@@ -658,6 +663,7 @@ likens the Four Noble Truths to a medical diagnosis of the human condition:
 
 -   [&sacute;raddh&amacr;](https://en.wikipedia.org/wiki/Faith_in_Buddhism) - faith
 
+[^Thanissaro1997]: @Thanissaro_1997_Affirming_the_Truths_of_the_Heart_The_Buddhist\.
 
 #### Five aggregates of clinging
 
@@ -719,19 +725,28 @@ Four types of clinging (_up&amacr;d&amacr;na_):
 
 #### Buddhist paths to liberation
 
--   [Buddhist paths to liberation](https://en.wikipedia.org/wiki/Buddhist_Paths_to_liberation) (m&amacr;rga/magga)
+-   [Buddhist paths to liberation](https://en.wikipedia.org/wiki/Buddhist_Paths_to_liberation) (m&amacr;rga / magga)
 -   [Noble Eightfold Path](https://en.wikipedia.org/wiki/Noble_Eightfold_Path)
 -   [Enlightenment in Buddhism](https://en.wikipedia.org/wiki/Enlightenment_in_Buddhism) (bodhi/bodhi)
     -   A bodhi is aware of the capacity for nirvana.
 -   [nirvana/nibb&amacr;na](https://en.wikipedia.org/wiki/Nirvana)
     -   Liberation (literally "blown out") from sams&amacr;ra, equivalent to moksha.
--   [Sot&amacr;panna](https://en.wikipedia.org/wiki/Sot%C4%81panna) - "stream enterer"
--   [arhat/arahant](https://en.wikipedia.org/wiki/Arhaa)
-    -   One who has achieved enlightenment (bodhi)
-    -   In the Mah&amacr;y&amacr;na tradition, an arhat is far along the path of enlightenment
-        but may not have reached full Buddhahood.
+-   [Fruits of the noble path](https://en.wikipedia.org/wiki/Fruits_of_the_noble_path) (ariyamaggaphala / &amacr;ryam&amacr;rgaphala)
+    1. [Sot&amacr;panna](https://en.wikipedia.org/wiki/Sot%C4%81panna) - "stream enterer"
+        -   _Avecca-pas&amacr;da_, confidence verified by experience, is one
+            of the four factors of stream-entry, together with the virtues of
+            the Five Precepts. These are set out in the _Sotapatti Samyutta_ (*SN* 55).
+        -   Thanissaro. (2012). [Into the Stream: A Study Guide on the First Stage of Awakening](https://accesstoinsight.org/lib/study/into_the_stream.html) [^Thanissaro2012]
+    2. Sakad&amacr;g&amacr;mi (once-returner)
+    3. An&amacr;g&amacr;mi (non-returner)
+    4. [Arhat / Arahant](https://en.wikipedia.org/wiki/Arhaa) - "conqueror", "worthy one")
+        -   One who has achieved enlightenment (bodhi)
+        -   In the Mah&amacr;y&amacr;na tradition, an arhat is far along the path of enlightenment
+            but may not have reached full Buddhahood.
 -   [Buddhahood](https://en.wikipedia.org/wiki/Buddhahood)
 -   [Pratyekabuddhay&amacr;na](https://en.wikipedia.org/wiki/Pratyekabuddhay%C4%81na) - "solitary buddha"
+
+[^Thanissaro2012]: @Thanissaro_2012_Into_the_Stream_A_Study_Guide_on_the_First_Stage\.
 
 
 #### Buddhist philosophy
