@@ -549,6 +549,8 @@ Combinatorics
 -   [Graph theory](https://en.wikipedia.org/wiki/Graph_theory)
 -   [Ramsey's theorem](https://en.wikipedia.org/wiki/Ramsey%27s_theorem)
 -   [F.P. Ramsey](https://plato.stanford.edu/entries/ramsey) (1903-1930)
+-   [Matroid](https://en.wikipedia.org/wiki/Matroid)
+    -   Boege, T. & Yashfe, G. (2026). [Recognition of algebraic matroids is undecidable](https://arxiv.org/abs/2607.14907).
 
 
 Game theory
