@@ -537,19 +537,22 @@ Buddhism
     -   An&amacr;tman: rejection of the &amacr;tman; there are no souls.
     -   Atheism: there is no creator god. There may be more mundane deities but they are impermanent.
     -   Egalitarianism: rejection of the Hindu caste system.
--   [Siddhartha Gautama Buddha](https://en.wikipedia.org/wiki/Gautama_Buddha) (c. 480-400 BCE)
-    -   AKA Shakyamuni Buddha
+-   [Siddhartha Gautama Buddha](https://en.wikipedia.org/wiki/Gautama_Buddha) (c. 563-483, or 480-400 BCE) AKA Shakyamuni Buddha
+    -   [Kapilavastu](https://en.wikipedia.org/wiki/Kapilavastu_(ancient_city)) - ancient city where Siddhartha Gautama grew up
     -   Of the [Shakya clan](https://en.wikipedia.org/wiki/Shakya), son of [Queen Maya](https://en.wikipedia.org/wiki/Maya_(mother_of_the_Buddha))
     -   [Four sights](https://en.wikipedia.org/wiki/Four_sights)
     -   [Bodh Gaya](https://en.wikipedia.org/wiki/Bodh_Gaya) - place the Buddha attained enlightenment
     -   [Sarnath](https://en.wikipedia.org/wiki/Sarnath) - place of the Buddha's first sermon
     -   [Kushinagar](https://en.wikipedia.org/wiki/Kushinagar) - place of the Buddha's death
+    -   [A Sketch of the Buddha's Life: Readings from the Pali Canon](https://www.accesstoinsight.org/ptf/buddha.html#bodhi)
+    -   Nanamoli. (1992). *The Life of the Buddha: According to the Pali Canon*. [^Nanamoli1992]
 -   [Devadatta](https://en.wikipedia.org/wiki/Devadatta) - cousin and brother-in-law of Siddhartha Gautama Buddha
     -   Tries to kill Shakyamuni Buddha mutiple times and take over the Sangha.
 -   [&Sacute;&amacr;rjputra](https://en.wikipedia.org/wiki/Sarjputra) and [Maudgaly&amacr;yana](https://en.wikipedia.org/wiki/Maudgalyayana) - first two and closest disciples of the Buddha
 -   [&Amacr;nanda](https://en.wikipedia.org/wiki/Ananda) - primary attendant of the Buddha
 -   [Ten Principal Disciples](https://en.wikipedia.org/wiki/Ten_Principal_Disciples)
 -   [Khujjuttara](https://en.wikipedia.org/wiki/Khujjuttara) - one of Buddha's foremost female lay disciples
+-   [Early Buddhist schools](https://en.wikipedia.org/wiki/Early_Buddhist_schools)
 -   [Ashoka](https://en.wikipedia.org/wiki/Ashoka) (c. 304-232 BCE)
 -   [Gandh&amacr;ran Buddhist texts](https://en.wikipedia.org/wiki/Gandharan_Buddhist_texts) - oldest yet discovered Buddhist texts (c. first century BCE)
 -   [Decline of Buddhism in the Indian subcontinent](https://en.wikipedia.org/wiki/Decline_of_Buddhism_in_the_Indian_subcontinent)
@@ -875,12 +878,9 @@ See also:
 
 #### History
 
--   Life of Siddhartha Gautama
-    -   [Kapilavastu](https://en.wikipedia.org/wiki/Kapilavastu_(ancient_city)) - ancient city where Siddhartha Gautama grew up
-    -   [A Sketch of the Buddha's Life: Readings from the Pali Canon](https://www.accesstoinsight.org/ptf/buddha.html#bodhi)
-    -   Nanamoli. (1992). *The Life of the Buddha: According to the Pali Canon*. [^Nanamoli1992]
--   [Early Buddhist schools](https://en.wikipedia.org/wiki/Early_Buddhist_schools)
 -   [Third Buddhist Council](https://en.wikipedia.org/wiki/Third_Buddhist_council) (c. 250 BCE)
+-   Fourth Buddhist Council (29 BCE)
+    -   first writing of the Pali Canon, approximately 454 years after the death of Gautama Buddha
 -   [Vibhajyav&amacr;da](https://en.wikipedia.org/wiki/Vibhajyavada)
 -   [Anuradhapura Maha Viharaya](https://en.wikipedia.org/wiki/Anuradhapura_Maha_Viharaya)
 -   [Buddhaghosa](https://en.wikipedia.org/wiki/Buddhaghosa) (c. 5th century CE)
@@ -892,11 +892,20 @@ See also:
     -   [Mahasi Sayadaw](https://en.wikipedia.org/wiki/Mahasi_Sayadaw) (1904-1982)
     -   *Satipatthana Sutta*
     -   [Dipa Ma](https://en.wikipedia.org/wiki/Dipa_Ma) (1911-1989)
--   Therav&amacr;da Buddhism in the West
+-   [Theosophical Society](https://en.wikipedia.org/wiki/Theosophical_Society)
+    -   [Helena Blavatsky](https://en.wikipedia.org/wiki/Helena_Blavatsky) (1831-1891)
     -   [Henry Steel Olcott](https://en.wikipedia.org/wiki/Henry_Steel_Olcott) (1832-1907) 
     -   [Anag&amacr;rika Dharmap&amacr;la](https://en.wikipedia.org/wiki/Anagarika_Dharmapala) (1864-1933)
-    -   [Charles Henry Allan Bennett](https://en.wikipedia.org/wiki/Charles_Henry_Allan_Bennett) (1872-1923)
+    -   [Frank L. Woodward](https://en.wikipedia.org/wiki/F._L._Woodward) (1871-1952)
+-   Therav&amacr;da Buddhism in the West
+    -   [Thomas William Rhys Davids](https://en.wikipedia.org/wiki/Thomas_William_Rhys_Davids) (1843-1922)
+    -   [Pali Text Society](https://en.wikipedia.org/wiki/Pali_Text_Society) (est. 1881)
+    -   [Caroline Rhys Davids](https://en.wikipedia.org/wiki/Caroline_Rhys_Davids) (1857-1942)
+    -   [Charles Henry Allan Bennett](https://en.wikipedia.org/wiki/Charles_Henry_Allan_Bennett) (1872-1923) - ordained as Bhikkhu Ananda Metteyya
     -   [Richard Gombrich](https://en.wikipedia.org/wiki/Richard_Gombrich) (b. 1937)
+    -   Alexander Wynne
+        -   Wynne, A. (2006). [The historical authenticity of early Buddhist literature: A critical evaluation](https://buddhistuniversity.net/content/articles/historical-authenticity_wynne). [^Wynne2006]
+        -   Wynne, A. (2019). [Did the Buddha exist?](https://buddhistuniversity.net/content/articles/did-the-buddha-exist_wynne) [^Wynne2019]
     -   [Bhikkhu Bodhi](https://en.wikipedia.org/wiki/Bhikkhu_Bodhi) (b. 1944)
     -   [Bhikkhu Th&amacr;nissaro](https://en.wikipedia.org/wiki/%E1%B9%ACh%C4%81nissaro_Bhikkhu) (b. 1949)
     -   [Joseph Goldstein](https://en.wikipedia.org/wiki/Joseph_Goldstein_(writer)) (b. 1944)
@@ -914,7 +923,8 @@ See also:
 
 [^Fronsdal2001]: @Fronsdal_2001_The_Issue_at_Hand_Essays_on_Buddhist_Mindfulness\.
 [^Nanamoli1992]: @Nanamoli_1992_The_Life_of_the_Buddha_According_to_the_Pali\.
-
+[^Wynne2006]: @Wynne_2006_The_historical_authenticity_of_early_Buddhist\.
+[^Wynne2019]: @Wynne_2019_Did_the_Buddha_exist\.
 
 #### Doctrines
 
