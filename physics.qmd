@@ -948,6 +948,7 @@ Michael Atiyah:
     -   No theory involving only scalars and fermions (without non-Abelian gauge fields) can be asymptotically free in four dimensions. Together with the positive result for Yang-Mills, this established that non-Abelian gauge theories are essentially the unique route to asymptotic freedom---and hence UV completeness---for quantum field theories in 4D.
     -   QED has a positive beta function → Landau pole → not UV complete (it's an effective theory that must be embedded in something larger, like the electroweak theory).
     -   Yang-Mills theories (like QCD) have a negative beta function → asymptotic freedom → no Landau pole → UV complete as quantum field theories.
+-   Anthropic. (2026). [Yes, Claude can do nine loops](https://www.anthropic.com/research/yes-claude-can-do-nine-loops).
 
 [^Coleman1973]: @Coleman_1973_Price_of_asymptotic_freedom\.
 [^Gross1973]: @Gross_1973_Ultraviolet_behavior_of_non_abelian_gauge\.
