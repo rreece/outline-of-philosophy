@@ -2308,7 +2308,7 @@ Linear probes:
 [^Watson2019]: @Watson_2019_The_explanation_game_A_formal_framework\.
 
 
-### Reinforcement learning
+## Reinforcement learning
 
 -   Reinforcement Learning (RL)
 -   [Dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming)
@@ -2351,7 +2351,7 @@ See also:
 [^Xu2018]: @Xu_2018_Meta_gradient_reinforcement_learning\.
 
 
-#### Q-learning
+### Q-learning
 
 -   Q-learning and DQN
 -   Uses the Markov Decision Process (MDP) framework
@@ -2368,7 +2368,7 @@ See also:
     @Mnih_2015_Human_level_control_through_deep_reinforcement\.
 
 
-#### AlphaZero
+### AlphaZero
 
 -   AlphaGo Lee [^Silver2016AlphaGoLee] &rarr; AlphaGo Zero [^Silver2017AlphaGoZero] &rarr; AlphaZero [^Silver2017AlphaZero]
 -   [OpenAI Five masters Dota2](https://openai.com/blog/openai-five/)
@@ -2382,9 +2382,9 @@ See also:
 [^Silver2017AlphaZero]: @Silver_2017_Mastering_chess_and_shogi_by_self_play\.
 
 
-#### Regret minimization
+### Regret minimization
 
-**Regret matching (RM)**
+#### Regret matching (RM)
 
 -   Hart, S. & Mas‐Colell, A. (2000). [A simple adaptive procedure leading to correlated equilibrium](https://www.ma.imperial.ac.uk/~dturaev/Hart0.pdf). [^Hart2000]
 
@@ -2429,7 +2429,7 @@ $$ \bar{\sigma}^{T}(a) = \frac{1}{T} \sum_{t=1}^{T} \sigma^{t}(a) $$
 [^Roughgarden2016a]: @Roughgarden_2016_Twenty_Lectures_on_Algorithmic_Game_Theory\.
 
 
-**Counterfactual regret minimization (CFR)**
+#### Counterfactual regret minimization (CFR)
 
 -   CFR
     -   Zinkevich, M., Johanson, M., Bowling, M., & Piccione, C. (2007). [Regret minimization in games with incomplete information](https://proceedings.neurips.cc/paper/2007/file/08d98638c6fcd194a4b1e6992063e944-Paper.pdf). [^Zinkevich2007]
@@ -2550,7 +2550,7 @@ $$ \bar{\sigma}^{T}(I, a) = \sum_{t=1}^{T} \frac{\pi^{t}_{i}(I) \: \sigma^{t}(I,
     @Lanctot_2009_Monte_Carlo_sampling_for_regret_minimization\.
 
 
-**Monte Carlo Counterfactual Regret Minimization (MCCFR)**
+#### Monte Carlo Counterfactual Regret Minimization (MCCFR)
 
 -   Lanctot, M. (2009). [Monte Carlo sampling for regret minimization](https://proceedings.neurips.cc/paper/2009/file/00411460f7c92d2124a67ea0f4cb5f85-Paper.pdf). [^Lanctot2009]
 -   Neller, T.W. & Lanctot, M. (2013). [An introduction to counterfactual regret minimization](http://modelai.gettysburg.edu/2013/cfr/cfr.pdf). [^Neller2013]
@@ -2588,7 +2588,7 @@ $$ \tilde{v}^{\sigma}_{i}(I) = \sum_{z \in Q} u_{i}(z) \: \pi^{\sigma}_{i}(z[I] 
 [^Schmid2019]: @Schmid_2019_Variance_reduction_in_Monte_Carlo_counterfactual\.
 
 
-**Best response and exploitability**
+#### Best response and exploitability
 
 Best response:
 
@@ -2686,6 +2686,29 @@ $$ \varepsilon(\sigma) = \frac{1}{2} \Big( u_{1}(\mathrm{BR}(\sigma_{2}), \sigma
 [^Moravcik2017]: @Moravcik_2017_DeepStack_Expert_level_artificial_intelligence\.
 [^Schmid2021]: @Schmid_2021_Player_of_games\.
 [^Southey2012]: @Southey_2012_Bayes_bluff_Opponent_modelling_in_poker\.
+
+
+### PPO: Proximal Policy Optimization
+
+-   [reinforcement-learning.com/kb/ppo](https://www.reinforcement-learning.com/kb/ppo)
+
+#### Post-training LLMs
+
+-   Schulman, J., Wolski, F., Dhariwal, P., Radford, A., & Klimov, O. (2017). [Proximal policy optimization algorithms](https://arxiv.org/abs/1707.06347). (PPO)
+-   Direct Preference Optimization (DPO)
+-   Rafailov, R. (2023). [Direct Preference Optimization: Your language model is secretly a reward model](https://arxiv.org/abs/2305.18290).
+-   SuperAnnotate. (2024). [Direct preference optimization (DPO): Complete overview](https://www.superannotate.com/blog/direct-preference-optimization-dpo).
+-   Blog: [RLHF progress: Scaling DPO to 70B](https://www.interconnects.ai/p/rlhf-progress-scaling-dpo-to-70b).
+-   Group Relative Policy Optimization (GRPO)
+-   Shao, Z. (2024). [DeepSeekMath: Pushing the limits of mathematical reasoning in open language models](https://arxiv.org/abs/2402.03300).
+-   Lambert, N. (2024). [*Reinforcement Learning from Human Feedback*](https://rlhfbook.com).
+-   Databricks. (2025). [TAO: Using test-time compute to train efficient LLMs without labeled data](https://www.databricks.com/blog/tao-using-test-time-compute-train-efficient-llms-without-labeled-data).
+-   Bereket, M. & Leskovec, J. (2025). [Uncalibrated reasoning: GRPO induces overconfidence for stochastic outcomes](https://arxiv.org/abs/2508.11800).
+
+
+### RLVR: Reinforcement Learning with Verifiable Rewards
+
+-   [reinforcement-learning.com/kb/rlvr](https://www.reinforcement-learning.com/kb/rlvr)
 
 
 ### Applications in physics
