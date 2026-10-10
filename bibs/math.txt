@@ -89,6 +89,7 @@ Kirchner, D., Benzm{\"u}ller, C. & Zalta, E.N. (2018). Mechanizing principia log
 Kirchner, D., Benzm{\"u}ller, C., & Zalta, E.N. (2019). Computer science and metaphysics: A cross-fertilization. https://arxiv.org/abs/1905.00787
 Kleene, S.C. (1943). Recursive predicates and quantifiers. *Transactions of the American Mathematical Society*, 53, 41--73. https://www.jstor.org/stable/1990131
 Kleene, S.C. (1952). *Introduction to Metamathematics*. North-Holland Publishing.
+Kleene, S.C. & Rosser, J.B. (1935). The inconsistency of certain formal logics. *Annals of Mathematics*, 36, 630--636. https://www.jstor.org/stable/1968646
 Knuth, D. (1974). *Surreal Numbers: How two ex-students turned on to pure mathematics and found total happiness*. Addison Wesley.
 Kripke, S.A. (1959). A completeness theorem in modal logic. *The Journal of Symbolic Logic*, 24, 1--14. http://naturalthinker.net/trl/texts/Kripke,Saul/Kripke%20S.%20-%20A%20Completeness%20Theorem%20in%20Modal%20Logic.pdf
 Lawvere, F.W. (1963). *Functorial Semantics of Algebraic Theories and Some Algebraic Problems in the context of Functorial Semantics of Algebraic Theories*. Columbia University. http://www.tac.mta.ca/tac/reprints/articles/5/tr5abs.html [(Ph.D. thesis)]
@@ -131,6 +132,7 @@ Reid, C. (1996). *Hilbert*. Copernicus.
 Rice, H.G. (1953). Classes of recursively enumerable sets and their decision problems. *Transactions of the American Mathematical Society*, 74, 358--366. https://www.jstor.org/stable/1990888
 Rodin, A. (2012). Axiomatic method and category theory. https://arxiv.org/abs/1210.1478
 Rossberg, M. (2004). First-order logic, second-order logic, and completeness. In V.F. Hendricks et al. (eds.) *First-Order Logic Revisited*. Berlin: Logos-Verlag. http://logic.amu.edu.pl/images/4/46/Completenessrossberg.pdf
+Rosser, B. (1942). The Burali-Forti paradox. *Journal of Symbolic Logic*, 7, 1-17.
 Russell, B. (1905). On denoting. *Mind*, 14(56), 479--493. https://www.finophd.eu/wp-content/uploads/2018/11/russell_on_denoting.pdf
 Russell, B. (1908). Mathematical logic as based on the theory of types. *American journal of mathematics*, 30, 222--262. https://www.jstor.org/stable/2369948
 Russell, G. (2015). The justification of the basic laws of logic. *Journal of Philosophical Logic*, 44(6), 793--803.

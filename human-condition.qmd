@@ -520,7 +520,7 @@ Others:
 -   [Namaste](https://en.wikipedia.org/wiki/Namaste) - Hindu greeting, literally "not I"
 
 ![The Wheel of Dharma ([Dharmachakra](https://en.wikipedia.org/wiki/Dharmachakra))
-    is an imporant symbol in many dharmic religions,
+    is an important symbol in many dharmic religions,
     in particular Buddhism where it represents the 
     [Noble Eightfold Path](https://en.wikipedia.org/wiki/Noble_Eightfold_Path).
     ](img/wheel-of-dharma.png){#fig-wheel-of-dharma}

@@ -422,6 +422,11 @@ $$ \left\{ x : P(x) \right\} = \left\{ x | x \in U \land P(x) \right\} $$
     -   Define a set by defining a subset of a known set $A$, $\{ x \in A : \phi(x) \}$, instead of the more general $\{ x : \phi(x) \}$
     -   Given any set A, there exists a subset of $A$, whose memebers are those that satisfy $\phi$ (and are also members of $A$).
 -   [Zermelo-Fraenkel set theory](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory) + [Axiom of choice](https://en.wikipedia.org/wiki/Axiom_of_choice) = ZFC
+-   Quine's *Mathematical Logic* (1940) proposed reworking of ZFC. It was shown to be inconsistent by Rosser (1942),
+    but later patched by Hao Wang (1951).
+-   Rosser, B. (1942). The Burali-Forti paradox. [^Rosser1942]
+
+[^Rosser1942]: @Rosser_1942_The_Burali_Forti_paradox\.
 
 
 #### Other approaches
@@ -880,12 +885,16 @@ See also:
     -   SOL with Henkin semantics is complete. [^Henkin1950]
 -   Higher-order logics, type theory
     -   Russell's theory of types [^Russell1908]
-    -   Alonzo Church's lambda calculus [^Church1940]
+    -   Alonzo Church's lambda calculus, originally introduced in 1932
+    -   Church's 1932 proposed foundations for mathematics using lambda calculus (which was shown to be inconsistent by Kleene and Rosser)
+    -   Alonzo Church proposed a weaker but consistent lambda calculus in 1940 [^Church1940]
+    -   Kleene, S.C. & Rosser, J.B. (1935). The inconsistency of certain formal logics. [^Kleene1935]
     -   All higher-order logics have the same expressive power as second-order logic.
     -   Modern type theory and its relationship with category theory
 
 [^Church1940]: @Church_1940_A_formulation_of_the_simple_theory_of_types\.
 [^Henkin1950]: @Henkin_1950_Completeness_in_the_theory_of_types\.
+[^Kleene1935]: @Kleene_1935_The_inconsistency_of_certain_formal_logics\.
 [^Russell1908]: @Russell_1908_Mathematical_logic_as_based_on_the_theory\.
 
 
@@ -1503,6 +1512,7 @@ TODO
     -   [mathlib-initiative.org](https://mathlib-initiative.org)
     -   [leanprover-community.github.io](https://leanprover-community.github.io)
     -   [github.com/leanprover-community/mathlib4](https://github.com/leanprover-community/mathlib4)
+    -   Moses, M. (2026). [A critical look at Lean4](https://www.lesswrong.com/posts/zHhGa3iQBQcdSifFL/a-critical-look-at-lean4-1).
 - **Rocq (formerly Coq)** - Implemented in OCaml on the Calculus of Inductive Constructions; small kernel, tactic-driven. Behind CompCert and the Four Color Theorem.
 - **Agda** - Haskell implementation of Martin-L&ouml;f type theory; term-first, no separate kernel, strong in type-theory research. Cubical Agda implements cubical type theory.
 - **Idris** - Dependently typed language leaning toward general-purpose programming rather than proving; Agda-like spirit with practical language features.
