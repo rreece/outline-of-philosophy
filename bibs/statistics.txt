@@ -191,6 +191,7 @@ Grietzer, P. (2017). A theory of vibe. https://www.glass-bead.org/article/a-theo
 Grinsztajn, L., Oyallon, E., & Varoquaux, G. (2022). Why do tree-based models still outperform deep learning on tabular data? https://arxiv.org/abs/2207.08815
 Gu, A. & Dao, T. (2023). Mamba: Linear-time sequence modeling with selective state spaces. https://arxiv.org/abs/2312.00752
 Gu, A., Goel, K., & R{\'e}, C. (2021). Efficiently modeling long sequences with structured state spaces. https://arxiv.org/abs/2111.00396
+Guo, D. et al. (2025). DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning. *Nature*, 645, 633--638. https://www.nature.com/articles/s41586-025-09422-z
 Gurnee, W. et al. (2023). Finding neurons in a haystack: Case studies with sparse probing. https://arxiv.org/abs/2305.01610
 Gurnee, W. & Tegmark, M. (2023). Language models represent space and time. https://arxiv.org/abs/2310.02207
 Habara, K., Fukuda, E.H., & Yamashita, N. (2023). Convergence analysis and acceleration of the smoothing methods for solving extensive-form games. https://arxiv.org/abs/2303.11046

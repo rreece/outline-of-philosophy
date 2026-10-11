@@ -2688,16 +2688,13 @@ $$ \varepsilon(\sigma) = \frac{1}{2} \Big( u_{1}(\mathrm{BR}(\sigma_{2}), \sigma
 [^Southey2012]: @Southey_2012_Bayes_bluff_Opponent_modelling_in_poker\.
 
 
-### PPO: Proximal Policy Optimization
-
--   [reinforcement-learning.com/kb/ppo](https://www.reinforcement-learning.com/kb/ppo)
-
-#### Post-training LLMs
+### Post-training LLMs
 
 -   Schulman, J., Wolski, F., Dhariwal, P., Radford, A., & Klimov, O. (2017). [Proximal policy optimization algorithms](https://arxiv.org/abs/1707.06347). (PPO)
 -   Direct Preference Optimization (DPO)
 -   Rafailov, R. (2023). [Direct Preference Optimization: Your language model is secretly a reward model](https://arxiv.org/abs/2305.18290).
 -   SuperAnnotate. (2024). [Direct preference optimization (DPO): Complete overview](https://www.superannotate.com/blog/direct-preference-optimization-dpo).
+-   RLHF [^Ouyang2022b]
 -   Blog: [RLHF progress: Scaling DPO to 70B](https://www.interconnects.ai/p/rlhf-progress-scaling-dpo-to-70b).
 -   Group Relative Policy Optimization (GRPO)
 -   Shao, Z. (2024). [DeepSeekMath: Pushing the limits of mathematical reasoning in open language models](https://arxiv.org/abs/2402.03300).
@@ -2705,10 +2702,18 @@ $$ \varepsilon(\sigma) = \frac{1}{2} \Big( u_{1}(\mathrm{BR}(\sigma_{2}), \sigma
 -   Databricks. (2025). [TAO: Using test-time compute to train efficient LLMs without labeled data](https://www.databricks.com/blog/tao-using-test-time-compute-train-efficient-llms-without-labeled-data).
 -   Bereket, M. & Leskovec, J. (2025). [Uncalibrated reasoning: GRPO induces overconfidence for stochastic outcomes](https://arxiv.org/abs/2508.11800).
 
+#### PPO: Proximal Policy Optimization
 
-### RLVR: Reinforcement Learning with Verifiable Rewards
+-   [reinforcement-learning.com/kb/ppo](https://www.reinforcement-learning.com/kb/ppo)
+
+
+#### RLVR: Reinforcement Learning with Verifiable Rewards
 
 -   [reinforcement-learning.com/kb/rlvr](https://www.reinforcement-learning.com/kb/rlvr)
+-   Guo, D. et al. (2025). [DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning](https://www.nature.com/articles/s41586-025-09422-z). [^Guo2025]
+
+[^Guo2025]: @Guo_2025_DeepSeek_R1_incentivizes_reasoning_in_LLMs_through\.
+[^Ouyang2022b]: @Ouyang_2022_Training_language_models_to_follow_instructions\.
 
 
 ### Applications in physics
