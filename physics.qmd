@@ -1444,7 +1444,7 @@ nLab:
     -   Bertolini, M. (2022). [Lectures on supersymmetry](https://www.sissa.it/tpp/phdsection/OnlineResources/6/susycourse.pdf). [^Bertolini2022]
 -   Minimal Supersymmetric Standard Model (MSSM)
     -   Dimopoulos, S. & Georgi, H. (1981). Softly broken supersymmetry and SU(5). [^Dimopoulos1981]
-    -   Murayama, H. (2000). [Supersymmetry_phenomenology](https://arxiv.org/abs/hep-ph/0002232). [^Murayama2000]
+    -   Murayama, H. (2000). [Supersymmetry phenomenology](https://arxiv.org/abs/hep-ph/0002232). [^Murayama2000]
 -   SUSY GUTs
     -   Supersymmetry allows unification of the couplings at the GUT scale.
     -   Arkani-Hamed, N., Cachazo, F., & Kaplan, J. (2008). [What is the simplest quantum field theory?](https://arxiv.org/abs/0808.1446). [^ArkaniHamed2008]
@@ -1670,7 +1670,7 @@ Attempts at QFT:
 -   Bell, J.S. (1984). [Beables for quantum field theory](https://cds.cern.ch/record/190753/files/198411046.pdf). [^Bell1984]
 -   D&uuml;rr, D., Goldstein, S., Tumulka, R., & Zangh&igrave;, N. (2004). [Bohmian mechanics and quantum field theory](https://arxiv.org/abs/quant-ph/0303156). [^Durr2004]
 -   D&uuml;rr, D., Goldstein, S., Tumulka, R., & Zangh&igrave;, N. (2005). [Bell-type quantum field theories](https://arxiv.org/abs/quant-ph/0407116). [^Durr2005]
--   D&uuml;rr, D., Goldstein, S., Norsen, T., Struyve, W., & Zangh&igrave, N. (2014). [Can Bohmian mechanics be made relativistic?](https://royalsocietypublishing.org/doi/full/10.1098/rspa.2013.0699). [^Durr2014]
+-   D&uuml;rr, D., Goldstein, S., Norsen, T., Struyve, W., & Zangh&igrave;, N. (2014). [Can Bohmian mechanics be made relativistic?](https://royalsocietypublishing.org/doi/full/10.1098/rspa.2013.0699). [^Durr2014]
 -   Nikoli&cacute; H. (2022). [Relativistic QFT from a Bohmian perspective: A proof of concept](https://doi.org/10.1007/s10701-022-00600-x). [^Nikolic2022]
 
 Attempts at empirical proposals:

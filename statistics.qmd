@@ -2282,7 +2282,32 @@ See also:
 [^Mahowald2023]: @Mahowald_2023_Dissociating_language_and_thought_in_large\.
 
 
-#### Interpretability
+### Applications in physics
+
+-   Denby, B. (1988). [Neural networks and cellular automata in experimental high energy physics](https://inis.iaea.org/collection/NCLCollectionStore/_Public/20/013/20013339.pdf). [^Denby1988]
+-   Denby, B. (1993). [The use of neural networks in high-energy physics](https://lss.fnal.gov/archive/1992/pub/Pub-92-215-E.pdf). [^Denby1993]
+-   [HEPML-LivingReview: A Living Review of Machine Learning for Particle Physics](https://iml-wg.github.io/HEPML-LivingReview/)
+-   Spears, B.K. et al. (2018). Deep learning: A guide for practitioners in the physical sciences. [^Spears2018]
+-   Cranmer, K., Seljak, U., & Terao, K. (2021). Machine learning (Review in the [PDG](https://pdg.lbl.gov/2021-rev/2021/reviews/contents_sports.html)). [^Cranmer2021]
+-   Liu, Z. et al. (2024). [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756). [^Liu2024]
+    -   [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan)
+    -   [Blealtan/efficient-kan](https://github.com/Blealtan/efficient-kan)
+    -   [JianpanHuang/KAN](https://github.com/JianpanHuang/KAN)
+-   Jiao, L. et al. (2024). [AI meets physics: A comprehensive survey](https://doi.org/10.1007/s10462-024-10874-4). [^Jiao2024]
+
+See also:
+
+-   [Surrogate models](statistics.html#surrogate-models)
+
+[^Cranmer2021]: @Cranmer_2021_Machine_learning\.
+[^Denby1988]: @Denby_1988_Neural_networks_and_cellular_automata\.
+[^Denby1993]: @Denby_1993_The_use_of_neural_networks_in_high_energy_physics\.
+[^Jiao2024]: @Jiao_2024_AI_meets_physics_A_comprehensive_survey\.
+[^Liu2024]: @Liu_2024_KAN_Kolmogorov_Arnold_Networks\.
+[^Spears2018]: @Spears_2018_Deep_learning_A_guide_for_practitioners\.
+
+
+### Interpretability
 
 -   [Grandmother cell](https://en.wikipedia.org/wiki/Grandmother_cell)
 -   Watson, D. & Floridi, L. (2019). The explanation game: A formal framework for interpretable machine learning. [^Watson2019]
@@ -2292,6 +2317,7 @@ See also:
 -   Meng, K., Bau, D., Andonian, A., & Belinkov, Y. (2023). [Locating and editing factual associations in GPT](https://arxiv.org/abs/2202.05262). [^Meng2023]
 -   McDougall, C., Conmy, A., Rushing, C., McGrath, T., & Nanda, N. (2023). [Copy suppression: Comprehensively understanding an attention head](https://arxiv.org/abs/2310.04625). [^McDougall2023]
 -   Anthropic. (2025). [On the biology of a large language model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html).
+-   Cammarata, N. (2026). [Neural networks are already clean](https://already-clean.goodfire.com/). (Goodfire)
 
 Linear probes:
 
@@ -2714,31 +2740,6 @@ $$ \varepsilon(\sigma) = \frac{1}{2} \Big( u_{1}(\mathrm{BR}(\sigma_{2}), \sigma
 
 [^Guo2025]: @Guo_2025_DeepSeek_R1_incentivizes_reasoning_in_LLMs_through\.
 [^Ouyang2022b]: @Ouyang_2022_Training_language_models_to_follow_instructions\.
-
-
-### Applications in physics
-
--   Denby, B. (1988). [Neural networks and cellular automata in experimental high energy physics](https://inis.iaea.org/collection/NCLCollectionStore/_Public/20/013/20013339.pdf). [^Denby1988]
--   Denby, B. (1993). [The use of neural networks in high-energy physics](https://lss.fnal.gov/archive/1992/pub/Pub-92-215-E.pdf). [^Denby1993]
--   [HEPML-LivingReview: A Living Review of Machine Learning for Particle Physics](https://iml-wg.github.io/HEPML-LivingReview/)
--   Spears, B.K. et al. (2018). Deep learning: A guide for practitioners in the physical sciences. [^Spears2018]
--   Cranmer, K., Seljak, U., & Terao, K. (2021). Machine learning (Review in the [PDG](https://pdg.lbl.gov/2021-rev/2021/reviews/contents_sports.html)). [^Cranmer2021]
--   Liu, Z. et al. (2024). [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756). [^Liu2024]
-    -   [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan)
-    -   [Blealtan/efficient-kan](https://github.com/Blealtan/efficient-kan)
-    -   [JianpanHuang/KAN](https://github.com/JianpanHuang/KAN)
--   Jiao, L. et al. (2024). [AI meets physics: A comprehensive survey](https://doi.org/10.1007/s10462-024-10874-4). [^Jiao2024]
-
-See also:
-
--   [Surrogate models](statistics.html#surrogate-models)
-
-[^Cranmer2021]: @Cranmer_2021_Machine_learning\.
-[^Denby1988]: @Denby_1988_Neural_networks_and_cellular_automata\.
-[^Denby1993]: @Denby_1993_The_use_of_neural_networks_in_high_energy_physics\.
-[^Jiao2024]: @Jiao_2024_AI_meets_physics_A_comprehensive_survey\.
-[^Liu2024]: @Liu_2024_KAN_Kolmogorov_Arnold_Networks\.
-[^Spears2018]: @Spears_2018_Deep_learning_A_guide_for_practitioners\.
 
 
 Theoretical machine learning
