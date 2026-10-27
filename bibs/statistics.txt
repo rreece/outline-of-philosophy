@@ -169,6 +169,7 @@ Gandenberger, G. (2015). A new proof of the likelihood principle. *British Journ
 Gandenberger, G. (2016). Why I am not a likelihoodist. *Philosopher's Imprint*, 16(7), 1--22. https://quod.lib.umich.edu/p/phimp/3521354.0016.007/--why-i-am-not-a-likelihoodist
 Gao, Y. & Chaudhari, P. (2020). An information-geometric distance on the space of tasks. https://arxiv.org/abs/2011.00613
 Gardner, M.W. & Dorling, S.R. (1998). Artificial neural networks (the multilayer perceptron)--a  review of applications in the atmospheric sciences. *Atmospheric Environment*, 32, 2627--2636.
+Geiger, A. et al. (2023). Causal abstraction: A theoretical foundation for mechanistic interpretability. https://arxiv.org/abs/2301.04709
 Gelman, A. & Hennig, C. (2017). Beyond subjective and objective in statistics. *Journal of the Royal Statistical Society: Series A (Statistics in Society)*, 180(4), 967--1033.
 Gelman, A. & Vehtari, A. (2021). What are the most important statistical ideas of the past 50 years? *Journal of the American Statistical Association*, 116, 2087--2097. https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1938081
 Geshkovski, B., Letrouit, C., Polyanskiy, Y., & Rigollet, P. (2023). A mathematical perspective on Transformers. https://arxiv.org/abs/2312.10794
@@ -207,6 +208,7 @@ Hartigan, J.A. (1985). Statistical theory in clustering. *Journal of Classificat
 Hart, S. & Mas‐Colell, A. (2000). A simple adaptive procedure leading to correlated equilibrium. *Econometrica*, 68, 1127--1150. https://www.ma.imperial.ac.uk/~dturaev/Hart0.pdf
 Hastie, T., Montanari, A., Rosset, S., & Tibshirani, R. J. (2022). Surprises in high-dimensional ridgeless least squares interpolation. *Annals of Statistics*, 50, 949. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9481183/
 Hastie, T., Tibshirani, R., & Friedman, J. (2009). *The Elements of Statistical Learning: Data Mining, Inference, and Prediction* (2nd ed.). Springer.
+Heimersheim, S. & Nanda, N. (2024). How to use and interpret activation patching. https://arxiv.org/abs/2404.15255
 Heinrich, J. & Lyons, L. (2007). Systematic errors. *Annual Reviews of Nuclear and Particle Science*, 57, 145--169. https://www.annualreviews.org/doi/abs/10.1146/annurev.nucl.57.090506.123052
 Heinrich, J. & Silver, D. (2016). Deep reinforcement learning from self-play in imperfect-information games. https://arxiv.org/abs/1603.01121
 He, K., Zhang, X., Ren, S., & Sun, J. (2015). Deep residual learning for image recognition. https://arxiv.org/abs/1512.03385
@@ -296,12 +298,13 @@ Lu, C. et al. (2024). The AI Scientist: Towards fully automated open-ended scien
 Lundberg, I., Johnson, R., & Stewart, B.M. (2021). What is your estimand? Defining the target quantity connects statistical evidence to theory. *American Sociological Review*, 86, 532--565. https://journals.sagepub.com/doi/abs/10.1177/00031224211004187
 Lu, Z., Pu, H., Wang, F., Hu, Z., & Wang, L. (2017). The expressive power of neural networks: A view from the width. *Advances in Neural Information Processing Systems*, 30. https://proceedings.neurips.cc/paper/2017/file/32cbf687880eb1674a07bf717761dd3a-Paper.pdf
 Lyons, L. (2008). Open statistical issues in particle physics. *The Annals of Applied Statistics*, 2, 887--915. https://projecteuclid.org/journals/annals-of-applied-statistics/volume-2/issue-3/Open-statistical-issues-in-Particle-Physics/10.1214/08-AOAS163.full
+Ma, S. et al. (2024). The era of 1-bit LLMs: All large language models are in 1.58 bits. https://arxiv.org/abs/2402.17764
+Ma, X. et al. (2024). Megalodon: Efficient LLM pretraining and inference with unlimited context length. https://arxiv.org/abs/2404.08801
 MacFarlane, A. (2017). Rudolf Carnap (1891-1970). *Philosophy Now*, 118. https://philosophynow.org/issues/118/Rudolf_Carnap_1891-1970
 MacKay, D.J.C. (2003). *Information Theory, Inference, and Learning Algorithms*. Cambridge University Press.
 Maddox, W.J., Benton, G., & Wilson, A.G. (2023). Rethinking parameter counting in deep models: Effective dimensionality revisited. https://arxiv.org/abs/2003.02139
 Marchetti, G.L., Hillar, C., Kragic, D., & Sanborn, S. (2023). Harmonics of learning: Universal fourier features emerge in invariant networks. https://arxiv.org/abs/2312.08550
-Ma, S. et al. (2024). The era of 1-bit LLMs: All large language models are in 1.58 bits. https://arxiv.org/abs/2402.17764
-Ma, X. et al. (2024). Megalodon: Efficient LLM pretraining and inference with unlimited context length. https://arxiv.org/abs/2404.08801
+Marks, S. & Tegmark, M. (2024). The geometry of truth: Emergent linear structure in LLM representations of true/false datasets. https://arxiv.org/abs/2310.06824
 Mayo, D.G. (1981). In defense of the Neyman-Pearson theory of confidence intervals. *Philosophy of Science*, 48(2), 269--280.
 Mayo, D.G. (1996). *Error and the Growth of Experimental Knowledge*. Chicago University Press.
 Mayo, D.G. (2014). On the Birnbaum Argument for the Strong Likelihood Principle, *Statistical Science*, 29, 227--266.
@@ -328,6 +331,7 @@ Mnih, V. et al. (2013). Playing Atari with deep reinforcement learning. https://
 Mnih, V. et al. (2015). Human-level control through deep reinforcement learning. *Nature*, 518(7540), 529--533. http://files.davidqiu.com//research/nature14236.pdf
 Mohamadi, S., Mujtaba, G., Le, N., Doretto, G., & Adjeroh, D.A. (2023). ChatGPT in the age of generative AI and large language models: A concise survey. https://arxiv.org/abs/2307.04251v1
 Moravcik, M. et al. (2017). DeepStack: Expert-level artificial intelligence in heads-up no-limit poker. *Science*, 356, 508--513. https://arxiv.org/abs/1701.01724
+Mueller, A. et al. (2024). The quest for the right mediator: Surveying mechanistic interpretability through the lens of causal mediation analysis. https://arxiv.org/abs/2408.01416
 Muennighoff, N. et al. (2023). Scaling data-constrained language models. https://arxiv.org/abs/2305.16264
 Murphy, K.P. (2012). *Machine Learning: A probabilistic perspective*. MIT Press.
 Murphy, K.P. (2022). *Probabilistic Machine Learning: An introduction*. MIT Press.
@@ -355,6 +359,7 @@ Ouyang, L. et al. (2022). Training language models to follow instructions with h
 Pandey, R. (2024). gzip predicts data-dependent scaling laws. https://arxiv.org/abs/2405.16684
 Park, N. & Kim, S. (2022). How do vision transformers work? https://arxiv.org/abs/2202.06709
 Patel, R. & Pavlick, E. (2022). Mapping language models to grounded conceptual spaces. *International Conference on Learning Representations*, 2022. https://openreview.net/pdf?id=gJcEM8sxHK
+Pearl, J. (2001). Direct and indirect effects. https://arxiv.org/abs/1301.2300
 Pearl, J. (2009). Causal inference in statistics: An overview. *Statistics Surveys*, 3, 96--146. https://projecteuclid.org/journals/statistics-surveys/volume-3/issue-none/Causal-inference-in-statistics-An-overview/10.1214/09-SS057.pdf
 Pearl, J. (2018). *The Book of Why: The new science of cause and effect*. Basic Books.
 Pearson, K. (1900). On the criterion that a given system of deviations from the probable in the case of a correlated system of variables is such that it can be reasonably supposed to have arisen from random sampling. *The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science*, 50, 157--175.
@@ -390,6 +395,7 @@ Royall, R. (1997). *Statistical Evidence: A likelihood paradigm*. CRC Press.
 Rozeboom, W.W. (1960). The fallacy of the null-hypothesis significance test. *Psychological Bulletin*, 57, 416.
 Rubin, D.B. (1974). Estimating causal effects of treatments in randomized and nonrandomized studies. *Journal of educational Psychology*, 66, 688. https://psycnet.apa.org/fulltext/1975-06502-001.pdf
 Rumelhart, D.E., Hinton, G.E., & Williams, R.J. (1986). Learning representations by back-propagating errors. *Nature*, 323(6088), 533--536. https://www.nature.com/articles/323533a0.pdf
+Rushing, C. & Nanda, N. (2024). Explorations of self-repair in language models. https://arxiv.org/abs/2402.15390
 Salmon, W.C. (1963). On vindicating induction. *Philosophy of Science*, 30, 252--261.
 Salmon, W.C. (1966). *The Foundations of Scientific Inference*. University of Pittsburgh Press.
 Salmon, W. C. (1967). Carnap's inductive logic. *The Journal of Philosophy*, 64, 725--739.
@@ -404,6 +410,7 @@ Schmid, M. et al. (2019). Variance reduction in Monte Carlo counterfactual regre
 Schmid, M. et al. (2021). Player of games. https://arxiv.org/abs/2112.03178
 Sellars, W. (1964). Induction as vindication. *Philosophy of Science*, 31, 197--231.
 Shalev-Shwarz, S. & Ben-David, S. (2014). *Understanding Machine Learning: From Theory to Algorithms*. Cambridge University Press. https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf
+Shani, C. et al. (2025). From tokens to thoughts: How LLMs and humans trade compression for meaning. https://arxiv.org/abs/2505.17117
 Silver, D. et al. (2016). Mastering the game of Go with deep neural networks and tree search. *Nature*, 529, 484--489.
 Silver, D. et al. (2017). Mastering chess and shogi by self-play with a general reinforcement learning algorithm. https://arxiv.org/abs/1712.01815
 Silver, D. et al. (2017). Mastering the game of Go without human knowledge. *Nature*, 550, 354--359.
@@ -452,6 +459,7 @@ Venn, J. (1888). *The Logic of Chance*. London: MacMillan and Co. [(Originally p
 Ver Hoef, J.M. (2012). Who invented the delta method? *American Statistician*, 66, 124--127. https://www.jstor.org/stable/23339471
 #Vershynin, R. (2018). *High-Dimensional Probability: An Introduction with Applications in Data Science*. Cambridge University Press. https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.pdf
 Vershynin, R. (2026). *High-Dimensional Probability: An Introduction with Applications in Data Science* (2nd ed.). Cambridge University Press. https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-2.pdf
+Vig, J. et al. (2020). Causal mediation analysis for interpreting neural NLP: The case of gender bias. https://arxiv.org/abs/2004.12265
 Wagenmakers, E.J. (2021). Review: Bernoulli’s Fallacy. *Chance*, 34, 37--38. https://www.tandfonline.com/doi/full/10.1080/09332480.2021.2003642
 Wainer, H. (2007). The most dangerous equation. *American Scientist*, 95, 249--256. https://sites.stat.washington.edu/people/peter/498.Sp16/Equation.pdf
 Wakefield, J. (2013). *Bayesian and Frequentist Regression Methods*. Springer.

@@ -2280,6 +2280,7 @@ See also:
 
 [^Kosinski2023]: @Kosinski_2023_Theory_of_mind_may_have_spontaneously_emerged\.
 [^Mahowald2023]: @Mahowald_2023_Dissociating_language_and_thought_in_large\.
+[^Shani2025]: @Shani_2025_From_tokens_to_thoughts_How_LLMs_and_humans_trade\.
 
 
 ### Applications in physics
@@ -2316,8 +2317,13 @@ See also:
 -   Gurnee, W. et al. (2023). [Finding neurons in a haystack: Case studies with sparse probing](https://arxiv.org/abs/2305.01610). [^Gurnee2023a]
 -   Meng, K., Bau, D., Andonian, A., & Belinkov, Y. (2023). [Locating and editing factual associations in GPT](https://arxiv.org/abs/2202.05262). [^Meng2023]
 -   McDougall, C., Conmy, A., Rushing, C., McGrath, T., & Nanda, N. (2023). [Copy suppression: Comprehensively understanding an attention head](https://arxiv.org/abs/2310.04625). [^McDougall2023]
+-   Marks, S. & Tegmark, M. (2024). [The geometry of truth: Emergent linear structure in LLM representations of true/false datasets](https://arxiv.org/abs/2310.06824).
 -   Anthropic. (2025). [On the biology of a large language model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html).
--   Cammarata, N. (2026). [Neural networks are already clean](https://already-clean.goodfire.com/). (Goodfire)
+-   Goodfire. (2026). [A practical guide to sparse autoencoders (SAEs)](https://www.goodfire.com/blog/a-practical-guide-to-saes). 2026/09/28.
+-   Ho, E. (2026). [We can and must solve alignment](https://www.goodfire.com/blog/we-can-and-must-solve-alignment). 2026/09/30. - Goodfire
+-   Cammarata, N. (2026). [Neural networks are already clean](https://already-clean.goodfire.com/). 2026/10/15. - Goodfire
+-   McGrath, T. & Papillon, M. (2026). [Accelerating interpretability: A human genome project for AI](https://www.goodfire.com/blog/accelerating-interpretability). 2026/10/26. - Goodfire
+-   Huang, J. et al. (2026). [Why larger models learn more: Effects of capacity, interference, and rare-task retention](https://arxiv.org/abs/2605.29548).
 
 Linear probes:
 
@@ -2325,12 +2331,32 @@ Linear probes:
 -   Belinkov, Y. (2022). [Probing classifiers: Promises, shortcomings, and advances](https://aclanthology.org/2022.cl-1.7/). [^Belinkov2022]
 -   Gurnee, W. & Tegmark, M. (2023). [Language models represent space and time](https://arxiv.org/abs/2310.02207). [^Gurnee2023b]
 
+Causal mediation analysis:
+
+-   HERE
+-   Pearl, J. (2001). [Direct and indirect effects](https://arxiv.org/abs/1301.2300). [^Pearl2001]
+-   Vig, J. et al. (2020). [Causal mediation analysis for interpreting neural NLP: The case of gender bias](https://arxiv.org/abs/2004.12265). [^Vig2020]
+-   Mueller, A. et al. (2024). [The quest for the right mediator: Surveying mechanistic interpretability through the lens of causal mediation analysis](https://arxiv.org/abs/2408.01416). [^Mueller2024]
+-   Geiger, A. et al. (2023). [Causal abstraction: A theoretical foundation for mechanistic interpretability](https://arxiv.org/abs/2301.04709). [^Geiger2023]
+-   Heimersheim, S. & Nanda, N. (2024). [How to use and interpret activation patching](https://arxiv.org/abs/2404.15255). [^Heimersheim2024]
+-   Rushing, C. & Nanda, N. (2024). [Explorations of self-repair in language models](https://arxiv.org/abs/2402.15390). [^Rushing2024]
+
+See also:
+
+-   [Causal inference](#causal-inference)
+
 [^Alain2016]: @Alain_2016_Understanding_intermediate_layers_using_linear\.
 [^Belinkov2022]: @Belinkov_2022_Probing_classifiers_Promises_shortcomings\.
+[^Geiger2023]: @Geiger_2023_Causal_abstraction_A_theoretical_foundation\.
 [^Gurnee2023a]: @Gurnee_2023_Finding_neurons_in_a_haystack_Case_studies\.
 [^Gurnee2023b]: @Gurnee_2023_Language_models_represent_space_and_time\.
+[^Heimersheim2024]: @Heimersheim_2024_How_to_use_and_interpret_activation_patching\.
 [^McDougall2023]: @McDougall_2023_Copy_suppression_Comprehensively_understanding\.
 [^Meng2023]: @Meng_2023_Locating_and_editing_factual_associations_in_GPT\.
+[^Mueller2024]: @Mueller_2024_The_quest_for_the_right_mediator_Surveying\.
+[^Pearl2001]: @Pearl_2001_Direct_and_indirect_effects\.
+[^Rushing2024]: @Rushing_2024_Explorations_of_self_repair_in_language_models\.
+[^Vig2020]: @Vig_2020_Causal_mediation_analysis_for_interpreting_neural\.
 [^Watson2019]: @Watson_2019_The_explanation_game_A_formal_framework\.
 
 
