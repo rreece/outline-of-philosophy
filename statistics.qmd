@@ -2333,11 +2333,10 @@ Linear probes:
 
 Causal mediation analysis:
 
--   HERE
 -   Pearl, J. (2001). [Direct and indirect effects](https://arxiv.org/abs/1301.2300). [^Pearl2001]
 -   Vig, J. et al. (2020). [Causal mediation analysis for interpreting neural NLP: The case of gender bias](https://arxiv.org/abs/2004.12265). [^Vig2020]
--   Mueller, A. et al. (2024). [The quest for the right mediator: Surveying mechanistic interpretability through the lens of causal mediation analysis](https://arxiv.org/abs/2408.01416). [^Mueller2024]
 -   Geiger, A. et al. (2023). [Causal abstraction: A theoretical foundation for mechanistic interpretability](https://arxiv.org/abs/2301.04709). [^Geiger2023]
+-   Mueller, A. et al. (2024). [The quest for the right mediator: Surveying mechanistic interpretability through the lens of causal mediation analysis](https://arxiv.org/abs/2408.01416). [^Mueller2024]
 -   Heimersheim, S. & Nanda, N. (2024). [How to use and interpret activation patching](https://arxiv.org/abs/2404.15255). [^Heimersheim2024]
 -   Rushing, C. & Nanda, N. (2024). [Explorations of self-repair in language models](https://arxiv.org/abs/2402.15390). [^Rushing2024]
 
