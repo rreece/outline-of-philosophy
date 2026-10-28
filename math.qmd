@@ -396,6 +396,15 @@ Number theory
 [^Newstead2022]: @Newstead_2022_An_Infinite_Descent_into_Pure_Mathematics\.
 
 
+### Prime numbers
+
+-   [Prime number](https://en.wikipedia.org/wiki/Prime_number)
+    -   Prime numbers are the atoms of multiplication
+-   [Euclid's theorem](https://en.wikipedia.org/wiki/Euclid%27s_theorem)
+-   [Prime number theorem](https://en.wikipedia.org/wiki/Prime_number_theorem)
+-   [Riemann hypothesis](https://en.wikipedia.org/wiki/Riemann_hypothesis)
+
+
 ### Set theory
 
 -   Membership: Axiom of extensionality
@@ -552,15 +561,15 @@ Combinatorics
 ### Graph theory
 
 -   [Graph theory](https://en.wikipedia.org/wiki/Graph_theory)
--   [Ramsey's theorem](https://en.wikipedia.org/wiki/Ramsey%27s_theorem)
 -   [F.P. Ramsey](https://plato.stanford.edu/entries/ramsey) (1903-1930)
--   [Matroid](https://en.wikipedia.org/wiki/Matroid)
-    -   Boege, T. & Yashfe, G. (2026). [Recognition of algebraic matroids is undecidable](https://arxiv.org/abs/2607.14907).
+-   [Ramsey's theorem](https://en.wikipedia.org/wiki/Ramsey%27s_theorem)
 -   [Subgraph isomorphism problem](https://en.wikipedia.org/wiki/Subgraph_isomorphism_problem)
     -   Corneil, D.G. & Gotlieb, C.C. (1970). An efficient algorithm for graph isomorphism. [^Corneil1970]
     -   Ullmann, J.R. (1976). An algorithm for subgraph isomorphism. [^Ullmann1976]
     -   Haralick, R.M., & Elliott, G.L. (1980). Increasing tree search efficiency for constraint satisfaction problems. [^Haralick1980]
     -   Cordella, L.P., Foggia, P., Sansone, C., & Vento, M. (2004). A (sub) graph isomorphism algorithm for matching large graphs. [^Cordella2004]
+-   [Matroid](https://en.wikipedia.org/wiki/Matroid)
+    -   Boege, T. & Yashfe, G. (2026). [Recognition of algebraic matroids is undecidable](https://arxiv.org/abs/2607.14907).
 
 [^Cordella2004]: @Cordella_2004_A_sub_graph_isomorphism_algorithm_for_matching\.
 [^Corneil1970]: @Corneil_1970_An_efficient_algorithm_for_graph_isomorphism\.
