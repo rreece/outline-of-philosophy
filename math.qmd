@@ -1500,7 +1500,9 @@ Formal verification
 
 ### Introduction
 
-TODO
+-   TODO
+-   [github.com/openai/math](https://github.com/openai/math)
+-   Lex Friedman. (2026). Video: [AI crisis in math: Navier-Stokes, Riemann Hypothesis & complexity theory](https://www.youtube.com/watch?v=ZAzWPE9CItg).
 
 
 ### Frameworks
