@@ -1501,6 +1501,7 @@ Formal verification
 ### Introduction
 
 -   TODO
+-   [github.com/anthropics/formal-math](https://github.com/anthropics/formal-math)
 -   [github.com/openai/math](https://github.com/openai/math)
 -   Lex Friedman. (2026). Video: [AI crisis in math: Navier-Stokes, Riemann Hypothesis & complexity theory](https://www.youtube.com/watch?v=ZAzWPE9CItg).
 
