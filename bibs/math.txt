@@ -36,6 +36,8 @@ Church, A. (1940). A formulation of the simple theory of types. *Journal of Symb
 Connes, A. (1985). Non-commutative differential geometry. *Publications Math\'{e}matiques de L'Institut des Hautes Scientifiques*, 62, 41--144. https://link.springer.com/article/10.1007/BF02698807
 Conway, J.H. (2001). *On Numbers and Games*. Natick, MA: AK Peters. [(Originally published in 1976).]
 Cooley, J.W. & Tukey, J.W. (1965). An algorithm for the machine calculation of complex fourier series. *Mathematics of Computation*, 19, 297--301.
+Cordella, L.P., Foggia, P., Sansone, C., & Vento, M. (2004). A (sub) graph isomorphism algorithm for matching large graphs. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 26, 1367--1372.
+Corneil, D.G. & Gotlieb, C.C. (1970). An efficient algorithm for graph isomorphism. *Journal of the Association for Computing Machinery*, 17, 51--64.
 De Cruz, H. (2016). Numerical cognition and mathematical realism. *Philosopher's Imprint*, 16, 1--13. http://hdl.handle.net/2027/spo.3521354.0016.016
 Dorr, C. (2008). There are no abstract objects. In Sider, T. (ed.), *Contemporary Debates in Metaphysics* (pp. 32--64). Blackwell. https://pages.nyu.edu/dorr/papers/NoAbstractObjects.pdf
 Drake, S. (1957). *Discoveries and Opinions of Galileo*. New York: Doubleday and Co.
@@ -67,6 +69,7 @@ Gorard, J. (2022). A functorial perspective on (multi)computational irreducibili
 Grady, D. & Pavlov, D. (2021). The geometric cobordism hypothesis. https://arxiv.org/abs/2111.01095
 Hall, B.C. (2000). *An Elementary Introduction to Groups and Representations*. https://arxiv.org/abs/math-ph/0005032
 Hamming, R. W. (1980). The unreasonable effectiveness of mathematics. *The American Mathematical Monthly*, 87, 81--90.
+Haralick, R.M., & Elliott, G.L. (1980). Increasing tree search efficiency for constraint satisfaction problems. *Artificial Intelligence*, 14, 263--313.
 Hardy, G.H. (1940). *A Mathematician's Apology*. Cambridge University Press.
 Henkin, L. (1950). Completeness in the theory of types. *Journal of Symbolic Logic*, 15, 81--91. https://doi.org/10.2307/2266967
 Henkin, L. (1953). Some notes on nominalism. *The Journal of Symbolic Logic*, 18, 19--29. https://doi.org/10.2307/2266323
@@ -162,6 +165,7 @@ Tegmark, M. (2014). *Our Mathematical Universe*. Knopf.
 Teller, P. (1989). *A Modern Formal Logic Primer*. Prentice Hall. https://tellerprimer.ucdavis.edu/
 Tu, L.W. (2017). *Differential Geometry: Connections, Curvature, and Characteristic Classes*. Springer.
 Turing, A.M. (1937). On computable numbers, with an application to the Entscheidungsproblem. *Proceedings of the London Mathematical Society*, 42, 230--65.
+Ullmann, J.R. (1976). An algorithm for subgraph isomorphism. *Journal of the Association for Computing Machinery*, 23, 31--42.
 Varadarajan, V.S. (2003). Vector bundles and connections in physics and mathematics: some historical remarks. In *A Tribute to CS Seshadri* (pp. 502--541). Gurgaon: Hindustan Book Agency.
 Viteri, S. & DeDeo, S. (2022). Epistemic phase transitions in mathematical proofs. *Cognition*, 225, 105120. https://www.sciencedirect.com/science/article/pii/S0010027722001081
 von Fintel, K. (2011). Conditionals. https://dspace.mit.edu/handle/1721.1/95781

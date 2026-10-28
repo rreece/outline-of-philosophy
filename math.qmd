@@ -556,6 +556,16 @@ Combinatorics
 -   [F.P. Ramsey](https://plato.stanford.edu/entries/ramsey) (1903-1930)
 -   [Matroid](https://en.wikipedia.org/wiki/Matroid)
     -   Boege, T. & Yashfe, G. (2026). [Recognition of algebraic matroids is undecidable](https://arxiv.org/abs/2607.14907).
+-   [Subgraph isomorphism problem](https://en.wikipedia.org/wiki/Subgraph_isomorphism_problem)
+    -   Corneil, D.G. & Gotlieb, C.C. (1970). An efficient algorithm for graph isomorphism. [^Corneil1970]
+    -   Ullmann, J.R. (1976). An algorithm for subgraph isomorphism. [^Ullmann1976]
+    -   Haralick, R.M., & Elliott, G.L. (1980). Increasing tree search efficiency for constraint satisfaction problems. [^Haralick1980]
+    -   Cordella, L.P., Foggia, P., Sansone, C., & Vento, M. (2004). A (sub) graph isomorphism algorithm for matching large graphs. [^Cordella2004]
+
+[^Cordella2004]: @Cordella_2004_A_sub_graph_isomorphism_algorithm_for_matching\.
+[^Corneil1970]: @Corneil_1970_An_efficient_algorithm_for_graph_isomorphism\.
+[^Haralick1980]: @Haralick_1980_Increasing_tree_search_efficiency_for_constraint\.
+[^Ullmann1976]: @Ullmann_1976_An_algorithm_for_subgraph_isomorphism\.
 
 
 Game theory
