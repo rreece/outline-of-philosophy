@@ -2334,6 +2334,12 @@ Linear probes:
 
 Causal mediation analysis:
 
+![Visual summary of causal mediation analysis. We are given a cause (input) $x$, which results in
+    effect (output) $y$. There often exist intermediate causal variables such as $z$ that mediate the transformation
+    of $x$ to $y$. One of the most common ways of quantifying the importance of $z$ is by measuring its indirect
+    effect, where one intervenes on $z$ and then measures the change in $y$ compared to when no intervention was
+    performed. [^Mueller2024p3]](img/causal-mediation-analysis.png){#fig-causal-mediation-analysis}
+
 -   Pearl, J. (2001). [Direct and indirect effects](https://arxiv.org/abs/1301.2300). [^Pearl2001]
 -   Vig, J. et al. (2020). [Causal mediation analysis for interpreting neural NLP: The case of gender bias](https://arxiv.org/abs/2004.12265). [^Vig2020]
 -   Geiger, A. et al. (2023). [Causal abstraction: A theoretical foundation for mechanistic interpretability](https://arxiv.org/abs/2301.04709). [^Geiger2023]
@@ -2354,6 +2360,7 @@ See also:
 [^McDougall2023]: @McDougall_2023_Copy_suppression_Comprehensively_understanding\.
 [^Meng2023]: @Meng_2023_Locating_and_editing_factual_associations_in_GPT\.
 [^Mueller2024]: @Mueller_2024_The_quest_for_the_right_mediator_Surveying\.
+[^Mueller2024p3]: @Mueller_2024_The_quest_for_the_right_mediator_Surveying\, p. 3.
 [^Pearl2001]: @Pearl_2001_Direct_and_indirect_effects\.
 [^Rushing2024]: @Rushing_2024_Explorations_of_self_repair_in_language_models\.
 [^Vig2020]: @Vig_2020_Causal_mediation_analysis_for_interpreting_neural\.
