@@ -1749,6 +1749,7 @@ Papers:
 -   Schaeffer, R. et al. (2023). [Double descent demystified: Identifying, interpreting & ablating the sources of a deep learning puzzle](https://arxiv.org/abs/2303.14151). [^Schaeffer2023]
 -   Yang, T. & Suzuki, J. (2023). [Dropout drops double descent](https://arxiv.org/abs/2305.16179). [^Yang2023]
 -   Maddox, W.J., Benton, G., & Wilson, A.G. (2023). [Rethinking parameter counting in deep models: Effective dimensionality revisited](https://arxiv.org/abs/2003.02139). [^Maddox2023]
+-   Farghly, T., Dupuis, B., Durmus, A., & Simsekli, U. (2026). [Benign overfitting does not occur in diffusion models](https://arxiv.org/abs/2607.02671). [^Farghly2026]
 
 Blogs:
 
@@ -1772,6 +1773,7 @@ Twitter threads:
 [^Bubeck2023a]: @Bubeck_2023_A_universal_law_of_robustness_via_isoperimetry\.
 [^Chang2020]: @Chang_2020_Provable_benefits_of_overparameterization_in_model\.
 [^Dar2021]: @Dar_2021_A_farewell_to_the_bias_variance_tradeoff\.
+[^Farghly2026]: @Farghly_2026_Benign_overfitting_does_not_occur_in_diffusion\.
 [^Gamba2022]: @Gamba_2022_Deep_double_descent_via_smooth_interpolation\.
 [^Ghosh2022]: @Ghosh_2022_A_universal_trade_off_between_the_model_size_test\.
 [^Hastie2022]: @Hastie_2022_Surprises_in_high_dimensional_ridgeless_least\.
