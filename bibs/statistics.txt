@@ -148,6 +148,7 @@ Elhage, N. et al. (2022). Toy models of superposition. https://transformer-circu
 Erdogan, E. & Lucic, A. (2025). Group equivariance meets mechanistic interpretability: Equivariant sparse autoencoders. https://arxiv.org/abs/2511.09432
 Evans, M. (2013). What does the proof of Birnbaum's theorem prove? https://arxiv.org/abs/1302.5468
 Fang, Z. et al. (2022). Is out-of-distribution detection learnable? *NeurIPS 2022*. https://arxiv.org/abs/2210.14707
+Farghly, T., Dupuis, B., Durmus, A., & Simsekli, U. (2026). Benign overfitting does not occur in diffusion models. https://arxiv.org/abs/2607.02671
 Fefferman, C., Mitter, S., & Narayanan, H. (2016). Testing the manifold hypothesis. *Journal of the American Mathematical Society*, 29, 983--1049. https://www.ams.org/journals/jams/2016-29-04/S0894-0347-2016-00852-4/S0894-0347-2016-00852-4.pdf
 Feldman, G.J., & Cousins, R.D. (1998). A unified approach to the classical statistical analysis of small signals. *Physical Review D*, 57, 3873. https://arxiv.org/abs/physics/9711021
 Fienberg, S.E. (2006). When did Bayesian inference become "Bayesian"? *Bayesian Analysis*, 1, 1--40. https://projecteuclid.org/journals/bayesian-analysis/volume-1/issue-1/When-did-Bayesian-inference-become-Bayesian/10.1214/06-BA101.full
