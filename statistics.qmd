@@ -1044,6 +1044,69 @@ See also:
 [^Robins1999]: @Robins_1999_On_the_impossibility_of_inferring_causation_from\.
 
 
+### Interventions and the do-operator
+
+-   A structural causal model (SCM) makes each variable a function of its parents in a directed acyclic graph (DAG)
+    and of independent noise.
+-   Pearl's do-operator: $\mathrm{do}(x)$ sets $X = x$ by intervention, deleting the arrows into $X$ and leaving every
+    other mechanism unchanged ("graph surgery").
+-   The claim that $X$ causes $Y$ is a claim about interventional distributions:
+
+$$ P(y \mid \mathrm{do}(x)) \neq P(y \mid \mathrm{do}(x')) \quad \text{for some } x \neq x' $$
+
+-   or, in expectation, a nonzero average causal effect (ACE):
+
+$$ \mathrm{ACE} = E[Y \mid \mathrm{do}(x)] - E[Y \mid \mathrm{do}(x')] \neq 0 $$
+
+-   Seeing vs doing:
+    -   $P(y \mid x)$ is the distribution of $Y$ among the units where $X = x$ was observed.
+    -   $P(y \mid \mathrm{do}(x))$ is the distribution of $Y$ if $X$ were set to $x$ for every unit.
+    -   They differ when $X$ and $Y$ share causes.
+-   Pearl's hierarchy, the "ladder of causation": association (seeing), intervention (doing), and counterfactuals
+    (imagining). See Bareinboim et al. (2021) above.
+
+
+### Confounding and the backdoor criterion
+
+-   The simplest case: $X$ may cause $Y$, and a confounder $Z$ causes both.
+
+```
+      Z
+     ↙ ↘
+    X → Y
+```
+
+-   The backdoor path $X \leftarrow Z \rightarrow Y$ makes $X$ and $Y$ dependent even if $X$ has no effect on $Y$, so
+    $P(y \mid x)$ changing with $x$ proves nothing.
+-   Intervening on $X$ cuts $Z \rightarrow X$. The truncated factorization of this "mutilated" model,
+    $P(z, y \mid \mathrm{do}(x)) = P(z) \: P(y \mid x, z)$, gives the backdoor adjustment formula:
+
+$$ P(y \mid \mathrm{do}(x)) = \sum_z P(y \mid x, z) \: P(z) $$
+
+-   Observational conditioning instead weights the strata of $Z$ by $P(z \mid x)$. The difference between the two
+    weightings is the confounding:
+
+$$ P(y \mid x) = \sum_z P(y \mid x, z) \: P(z \mid x) $$
+
+-   So from observational data, the argument that $X$ causes $Y$ rests on the final statement that the
+    $Z$-adjusted effect is nonzero:
+
+$$ \sum_z P(y \mid x, z) \: P(z) \neq \sum_z P(y \mid x', z) \: P(z) $$
+
+-   and on assumptions that the data cannot test:
+    -   The graph is right: $Z$ satisfies the backdoor criterion, blocking every backdoor path from $X$ to $Y$
+        without containing a descendant of $X$. In potential-outcome terms, conditional ignorability:
+        $Y_x \perp\!\!\!\perp X \mid Z$. A second, unmeasured confounder breaks the argument (Robins & Wasserman
+        above: no causation from association without background knowledge).
+    -   Positivity: $P(x \mid z) > 0$ for every $z$, so every stratum of $Z$ has both values of $X$ to compare.
+    -   Consistency: the observed $Y$ of a unit with $X = x$ is its potential outcome $Y_x$.
+-   If $Z$ is unobserved: the front-door criterion (a fully observed mediator that shields $X \rightarrow Y$), or
+    instrumental variables.
+-   Randomized controlled trials: randomizing $X$ severs $Z \rightarrow X$ physically, so
+    $P(y \mid \mathrm{do}(x)) = P(y \mid x)$ with no assumption about $Z$. The identification machinery is for when we
+    cannot experiment.
+
+
 ### Counterfactuals
 
 -   Counterfactuals
@@ -1054,6 +1117,38 @@ See also:
 
 [^Chevalley2024]: @Chevalley_2024_Deriving_causal_order_from_single_variable\.
 [^Ismael2023]: @Ismael_2023_Reflections_on_the_asymmetry_of_causation\.
+
+
+### Causal mediation analysis
+
+-   How does an effect flow? A mediator $M$ on a path $X \rightarrow M \rightarrow Y$, alongside a direct path
+    $X \rightarrow Y$.
+-   Pearl, J. (2001). [Direct and indirect effects](https://arxiv.org/abs/1301.2300). [^Pearl2001mediation]
+-   Nested counterfactuals: $Y_{x, M_{x'}}$ is the outcome with $X$ set to $x$ but $M$ held at the value it would
+    take under $x'$.
+-   Total effect: $\mathrm{TE} = E[Y_x] - E[Y_{x'}]$
+-   Natural direct effect: $\mathrm{NDE} = E[Y_{x, M_{x'}}] - E[Y_{x'}]$
+-   Natural indirect effect: $\mathrm{NIE} = E[Y_{x, M_x}] - E[Y_{x, M_{x'}}]$
+-   They decompose the total effect:
+
+$$ \mathrm{TE} = \mathrm{NDE} + \mathrm{NIE} $$
+
+-   Controlled direct effect: $\mathrm{CDE}(m) = E[Y_{x, m}] - E[Y_{x', m}]$, with $M$ held at $m$ by intervention.
+-   Identifying the natural effects from observational data needs stronger assumptions than the total effect: no
+    unmeasured confounding of $X$ and $Y$, of $X$ and $M$, or of $M$ and $Y$, and no $M$–$Y$ confounder that is
+    itself affected by $X$.
+-   In neural networks every variable can be intervened on: activation patching and ablation are do-operations. So
+    identification is not the problem there, and mediation analysis becomes the method of mechanistic
+    interpretability. See [Interpretability](#interpretability).
+-   Example, the Hydra effect: in GPT-2 small's indirect-object-identification circuit, mean-ablating the name-mover
+    heads removes 4.57 logits of their direct effect on the logit difference, yet the total effect of the ablation on
+    the logit difference is +0.15. An indirect effect through downstream heads (a copy-suppression head that
+    releases, backup heads that step up) compensates. The direct and total effects have opposite signs, so ablating a
+    component and measuring the output can badly understate its role.
+    -   McGrath, T. et al. (2023). [The Hydra effect: Emergent self-repair in language model computations](https://arxiv.org/abs/2307.15771).
+    -   Reproduced in [ioi-hydra](https://github.com/rreece/ioi-hydra).
+
+[^Pearl2001mediation]: @Pearl_2001_Direct_and_indirect_effects\.
 
 
 Exploratory data analysis
