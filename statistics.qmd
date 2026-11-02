@@ -2410,8 +2410,10 @@ See also:
 
 -   [Grandmother cell](https://en.wikipedia.org/wiki/Grandmother_cell)
 -   Watson, D. & Floridi, L. (2019). The explanation game: A formal framework for interpretable machine learning. [^Watson2019]
+-   Olah, C. (2020). [Zoom in: An introduction to circuits](https://distill.pub/2020/circuits/zoom-in/). - OpenAI
 -   Anthropic. (2021). [A mathematical framework for transformer circuits](https://transformer-circuits.pub/2021/framework/index.html).
 -   Anthropic. (2022). [In-context learning and induction heads](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html).
+-   Bills, S. (2023). [Language models can explain neurons in language models](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html). - OpenAI
 -   Gurnee, W. et al. (2023). [Finding neurons in a haystack: Case studies with sparse probing](https://arxiv.org/abs/2305.01610). [^Gurnee2023a]
 -   Meng, K., Bau, D., Andonian, A., & Belinkov, Y. (2023). [Locating and editing factual associations in GPT](https://arxiv.org/abs/2202.05262). [^Meng2023]
 -   McDougall, C., Conmy, A., Rushing, C., McGrath, T., & Nanda, N. (2023). [Copy suppression: Comprehensively understanding an attention head](https://arxiv.org/abs/2310.04625). [^McDougall2023]
