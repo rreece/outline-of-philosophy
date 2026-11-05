@@ -2424,6 +2424,7 @@ See also:
 -   Cammarata, N. (2026). [Neural networks are already clean](https://already-clean.goodfire.com/). 2026/10/15. - Goodfire
 -   McGrath, T. & Papillon, M. (2026). [Accelerating interpretability: A human genome project for AI](https://www.goodfire.com/blog/accelerating-interpretability). 2026/10/26. - Goodfire
 -   Huang, J. et al. (2026). [Why larger models learn more: Effects of capacity, interference, and rare-task retention](https://arxiv.org/abs/2605.29548).
+-   Goodfire. (2026). [Shaping and monitoring models through their internal representations](https://www.goodfire.com/research/mechanistic-shaping/). 2026/11/05. - Goodfire
 
 Linear probes:
 

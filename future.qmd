@@ -194,6 +194,7 @@ See also:
 -   Olah, C. (2026). [Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical "Magnifica humanitas"](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical).
 -   Patel, D. (2026). [The rise and fall of agent civilizations: The whole OpenAI/HuggingFace story in plain English](https://www.dwarkesh.com/p/openai-huggingface). 2026/08/29.
 -   Amodei, D. (2026). [We must pace the frontier](https://darioamodei.com/post/we-must-pace-the-frontier). 2026/09/12.
+-   Manidis, W. & Roberts, J. (2026). [The Commanding Heighths](https://commanding-heights.com). 2026/10/29.
 
 [^Aschenbrenner2024]: @Aschenbrenner_2024_Situational_Awareness_The_decade_ahead\.
 [^Bengio2025]: @Bengio_2025_International_AI_Safety_Report\.
