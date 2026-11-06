@@ -2422,6 +2422,7 @@ See also:
 -   Goodfire. (2026). [A practical guide to sparse autoencoders (SAEs)](https://www.goodfire.com/blog/a-practical-guide-to-saes). 2026/09/28.
 -   Ho, E. (2026). [We can and must solve alignment](https://www.goodfire.com/blog/we-can-and-must-solve-alignment). 2026/09/30. - Goodfire
 -   Cammarata, N. (2026). [Neural networks are already clean](https://already-clean.goodfire.com/). 2026/10/15. - Goodfire
+-   Zhou, J. & Klindt, D. (2026). [Complete or sparse: A tale of two identifiabilities](https://arxiv.org/abs/2610.20851).
 -   McGrath, T. & Papillon, M. (2026). [Accelerating interpretability: A human genome project for AI](https://www.goodfire.com/blog/accelerating-interpretability). 2026/10/26. - Goodfire
 -   Huang, J. et al. (2026). [Why larger models learn more: Effects of capacity, interference, and rare-task retention](https://arxiv.org/abs/2605.29548).
 -   Goodfire. (2026). [Shaping and monitoring models through their internal representations](https://www.goodfire.com/research/mechanistic-shaping/). 2026/11/05. - Goodfire
