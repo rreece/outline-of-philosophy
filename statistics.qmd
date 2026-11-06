@@ -2065,6 +2065,7 @@ Blogs:
 -   Park, N. & Kim, S. (2022). [How do vision transformers work?](https://arxiv.org/abs/2202.06709) [^Park2022]
 -   Zhao, Y. et al. (2023). [DETRs beat YOLOs on real-time object detection](https://arxiv.org/abs/2304.08069). [^Zhao2023a]
 -   Nakkiran, P., Bradley, A., Zhou, H. & Advani, M. (2024). [Step-by-step diffusion: An elementary tutorial](https://arxiv.org/abs/2406.08929). [^Nakkiran2024]
+-   Garnier-Brun, J., Biroli, G., Marc, M., Bouchaud, J.P. (2026). [Generative diffusion in long-range correlated landscapes: Speciation cascade and the foam structure of the score](https://arxiv.org/abs/2611.02955).
 
 Resources:
 
@@ -2409,8 +2410,9 @@ See also:
 ### Interpretability
 
 -   [Grandmother cell](https://en.wikipedia.org/wiki/Grandmother_cell)
+-   Olah, C. et al. (2017). [Feature visualization: How neural networks build up their understanding of images](https://distill.pub/2017/feature-visualization/).
 -   Watson, D. & Floridi, L. (2019). The explanation game: A formal framework for interpretable machine learning. [^Watson2019]
--   Olah, C. (2020). [Zoom in: An introduction to circuits](https://distill.pub/2020/circuits/zoom-in/). - OpenAI
+-   Olah, C. et al. (2020). [Zoom in: An introduction to circuits](https://distill.pub/2020/circuits/zoom-in/). - OpenAI
 -   Anthropic. (2021). [A mathematical framework for transformer circuits](https://transformer-circuits.pub/2021/framework/index.html).
 -   Anthropic. (2022). [In-context learning and induction heads](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html).
 -   Bills, S. (2023). [Language models can explain neurons in language models](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html). - OpenAI
