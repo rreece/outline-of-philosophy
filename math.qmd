@@ -570,6 +570,7 @@ Combinatorics
     -   Cordella, L.P., Foggia, P., Sansone, C., & Vento, M. (2004). A (sub) graph isomorphism algorithm for matching large graphs. [^Cordella2004]
 -   [Matroid](https://en.wikipedia.org/wiki/Matroid)
     -   Boege, T. & Yashfe, G. (2026). [Recognition of algebraic matroids is undecidable](https://arxiv.org/abs/2607.14907).
+-   Erickson, J. (2019). [*Algorithms*](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf).
 
 [^Cordella2004]: @Cordella_2004_A_sub_graph_isomorphism_algorithm_for_matching\.
 [^Corneil1970]: @Corneil_1970_An_efficient_algorithm_for_graph_isomorphism\.
