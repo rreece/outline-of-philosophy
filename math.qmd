@@ -1000,6 +1000,7 @@ See also:
 -   [Saul Kripke](https://en.wikipedia.org/wiki/Saul_Kripke) (1940-2022)
     -   Kripke, S.A. (1959). A completeness theorem in modal logic. [^Kripke1959]
     -   Revives Leibniz's idea that necessity is truth in all possible worlds.
+    -   [Kripke semantics](https://en.wikipedia.org/wiki/Kripke_semantics)
 -   [David Lewis](https://en.wikipedia.org/wiki/David_Lewis_(philosopher)) (1941-2001)
     -   *On the Plurality of Worlds* (1986) [^Lewis1986]
 
