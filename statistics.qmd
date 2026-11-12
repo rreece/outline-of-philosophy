@@ -2430,6 +2430,8 @@ See also:
 -   Goodfire. (2026). [Shaping and monitoring models through their internal representations](https://www.goodfire.com/research/mechanistic-shaping/). 2026/11/05. - Goodfire
 -   Tigges, C., Kowal, M., McGrath, T., Lewis, O., & Cammarata, N. (2026). (2026). [Neurons as an Interpretable Basis](https://www.goodfire.com/research/neurons-as-an-interpretable-basis). 2026/11/10. - Goodfire
 -   Goodfire. (2026). [Qwen3.6 Neuron Atlas](https://www.goodfire.com/research/public_neuron_atlas?l=middle). 2026/11/10. - Goodfire
+-   [neuron-lens.com](https://neuron-lens.com/)
+-   [transluce.org](https://transluce.org/)
 
 Linear probes:
 
