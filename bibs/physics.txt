@@ -168,6 +168,7 @@ Fraser, J.D. (2018). Renormalization and the formulation of scientific realism. 
 Fraser, J.D. (2021). The twin origins of renormalization group concepts. *Studies in History and Philosophy of Science Part A*, 89, 114--128. https://durham-repository.worktribe.com/preview/1218769/34961.pdf
 Frauchiger, D. & Renner, R. (2018). Quantum theory cannot consistently describe the use of itself. *Nature Communications*,9, 3711. https://www.nature.com/articles/s41467-018-05739-8
 Freed, D.S. (2001). Dirac charge quantization and generalized differential cohomology. https://arxiv.org/abs/hep-th/0011220
+Freed, D.S. (2023). What is an anomaly? https://arxiv.org/abs/2307.08147
 Freed, D.S. & Moore, G.W. (2012). Twisted equivariant matter. https://arxiv.org/abs/1208.5055
 Freedman, D.Z., van Nieuwenhuizen, P., & Ferrara, S. (1976). Progress toward a theory of supergravity. *Physical Review D*, 13, 3214--3218.
 Fr\`{e}, P.G. (2013). *Gravity, a Geometrical Course, Volume 1: Development of the Theory and Basic Physical Applications*. Springer.

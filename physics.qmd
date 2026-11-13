@@ -416,12 +416,14 @@ Discussion:
 -   Keller, K.J., Papadopoulos, M.A., & Reyes-Lega, A.F. (2007). [On the realization of symmetries in quantum mechanics](https://arxiv.org/abs/0712.0997). [^Keller2007]
 -   Schroeren, D. (2021). Symmetry fundamentalism in quantum mechanics. [^Schroeren2021]
 -   [Wigner's theorem](https://ncatlab.org/nlab/show/Wigner+theorem) - nLab
+-   Freed, D.S. (2023). [What is an anomaly?](https://arxiv.org/abs/2307.08147) [^Freed2023]
 
 See also:
 
 -   [Foundations of QM](#foundations-of-qm)
 -   [Quantum field theory](#quantum-field-theory)
 
+[^Freed2023]: @Freed_2023_What_is_an_anomaly\.
 [^Kadison1965]: @Kadison_1965_Transformations_of_states_in_operator_theory\.
 [^Keller2007]: @Keller_2007_On_the_realization_of_symmetries_in_quantum\.
 [^Reece2007p27]: @Reece_2007_Quantum_field_theory_An_introduction\, p. 27.
