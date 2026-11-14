@@ -180,7 +180,7 @@ See also:
 -   Karnofsky, H. (2022). [AI could defeat all of us combined](https://www.cold-takes.com/ai-could-defeat-all-of-us-combined/).
 -   Cotra, A. (2022). [Two-year update on my personal AI timelines](https://www.lesswrong.com/posts/AfH2oPHCApdKicM4m/two-year-update-on-my-personal-ai-timelines).
 -   Future of Life Institute. (2023). [Pause giant AI experiments: An open letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/).
--   Future of Life Institute. (2023). [Policymaking in the Pause: What can policymakers do now to combat risks from advanced AI systems?](https://futureoflife.org/wp-content/uploads/2023/04/FLI_Policymaking_In_The_Pause.pdf).
+-   Future of Life Institute. (2023). [Policymaking in the Pause: What can policymakers do now to combat risks from advanced AI systems?](https://futureoflife.org/wp-content/uploads/2023/04/FLI_Policymaking_In_The_Pause.pdf)
 -   Altman, S. (2023). [Planning for AGI and beyond](https://openai.com/blog/planning-for-agi-and-beyond).
 -   Finnveden, L., Riedel, J., & Shulman, C. (2023). [AGI and lock-in](https://www.forethought.org/research/agi-and-lock-in).
 -   Aschenbrenner, L. (2024). [Situational Awareness: The decade ahead](https://situational-awareness.ai/wp-content/uploads/2024/06/situationalawareness.pdf). [^Aschenbrenner2024]
@@ -214,7 +214,7 @@ Transhumanism
 -   Haldane, J.B.S. (1924). [Daedalus; or, Science and the Future](http://bactra.org/Daedalus.html).
 -   Russell, B. (1924). [Icarus, or the future of science](http://bactra.org/Icarus.html).
 -   Huxley, Julian (1957). [Transhumanism](https://web.archive.org/web/20160625132722/http://www.transhumanism.org/index.php/WTA/more/huxley).
--   Moravec, H. (1998). [When will computer hardware match the human brain?](https://jetpress.org/volume1/moravec.htm). [^Moravec1998]
+-   Moravec, H. (1998). [When will computer hardware match the human brain?](https://jetpress.org/volume1/moravec.htm) [^Moravec1998]
 -   Ray Kurzweil (b. 1948)
     -   *The Age of Intelligent Machines* (1990)
     -   *The Age of Spiritual Machines* (1999)
