@@ -135,14 +135,25 @@ See also:
 
 ### Effective altruism
 
--   Peter Singer
+-   Peter Singer (b. 1946)
 -   William MacAskill (b. 1987)
     -   [Effective altruism](https://lukemuehlhauser.com/wp-content/uploads/MacAskill-Effective-Altruism-short-intro.pdf) (2019)
--   Toby Ord
--   Derek Parfit
--   Janet Radcliffe Richards
+-   Toby Ord (b. 1979)
+-   Derek Parfit (1942-2017)
+-   Janet Radcliffe Richards (b. 1944)
+-   Organizations
+    -   [GiveWell](https://en.wikipedia.org/wiki/GiveWell), San Fracisco, CA (est. 2007)
+        -   Holden Karnofsky, Elie Hassenfeld
+    -   [Giving What We Can](https://en.wikipedia.org/wiki/Giving_What_We_Can), Oxford, England (est. 2009)
+        -   Toby Ord, Bernadette Young, William MacAskill
+    -   [Good Ventures](https://en.wikipedia.org/wiki/Good_Ventures), San Fracisco, CA (est. 2011)
+        -   Dustin Moskovitz, Cari Tuna
+    -   [Coefficient Giving (formerly Open Philanthropy)](https://en.wikipedia.org/wiki/Coefficient_Giving), San Fracisco, CA (est. 2011)
+        -   Holden Karnofsky, Dustin Moskovitz, Cari Tuna
 
-MacAskill, Effective Altruism [short intro] (2019,
+See also:
+
+-   [Transhumanism](https://rreece.github.io/outline-of-philosophy/future.html#transhumanism)
 
 
 ### Criticism

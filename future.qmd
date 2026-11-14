@@ -221,10 +221,9 @@ Transhumanism
     -   *The Singularity Is Near* (2005)
     -   *How to Create a Mind* (2012)
     -   *The Singularity Is Nearer* (2024)
--   Nick Bostrom (1979)
+-   Nick Bostrom (b. 1973)
     -   Bostrom, N. (2005). [The fable of the dragon-tyrant](https://www.nickbostrom.com/fable/dragon.html). [^Bostrom2005]
 -   Eliezer Yudkowsky (b. 1979)
--   Modis, T. (2006). The singularity myth. [^Modis2006]
 -   Related terms:
     -   Extropianism
     -   (New) rationalism
@@ -240,7 +239,7 @@ Transhumanism
     -   Uluorta, H.M. & Quill, L. (2022). The Californian ideology revisited. [^Uluorta2022]
     -   Andreessen, M. (2023). [The techno-optimist manifesto](https://a16z.com/the-techno-optimist-manifesto/).
     -   [LessWrong](https://www.lesswrong.com/)
--   Organizations
+-   Organizations for AI futures studies
     -   [Machine Intelligence Research Institute](https://en.wikipedia.org/wiki/Machine_Intelligence_Research_Institute), Berkeley, CA (est. 2005)
         -   Eliezer Yudkowsky, Founder
         -   Bensinger, R. (2016). [AI and Effective Altruism](https://intelligence.org/2015/08/28/ai-and-effective-altruism/).
@@ -248,10 +247,10 @@ Transhumanism
         -   Max Tegmark, President
     -   [Future of Humanity Institute](https://en.wikipedia.org/wiki/Future_of_Humanity_Institute), Oxford University (2005-2024)
         -   Nick Bostrom, Director
-    -   [Coefficient Giving (formerly Open Philanthropy)](https://en.wikipedia.org/wiki/Coefficient_Giving)
     -   [AI Futures Project](https://en.wikipedia.org/wiki/AI_Futures_Project), Berkeley, CA (est. 2024)
         -   Daniel Kokotajlo
 -   Discussion
+    -   Modis, T. (2006). The singularity myth. [^Modis2006]
     -   Jane Street. (2026). Video: [Is the AI Singularity coming?](https://www.youtube.com/watch?v=IlgvRtTwaUs)
 
 See also:
