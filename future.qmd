@@ -191,7 +191,9 @@ See also:
 -   Bengio, Y. et al. (2025). [International AI Safety Report](https://arxiv.org/abs/2501.17805). [^Bengio2025]
 -   Sadeddine, Z., Maxwell, W., Varoquaux, G., & Suchanek, F.M. (2025). [Large language models as search engines: Societal challenges](https://suchanek.name/work/publications/sigir-forum-2025.pdf).
 -   Amodei, D. (2026). [The adolescence of technology: Confronting and overcoming the risks of powerful AI](https://darioamodei.com/essay/the-adolescence-of-technology).
--   Olah, C. (2026). [Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical "Magnifica humanitas"](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical).
+-   Olah, C. (2026). [Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical "Magnifica humanitas"](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical). 2026/05/25.
+-   Larsen, T., Dean, R., Halstead, B., Lifland, E., Greenblatt, R., & Kokotajlo, D. (2026). [AI 2040](https://ai-2040.com/). 2026/07/09.
+    -   [ai2040game.com](https://ai2040game.com/)
 -   Patel, D. (2026). [The rise and fall of agent civilizations: The whole OpenAI/HuggingFace story in plain English](https://www.dwarkesh.com/p/openai-huggingface). 2026/08/29.
 -   Amodei, D. (2026). [We must pace the frontier](https://darioamodei.com/post/we-must-pace-the-frontier). 2026/09/12.
 -   Manidis, W. & Roberts, J. (2026). [The Commanding Heighths](https://commanding-heights.com). 2026/10/29.
@@ -247,10 +249,10 @@ Transhumanism
     -   [Future of Humanity Institute](https://en.wikipedia.org/wiki/Future_of_Humanity_Institute), Oxford University (2005-2024)
         -   Nick Bostrom, Director
     -   [Coefficient Giving (formerly Open Philanthropy)](https://en.wikipedia.org/wiki/Coefficient_Giving)
-    -   [AI Futures Project](https://en.wikipedia.org/wiki/AI_Futures_Project), Berkeley, CA (est. 2024).
+    -   [AI Futures Project](https://en.wikipedia.org/wiki/AI_Futures_Project), Berkeley, CA (est. 2024)
         -   Daniel Kokotajlo
 -   Discussion
-    -   Jane Street. (2026). Video: [Is the AI Singularity coming?](https://www.youtube.com/watch?v=IlgvRtTwaUs).
+    -   Jane Street. (2026). Video: [Is the AI Singularity coming?](https://www.youtube.com/watch?v=IlgvRtTwaUs)
 
 See also:
 
