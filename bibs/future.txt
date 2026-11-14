@@ -20,14 +20,15 @@ Kubrick, S. (1968). Playboy Interview: Stanley Kubrick. *Playboy Magazine*, 9, 9
 Leslie, J.A. (1996). *The End of the World: The Science and Ethics of Human Extinction*. Routledge.
 Longpre, S. (2024). Consent in crisis: The rapid decline of the AI data commons. https://www.dataprovenance.org/Consent_in_Crisis.pdf
 Marcus, G. (2018). Deep learning: A critical appraisal. https://arxiv.org/abs/1801.00631
-Maslej, N. et al. (2023). The AI Index 2023 Annual Report. https://aiindex.stanford.edu/wp-content/uploads/2023/04/HAI_AI-Index-Report_2023.pdf
-Maslej, N. et al. (2024). The AI Index 2024 Annual Report. https://aiindex.stanford.edu/wp-content/uploads/2024/05/HAI_AI-Index-Report-2024.pdf
+Maslej, N. et al. (2023). The AI Index 2023 Annual Report. Stanford University. https://aiindex.stanford.edu/wp-content/uploads/2023/04/HAI_AI-Index-Report_2023.pdf
+Maslej, N. et al. (2024). The AI Index 2024 Annual Report. Stanford University. https://aiindex.stanford.edu/wp-content/uploads/2024/05/HAI_AI-Index-Report-2024.pdf
+Maslej, N. et al. (2025). Artificial Intelligence Index Report 2025. Stanford University. https://arxiv.org/abs/2504.07139
 Modis, T. (2006). The singularity myth. *Technological Forecasting & Social Change*, 73, 104--112. http://www.growth-dynamics.com/articles/Kurzweil_critique.pdf
 Moravec, H. (1998). When will computer hardware match the human brain? *Journal of Evolution and Technology*, 1. https://jetpress.org/volume1/moravec.htm
 O'Neill, G.K. (1974). The colonization of space. *Physics Today*, 27, 32--40. https://pubs.aip.org/physicstoday/article/27/9/32/429507/The-colonization-of-spaceCareful-engineering-and
-Perrault, R. et al. (2025). Artificial Intelligence Index Report 2025. Human-Centered Artificial Intelligence, Stanford University. https://hai-production.s3.amazonaws.com/files/hai_ai_index_report_2025.pdf
 Riemens, R. (2024). Fixing the earth: Whole-systems thinking in Silicon Valley's environmental ideology. *Internet Histories*, 8, 294--311.
 Russell, S. & Norvig, P. (1995). *Artificial Intelligence: A modern approach* (3rd ed.). Pearson.
+Sajadieh, S. et al. (2026). Artificial Intelligence Index Report 2026. Stanford University. https://arxiv.org/abs/2606.15708
 Sandberg, A., Drexler, E., & Ord, T. (2018). Dissolving the Fermi paradox. https://arxiv.org/abs/1806.02404
 Uluorta, H.M. & Quill, L. (2022). The Californian ideology revisited. In *Digital Platforms and Algorithmic Subjectivities* (pp. 21--31). London: University of Westminster Press. https://library.oapen.org/bitstream/handle/20.500.12657/59166/digital-platforms-and-algorithmic-subjectivities.pdf?sequence=1#page=32
 Urban, T. (2015). The AI Revolution: The Road to Superintelligence. https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html

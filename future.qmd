@@ -141,9 +141,10 @@ Artificial intelligence
 -   Maslej, N. et al. (2023). [The AI Index 2023 Annual Report](https://aiindex.stanford.edu/wp-content/uploads/2023/04/HAI_AI-Index-Report_2023.pdf). [^Maslej2023]
 -   Maslej, N. et al. (2024). [The AI Index 2024 Annual Report](https://aiindex.stanford.edu/wp-content/uploads/2024/05/HAI_AI-Index-Report-2024.pdf). [^Maslej2024]
 -   Zuckerberg, M. (2024). [Open source AI is the path forward](https://www.facebook.com/4/posts/10115716861061241/).
--   Perrault, R. et al. (2025). [Artificial Intelligence Index Report 2025](https://hai-production.s3.amazonaws.com/files/hai_ai_index_report_2025.pdf). [^Perrault2025]
+-   Maslej, N. et al. (2025). [Artificial Intelligence Index Report 2025](https://arxiv.org/abs/2504.07139). [^Maslej2025]
 -   Silver, D. & Sutton. R.S. (2025). [Welcome to the Era of Experience](https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf).
 -   Rubin, R. & Cowen, T. (2026). Video: [Tetragrammaton: Why is Tyler Cowen optimistic about AI?](https://www.youtube.com/watch?v=HGkoxpyo-cs).
+-   Sajadieh, S. et al. (2026). [Artificial Intelligence Index Report 2026](https://arxiv.org/abs/2606.15708). [^Sajadieh2026]
 
 See also:
 
@@ -158,8 +159,9 @@ See also:
 [^Marcus2018]: @Marcus_2018_Deep_learning_A_critical_appraisal\.
 [^Maslej2023]: @Maslej_2023_The_AI_Index_2023_Annual_Report\.
 [^Maslej2024]: @Maslej_2024_The_AI_Index_2024_Annual_Report\.
-[^Perrault2025]: @Perrault_2025_Artificial_Intelligence_Index_Report_2025\.
+[^Maslej2025]: @Maslej_2025_Artificial_Intelligence_Index_Report_2025\.
 [^Russell1995]: @Russell_1995_Artificial_Intelligence_A_modern_approach\.
+[^Sajadieh2026]: @Sajadieh_2026_Artificial_Intelligence_Index_Report_2026\.
 [^WaitButWhy2015]: @Urban_2015_The_AI_Revolution_The_Road_to_Superintelligence\.
 [^Zhang2021]: @Zhang_2021_The_AI_Index_2021_Annual_Report\.
 [^Zhang2022]: @Zhang_2022_The_AI_Index_2022_Annual_Report\.
