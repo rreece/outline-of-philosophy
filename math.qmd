@@ -369,9 +369,9 @@ See also:
     -   Augustin-Louis Cauchy (1789-1857)
     -   Karl Weierstrass (1815-1897)
     -   Bernhard Riemann (1826-1866)
--   Needham, T. (1997). *Visual Complex Analysis*. [^Needham1997]
--   Reece, R. (2006). [Primer on complex analysis](https://rreece.github.io/publications/pdf/2006.Reece.Primer-on-complex-analysis.pdf). [^Reece2006]
--   TODO
+-   Pedagogy
+    -   Needham, T. (1997). *Visual Complex Analysis*. [^Needham1997]
+    -   Reece, R. (2006). [Primer on complex analysis](https://rreece.github.io/publications/pdf/2006.Reece.Primer-on-complex-analysis.pdf). [^Reece2006]
 
 [^Needham1997]: @Needham_1997_Visual_Complex_Analysis\.
 [^Reece2006]: @Reece_2006_Primer_on_complex_analysis\.
