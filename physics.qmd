@@ -1440,6 +1440,7 @@ nLab:
 >   full Tannaka duality.
 
 -   Pedagogy
+    -   Freed, D.S. (1999). *Five Lectures on Supersymmetry*. [^Freed1999]
     -   Martin, S.P. (2016). [A supersymmetry primer](https://arxiv.org/abs/hep-ph/9709356). [^Martin2016]
     -   Ellis, J. (2020). [The Higgs, supersymmetry and all that](https://cerncourier.com/a/the-higgs-supersymmetry-and-all-that/). *CERN Courier*. January 10, 2020.
     -   Tong, D. (2022). [Lectures on supersymmetric field theory](https://www.damtp.cam.ac.uk/user/tong/susy.html). [^Tong2022]
@@ -1480,6 +1481,7 @@ See also:
 [^Deligne2002]: @Deligne_2002_Categories_Tensorielles\.
 [^Dimopoulos1981]: @Dimopoulos_1981_Softly_broken_supersymmetry_and_SU5\.
 [^Fre2013v2ch6]: @Fre_2013_Gravity_a_Geometrical_Course_Volume_2_Black\, ch. 6.
+[^Freed1999]: @Freed_1999_Five_Lectures_on_Supersymmetry\.
 [^Freed2012]: @Freed_2012_Twisted_equivariant_matter\.
 [^Freedman1976]: @Freedman_1976_Progress_toward_a_theory_of_supergravity\.
 [^Geiko2020]: @Geiko_2020_Dysons_classification_and_real_division\.
