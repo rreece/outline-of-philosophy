@@ -384,7 +384,7 @@ See also:
 
 Spectral theorem:
 
-$$ [Tf](x) = \int K(x, y) f(y) dy $$
+$$ [Tf](x) = \int K(x, y) f(y) dy = \lambda(x) f(x) $$
 
 -   [Spectral theorem](https://en.wikipedia.org/wiki/Spectral_theorem)
 -   [Fredholm theory](https://en.wikipedia.org/wiki/Fredholm_theory)
