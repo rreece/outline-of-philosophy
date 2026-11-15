@@ -417,6 +417,7 @@ Discussion:
 -   Schroeren, D. (2021). Symmetry fundamentalism in quantum mechanics. [^Schroeren2021]
 -   [Wigner's theorem](https://ncatlab.org/nlab/show/Wigner+theorem) - nLab
 -   Freed, D.S. (2023). [What is an anomaly?](https://arxiv.org/abs/2307.08147) [^Freed2023]
+    -   Quantum mechanics is projective geometry. We linearize it.
 
 See also:
 
