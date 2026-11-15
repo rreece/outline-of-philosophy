@@ -1364,6 +1364,7 @@ Lyons:
 -   Aubrey Clayton
     -   Clayton, A. (2021). *Bernoulli's Fallacy: Statistical Illogic and the Crisis of Modern Science*. [^Clayton2021]
     -   Wagenmakers, E.J. (2021). [Review: Bernoulli’s Fallacy](https://www.tandfonline.com/doi/full/10.1080/09332480.2021.2003642). [^Wagenmakers2021]
+-   Lopez-Paz, D. (2026). [Against all likelihood](https://arxiv.org/abs/2611.09385). [^LopezPaz2026]
 
 ![The major virtues and vices of Bayesian, frequentist, and likelihoodist approaches to statistical inference ([gandenberger.org/research/](http://gandenberger.org/research/), 2015).](img/gandenberger-thesis-venn-diagram.png){#fig-gandenberger-thesis-venn-diagram}
 
@@ -1390,6 +1391,7 @@ Goodman:
 [^Gelman2017]: @Gelman_2017_Beyond_subjective_and_objective_in_statistics\.
 [^Goodman1999p999]: @Goodman_1999_Toward_evidence_based_medical_statistics_1_The_P\. p. 999.
 [^Kruschke2018]: @Kruschke_2018_The_Bayesian_New_Statistics_Hypothesis_testing\.
+[^LopezPaz2026]: @Lopez_Paz_2026_Against_all_likelihood\.
 [^Mayo1981]: @Mayo_1981_In_defense_of_the_Neyman_Pearson_theory\.
 [^Mayo1996]: @Mayo_1996_Error_and_the_Growth_of_Experimental_Knowledge\.
 [^Mayo2006]: @Mayo_2006_Severe_testing_as_a_basic_concept_in_a_Neyman\.

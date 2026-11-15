@@ -294,6 +294,7 @@ Liu, Z. et al. (2024). KAN: Kolmogorov-Arnold Networks. https://arxiv.org/abs/24
 Liu, Z., Lin, Y., & Sun, M. (2023). *Representation Learning for Natural Language Processing*. Springer. https://link.springer.com/book/10.1007/978-981-99-1600-9
 Liu, Z., Madhavan, V., & Tegmark, M. (2022). AI Poincare 2: Machine learning conservation laws from differential equations. https://arxiv.org/abs/2203.12610
 Loh, W.Y. (1987). Calibrating confidence coefficients. *Journal of the American Statistical Association*, 82, 155--162. https://www.tandfonline.com/doi/abs/10.1080/01621459.1987.10478408
+Lopez-Paz, D. (2026). Against all likelihood. https://arxiv.org/abs/2611.09385
 Lovering, C. & Pavlick, E. (2022). Unit testing for concepts in neural networks. *Transactions of the Association for Computational Linguistics*, 10, 1193--1208. https://aclanthology.org/2022.tacl-1.69/
 Lu, C. et al. (2024). The AI Scientist: Towards fully automated open-ended scientific discovery. https://arxiv.org/abs/2408.06292
 Lundberg, I., Johnson, R., & Stewart, B.M. (2021). What is your estimand? Defining the target quantity connects statistical evidence to theory. *American Sociological Review*, 86, 532--565. https://journals.sagepub.com/doi/abs/10.1177/00031224211004187
