@@ -1588,11 +1588,11 @@ Formal verification
 
 ### Formalizations of previously known theorems
 
--   Sphere packing in 24 dimensions - Math, Inc., 2026/03/XX
+-   Sphere packing in 24 dimensions - Math, Inc., 2026/03
 -   Hamilton's three-manifold theorem - 2026/08/21
 -   Fermat's Last Theorem - Anthropic, 2026/09/04
 -   Thurston's geometrization conjecture - 2026/10/09
--   Poincar&eacute; conjecture - 2026/10/XX
+-   Poincar&eacute; conjecture - 2026/10
 -   Classification of Finite Simple Groups - Axiom Math, 2026/10/26 
 
 
