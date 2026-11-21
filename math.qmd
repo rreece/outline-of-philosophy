@@ -1574,6 +1574,25 @@ Formal verification
 - **Why3** - Platform for deductive program verification that dispatches goals to multiple external provers.
 
 
+### Watershed results in 2026
+
+-   Jacobian conjecture disproved - Levent Alp&ouml;ge (Anthropic), 2026/07/19
+-   [Navier-Stokes can blow up in finite time](https://openai.com/index/navier-stokes-sol%75tion/) - OpenAI, 2026/09/08
+-   Exponential Time Hypothesis disproved (still under review) - OpenAI, 2026/10/26
+-   Kakeya and Stein restriction conjectures proven (still under review) - OpenAI, 2026/10/26
+-   [Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/) proved - Levent Alp&ouml;ge (Anthropic), 2026/11/20
+
+
+### Formalizations of previously known theorems
+
+-   Sphere packing in 24 dimensions - Math, Inc., 2026/03/XX
+-   Hamilton's three-manifold theorem - 2026/08/21
+-   Fermat's Last Theorem - Anthropic, 2026/09/04
+-   Thurston's geometrization conjecture - 2026/10/09
+-   Poincar&eacute; conjecture - 2026/10/XX
+-   Classification of Finite Simple Groups - Axiom Math, 2026/10/26 
+
+
 Platonism
 --------------------------------------------------------------------------------
 
