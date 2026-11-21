@@ -1576,7 +1576,7 @@ Formal verification
 
 ### Watershed results in 2026
 
-![A simplified visualization of the construction disproving the Erd&#337;s 90 conjecture.](img/OK_all_two_complex_bounds_lt_4_unit_graph_600dpi.png){#fig-alozanoroble-erdos90}
+![A simplified visualization of the construction disproving the Erd&#337;s 90 conjecture (visualization by [Alvaro Lozano-Robledo](https://github.com/alozanoroble/Erdos90)).](img/OK_all_two_complex_bounds_lt_4_unit_graph_600dpi.png){#fig-alozanoroble-erdos90}
 
 -   Erd&#337;s problem 90: the unit distance conjecture, disproved - OpenAI, 2026/05/20
 -   Jacobian conjecture disproved - Levent Alp&ouml;ge (Anthropic), 2026/07/19
