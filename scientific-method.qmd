@@ -373,7 +373,7 @@ See also:
     -   Hamming, R.W. (1997). *The Art of Doing Science and Engineering: Learning to Learn*. [^Hamming1997]
 -   [Herbert A. Simon](https://en.wikipedia.org/wiki/Herbert_A._Simon) (1916-2001)
 -   [ENIAC](https://en.wikipedia.org/wiki/ENIAC) (1945)
--   TODO
+-   [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon) (1916-2001)
 
 [^Hamming1997]: @Hamming_1997_The_Art_of_Doing_Science_and_Engineering_Learning\.
 
