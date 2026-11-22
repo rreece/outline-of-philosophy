@@ -379,7 +379,7 @@ Raissi, M., Perdikaris, P., & Karniadakis, G.E. (2017). Physics informed deep le
 Raissi, M., Perdikaris, P., & Karniadakis, G.E. (2017). Physics informed deep learning (Part II): Data-driven discovery of nonlinear partial differential equations. https://arxiv.org/abs/1711.10566
 Rao, C.R. (1945). Information and the accuracy attainable in the estimation of statistical parameters. *Bulletin of the Calcutta Mathematical Society*, 37, 81--91.
 Rao, C.R. (1947). Minimum variance and the estimation of several parameters. In *Mathematical Proceedings of the Cambridge Philosophical Society*, 43, 280--283. Cambridge University Press.
-Rao, C.R. (1997). *Statisitcs and Truth: Putting Chance to Work* (2nd ed.). World Scientific.
+Rao, C.R. (1997). *Statistics and Truth: Putting Chance to Work* (2nd ed.). World Scientific.
 Rao, C.R. & Lovric, M.M. (2016). Testing point null hypothesis of a normal mean and the truth: 21st century perspective. *Journal of Modern Applied Statistical Methods*, 15, 2--21. http://digitalcommons.wayne.edu/jmasm/vol15/iss2/3
 Rathmanner, S. & Hutter, M. (2011). A philosophical treatise of universal induction. *Entropy*, 13, 1076--1136. https://www.mdpi.com/1099-4300/13/6/1076
 Read, A.L. (2002). Presentation of search results: the CLs technique. *Journal of Physics G: Nuclear and Particle Physics*, 28(10), 2693. https://indico.cern.ch/event/398949/attachments/799330/1095613/The_CLs_Technique.pdf

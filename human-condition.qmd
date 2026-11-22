@@ -8,7 +8,7 @@ What are we? What is the human condition?
 What are our orientations, our worldviews?
 
 This outline discusses human (pre)history, anthropology, religion,
-comparitive studies, biology, psychology, and practical philosophy.
+comparative studies, biology, psychology, and practical philosophy.
 
 Here, I am interested in collecting what various traditions say we are as
 humans.
@@ -45,7 +45,7 @@ Human history
 
 [Hunter-gatherers](https://en.wikipedia.org/wiki/Hunter-gatherer):
 
--   [Dolni Vestonice](https://en.wikipedia.org/wiki/Doln%C3%AD_V%C4%9Bstonice_(archaeological_site)) earliest human permanent settlment found (c. 24,000 BCE).
+-   [Dolni Vestonice](https://en.wikipedia.org/wiki/Doln%C3%AD_V%C4%9Bstonice_(archaeological_site)) earliest human permanent settlement found (c. 24,000 BCE).
 -   [Clovis culture](https://en.wikipedia.org/wiki/Clovis_culture)
 -   [Younger Dryas impact hypothesis](https://en.wikipedia.org/wiki/Younger_Dryas_impact_hypothesis)
 -   [Mesolithic](https://en.wikipedia.org/wiki/Mesolithic)
@@ -477,7 +477,7 @@ Others:
     -   God of new beginnings, wisdom, luck, and remover of obstacles.
     -   Son of Shiva and Parvati.
 -   [Indra](https://en.wikipedia.org/wiki/Indra)
-    -   God of sky, weather, lightening, and war.
+    -   God of sky, weather, lightning, and war.
 -   [Surya](https://en.wikipedia.org/wiki/Surya)
     -   God of the sun.
 
@@ -551,7 +551,7 @@ Buddhism
     -   [&Sacute;&amacr;rjputra](https://en.wikipedia.org/wiki/Sarjputra) and [Maudgaly&amacr;yana](https://en.wikipedia.org/wiki/Maudgalyayana) - first two and closest disciples of the Buddha
     -   [&Amacr;nanda](https://en.wikipedia.org/wiki/Ananda) - primary attendant of the Buddha
     -   [Devadatta](https://en.wikipedia.org/wiki/Devadatta) - cousin and brother-in-law of Siddhartha Gautama Buddha
-        -   Tries to kill Shakyamuni Buddha mutiple times and take over the Sangha.
+        -   Tries to kill Shakyamuni Buddha multiple times and take over the Sangha.
     -   [Khujjuttara](https://en.wikipedia.org/wiki/Khujjuttara) - one of Buddha's foremost female lay disciples
     -   [Mah&amacr;k&amacr;&sacute;yapa](https://en.wikipedia.org/wiki/Mah%C4%81k%C4%81%C5%9Byapa)
 -   [Early Buddhist schools](https://en.wikipedia.org/wiki/Early_Buddhist_schools)
@@ -856,7 +856,7 @@ See also:
 [^Wright2017]: @Wright_2017_Why_Buddhism_is_True_The_Science_and_Philosophy\.
 
 
-![Map of the spread of Buddhism in Asia, first begining ~ 5th century BCE, spreading to the south as Therav&amacr;da Buddhism,
+![Map of the spread of Buddhism in Asia, first beginning ~ 5th century BCE, spreading to the south as Therav&amacr;da Buddhism,
     and into China and Tibet as Mah&amacr;y&amacr;na Buddhism (source: [Talk by Graham Priest](https://www.youtube.com/watch?v=V-P3j3S2beA), 2018).](img/map-of-spread-of-buddhism.jpg){#fig-map-of-spread-of-buddhism}
 
 ![Map of the main modern Buddhist sects today. Kalmykia in western Russia was cropped out, sorry ([Wikipedia](https://en.wikipedia.org/wiki/Mahayana#/media/File:Buddhist_sects.png), 2013).](img/Buddhist-sects.png){#fig-Buddhist-sects}
@@ -2146,7 +2146,7 @@ Biology
 >   transitions in that region---it is too energetic for the vibrations of the
 >   water molecule and below the energies needed to cause electronic transitions. [^Nave2016]
 
-![Light absorbtion in water and the blackbody spectrum for the approximate temperature of the Sun ([hyperphysics.phy-astr.gsu.edu](http://hyperphysics.phy-astr.gsu.edu/hbase/Chemical/watabs.html), 2016).](img/light-absorbtion-in-water.png){#fig-light-absorbtion-in-water}
+![Light absorption in water and the blackbody spectrum for the approximate temperature of the Sun ([hyperphysics.phy-astr.gsu.edu](http://hyperphysics.phy-astr.gsu.edu/hbase/Chemical/watabs.html), 2016).](img/light-absorbtion-in-water.png){#fig-light-absorbtion-in-water}
 
 TODO: Find Dawkins on multiple instances of convergent evolution of eyes.
 
@@ -2258,7 +2258,7 @@ See also:
     -   Harris, S. (2011). [The silent crowd](https://samharris.substack.com/p/the-silent-crowd).
 -   Cognitive and psychological stability
     -   TODO: Has it been shown/argued that forming a semi-coherent and semi-consistant
-        personal metaphysics is necessary/benefitial to cognitive and psychological
+        personal metaphysics is necessary/beneficial to cognitive and psychological
         stability?
     -   TODO: what does this say about the is-ought problem?
 

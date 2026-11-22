@@ -279,7 +279,7 @@ See also:
 
 ### Noncognitivism
 
--   Noncognitivism is the meta-ethical view that claims about ethics are not propper propositions;
+-   Noncognitivism is the meta-ethical view that claims about ethics are not proper propositions;
     they are not truth apt.
 -   Emotivism; prescriptivism
 -   Hume, Hare, Carnap, Ayer
@@ -709,14 +709,14 @@ Economics
 
 ### Macroeconomics
 
--   Cowen, T. & Tabarrok, A. (2013). *Modern Priniciples: Macroeconomics*. [^CowenTabarrokMacro2013]
+-   Cowen, T. & Tabarrok, A. (2013). *Modern Principles: Macroeconomics*. [^CowenTabarrokMacro2013]
 
 [^CowenTabarrokMacro2013]: @Cowen_2013_Modern_Priniciples_Macroeconomics\.
 
 
 ### Microeconomics
 
--   Cowen, T. & Tabarrok, A. (2013). *Modern Priniciples: Microeconomics*. [^CowenTabarrokMicro2013]
+-   Cowen, T. & Tabarrok, A. (2013). *Modern Principles: Microeconomics*. [^CowenTabarrokMicro2013]
 
 [^CowenTabarrokMicro2013]: @Cowen_2013_Modern_Priniciples_Microeconomics\.
 
@@ -765,7 +765,7 @@ Free speech
     -   Orwell, G. (1946). [Politics and the English language](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/).
 -   Christopher Hitchens (1941-2011)
     -   Hitchens, C. (2006). [Talk on free speech](https://www.youtube.com/watch?v=olefVguutfo) at University of Toronto's Hart House Debating Club.
-        -   "Don't take refuge in the false security of concensus."
+        -   "Don't take refuge in the false security of consensus."
 
 
 ### Hate speech
@@ -993,7 +993,7 @@ Aesthetics
 -   Pythagoras on music
 -   Jean-Philippe Rameau (1683-1764)
     -   *Treatise on Harmony* (1722) 
-    -   Twelve-tone equal temperment: $2^{1/12} \approx 1.05946$
+    -   Twelve-tone equal temperament: $2^{1/12} \approx 1.05946$
 -   George Russell. (1953). [*Lydian Chromatic Concept of Tonal Organization*](https://en.wikipedia.org/wiki/Lydian_Chromatic_Concept_of_Tonal_Organization).
 -   [Hemiola](https://en.wikipedia.org/wiki/Hemiola): 3/2
 
@@ -1156,7 +1156,7 @@ Links and encyclopedia articles
 -   [Torture](http://plato.stanford.edu/entries/torture/)
 -   [Utilitarianism, The History of](http://plato.stanford.edu/entries/utilitarianism-history/)
 -   [Value Theory](http://plato.stanford.edu/entries/value-theory/)
--   [Virture Ethics](http://plato.stanford.edu/entries/ethics-virtue/)
+-   [Virtue Ethics](http://plato.stanford.edu/entries/ethics-virtue/)
 
 ### IEP
 

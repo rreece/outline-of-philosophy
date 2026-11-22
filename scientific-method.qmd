@@ -109,7 +109,7 @@ See also:
 -   [Chrysippus](https://en.wikipedia.org/wiki/Chrysippus) (c. 279-206 BCE)
 -   [Eratosthenes](http://en.wikipedia.org/wiki/Eratosthenes) (276-195/194 BCE)
     -   Estimated the circumference of the Earth to be 50 times the distance between Alexandria and Syene,
-        which was pretty acurate as it is actually 47.9 times! [^Weinberg2015p76]
+        which was pretty accurate as it is actually 47.9 times! [^Weinberg2015p76]
 -   [Library of Alexandria](https://en.wikipedia.org/wiki/Library_of_Alexandria)
 -   [Library of Pergamum](https://en.wikipedia.org/wiki/Library_of_Pergamum)
 -   [Apollonius of Perga](https://en.wikipedia.org/wiki/Apollonius_of_Perga) (c. 240-190 BCE)
@@ -491,7 +491,7 @@ Hume:
 Knowledge
 --------------------------------------------------------------------------------
 
-### Definining knowledge
+### Defining knowledge
 
 Plato:
 
@@ -1309,7 +1309,7 @@ See also:
 -   Howson [^HowsonBJPSSpecial]
 -   Hacking [^Hacking2001]
 -   Huber [^Huber2007]
--   Rao, C.R. (1997). *Statisitcs and Truth: Putting Chance to Work*. [^Rao1997]
+-   Rao, C.R. (1997). *Statistics and Truth: Putting Chance to Work*. [^Rao1997]
 
 See also:
 
@@ -1337,7 +1337,7 @@ See also:
 -   Schurz, G. (2019). *Hume's Problem Solved: The optimality of meta-induction*. [^Schurz2019]
 
 [^Earnshaw2017]: @Earnshaw_2017_How_I_solved_Humes_problem_and_why_nobody_will\.
-[^Rao1997]: @Rao_1997_Statisitcs_and_Truth_Putting_Chance_to_Work\.
+[^Rao1997]: @Rao_1997_Statistics_and_Truth_Putting_Chance_to_Work\.
 [^Schurz2019]: @Schurz_2019_Humes_Problem_Solved_The_optimality_of_meta\.
 
 

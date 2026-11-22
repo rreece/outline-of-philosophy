@@ -254,7 +254,7 @@ TODO
 -   Gottfried Wilhelm Leibniz (1646-1716)
     -   Leibniz first used $dx$ in publication in        
         Leibniz, G.W. (1684). Nova methodus pro maximis et minimis. *Acta Eruditorum*.
-    -   Leibniz first used his intergral sign, $\int$, in publication in         
+    -   Leibniz first used his integral sign, $\int$, in publication in         
         Leibniz, G.W. (1686). De geometria recondita et analysi indivisibilium atque infinitorum. *Acta Eruditorum*.
     -   Wolfram, S. (2013). [Dropping in on Gottfried Leibniz](https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/).
 -   Aldrich, John. (?). [Earliest uses of symbols of calculus](http://jeff560.tripod.com/calculus.html).
@@ -437,7 +437,7 @@ $$ \left\{ x : P(x) \right\} = \left\{ x | x \in U \land P(x) \right\} $$
 -   [Zermelo-Fraenkel set theory](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory), ZF
 -   [Axiom schema of specification](https://en.wikipedia.org/wiki/Axiom_schema_of_specification) AKA Axiom of restricted comprehension
     -   Define a set by defining a subset of a known set $A$, $\{ x \in A : \phi(x) \}$, instead of the more general $\{ x : \phi(x) \}$
-    -   Given any set A, there exists a subset of $A$, whose memebers are those that satisfy $\phi$ (and are also members of $A$).
+    -   Given any set A, there exists a subset of $A$, whose members are those that satisfy $\phi$ (and are also members of $A$).
 -   [Zermelo-Fraenkel set theory](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory) + [Axiom of choice](https://en.wikipedia.org/wiki/Axiom_of_choice) = ZFC
 -   Quine's *Mathematical Logic* (1940) proposed reworking of ZFC. It was shown to be inconsistent by Rosser (1942),
     but later patched by Hao Wang (1951).
@@ -1228,7 +1228,7 @@ $$ \mathrm{PA} \nvdash \mathrm{Consistent(PA)} $$
 
 PA cannot prove its own consistency.
 
-Fom the SEP:
+From the SEP:
 
 >   The first incompleteness theorem states that in any consistent formal
 >   system $F$ within which a certain amount of arithmetic can be carried out,
@@ -1710,7 +1710,7 @@ More:
     -   Zalta, E.N. (2025). [*Principia Logico-Metaphysica*](https://mally.stanford.edu/principia.pdf) (Draft). [^Zalta2025a]
     -   Zalta, E.N. (2025). [Unifying and validating some ideas of Kurt G&ouml;del](https://mally.stanford.edu/Papers/goedel.pdf). [^Zalta2025b]
 -   Neopythagoreanism
-    -   Tegmark, M. (2008). "The mathmatical universe". [^Tegmark2008]
+    -   Tegmark, M. (2008). "The mathematical universe". [^Tegmark2008]
     -   Mathematical Universe Hypothesis (MUH)
     -   Tegmark, M. (2014). *Our Mathematical Universe*. [^Tegmark2014]
 -   Surreal numbers
