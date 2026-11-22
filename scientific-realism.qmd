@@ -198,7 +198,7 @@ Radiohead:
 
 See also:
 
--   [Definining knowledge](scientific-method.html#definining-knowledge)
+-   [Defining knowledge](scientific-method.html#defining-knowledge)
 -   [Challenges to scientific realism](#challenges-to-scientific-realism)
 
 [^Chalmers2003]: @Chalmers_2003_The_Matrix_as_metaphysics\.
@@ -652,7 +652,7 @@ Schlick:
 >   of being" is then explained by the fact that the appearances are
 >   immediately known, "given", to us, while metaphysical reality must be
 >   inferred from them in some roundabout manner. And thus we seem
->   to arrive at a fundemental concept of the positivists, for they always
+>   to arrive at a fundamental concept of the positivists, for they always
 >   speak of the "given", and usually formulate their fundamental principle
 >   in the proposition that the philosopher as well as the scientist must
 >   always remain within the given, that to go beyond it, as the metaphysician
@@ -978,7 +978,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 
 -   Logical positivism/empiricism
 -   The beginning of The Circle was an unnamed gathering in Vienna founded by Hans Hahn in 1907. [^Stadler2015pxx]
-    -   Attened by Philipp Frank, Otto Neurath, and Richard von Mises.
+    -   Attended by Philipp Frank, Otto Neurath, and Richard von Mises.
 -   Ernst Mach Society
 -   Carnap
     -   [Oxford Bibliographies: Rudolf Carnap](https://www.oxfordbibliographies.com/display/document/obo-9780195396577/obo-9780195396577-0248.xml)
@@ -1000,7 +1000,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
     -   Ludwig Wittgenstein and Karl Popper corresponded with the circle but did not attend.
     -   The circle discussed Wittgenstein's *Tractatus Logico Philosophicus* in detail during the years 1925--1927.
     -   The circle was named by Neurath[^Edmonds2020p90] "The Vienna Circle"
-        when its manifesto was published as a pamplet in 1929 at
+        when its manifesto was published as a pamphlet in 1929 at
         The First Conference for the Epistemology of the Exact Sciences, in Prague.
 -   Schlick, M. (1925). *General Theory of Knowledge*. [^Schlick1974]
 -   In 1926, Carnap arrives in Vienna as a Privatdozent and joins the Vienna Circle.
@@ -1421,7 +1421,7 @@ Various reactions to positivism.
 -   Quine, W.V.O. (1951). Two dogmas of empiricism.  [^Quine1951b]
     1.  Analytic/synthetic distinction
     2.  Reductionism (verification theory of meaning)
--   Quine's critique is decribed well in Stalnaker, R.C. (2003). *Ways a World Might Be*. [^Stalnaker2003p1]
+-   Quine's critique is described well in Stalnaker, R.C. (2003). *Ways a World Might Be*. [^Stalnaker2003p1]
 
 Quine on our pale gray lore:
 
@@ -2104,7 +2104,7 @@ Plato's *Phaedrus*:
 >   about everywhere and collecting them into one kind, so that by defining
 >   each thing we can make clear the subject of any instruction we wish to
 >   give. Just so with our discussion on love: Whether its definition was or
->   was not correct, at least it allowed the speach to proceed clearly and
+>   was not correct, at least it allowed the speech to proceed clearly and
 >   consistently with itself.
 >   
 >   Phaedrus: And what is the other thing you are talking about, Socrates?
@@ -2453,7 +2453,7 @@ Annotated bibliography
 
 ### Wittgenstein, L. (1953). *Philosophical Investigations*.
 
--   TODO: The meaning of lanuage is its use.
+-   TODO: The meaning of language is its use.
 
 #### My thoughts
 

@@ -858,7 +858,7 @@ Michael Atiyah:
     -   Kontsevich, M. & Segal, G. (2021). [Wick rotation and the positivity of energy in quantum field theory](https://arxiv.org/abs/2105.10161). [^Kontsevich2021]
 -   Gell-Mann and Low theorem
     -   Interaction picture 
-    -   Vaccuum bubble cancelation
+    -   Vacuum bubble cancelation
     -   Gell-Mann, M. & Low, F. (1951). Bound states in quantum field theory. [^GellMann1951]
     -   Molinari, L.G. (2006). [Another proof of Gell-Mann and Low's theorem](https://arxiv.org/abs/math-ph/0612030). [^Molinari2006]
 -   Dyson series
@@ -891,7 +891,7 @@ Michael Atiyah:
     @Weinberg_1964_Feynman_rules_for_any_spin_II_Massless_particles\.
 
 
-### Path intergrals
+### Path integrals
 
 -   Feynman
     -   Feynman and Hibbs (1965) [^FeynmanHibbs1965]
@@ -1805,7 +1805,7 @@ Virtues:
 -   Relativistic QFT works naturally.
 -   Decoherence does a lot of work at explaining the appearance of collapse into classical states.
 -   Classical concepts are derived; not dual; no complementarity.
--   Applies QM to the system + aparatus + observer.
+-   Applies QM to the system + apparatus + observer.
 -   First interpretation to allow for quantum cosmology, the quantum mechanics of the universe as a closed system.
 
 Criticisms:
@@ -2402,7 +2402,7 @@ $$ R_{\mu\nu} - \frac{1}{2} R \: g_{\mu\nu} + \Lambda \: g_{\mu\nu} = \frac{8 \p
     -   Guth, A.H. (1981). [Inflationary universe: A possible solution to the horizon and flatness problems](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.23.347). [^Guth1980]
     -   Albrecht, A. & Steinhardt, P.J. (1982). [Cosmology for Grand Unified Theories with radiatively induced symmetry breaking](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.48.1220). [^Albrecht1982]
     -   Linde, A.D. (1982). [A new inflationary universe scenario: A possible solution of the horizon, flatness, homogeneity, isotropy and primordial monopole problems](https://www.sciencedirect.com/science/article/pii/0370269382912199). [^Linde1982]
-    -   False vaccuum from inflaton field
+    -   False vacuum from inflaton field
     -   Slow-roll of inflaton field value solved the "graceful exit" problem of ending inflation.
     -   Baumann, D. (2009). [TASI lectures on inflation](https://arxiv.org/abs/0907.5424). [^Baumann2009]
 -   Eternal inflation
@@ -2458,7 +2458,7 @@ Fine-tuning
 -   TODO: Find Weinberg on AP and naturalness
 -   Relationship to evolution
 -   [Richard Dawkins and Steven Weinberg discuss science and religion](https://www.youtube.com/watch?v=EGL8SesIo6Y)
--   Meta-stability of the Higgs vaccuum in $m_t$ vs $m_H$
+-   Meta-stability of the Higgs vacuum in $m_t$ vs $m_H$
 
 
 Complexity and emergence
@@ -2863,7 +2863,7 @@ Links and encyclopedia articles
 -   [bohmianmechanics.org](http://www.bohmianmechanics.org/)
 -   [Can the quantum state be interpreted statistically?](http://mattleifer.info/2011/11/20/can-the-quantum-state-be-interpreted-statistically/) - Matt Leifer
 -   [Can we trivialize the equivalence between canonical quantization of fields and second quantization of particles?](http://physics.stackexchange.com/questions/86920/can-we-trivialize-the-equivalence-between-canonical-quantization-of-fields-and/87194) - physics.stackexchange
--   [Could one argue that $h$ (Planck constant) and $\hbar/2$ (Dirac constant) are in fact independant constants?](http://physics.stackexchange.com/questions/51631/could-one-argue-that-h-planck-constant-and-hbar-2-dirac-constant-are-in-f/51636) - physics.stackexchange
+-   [Could one argue that $h$ (Planck constant) and $\hbar/2$ (Dirac constant) are in fact independent constants?](http://physics.stackexchange.com/questions/51631/could-one-argue-that-h-planck-constant-and-hbar-2-dirac-constant-are-in-f/51636) - physics.stackexchange
 -   [Clear Physics](https://www.cphysics.org/)
 -   [Effective field theory](http://ncatlab.org/nlab/show/effective+quantum+field+theory) - nlab
 -   [Emergence](http://rationalwiki.org/wiki/Emergence) - RationalWiki.org

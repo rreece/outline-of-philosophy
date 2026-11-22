@@ -16,7 +16,7 @@ How does machine learning work?
 >
 >   -- C. R. Rao [^Rao1997px]
 
-[^Rao1997px]: @Rao_1997_Statisitcs_and_Truth_Putting_Chance_to_Work\, p. x.
+[^Rao1997px]: @Rao_1997_Statistics_and_Truth_Putting_Chance_to_Work\, p. x.
 
 
 Introduction to the foundations of statistics
@@ -842,7 +842,7 @@ Also:
 [^Cowan2011p3]: @Cowan_2011_Asymptotic_formulae_for_likelihood_based_tests\, p. 3.
 [^Cowan2012b]: @Sinervo_2002_Signal_significance_in_particle_physics and @Cowan_2012_Discovery_sensitivity_for_a_counting_experiment\.
 
-#### Uppper limits
+#### Upper limits
 
 -   Cousins, R.D. & Highland, V.L. (1992). [Incorporating systematic uncertainties into an upper limit](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.193.1581&rep=rep1&type=pdf). [^Cousins1992]
 
@@ -2574,7 +2574,7 @@ would do compared to the chosen sequence of strategies, $\sigma = \{\sigma^1, \s
 $$ R^{T} \equiv \sum_{t=1}^{T} \left( v^{t}({\sigma'}^{t}) - v^{t}(\sigma^{t}) \right) $$
 
 External regret, $R^{T}(a)$, measures the regret of the chosen sequence of strategies versus
-a hypothetical stategy where action $a$ is always chosen.
+a hypothetical strategy where action $a$ is always chosen.
 
 $$ R^{T}(a) \equiv \sum_{t=1}^{T} \left( v^{t}(a) - v^{t}(\sigma^{t}) \right) $$
 
@@ -2694,7 +2694,7 @@ The instantaneous regret is
 
 $$ r^{t}(I, a) = v^{\sigma^t}(I, a) - v^{\sigma^t}(I) $$
 
-The (cummulative) counterfactual regret
+The (cumulative) counterfactual regret
 
 $$ R^{t}(I, a) = \sum_{t=1}^{T} r^{t}(I, a) $$
 
