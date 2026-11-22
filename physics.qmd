@@ -2863,7 +2863,7 @@ Links and encyclopedia articles
 -   [bohmianmechanics.org](http://www.bohmianmechanics.org/)
 -   [Can the quantum state be interpreted statistically?](http://mattleifer.info/2011/11/20/can-the-quantum-state-be-interpreted-statistically/) - Matt Leifer
 -   [Can we trivialize the equivalence between canonical quantization of fields and second quantization of particles?](http://physics.stackexchange.com/questions/86920/can-we-trivialize-the-equivalence-between-canonical-quantization-of-fields-and/87194) - physics.stackexchange
--   [Could one argue that $h$ (Planck constant) and $\hbar/2$ (Dirac constant) are in fact independant constants?](http://physics.stackexchange.com/questions/51631/could-one-argue-that-h-planck-constant-and-hbar-2-dirac-constant-are-in-f/51636) - physics.stackexchange
+-   [Could one argue that $h$ (Planck constant) and $\hbar/2$ (Dirac constant) are in fact independent constants?](http://physics.stackexchange.com/questions/51631/could-one-argue-that-h-planck-constant-and-hbar-2-dirac-constant-are-in-f/51636) - physics.stackexchange
 -   [Clear Physics](https://www.cphysics.org/)
 -   [Effective field theory](http://ncatlab.org/nlab/show/effective+quantum+field+theory) - nlab
 -   [Emergence](http://rationalwiki.org/wiki/Emergence) - RationalWiki.org
