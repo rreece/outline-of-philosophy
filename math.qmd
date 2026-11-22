@@ -881,6 +881,7 @@ Soundness implies consistency: Sound $\Rightarrow$ Consistent.
     -   B&egrave;s, A. (2002). [A survey of arithmetical definability](http://lacl.u-pec.fr/bes/publi/survey.pdf). [^Bes2002]
     -   B&egrave;s, A. & Choffrut, C. (2022). [Decidability of definability issues in the theory of real addition](https://fi.episciences.org/10753). [^Bes2022]
 -   [Tennenbaum's theorem](https://en.wikipedia.org/wiki/Tennenbaum%27s_theorem)
+    -   No countable nonstandard model of PA is recursive.
 -   Quantifiers other than $\forall$ and $\exists$ are only definable
     within second-order logic or higher-order logics.
 
