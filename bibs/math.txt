@@ -100,6 +100,7 @@ Lawvere, F.W. & Schanuel, S.H. (2009). *Conceptual Mathematics: A first introduc
 Lewis, C.I. (1917). The issues concerning material implication. *The Journal of Philosophy, Psychology and Scientific Methods*, 14, 350-356. https://www.jstor.org/stable/2940255
 Lewis, D. (1986). *On the Plurality of Worlds*. Oxford: Blackwell.
 Leitgeb, H., Nodelman, U., & Zalta, E.N. (2025). A defense of logicism. *Bulletin of Symbolic Logic*, 31, 88--152. https://www.cambridge.org/core/journals/bulletin-of-symbolic-logic/article/defense-of-logicism/A7F3DFF29C85BE044C6DDBBBB81CA6B4
+Linnebo, O. & Rayo, A. (2012). Hierarchies ontological and ideological. *Mind*, 121, 269--308. https://eprints.bbk.ac.uk/id/eprint/3174/1/3174.pdf
 Linsky, B. & Zalta, E.N. (1995). Naturalized platonism versus platonized naturalism. *Journal of Philosophy*, 92, 525--555. https://www.jstor.org/stable/2940786
 Linsky, B. & Zalta, E.N. (2006). What is Neologicism? *Bulletin of Symbolic Logic*, 12, 60-99. http://mally.stanford.edu/Papers/neologicism2.pdf
 Lloyd, S. (1993). Quantum-mechanical computers and uncomputability. Physical Review Letters, 71, 943--46.
@@ -130,6 +131,10 @@ Putnam, H. (1975). What is mathematical truth? *Historia Mathematica*, 2(4), 529
 Quine, W.V.O. (1986). *Philosophy of Logic* (2nd ed.). Harvard University Press.
 Raatikainen, P. (2020). G{\"o}del's incompleteness theorems. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/goedel-incompleteness/
 Ramond, P. (1976). Introduction to exceptional Lie groups and algebras. CALT-68-577. https://inspirehep.net/literature/111550
+Rayo, A. (2002). Word and objects. *Nous*, 36, 436--464. https://web.mit.edu/arayo/www/wo.pdf
+Rayo, A. (2007). Ontological Commitment. *Philosophy Compass*, 2, 428--444.
+Rayo, A. (2009). Toward a trivialist account of mathematics. In *New Waves in Philosophy of Mathematics* (pp. 239--260). London: Palgrave Macmillan UK. https://web.mit.edu/arayo/www/km.pdf
+Rayo, A. & Yablo, S. (2001). Nominalism through de-nominalization. *Nous*, 35, 74--92.
 Reece, R. (2006). Primer on complex analysis. https://rreece.github.io/publications/pdf/2006.Reece.Primer-on-complex-analysis.pdf
 Reid, C. (1996). *Hilbert*. Copernicus.
 Rice, H.G. (1953). Classes of recursively enumerable sets and their decision problems. *Transactions of the American Mathematical Society*, 74, 358--366. https://www.jstor.org/stable/1990888

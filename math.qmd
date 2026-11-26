@@ -979,6 +979,12 @@ See also:
 -   George Boolos
     -   Boolos, G. (1984). [To be is to be the value of a variable (or to be some values of some variables)](https://www.jstor.org/stable/2026308). [^Boolos1984]
     -   [Plural quantification](https://en.wikipedia.org/wiki/Plural_quantification)
+-   Agust&iacute;n Rayo
+    -   Rayo, A. & Yablo, S. (2001). Nominalism through de-nominalization. [^Rayo2001]
+    -   Rayo, A. (2002). Word and objects. [^Rayo2002]
+    -   Rayo, A. (2007). Ontological Commitment. [^Rayo2007]
+    -   Rayo, A. (2009). Toward a trivialist account of mathematics. [^Rayo2009]
+    -   Linnebo, &Oslash;. & Rayo, A. (2012). Hierarchies ontological and ideological. [^Linnebo2012]
 -   Ethan Jerzak
     -   Jerzak, E. (2009). [Second-order logic, or: How I learned to stop worrying and love the incompleteness theorems](http://www.math.uchicago.edu/~may/VIGRE/VIGRE2009/REUPapers/Jerzak.pdf). [^Jerzak2009]
 -   Ot&aacute;vio Bueno
@@ -991,6 +997,11 @@ See also:
 [^Enderton2009]: @Enderton_2009_Second_order_and_higher_order_logic\.
 [^Jerzak2009]: @Jerzak_2009_Second_order_logic_or_How_I_learned_to_stop\.
 [^Kleene1952]: @Kleene_1952_Introduction_to_Metamathematics\.
+[^Linnebo2012]: @Linnebo_2012_Hierarchies_ontological_and_ideological\.
+[^Rayo2001]: @Rayo_2001_Nominalism_through_de_nominalization\.
+[^Rayo2002]: @Rayo_2002_Word_and_objects\.
+[^Rayo2007]: @Rayo_2007_Ontological_Commitment\.
+[^Rayo2009]: @Rayo_2009_Toward_a_trivialist_account_of_mathematics\.
 [^Russell2015]: @Russell_2015_The_justification_of_the_basic_laws_of_logic\.
 [^Shapiro1991]: @Shapiro_1991_Foundations_without_Foundationalism_A_Case\.
 [^Sider2022]: @Sider_2022_Crash_course_on_higher_order_logic\.
