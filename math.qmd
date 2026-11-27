@@ -76,6 +76,13 @@ $$ \exp \mathrm{tr} A = \det \exp A $$
 
 -   Jacobi's formula
 
+Matrix decompositions
+
+-   PLU
+-   Cholesky
+-   SVD
+-   Eigendecomposition
+
 
 #### Variance-correlation decomposition
 
