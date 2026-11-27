@@ -207,6 +207,7 @@ Greenberger, D., Horne, M.A., & Zeilinger, A. (1989). Going beyond Bell's theore
 Greenberger, D., Horne, M.A., Shimony, A., & Zeilinger, A. (1990). Bell's theorem without inequalities. *American Journal of Physics*, 58, 1131.
 Gross, D.J. & Wilczek, F. (1973). Ultraviolet behavior of non-abelian gauge theories. *Physical Review Letters*, 30, 1343.
 Gross, D.J. (1996). The role of symmetry in fundamental physics. *Proceedings of the National Academy of Sciences*, 93(25), 14256--14259. https://www.pnas.org/doi/pdf/10.1073/pnas.93.25.14256
+Gross, D.J., Harvey, J.A., Martinec, E., & Rohm, R. (1985). Heterotic string. *Physical Review Letters*, 54, 502.
 Guralnik, G.S., Hagen, C.R., & Kibble, T.W.B. (1964). Global conservation laws and massless particles. *Physical Review Letters*, 13, 585--587. https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.13.585
 Guth, A.H. (1981). Inflationary universe: A possible solution to the horizon and flatness problems. *Physical Review D*, 23, 347--356. https://journals.aps.org/prd/abstract/10.1103/PhysRevD.23.347
 Guth, A.H. (1997). Was cosmic inflation the 'bang' of the big bang? *The Beamline*, 27, 14. https://ned.ipac.caltech.edu/level5/Guth/Guth_contents.html
@@ -361,6 +362,7 @@ Schr{\"o}dinger, E. (1952). Are there quantum jumps? Part II. *The British Journ
 Schr{\"o}dinger, E. (1953). What is matter? *Scientific American*, 189(3), 52--57. https://www.jstor.org/stable/24944334
 Schroeren, D. (2021). Symmetry fundamentalism in quantum mechanics. *Philosophical Studies*. https://link.springer.com/article/10.1007%2Fs11098-021-01634-z
 Schwartz, M.D. (2014). *Quantum Field Theory and the Standard Model*. Cambridge University Press.
+Green, M.B. & Schwarz, J.H. (1984). Anomaly cancellations in supersymmetric D=10 gauge theory and superstring theory. *Physics Letters B*, 149, 117--122. 
 Schweber, S.S. (1961). *An Introduction to Relativistic Quantum Field Theory*. Harper & Row.
 Schweber, S.S. (1993). The ebb and flow of of reductionism. In Brown, L.M. (Ed.) *Renormalization: From Lorentz to Landau (and Beyond)* (pp. 155-166). Springer-Verlag.
 Sebens, C.T. (2019). How electrons spin. *Studies in History and Philosophy of Science Part B*, 68, 40--50. https://arxiv.org/abs/1806.01121
@@ -430,6 +432,7 @@ Williams, P. (2019). Scientific realism made effective. *British Journal for the
 Wilson, K.G. (1974). The renormalization group and the $\varepsilon$ expansion. *Physics Reports*, 12, 75--199.
 Wilson, K.G. (1979). Problems in physics with many scales of length. *Scientific American*, 241, 158--179. https://www.jstor.org/stable/24965270
 Witten, E. (1989). Quantum field theory and the Jones polynomial. *Communications Mathematical Physics*, 121, 351--399. https://projecteuclid.org/journals/communications-in-mathematical-physics/volume-121/issue-3/Quantum-field-theory-and-the-Jones-polynomial/cmp/1104178138.full
+Witten, E. (1995). String theory dynamics in various dimensions. *Nuclear Physics B*, 443, 85--126. https://arxiv.org/abs/hep-th/9503124
 Witten, E. (1998). Anti-de Sitter space and holography. *Advances in Theoretical and Mathematical Physics*, 2, 253--291. https://arxiv.org/abs/hep-th/9802150
 Wu, J. (2021). Explaining universality: infinite limit systems in the renormalization group method. *Synthese*, 199, 14897--14930. https://link.springer.com/article/10.1007/s11229-021-03448-2
 Wuthrich, C. (2014). Putnam looks at quantum mechanics (again and again). https://arxiv.org/abs/1406.5737
