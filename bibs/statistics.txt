@@ -14,7 +14,7 @@ Arulkumaran, K., Deisenroth, M.P., Brundage, M., & Bharath, A.A. (2017). Deep Re
 Asch, M. et al. (2018). Big data and extreme-scale computing: Pathways to Convergence-Toward a shaping strategy for a future software and data ecosystem for scientific inquiry. *The International Journal of High Performance Computing Applications*, 32, 435--479.
 {ATLAS and CMS Collaborations}. (2011). Procedure for the LHC Higgs boson search combination in Summer 2011. http://cds.cern.ch/record/1379837 [CMS-NOTE-2011-005, ATL-PHYS-PUB-2011-11.]
 {ATLAS Collaboration}. (2012). Combined search for the Standard Model Higgs boson in $pp$ collisions at $\sqrt{s}$ = 7 TeV with the ATLAS detector. *Physical Review D*, 86, 032003. https://arxiv.org/abs/1207.0319
-{ATLAS Collaboration}. (2015). Identification and energy calibration of hadronically decaying tau leptons with the ATLAS experiment in pp collisions at $\sqrt{s}=8\:\mathrm{TeV}$. *European Physical Journal C*, 75, 303. https://arxiv.org/abs/1412.7086
+{ATLAS Collaboration}. (2015). Identification and energy calibration of hadronically decaying tau leptons with the ATLAS experiment in $pp$ collisions at $\sqrt{s}$ =8 TeV. *European Physical Journal C*, 75, 303. https://arxiv.org/abs/1412.7086
 {ATLAS Statistics Forum}. (2011). The CLs method: Information for conference speakers. http://www.pp.rhul.ac.uk/~cowan/stat/cls/CLsInfo.pdf
 Aytekin, C. (2022). Neural networks are decision trees. https://arxiv.org/abs/2210.05189
 Bach, F. (2022). *Learning Theory from First Principles*. https://www.di.ens.fr/~fbach/ltfp_book.pdf [(Draft)]
