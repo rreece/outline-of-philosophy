@@ -219,6 +219,7 @@ He, K., Zhang, X., Ren, S., & Sun, J. (2015). Deep residual learning for image r
 Henighan, T. et al. (2023). Superposition, memorization, and double descent. https://transformer-circuits.pub/2023/toy-double-descent/index.html
 Hestness, J. et al. (2017). Deep learning scaling is predictable, empirically. https://arxiv.org/abs/1712.00409
 Hochreiter, S. & Schmidhuber, J. (1997). Long short-term memory. *Neural Computation*, 9(8), 1735--1780.
+Hoecker, A. et al. (2007). TMVA: Toolkit for Multivariate Data Analysis. https://arxiv.org/abs/physics/0703039 [CERN-OPEN-2007-007]
 Hoffmann, J. et al. (2022). Training compute-optimal large language models. https://arxiv.org/abs/2203.15556
 Holzm{\"u}ller, D. (2020). On the universality of the double descent peak in ridgeless regression. https://arxiv.org/abs/2010.01851
 Horacek, M. (2022). *Risk-Aversion in Algorithms for Poker*. https://is.muni.cz/th/ydbvx/thesis.pdf

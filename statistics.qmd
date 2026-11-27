@@ -1686,6 +1686,9 @@ See also:
     -   Freund, Y. & Schapire, R.E. (1995). A desicion-theoretic generalization of on-line learning and an application to boosting. [^Freund1995]
     -   Freund, Y. & Schapire, R.E. (1996). Experiments with a new boosting algorithm. [^Freund1996]
     -   Freund, Y. & Schapire, R.E. (1997). [A decision-theoretic generalization of on-line learning and an application to boosting](https://doi.org/10.1006/jcss.1997.1504). [^Freund1997]
+-   TMVA
+    -   Hoecker, A. et al. (2007). TMVA: [Toolkit for Multivariate Data Analysis](https://arxiv.org/abs/physics/0703039). [^Hoecker2007]
+    -   Hoecker, A. et al. (2020). TMVA: [Toolkit for Multivariate Data Analysis](https://root.cern.ch/download/doc/tmva/TMVAUsersGuide.pdf).
 -   ATLAS Collaboration. (2015). [Identification and energy calibration of hadronically decaying tau leptons with the ATLAS experiment in pp collisions at $\sqrt{s}=8\:\mathrm{TeV}$](https://arxiv.org/abs/1412.7086). [^ATLAS2015]
 -   Chen, T. & Guestrin, C. (2016). [Xgboost: A scalable tree boosting system](https://arxiv.org/abs/1603.02754). [^Chen2016]
 -   Aytekin, C. (2022). [Neural networks are decision trees](https://arxiv.org/abs/2210.05189). [^Aytekin2022]
@@ -1700,6 +1703,7 @@ See also:
 [^Freund1996]: @Freund_1996_Experiments_with_a_new_boosting_algorithm\.
 [^Freund1997]: @Freund_1997_A_decision_theoretic_generalization_of_on_line\.
 [^Grinsztajn2022]: @Grinsztajn_2022_Why_do_tree_based_models_still_outperform_deep\.
+[^Hoecker2007]: @Hoecker_2007_TMVA_Toolkit_for_Multivariate_Data_Analysis\.
 
 
 ### Clustering
