@@ -216,6 +216,9 @@ See also:
 >   Me: Look, a lot of the smartest people I know now think that recursive self-improvement and the end of the entire known world are coming in 12--18 months. This leak...      
 >   Dana: We should still fix the leak.      
 
+![source: [Nurk Cartoons](https://nurk.nl/) from 2026/11/25.](img/Nurk-Ahead-of-the-Chinese-2026-11-25.jpg){#fig-Nurk-Ahead-of-the-Chinese}
+
+
 [^Aschenbrenner2024]: @Aschenbrenner_2024_Situational_Awareness_The_decade_ahead\.
 [^Bengio2025]: @Bengio_2025_International_AI_Safety_Report\.
 [^BostromYudkowsky2014]: @Bostrom_2014_The_ethics_of_artificial_intelligence\.
