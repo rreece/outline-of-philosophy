@@ -650,6 +650,10 @@ See also:
 -   Asymptotics
     -   See [Asymptotics](#asymptotics).
 
+Fisher information matrix:
+
+$$ I_{ij} = \mathrm{E}\left[ \frac{\partial \mathrm{ln} L}{\partial \theta_{i}} \frac{\partial \mathrm{ln} L}{\partial \theta_{j}} \right] = \mathrm{E}\left[ - \frac{\partial^2 \mathrm{ln} L}{\partial \theta_{i} \partial \theta_{j}} \right] $$
+
 ![Transformation of non-parabolic log-likelihood to parabolic (source: [my slides](http://rreece.github.io/talks/pdf/2018-02-16-RReece-statistics-workshop-insight.pdf), recreation of @James_2006_Statistical_Methods_in_Experimental_Particle\, p. 235).](img/DeltaL-nonparabolic.png){#fig-DeltaL-nonparabolic}
 
 -   Common error bars
@@ -690,6 +694,10 @@ See also:
 -   Not invariant to reparametrization in general
     -   Jeffreys priors are
     -   TODO: James
+
+Jeffreys priors:
+
+$$ \pi(\theta) \propto \sqrt{ \det I(\theta) } $$
 
 
 ### Uncertainty on measuring an efficiency
