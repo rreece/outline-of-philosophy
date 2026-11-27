@@ -2270,56 +2270,6 @@ See also:
 [^Baggott2013]: @Baggott_2013_Farewell_to_Reality_How_modern_physics_has\.
 
 
-### Quantum gravity
-
-#### QFT on classical spacetime
-
--   Bryce DeWitt (1923-2004)
-
-#### Effective quantum gravity
-
--   Covariant quantization of gravity
--   Perturbative quantum gravity
--   Emergence of spacetime
-    -   Penrose, R. (1971). [Angular momentum: an approach to combinatorial spacetime](https://math.ucr.edu/home/baez/penrose/). [^Penrose1971]
-    -   Ney, A. (2021). From quantum entanglement to spatiotemporal distance. [^Ney2021c]
-
-[^Ney2021c]: @Ney_2021_From_quantum_entanglement_to_spatiotemporal\.
-[^Penrose1971]: @Penrose_1971_Angular_momentum_an_approach_to_combinatorial\.
-
-#### Strings
-
--   First superstring revolution (1984--1994)
-    -   Green, M.B. & Schwarz, J.H. (1984). Anomaly cancellations in supersymmetric $D=10$ gauge theory and superstring theory. [^Green1984]
-        -   Green-Schwarz mechanism
-    -   Gross, D.J., Harvey, J.A., Martinec, E., & Rohm, R. (1985). Heterotic string. [^Gross1985]
-    -   Candelas, P., Horowitz, G.T., Strominger, A., & Witten, E. (1985). Vacuum configurations for superstrings. [^Candelas1985]
-        -   Start of string phenomenology
--   Second superstring revolution (1994--2003)
-    -   Witten, E. (1995). String theory dynamics in various dimensions. [^Witten1995]
-
-[^Candelas1985]: @Candelas_1985_Vacuum_configurations_for_superstrings\.
-[^Green1984]: @Green_1984_Anomaly_cancellations_in_supersymmetric_D10_gauge\.
-[^Gross1985]: @Gross_1985_Heterotic_string\.
-[^Witten1995]: @Witten_1995_String_theory_dynamics_in_various_dimensions\.
-
-#### Holographic duality
-
--   AdS/CFT
-    -   Maldacena, J.M. (1998). [The large $N$ limit of superconformal field theories and supergravity](https://arxiv.org/abs/hep-th/9711200). [^Maldacena1998]
-    -   Witten, E. (1998). [Anti-de Sitter space and holography](https://arxiv.org/abs/hep-th/9802150). [^Witten1998]
-    -   Polyakov, A.M. (2008). [From quarks to strings](https://arxiv.org/abs/0812.0183). [^Polyakov2008]
--   Gauge-string duality
-    -   Gopakumar, R. (2011). [What is the simplest gauge-string duality?](https://arxiv.org/abs/1104.2386). [^Gopakumar2011]
-    -   Gopakumar, R. & Mazenc, E.A. (2022). [Deriving the simplest gauge-string duality, I: Open-closed-open triality](https://arxiv.org/abs/2212.05999). [^Gopakumar2022]
-
-[^Gopakumar2011]: @Gopakumar_2011_What_is_the_simplest_gauge_string_duality\. 
-[^Gopakumar2022]: @Gopakumar_2022_Deriving_the_simplest_gauge_string_duality_I\.
-[^Maldacena1998]: @Maldacena_1998_The_large_N_limit_of_superconformal_field\.
-[^Polyakov2008]: @Polyakov_2008_From_quarks_to_strings\.
-[^Witten1998]: @Witten_1998_Anti_de_Sitter_space_and_holography\.
-
-
 Gravity and cosmology
 --------------------------------------------------------------------------------
 
@@ -2536,6 +2486,61 @@ See also:
 [^GellMann1988]: @Gell_Mann_1988_Simplicity_and_complexity_in_the_description\.
 [^Lisi2017]: @Lisi_2017_Emergence\.
 [^Simon1962]: @Simon_1962_The_architecture_of_complexity\.
+
+
+Quantum gravity
+--------------------------------------------------------------------------------
+
+### QFT on classical spacetime
+
+-   Bryce DeWitt (1923-2004)
+
+### Effective quantum gravity
+
+-   Covariant quantization of gravity
+-   Perturbative quantum gravity
+-   Emergence of spacetime
+    -   Penrose, R. (1971). [Angular momentum: an approach to combinatorial spacetime](https://math.ucr.edu/home/baez/penrose/). [^Penrose1971]
+    -   Ney, A. (2021). From quantum entanglement to spatiotemporal distance. [^Ney2021c]
+
+[^Ney2021c]: @Ney_2021_From_quantum_entanglement_to_spatiotemporal\.
+[^Penrose1971]: @Penrose_1971_Angular_momentum_an_approach_to_combinatorial\.
+
+### Strings
+
+#### First superstring revolution (1984--1994)
+
+-   Green, M.B. & Schwarz, J.H. (1984). Anomaly cancellations in supersymmetric $D=10$ gauge theory and superstring theory. [^Green1984]
+    -   Green-Schwarz mechanism
+-   Gross, D.J., Harvey, J.A., Martinec, E., & Rohm, R. (1985). Heterotic string. [^Gross1985]
+-   Candelas, P., Horowitz, G.T., Strominger, A., & Witten, E. (1985). Vacuum configurations for superstrings. [^Candelas1985]
+    -   Start of string phenomenology
+
+
+#### Second superstring revolution (1994--2003)
+
+-   Witten, E. (1995). String theory dynamics in various dimensions. [^Witten1995]
+
+[^Candelas1985]: @Candelas_1985_Vacuum_configurations_for_superstrings\.
+[^Green1984]: @Green_1984_Anomaly_cancellations_in_supersymmetric_D10_gauge\.
+[^Gross1985]: @Gross_1985_Heterotic_string\.
+[^Witten1995]: @Witten_1995_String_theory_dynamics_in_various_dimensions\.
+
+#### Holographic duality
+
+-   AdS/CFT
+    -   Maldacena, J.M. (1998). [The large $N$ limit of superconformal field theories and supergravity](https://arxiv.org/abs/hep-th/9711200). [^Maldacena1998]
+    -   Witten, E. (1998). [Anti-de Sitter space and holography](https://arxiv.org/abs/hep-th/9802150). [^Witten1998]
+    -   Polyakov, A.M. (2008). [From quarks to strings](https://arxiv.org/abs/0812.0183). [^Polyakov2008]
+-   Gauge-string duality
+    -   Gopakumar, R. (2011). [What is the simplest gauge-string duality?](https://arxiv.org/abs/1104.2386). [^Gopakumar2011]
+    -   Gopakumar, R. & Mazenc, E.A. (2022). [Deriving the simplest gauge-string duality, I: Open-closed-open triality](https://arxiv.org/abs/2212.05999). [^Gopakumar2022]
+
+[^Gopakumar2011]: @Gopakumar_2011_What_is_the_simplest_gauge_string_duality\. 
+[^Gopakumar2022]: @Gopakumar_2022_Deriving_the_simplest_gauge_string_duality_I\.
+[^Maldacena1998]: @Maldacena_1998_The_large_N_limit_of_superconformal_field\.
+[^Polyakov2008]: @Polyakov_2008_From_quarks_to_strings\.
+[^Witten1998]: @Witten_1998_Anti_de_Sitter_space_and_holography\.
 
 
 Bracketing human experience
