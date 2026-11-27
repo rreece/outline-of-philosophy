@@ -1682,15 +1682,22 @@ See also:
 
 ### Decision trees
 
--   Freund, Y. & Schapire, R.E. (1997). [A decision-theoretic generalization of on-line learning and an application to boosting](https://doi.org/10.1006/jcss.1997.1504). (AdaBoost) [^Freund1997]
+-   AdaBoost
+    -   Freund, Y. & Schapire, R.E. (1995). A desicion-theoretic generalization of on-line learning and an application to boosting. [^Freund1995]
+    -   Freund, Y. & Schapire, R.E. (1996). Experiments with a new boosting algorithm. [^Freund1996]
+    -   Freund, Y. & Schapire, R.E. (1997). [A decision-theoretic generalization of on-line learning and an application to boosting](https://doi.org/10.1006/jcss.1997.1504). [^Freund1997]
+-   ATLAS Collaboration. (2015). [Identification and energy calibration of hadronically decaying tau leptons with the ATLAS experiment in pp collisions at $\sqrt{s}=8\:\mathrm{TeV}$](https://arxiv.org/abs/1412.7086). [^ATLAS2015]
 -   Chen, T. & Guestrin, C. (2016). [Xgboost: A scalable tree boosting system](https://arxiv.org/abs/1603.02754). [^Chen2016]
 -   Aytekin, C. (2022). [Neural networks are decision trees](https://arxiv.org/abs/2210.05189). [^Aytekin2022]
 -   Grinsztajn, L., Oyallon, E., & Varoquaux, G. (2022). [Why do tree-based models still outperform deep learning on tabular data?](https://arxiv.org/abs/2207.08815) [^Grinsztajn2022]
 -   Coadou, Y. (2022). [Boosted decision trees](https://arxiv.org/abs/2206.09645). [^Coadou2022]
 
 [^Aytekin2022]: @Aytekin_2022_Neural_networks_are_decision_trees\.
+[^ATLAS2015]: @ATLAS_2015_Identification_and_energy_calibration\.
 [^Chen2016]: @Chen_2016_Xgboost_A_scalable_tree_boosting_system\.
 [^Coadou2022]: @Coadou_2022_Boosted_decision_trees\.
+[^Freund1995]: @Freund_1995_A_desicion_theoretic_generalization_of_on_line\.
+[^Freund1996]: @Freund_1996_Experiments_with_a_new_boosting_algorithm\.
 [^Freund1997]: @Freund_1997_A_decision_theoretic_generalization_of_on_line\.
 [^Grinsztajn2022]: @Grinsztajn_2022_Why_do_tree_based_models_still_outperform_deep\.
 
