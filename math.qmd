@@ -70,10 +70,67 @@ TODO
 
 ![Matrix World: Classifying all matrices (source: [The Art of Linear Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra/tree/main)).](img/matrix-world.png){#fig-matrix-world}
 
+Matrix exponentiation
+
+$$ \exp \mathrm{tr} A = \det \exp A $$
+
+-   Jacobi's formula
+
+
+#### Variance-correlation decomposition
+
+$$ \Sigma = D R D $$
+
+where
+
+$$ D = \mathrm{diag}(\sigma_{1}, \ldots, \sigma_{n}) $$
+
+and
+
+$$ R_{ij} = \frac{\Sigma_{ij}}{\sqrt{\Sigma_{ii}\Sigma_{jj}}} = \frac{\Sigma_{ij}}{\sigma_{i}\sigma_{j}} $$
+
+
 See also:
 
 -   [Covariance estimation](https://rreece.github.io/finance-notes/covariance-estimation.html)
 -   [Convex optimization](https://rreece.github.io/finance-notes/convex-optimization.html)
+
+#### Precision-partial-correlation decomposition
+
+Precision:
+
+$$ \Omega = \Sigma^{-1} $$
+
+Partial-correlation:
+
+$$ P = - T \: \Omega \: T + 2 I $$
+
+where
+
+$$ T = \mathrm{diag}(\tau_{1}, \ldots, \tau_{n}) $$
+
+and
+
+$$ \tau_{i} = \frac{1}{\sqrt{\Omega_{ii}}} $$
+
+are the partial standard deviations.
+
+#### Eigendecomposition
+
+Eigendecomposition of $\Sigma$:
+
+$$ \Sigma = Q \: \Lambda \: Q^{-1} $$
+
+where
+
+$$ \Lambda = \mathrm{diag}(\lambda_{1}, \ldots, \lambda_{n}) $$
+
+contains the eigenvalues of $\Sigma$ and
+
+$$ Q = \mathrm{cols}(\vec{q}_{1}, \ldots, \vec{q}_{n}) $$
+
+contains the eigenvectors.
+Note that since $\Sigma$ is symmetric that guarantees that $Q$ is orthogonal, $Q^{-1} = Q^{\intercal}$.
 
 
 ### Finite groups
