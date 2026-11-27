@@ -83,6 +83,22 @@ Matrix decompositions
 -   SVD
 -   Eigendecomposition
 
+#### Eigendecomposition
+
+Eigendecomposition of $\Sigma$:
+
+$$ \Sigma = Q \: \Lambda \: Q^{-1} $$
+
+where
+
+$$ \Lambda = \mathrm{diag}(\lambda_{1}, \ldots, \lambda_{n}) $$
+
+contains the eigenvalues of $\Sigma$ and
+
+$$ Q = \mathrm{cols}(\vec{q}_{1}, \ldots, \vec{q}_{n}) $$
+
+contains the eigenvectors.
+Note that since $\Sigma$ is symmetric that guarantees that $Q$ is orthogonal, $Q^{-1} = Q^{\intercal}$.
 
 #### Variance-correlation decomposition
 
@@ -121,23 +137,6 @@ and
 $$ \tau_{i} = \frac{1}{\sqrt{\Omega_{ii}}} $$
 
 are the partial standard deviations.
-
-#### Eigendecomposition
-
-Eigendecomposition of $\Sigma$:
-
-$$ \Sigma = Q \: \Lambda \: Q^{-1} $$
-
-where
-
-$$ \Lambda = \mathrm{diag}(\lambda_{1}, \ldots, \lambda_{n}) $$
-
-contains the eigenvalues of $\Sigma$ and
-
-$$ Q = \mathrm{cols}(\vec{q}_{1}, \ldots, \vec{q}_{n}) $$
-
-contains the eigenvectors.
-Note that since $\Sigma$ is symmetric that guarantees that $Q$ is orthogonal, $Q^{-1} = Q^{\intercal}$.
 
 
 ### Finite groups
