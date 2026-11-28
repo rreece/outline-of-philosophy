@@ -1317,6 +1317,9 @@ Lyons:
     -   "Frequentist probability and frequentist statistics" [^Neyman1977]
 -   Rozeboom
     -   Rozeboom, W.W. (1960). The fallacy of the null-hypothesis significance test. [^Rozeboom1960]
+-   I.J. Good
+    -   Good, I.J. (1959). Kinds of probability. [^Good1959]
+    -   Good, I.J. (1975). Explicativity, corroboration, and the relative odds of hypotheses. [^Good1975]
 -   Meehl
     -   Meehl, P. E. (1978). Theoretical risks and tabular asterisks: Sir Karl, Sir Ronald, and the slow progress of soft psychology. [^Meehl1978]
 -   Zech
@@ -1397,6 +1400,8 @@ Goodman:
 [^Efron2016p30]: @Efron_2016_Computer_Age_Statistical_Inference_Algorithms\, p. 30--36.
 [^Gandenberger2016]: @Gandenberger_2016_Why_I_am_not_a_likelihoodist\.
 [^Gelman2017]: @Gelman_2017_Beyond_subjective_and_objective_in_statistics\.
+[^Good1959]: @Good_1959_Kinds_of_probability\.
+[^Good1975]: @Good_1975_Explicativity_corroboration_and_the_relative\.
 [^Goodman1999p999]: @Goodman_1999_Toward_evidence_based_medical_statistics_1_The_P\. p. 999.
 [^Kruschke2018]: @Kruschke_2018_The_Bayesian_New_Statistics_Hypothesis_testing\.
 [^LopezPaz2026]: @Lopez_Paz_2026_Against_all_likelihood\.

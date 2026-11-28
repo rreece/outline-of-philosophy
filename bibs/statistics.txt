@@ -183,6 +183,8 @@ Gnedenko, B.V. & Kolmogorov, A.N. (1954). *Limit Distributions for Sums of Indep
 Goldreich, O. & Ron, D. (1997). On universal learning algorithms. *Information Processing Letters*, 63(3), 131--136. https://www.wisdom.weizmann.ac.il/~oded/p_ul.html
 Golovneva, O., Wang, T., Weston, J., & Sukhbaatar, S. (2024). Contextual position encoding: Learning to count what's important. https://arxiv.org/abs/2405.18719
 Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*. MIT Press. http://www.deeplearningbook.org
+Good, I.J. (1959). Kinds of probability. *Science*, 129, 443--447. https://www.jstor.org/stable/1757847
+Good, I.J. (1975). Explicativity, corroboration, and the relative odds of hypotheses. *Synthese*, 30, 39--73. https://www.jstor.org/stable/20115014
 Good, I.J. (1988). The interface between statistics and philosophy of science. *Statistical Science*, 3, 386--397.
 Goodman, N. (1955). *Fact, Fiction, and Forecast*. Harvard University Press.
 Goodman, S.N. (1999). Toward evidence-based medical statistics 1: The P value fallacy. *Annals of Internal Medicine*, 130(12), 995--1004. https://courses.botany.wisc.edu/botany_940/06EvidEvol/papers/goodman1.pdf
