@@ -153,6 +153,7 @@ See also:
 ### Data visualization
 
 -   [William Playfair](https://en.wikipedia.org/wiki/William_Playfair) (1759-1823)
+    -   Father of statistical graphics
 -   [Charles Joseph Minard](https://en.wikipedia.org/wiki/Charles_Joseph_Minard) (1781-1870)
 -   [Edward Tufte](https://en.wikipedia.org/wiki/Edward_Tufte) (b. 1942)
 
@@ -1164,12 +1165,13 @@ Exploratory data analysis
 
 ### Introduction
 
--   [William Playfair](https://en.wikipedia.org/wiki/William_Playfair) (1759-1823)
-    -   Father of statistical graphics
 -   [John Tukey](https://en.wikipedia.org/wiki/John_Tukey) (1915-2000)
     -   [Exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
     -   *Exploratory Data Analysis* (1977) [^Tukey1977]
+-   [I.J. Good](https://en.wikipedia.org/wiki/I._J._Good) (1916-2009)
+    -   Good, I.J. (1983). The philosophy of exploratory data analysis. [^Good1983]
 
+[^Good1983]: @Good_1983_The_philosophy_of_exploratory_data_analysis\.
 [^Tukey1977]: @Tukey_1977_Exploratory_Data_Analysis\.
 
 
