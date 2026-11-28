@@ -1225,8 +1225,11 @@ Neyman:
 
 ![From Kruschke. [^Kruschke2018fig1]](img/Kruschke-bayes-freq-grid.png){#fig-Kruschke-bayes-freq-grid}
 
+![Statisticians' space: (a) 1950, (b) 1973. [^Good1975a]](img/good-statisticians-space.png){#fig-good-statisticians-space}
+
 [^Carnap1945b]: @Carnap_1945_The_two_concepts_of_probability\.
 [^Cranmer2015ap6]: @Cranmer_2015_Practical_statistics_for_the_LHC\, p. 6.
+[^Good1975a]: @Good_1975_Explicativity_corroboration_and_the_relative\, p. 40, fig. 1.
 [^Kruschke2018fig1]: @Kruschke_2018_The_Bayesian_New_Statistics_Hypothesis_testing\.
 [^Neyman1933longrun]: @Neyman_1933_On_the_problem_of_the_most_efficient_tests\.
 [^Royall1997p171]: @Royall_1997_Statistical_Evidence_A_likelihood_paradigm\, p. 171--2.
@@ -1321,7 +1324,7 @@ Lyons:
     -   Rozeboom, W.W. (1960). The fallacy of the null-hypothesis significance test. [^Rozeboom1960]
 -   I.J. Good
     -   Good, I.J. (1959). Kinds of probability. [^Good1959]
-    -   Good, I.J. (1975). Explicativity, corroboration, and the relative odds of hypotheses. [^Good1975]
+    -   Good, I.J. (1975). Explicativity, corroboration, and the relative odds of hypotheses. [^Good1975b]
 -   Meehl
     -   Meehl, P. E. (1978). Theoretical risks and tabular asterisks: Sir Karl, Sir Ronald, and the slow progress of soft psychology. [^Meehl1978]
 -   Zech
@@ -1403,7 +1406,7 @@ Goodman:
 [^Gandenberger2016]: @Gandenberger_2016_Why_I_am_not_a_likelihoodist\.
 [^Gelman2017]: @Gelman_2017_Beyond_subjective_and_objective_in_statistics\.
 [^Good1959]: @Good_1959_Kinds_of_probability\.
-[^Good1975]: @Good_1975_Explicativity_corroboration_and_the_relative\.
+[^Good1975b]: @Good_1975_Explicativity_corroboration_and_the_relative\.
 [^Goodman1999p999]: @Goodman_1999_Toward_evidence_based_medical_statistics_1_The_P\. p. 999.
 [^Kruschke2018]: @Kruschke_2018_The_Bayesian_New_Statistics_Hypothesis_testing\.
 [^LopezPaz2026]: @Lopez_Paz_2026_Against_all_likelihood\.
