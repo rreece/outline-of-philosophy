@@ -131,15 +131,37 @@ Artificial intelligence
 -   Good, I.J. (1965). [Speculations concerning the first ultraintelligent machine](https://blog.biocomm.ai/wp-content/uploads/2023/05/IJ-Good.-Speculations-Concerning-the-First-Ultraintelligent-Machine.pdf). [^Good1965]
 -   Feynman, R.P. (1985). Talk: [Can machines think?](https://www.youtube.com/watch?v=ipRvjS7q1DI)
 -   Russell & Norvig [^Russell1995]
--   Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. [^Bostrom2014]
+
+>   Let an ultraintelligent machine be deﬁned as a machine that can far surpass
+>   all the intellectual activities of any man however clever. Since the design
+>   of machines is one of these intellectual activities, an ultraintelligent
+>   machine could design even better machines; there would then unquestionably
+>   be an "intelligence explosion," and the intelligence of man would be left
+>   far behind. Thus the ﬁrst ultraintelligent machine is the last invention
+>   that man need ever make, provided that the machine is docile enough to tell
+>   us how to keep it under control. It is curious that this point is made so
+>   seldom outside of science fiction. It is sometimes worthwhile to take
+>   science fiction seriously. [^Good1965p33]
+
+Skeptics:
+
+-   Hubert Dreyfus (1929-2017)
+-   John Searle (1932-2025)
 -   Armstrong, S., Sotala, K., & OhEigeartaigh, S. S. (2014). [The errors, insights and lessons of famous AI predictions--and what they mean for the future](https://www.fhi.ox.ac.uk/wp-content/uploads/FAIC.pdf). [^Armstrong2014]
+-   Marcus, G. (2018). [Deep learning: A critical appraisal](https://arxiv.org/abs/1801.00631). [^Marcus2018]
+-   Marcus, G. (2022). [Deep learning is hitting a wall: What would it take for artificial intelligence to make real progress?](https://nautil.us/deep-learning-is-hitting-a-wall-14467/)
+
+Discussion:
+
 -   Urban, T. (2015). [The AI Revolution: The Road to Superintelligence](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html). [^WaitButWhy2015]
     -   Urban, T. (2015). [The AI Revolution, Part 2: Our Immortality or Extinction](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html)
--   Marcus, G. (2018). [Deep learning: A critical appraisal](https://arxiv.org/abs/1801.00631). [^Marcus2018]
 -   Gwern. (2020). [The scaling hypothesis](https://www.gwern.net/Scaling-hypothesis#scaling-hypothesis).
+-   Rubin, R. & Cowen, T. (2026). Video: [Tetragrammaton: Why is Tyler Cowen optimistic about AI?](https://www.youtube.com/watch?v=HGkoxpyo-cs).
+
+Status reports:
+
 -   Zhang, D. et al. (2021). [The AI Index 2021 Annual Report](https://arxiv.org/abs/2103.06312). [^Zhang2021]
 -   Zhang, D. et al. (2022). [The AI Index 2022 Annual Report](https://aiindex.stanford.edu/wp-content/uploads/2022/03/2022-AI-Index-Report_Master.pdf). [^Zhang2022]
--   Marcus, G. (2022). [Deep learning is hitting a wall: What would it take for artificial intelligence to make real progress?](https://nautil.us/deep-learning-is-hitting-a-wall-14467/)
 -   Benaich, N. & Hogarth, I. (2022). [State of AI Report 2022](https://www.stateof.ai/2022-report-launch.html).
 -   Steinhardt, J. (2023). [Forecasting ML Benchmarks in 2023](https://bounded-regret.ghost.io/forecasting-math-and-mmlu-in-2023/).
 -   Bubeck, S. et al. (2023). [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712). [^Bubeck2023b]
@@ -148,7 +170,6 @@ Artificial intelligence
 -   Zuckerberg, M. (2024). [Open source AI is the path forward](https://www.facebook.com/4/posts/10115716861061241/).
 -   Maslej, N. et al. (2025). [Artificial Intelligence Index Report 2025](https://arxiv.org/abs/2504.07139). [^Maslej2025]
 -   Silver, D. & Sutton. R.S. (2025). [Welcome to the Era of Experience](https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf).
--   Rubin, R. & Cowen, T. (2026). Video: [Tetragrammaton: Why is Tyler Cowen optimistic about AI?](https://www.youtube.com/watch?v=HGkoxpyo-cs).
 -   Sajadieh, S. et al. (2026). [Artificial Intelligence Index Report 2026](https://arxiv.org/abs/2606.15708). [^Sajadieh2026]
 
 See also:
@@ -158,9 +179,9 @@ See also:
 -   [Artificial intelligence and mind](mind.html#artificial-intelligence-and-mind)
 
 [^Armstrong2014]: @Armstrong_2014_The_errors_insights_and_lessons_of_famous_AI\.
-[^Bostrom2014]: @Bostrom_2014_Superintelligence_Paths_Dangers_Strategies\.
 [^Bubeck2023b]: @Bubeck_2023_Sparks_of_Artificial_General_Intelligence_Early\.
 [^Good1965]: @Good_1965_Speculations_concerning_the_first_ultraintelligent\.
+[^Good1965p33]: @Good_1965_Speculations_concerning_the_first_ultraintelligent\, p. 33.
 [^Marcus2018]: @Marcus_2018_Deep_learning_A_critical_appraisal\.
 [^Maslej2023]: @Maslej_2023_The_AI_Index_2023_Annual_Report\.
 [^Maslej2024]: @Maslej_2024_The_AI_Index_2024_Annual_Report\.
@@ -174,13 +195,15 @@ See also:
 
 ### Risks
 
--   Jeremy Howard warning about the abilities of models like GPT-2:  
+-   Bostrom, N. & Yudkowsky, E. (2014). [The ethics of artificial intelligence](https://intelligence.org/files/EthicsofAI.pdf). [^BostromYudkowsky2014]
+-   Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. [^Bostrom2014]
+-   Future of Life Institute. (2015). [Research priorities for robust and beneficial artificial intelligence: An open letter](https://futureoflife.org/open-letter/ai-open-letter/).
+
+Jeremy Howard warning about the abilities of models like GPT-2:
 
 >   We have the technology to totally fill Twitter, email, and the web up with reasonable-sounding,
 >   context-appropriate prose, which would drown out all other speech and be impossible to filter. [^Vincent2019]
 
--   Bostrom, N. & Yudkowsky, E. (2014). [The ethics of artificial intelligence](https://intelligence.org/files/EthicsofAI.pdf). [^BostromYudkowsky2014]
--   Future of Life Institute. (2015). [Research priorities for robust and beneficial artificial intelligence: An open letter](https://futureoflife.org/open-letter/ai-open-letter/).
 -   Carroll, S. & Russell, S. (2020). Video: [Stuart Russell on making artificial intelligence compatible with humans](https://www.youtube.com/watch?v=txGYG60TICA). Mindscape 94.
     -   Russell: AI gives us the Midas touch
 -   Kokotajlo, D. (2021). [What 2026 looks like](https://www.lesswrong.com/posts/6Xgy6CAf2jqHhynHL/what-2026-looks-like/).
@@ -222,6 +245,7 @@ See also:
 [^Aschenbrenner2024]: @Aschenbrenner_2024_Situational_Awareness_The_decade_ahead\.
 [^Bengio2025]: @Bengio_2025_International_AI_Safety_Report\.
 [^BostromYudkowsky2014]: @Bostrom_2014_The_ethics_of_artificial_intelligence\.
+[^Bostrom2014]: @Bostrom_2014_Superintelligence_Paths_Dangers_Strategies\.
 [^Gabriel2024]: @Gabriel_2024_The_ethics_of_advanced_AI_assistants\.
 [^Longpre2024]: @Longpre_2024_Consent_in_crisis_The_rapid_decline_of_the_AI\.
 [^Vincent2019]: @Vincent_2019_OpenAIs_new_multitalented_AI_writes_translates\.
